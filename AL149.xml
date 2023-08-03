@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL149 - O Mag In Ons Die Heil'ge Vuur</title>
+   <title language="en">O for that flame of living fire</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="149"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O mag in ons die heil'ge vuur<br/>weer, soos van ouds,<br/>ontbrand met krag,<br/>dat ons verdrukking mag verduur<br/>en op die Heer in kalmte wag!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Waar is die gees<br/>wat Abraham<br/>besiel het tot sy offerdaad?<br/>Die ywer wat in Paulus vlam,<br/>tot alles vir sy God in staat?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Die Gees wat deur die Psalme<br/>straal<br/>en die profete inspireer,<br/>wat in die allerskoonste taal<br/>U sondaarsliefde loof, o Heer?</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Kan U genade nog vandag,<br/>soos deur Elia, wonders doen?<br/>Soos Moses, ons versterk met<br/>krag?<br/>Soos Job, ons met ons lot versoen?</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Laat Heer, soos in die vroeë tyd,<br/>U krag weer sigbaar<br/>met ons wees;<br/>Sterk ons vir onse worstelstryd,<br/>stort op ons uit U Heil'ge Gees.</lines>
+  </verse>
+ </lyrics>
+</song>

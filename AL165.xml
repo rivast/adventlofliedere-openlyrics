@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL165 - God Het Ons Sy Woord Gegewe</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="165"/>
+  </songbooks>
+  <verseOrder>v1 v2</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>God het ons Sy Woord gegewe,<br/>want Sy Woord bly ewig waar.<br/>Niks kan ons hier ooit laat bewe,<br/>selfs al dreig daar doodsgevaar.<br/>Ja, Gods Woord bly ewig waar,<br/>selfs al dreig daar doodsgevaar.<br/>Niks kan ons hier ooit laat bewe;<br/>God het ons Sy Woord gegewe.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Trotse berge sal eens bewe<br/>en die vaste rots vergaan,<br/>maar Sy trou bly hoog verhewe -<br/>Sy verbond bly ewig staan.<br/>Laat die wêreld self vergaan;<br/>God se trou bly ewig staan!<br/>Wat ooit wankel, val of bewe<br/>Sy verbond bly hoog verhewe.</lines>
+  </verse>
+ </lyrics>
+</song>

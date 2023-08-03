@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL331 - Groot Was Ons Vaders Se Geloof</title>
+   <title language="en">Faith of our fathers! living still</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="331"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Groot was ons vaders se geloof,<br/>al was daar kerker, swaard en vuur;<br/>O hoe vervul dit ons met vreug!<br/>Sal ons ooit soveel kan verduur?<br/>Hulle geloof was sterk en groot;<br/>Maak ons getrou tot in die dood!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>In kettings en gevangeskap<br/>was hul gewete rein voor God;<br/>As ons soos hul vir U mag sterf,<br/>salig is dan ook onse lot.<br/>Hulle geloof was sterk en groot;<br/>Maak ons getrou tot in die dood!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>In hierdie stryd sal die geloof<br/>ons liefde sterk vir elke mens;<br/>Ons sal U Naam bely, o Heer,<br/>in woord en daad, in wil en wens.<br/>Hulle geloof was sterk en groot;<br/>Maak ons getrou tot in die dood!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL325 - Daar's Soete Rus Vir Moeë Voete</title>
+   <title language="en">There is sweet rest for feet now weary</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="325"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Daar's soete rus vir moeë voete<br/>wat die doringpad betree;<br/>Na middernag kom weer die môre<br/>om ons nuwe moed te gee.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>O ons verlang na daardie môre,<br/>na die aardse nag van pyn,<br/>wanneer ons deur die poorte ingaan<br/>en ons laaste sorg verdwyn.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>En binnekort sal moeë pelgrims<br/>gaan waar niks hul kan vermoei;<br/>Dan sal hul rus op groene velde<br/>waar die lewenswater vloei.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Hemelse Vader, lei ons voorwaarts<br/>na die wonings wat daar wag;<br/>U is ons Toevlug, Rots der eeue,<br/>tot op daardie blye dag.</lines>
+  </verse>
+ </lyrics>
+</song>

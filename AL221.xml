@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL221 - Heiland, Ek Het U So Nodig</title>
+   <title language="en">Blessed Lord, how much I need Thee!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="221"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heiland, ek het U so nodig,<br/>ek is swak en arm en blind;<br/>Neem my swakke hand en lei my,<br/>laat my sterkte in U vind.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Klee my met 'n kleed van ootmoed,<br/>want my klere is nie wit;<br/>Toon my eers my eie swakheid,<br/>leer my dan vir krag te bid.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek is veilig in U leiding;<br/>Selfvertroue laat my val;<br/>Gaan met my op ruwe weë,<br/>wees my lewenslig, my al.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Wat die toekoms ook mag lewer -<br/>louter vreug of bitter smart -<br/>ek verlang na U, o Here,<br/>op U steun my bange hart.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Elke uur, elke uur,<br/>Heiland, ek het U so nodig!<br/>Elke uur, elke uur,<br/>Heer, bewaar my elke uur.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL350 - Neem Die Evangelieboodskap</title>
+   <title language="en">Watchman, blow the gospel trumpet</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="350"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Neem die evangelieboodskap,<br/>waarsku elke volk en land;<br/>Hulle sal dit hoor en luister;<br/>Gaan tot aan die verste strand.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Laat dit klink oor berg en vlakte<br/>waar daar son en skadu is,<br/>oor die wye oseane:<br/>Jesus skenk vergiffenis.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Gaan daarmee langs al die weë<br/>waar die mens in sonde ly;<br/>Roep hul na die Koningsbruilof,<br/>Hy't vir elk 'n plek berei.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Bring dit aan die swaarbelastes<br/>waar hul met die sonde stry;<br/>Gee die Heer se welkomsboodskap:<br/>“Kom, o sondaar, kom na My'.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Neem die tyding, troue wagte,<br/>laat die verste land dit kry;<br/>God beveel jul: “Neem die boodskap;<br/>Dit maak elke sondaar vry'.</lines>
+  </verse>
+ </lyrics>
+</song>

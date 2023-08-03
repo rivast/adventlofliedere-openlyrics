@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL182 - Jesus, Die Troue Herder</title>
+   <title language="en">Jesus, the loving Shepherd</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="182"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus, die troue Herder,<br/>roep ons om nou te kom.<br/>Hy hou Sy kleine kudde<br/>veilig teen reën en storm.<br/>Kom in jou jong'lingsjare,<br/>kom in die bloei van jeug,<br/>Hy roep ons tot Sy kudde,<br/>daar vind ons ware vreug.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Jesus, die troue Herder,<br/>moes eenmaal sterf vir jou.<br/>Tederlik klink Sy roepstem:<br/>Swerweling, kom tog gou!<br/>Haas jou die vyand is buite,<br/>vlug van sy wrede lis;<br/>Hier is die skape veilig,<br/>hier waar net vrede is.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Waarom nog langer aarsel?<br/>Wolwe wag voor die deur!<br/>Hulle verslind verdwaaldes;<br/>Hulle sal jou verskeur.<br/>Jesus, die troue Herder,<br/>roep wyl die skadu's daal;<br/>Kom na My, voor jul sterwe,<br/>kom na My veil'ge kraal.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Liefdevol, tederlik, saggies roep Hy:<br/>“Swerweling, swerweling,<br/>kom nou na My;<br/>Ek sal jou siel van die sonde bevry,<br/>Ek is jou Herder en God'.</lines>
+  </verse>
+ </lyrics>
+</song>

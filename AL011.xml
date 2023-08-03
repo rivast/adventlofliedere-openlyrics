@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL011 - Kom, O Almagtige Heer</title>
+   <title language="en">Come, Thou almighty King</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="011"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Kom, o almagtige Heer<br/>help ons U Naam te eer;<br/>Laat ons U prys.<br/>Vader so glorieryk,<br/>laat nou U almag blyk;<br/>Stig onder ons U ryk,<br/>Skepper alwys.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Kom, heil'ge Trooster, kom,<br/>spreek en getuig alom<br/>in hierdie uur;<br/>Daal in ons harte neer,<br/>wil U in ons regeer,<br/>verlaat ons nimmermeer,<br/>o Bron van krag!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ver strek U magsgebied;<br/>laat nou U wil geskied<br/>waar mense woon;<br/>laat ons U majesteit<br/>aanskou in heerlikheid,<br/>en tot in ewigheid<br/>U eer betoon.</lines>
+  </verse>
+ </lyrics>
+</song>

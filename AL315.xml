@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL315 - Hoe Eensaam En Droewig</title>
+   <title language="en">How tedious and tasteless the hours</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="315"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hoe eensaam en droewig die uur<br/>as ek nie die Here kan sien!<br/>Die voëltjies, die blomme, die lug,<br/>is al hul bekoring ontneem;<br/>Die vol somerson het geen glans,<br/>die veld is in winter gehul;<br/>Maar sien ek Sy glimlag, is selfs<br/>die winter met skoonheid gevul.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Sy Naam is 'n lieflike geur,<br/>Sy stem is 'n soet melodie,<br/>Sy glimlag verdrywe die nag<br/>en vul my met heilige vreug.<br/>En hou Hy my steeds by die hand,<br/>dan kan ek nie twyfel of vrees,<br/>geen sterfling gelukkig soos ek<br/>as lente my erf'nis sal wees!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>My beker van vreugde loop oor<br/>wanneer ek my Heiland aanskou,<br/>geen voorspoed of teenspoed of tyd<br/>kan dan my gemoed meer ontrus.<br/>Vir my, van Sy liefde bewus,<br/>is rykdom slegs dwase vertoon;<br/>‘n kerker is soos 'n paleis<br/>as Jesus net daar by my woon.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>As ek dan U eiendom is<br/>en U dan my lied en my son,<br/>waarom bly daar droefheid en leed?<br/>Waarom is my winter so lank?<br/>Verdryf U my vrees en my nag,<br/>o gun my 'n plek voor U troon!<br/>Laat my U teenwoordigheid ken<br/>waar lente en liefde bly woon!</lines>
+  </verse>
+ </lyrics>
+</song>

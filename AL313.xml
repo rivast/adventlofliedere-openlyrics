@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL313 - Nader, Steeds Nader</title>
+   <title language="en">Nearer, still nearer, close to Thy heart</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="313"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Nader, steeds nader, dig aan U sy,<br/>trek my, my Heiland,<br/>so dierbaar vir my;<br/>Hou my genadig na aan U hart;<br/>Daar is geen trane,<br/>geen droefheid of smart.<br/>Daar is geen trane,<br/>geen droefheid of smart. x2</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Nader, steeds nader, niks kan ek gee,<br/>net maar my swakheid,<br/>my pyn en my wee;<br/>Neem U my sondes; rein wil ek wees!<br/>U kan my hart<br/>van sy wonde genees.<br/>U kan my hart<br/>van sy wonde genees. x2</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Nader, steeds nader, maak my U kind;<br/>Lank het die sonde<br/>my oë verblind;<br/>Ek soek die wêreldsvreugde nie meer;<br/>Gee my die kruishout<br/>en gee my die Heer!<br/>Gee my die kruishout<br/>en gee my die Heer! x2</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Nader, steeds nader, wyl ek nog leef,<br/>tot eens U heerlike<br/>lig my omgeef;<br/>Deur al die eeue sal U my lei -<br/>nader, my Jesus,<br/>ja, dig aan U sy.<br/>Nader, my Jesus,<br/>ja, dig aan U sy. x2</lines>
+  </verse>
+ </lyrics>
+</song>

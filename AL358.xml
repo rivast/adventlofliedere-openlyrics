@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL358 - Help My, O Heer</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="358"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Help my, o Heer om elke dag<br/>die eie-ek so min te ag,<br/>dat my gebede dag en nag<br/>nog steeds mag wees vir and're.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Help my, dat ek in woord en daad<br/>getrou mag handel na U raad -<br/>my net op Jesus sal verlaat<br/>in al my werk vir and're.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Verslaan die eie-ek in my<br/>en laat dit steeds gekruisig bly,<br/>dan sal ek sielevree verkry<br/>wanneer ek werk vir and're</lines>
+  </verse>
+  <verse name="v4">
+   <lines>En is my taak op aarde klaar -<br/>as ek my hemelswerk aanvaar,<br/>mag ek my kroon vergeet, ook daar,<br/>terwyl ek dink aan and're.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ja and're, Heer, ja and're,<br/>laat dit my leuse wees;<br/>Help my in werk en strewe<br/>vir andere te lewe<br/>dat ek soos U mag wees,<br/>dat ek soos U mag wees.</lines>
+  </verse>
+ </lyrics>
+</song>

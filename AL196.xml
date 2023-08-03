@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL196 - O Ons Hoor Die Blye Woord</title>
+   <title language="en">We have heard a joyful sound</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="196"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O ons hoor die blye woord:<br/>Jesus red, Jesus red!<br/>Dra dit nou na elke oord:<br/>Jesus red, Jesus red!<br/>Gaan daarmee na elke land<br/>oor die see van strand tot strand;<br/>Dis Sy opdrag wat ons het:<br/>Jesus red, Jesus red!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Golwe dra dit oor die see:<br/>Jesus red, Jesus red!<br/>Deel aan elke sondaar mee:<br/>Jesus red, Jesus red!<br/>Sing dit, eilande verspreid,<br/>seespelonke eggo wyd,<br/>laat die hele aarde juig:<br/>Jesus red, Jesus red!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Sing dit bo die strydgedreun:<br/>Jesus red, Jesus red!<br/>Deur die sterwe van die Seun -<br/>Jesus red, Jesus red!<br/>Sing dit saggies deur die nag<br/>as die siel na vrede smag,<br/>sing oorwinnend oor die graf:<br/>Jesus red, Jesus red!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Winde, laat die boodskap hoor:<br/>Jesus red, Jesus red!<br/>Sing, o nasies, oor en oor:<br/>Jesus red, Jesus red!<br/>Sing verlossing vol en vry,<br/>berge hoog, spelonke diep,<br/>dis oorwinning ook vir my -<br/>Jesus red! Jesus red!</lines>
+  </verse>
+ </lyrics>
+</song>

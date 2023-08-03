@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL108 - Ek Gee My Hart Aan U</title>
+   <title language="en">I give my heart to Thee</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="108"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek gee my hart aan U,<br/>o Jesus, dierb're Heer;<br/>Dis wederliefde wat die hart<br/>so vuriglik begeer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hoe trek U liefde my,<br/>tot ek U ook bemin;<br/>U het my onverskilligheid<br/>met tederheid oorwin.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Het U, o Woord van God,<br/>‘n mens geword soos ek,<br/>en wrede foltering gely<br/>om my tot U te trek?</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek gee myself aan U,<br/>o Heer, wat ewig leef;<br/>Ek wil U wil in alles doen<br/>en immer aan U kleef.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>U hart is oop vir my,<br/>bied milde liefde aan;<br/>O help my om U liefde, Heer,<br/>volkome te verstaan.</lines>
+  </verse>
+ </lyrics>
+</song>

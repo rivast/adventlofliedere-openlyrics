@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL370 - Voorwaarts, Christenstryders</title>
+   <title language="en">Onward, Christian soldiers!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="370"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Voorwaarts, Christenstryders!<br/>Voorwaarts na die stryd!<br/>Volg die kruis van Jesus<br/>tot die dood bereid.<br/>Christus sal ons aanvoer<br/>teen die hel se mag.<br/>Laat Sy vaandel wapper<br/>in oorwinningsprag!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Voor die groot Oorwinnaar<br/>sal die bose vlug;<br/>Voorwaarts, Christenstryders,<br/>moedig en gedug!<br/>Al die fondamente<br/>van die hel sal sink<br/>as ons lied van sege<br/>deur die skepping klink!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Soos 'n leërskare<br/>trek die kerk van God;<br/>Broeders, ons betree nou<br/>weë van ons God.<br/>Ons is nie verdeel nie;<br/>Christus bind ons saam,<br/>een in hoop en liefde<br/>vir Sy grote Naam.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Reuse wêreldryke<br/>het verbygegaan,<br/>maar die kerk van Jesus<br/>bly vir ewig staan.<br/>Al die donker magte<br/>woed met helse haat,<br/>maar ons sal, onwrikbaar,<br/>ons op God verlaat!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Voorwaarts, alle volke,<br/>sluit nou by ons aan;<br/>Hef met ons die skone<br/>segesange aan.<br/>Bring aan onse Koning<br/>hulde, lof en eer!<br/>So loof mens en engel<br/>Hom die eeue deur.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Voorwaarts, Christenstryders,<br/>voorwaarts na die stryd!<br/>Volg die kruis van Jesus,<br/>tot die dood bereid.</lines>
+  </verse>
+ </lyrics>
+</song>

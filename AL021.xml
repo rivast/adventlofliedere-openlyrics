@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL021 - Die Heiland Heers In Sion</title>
+   <title language="en">The Lord in Zion reigneth</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="021"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die Heiland heers in Sion;<br/>Laat al die volke juig<br/>en saam voor Sy genadetroon<br/>met dankb're harte buig!<br/>Die Heiland heers in Sion;<br/>Daar word Sy Naam geprys<br/>aan Hom sal prinse hulde bring<br/>en konings eer bewys.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die Heiland heers in Sion;<br/>En wie meet Sy bestaan?<br/>Die aarde hou Hy in Sy hand,<br/>gebied die oseaan;<br/>Aan Hom kom toe die ere,<br/>die sterkte en gesag;<br/>Verheug jul, verste eilande,<br/>en roem Sy reddingskrag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ons Koning heers in Sion;<br/>Die uur is Hom gewy!<br/>Betree Sy tempelhof met sang;<br/>Hom Sy die heerskappy!<br/>Ja, loof Sy Naam in Sion<br/>en oor die groot heelal;<br/>Laat al die skepsels van Sy hand<br/>aanbiddend voor Hom val.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL471 - Neig Tog U Oor Tot Ons Vandag</title>
+   <title language="en">O bow Thine ear, Eternal One!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="471"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Neig tog U oor tot ons vandag<br/>en hoor ons lofgesange, Heer!<br/>Vir U het ons die huis gebou -<br/>‘n tempel tot U lof en eer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Mag dit vir ons 'n Bet-el wees<br/>waar ons U altyd hulde bring.<br/>Vervul ons met 'n heil'ge vrees<br/>as ons aanbid en spreek en sing.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Mag hier U seën op ons rus<br/>en elk gebed soos reukwerk wees;<br/>Skenk ons ook U teenwoordigheid<br/>en stort op ons U Heil'ge Gees.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>In hierdie plek wil ons U loof<br/>in elk gebed en lofgesang.<br/>En mag, soos eens oor die Jordaan,<br/>U Heil'ge Gees oor ons ook hang.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL351 - Indien ‘n Woord Wat Ek Mag Bring</title>
+   <title language="en">If any little word of mine</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="351"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Indien 'n woord wat ek mag bring,<br/>kan skyn in donker harte;<br/>Indien 'n lied wat ek mag sing,<br/>kan vreugde gee vir smarte.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Indien die liefde wat ek gee,<br/>verligting bring in lyding.<br/>Indien 'n bietjie sorg van my<br/>kan hoop gee op bevryding.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Indien 'n bietjie hulp van my<br/>die las van ander lenig,<br/>gee my dan liefde, sorg en krag -<br/>U hulp, o Heer, is enig.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Heer, help my om van lig te sing,<br/>en help my spreek van deugde,<br/>en wek dan in 'n sondaarshart<br/>die hoop op nuwe vreugde.</lines>
+  </verse>
+ </lyrics>
+</song>

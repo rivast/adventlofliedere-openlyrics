@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL135 - Die Dierb're Heiland Het Sy Bloed</title>
+   <title language="en">There is a fountain filled with blood</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="135"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die dierb're Heiland het Sy bloed<br/>gepleng om ons te red;<br/>En deur die bloed word ons gemoed<br/>gewas van elke smet.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die moordenaar, in sterwensnood,<br/>het hom daaroor verbly,<br/>en ek, net so doemwaardig snood,<br/>word van my skuld bevry.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>U bloed sal immer wonders werk,<br/>met Goddelike krag;<br/>So sal U vrygekoopte kerk<br/>steeds gaan van krag tot krag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>En deur geloof sien ek die vloed<br/>van heil deur U verskaf;<br/>Solank ek leef, loof ek U bloed,<br/>o Heer, tot aan die graf.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>U het vir my 'n plek berei,<br/>‘skoon ek onwaardig is;<br/>Ja, deur U bloed is daar vir my<br/>‘n heil'ge erfenis.</lines>
+  </verse>
+  <verse name="v6">
+   <lines>Daar sal my loflied soeter klink<br/>want ek is vry van straf,<br/>as ek, onsterflik, met U volk<br/>ontwaak het uit die graf.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL075 - O Kleine Dorpie Betlehem</title>
+   <title language="en">O little town of Bethlehem</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="075"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O kleine dorpie Betlehem<br/>van alles onbewus -<br/>wyl sterre op hul weë gaan,<br/>in diepe slaap gesus!<br/>Tog lê daar in jou midde<br/>die Vadere se wens;<br/>Ons hoop deur al die eeue heen,<br/>die Seun van God en mens!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die Christus is gebore,<br/>uit Dawid se geslag!<br/>Miljoene reine wesens<br/>hou eerbiedig oor Hom wag;<br/>Gods engele aanbid Hom,<br/>die vleesgeworde Woord;<br/>En môresterre juig tesaam -<br/>maar Betlehem slaap voort.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Hoe stil en ongemerk het God<br/>die wonder laat geskied!<br/>Hoe stil die gawe van Sy Seun<br/>die mensheid aangebied!<br/>So daal Sy seëninge<br/>nog stil en ongemerk;<br/>In siele aan Hom oorgegee,<br/>kan Hy nog wond're werk.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O Heil'ge Kind van Betlehem,<br/>daal uit die hemel neer;<br/>Word in ons harte nou opnuut<br/>gebore, dierb're Heer!<br/>O wonderbare dinge,<br/>deur eng'le eens vertel,<br/>dat God Sy woning in ons maak<br/>deur U, Emmanuel!</lines>
+  </verse>
+ </lyrics>
+</song>

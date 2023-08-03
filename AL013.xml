@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL013 - Loof God Van Wie Die Seën Kom!</title>
+   <title language="en">Praise God, from whom all blessings flow</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="013"/>
+  </songbooks>
+  <verseOrder>v1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Loof God van wie die seën kom!<br/>Loof Hom, o ganse skepseldom!<br/>Loof Hom omhoog, o eng'le heer!<br/>Drie-enig God - Hom Sy die eer!</lines>
+  </verse>
+ </lyrics>
+</song>

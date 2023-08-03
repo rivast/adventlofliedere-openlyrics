@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL017 - Vader Ons Kom Weer Hier</title>
+   <title language="en">Father, again in Jesus' name we meet</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="017"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Vader, ons kom weer<br/>hier in Jesus naam,<br/>en kniel ootmoedig aan<br/>U voetbank saam;<br/>Ons stemme sal in<br/>dankb're lof verrys;<br/>Skenk meer genade<br/>om U Naam te prys.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ons loof U naam<br/>vir al U troue sorg,<br/>want U is daagliks<br/>vir ons lewe borg;<br/>Van al U liefde, Heer,<br/>wil ons getuig;<br/>U hand behou ons<br/>as die vyand dreig.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Helaas, ons het in dwaasheid<br/>menigmaal<br/>uit onbedagsaamheid<br/>van U gedwaal;<br/>Ons het U stem gehoor<br/>en t'ruggekeer-<br/>Berouvol kniel ons<br/>aan U voete neer.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O, deur U Naam waarin<br/>die volheid woon,<br/>en deur die liefde<br/>in U guns betoon,<br/>en deur U bloed<br/>gestort vir ons so vry,<br/>mag ons deur U<br/>genade toegang kry!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL456 - God Sien Die Kleinste Voëltjie Val</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="456"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>God sien die kleinste voëltjie val,<br/>die kleinste ding sien Hy,<br/>as God die mossies lief kan kry,<br/>dan min Hy ook vir my.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hy kleur die lelie van die veld<br/>en laat dit lekker geur;<br/>As Hy die blomme lief kan kry,<br/>min Hy my baie meer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>God het elk blom en voël gemaak -<br/>die dinge groot en klein.<br/>Hy sal Sy kinders nie vergeet,<br/>Sy liefde is te rein.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Hy het my lief! Hy het my lief!<br/>Ek weet Hy het my lief!<br/>As Hy die kleinste ding bemin,<br/>bemin Hy ook vir my.</lines>
+  </verse>
+ </lyrics>
+</song>

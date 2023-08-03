@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL160 - Die Siel Wat Op Sy God Vertrou</title>
+   <title language="en">Unshaken as the sacred hills</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="160"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die siel wat op sy God vertrou,<br/>sal vas soos berge staan;<br/>Soos rotse in die woeste storm,<br/>kan hy nooit ondergaan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die heuwels van Jerusalem<br/>bewaak die stad so skoon;<br/>Gods arm is rondom die wat vrees<br/>en in Sy liefde woon!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O Vader, dink in liefde aan<br/>die diepbeproefde skaar,<br/>wat op U waarheid steeds bly hoop<br/>en U gebod bewaar.</lines>
+  </verse>
+ </lyrics>
+</song>

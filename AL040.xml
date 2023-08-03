@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL040 - Bly By My Heer</title>
+   <title language="en">Abide with me; fast falls the eventide</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="040"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Bly by my, Heer,<br/>terwyl die donker nag<br/>al digter word,<br/>en hou oor my die wag;<br/>As niemand anders<br/>meer by my wil bly,<br/>wees my, o troue Helper,<br/>dan naby.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ten einde spoed<br/>my korte lewensdag,<br/>sy glans en vreug<br/>verskemer reeds tot nag;<br/>Verand'ring en bederf<br/>is rondom my,<br/>o Heer, wat nooit verander,<br/>bly by my.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>U bystand het ek<br/>nodig, elke uur,<br/>en U beskerming<br/>in beproewingsvuur,<br/>want U alleen kan<br/>my versterk en lei;<br/>In storm en kalmte,<br/>Heer, o bly by my!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Met U vrees ek<br/>geen vyand in die stryd;<br/>Pyn baar geen angs<br/>en smart geen bitterheid;<br/>Dood en die graf<br/>hou vrees nog skrik vir my;<br/>Ek seëvier as U<br/>net by my bly!</lines>
+  </verse>
+ </lyrics>
+</song>

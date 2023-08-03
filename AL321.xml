@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL321 - Luister Hoe Klink Die Skone Eng'lesange</title>
+   <title language="en">Hark! hark, my soul! angelic songs are swelling</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="321"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Luister hoe klink die skone eng'lesange<br/>ver oor die velde en die oseaan!<br/>Hoe soet die boodskap<br/>in my diep verlange<br/>na daardie land waar<br/>sonde nie bestaan!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ons gaan steeds voorwaarts,<br/>want die stemme roep nog:<br/>'kom, moeë siel want Jesus wag vir jou!'<br/>En deur die donker nooi hul ons<br/>so vriend'lik<br/>na daardie huis wat eng'le vir ons bou.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ver, ver vandaan hoor ons<br/>soos awendklokke<br/>die stem van Jesus<br/>roep oor berg en vlei<br/>na siele wat in aardse duister ronddwaal<br/>om hulle na die herder t'rug te lei.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Sing op jul pos,<br/>o troue eng'lewagte,<br/>laat ons die hemelsmelodieë hoor;<br/>Eendag verdwyn ons<br/>donker tranenagte,<br/>dan sing ons met die blye eng'lekoor.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Eng'le van Jesus, eng'le van krag,<br/>sing welkomsliedere vir pelgrims<br/>uit die nag!</lines>
+  </verse>
+ </lyrics>
+</song>

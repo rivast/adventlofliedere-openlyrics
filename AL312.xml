@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL312 - Nader, My God, By U</title>
+   <title language="en">Nearer, my God, to Thee</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="312"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Nader, my God, by U,<br/>steeds naderby!<br/>Hoe swaar die kruis ook al,<br/>bestem vir my -<br/>tog sal my lied steeds bly:<br/>nader, my God, by U;<br/>Nader, my God, by U,<br/>steeds naderby!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Al rus ek, swerweling,<br/>eensaam, alleen,<br/>met hierdie moeë hoof<br/>slegs op 'n steen;<br/>Tog voer my drome my<br/>nader, my God, by U;<br/>Nader, my God, by U,<br/>steeds naderby!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Daar sien ek in die lig<br/>‘n hemelleer;<br/>En duisend engele,<br/>klim op en neer.<br/>Hul roep en wink vir my<br/>nader, my God, by U;<br/>Nader, my God, by U,<br/>steeds naderby!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Dan as ek weer ontwaak,<br/>daar in Gods hof,<br/>bou ek 'n altaar tot<br/>Sy eer en lof.<br/>So lei beproewing my<br/>nader, my God, by U;<br/>Nader, my God, by U,<br/>steeds naderby!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>En as ek juigend styg<br/>deur gindse sfeer -<br/>son, maan en ster verby -<br/>loof ek my Heer.<br/>Dan bring my loflied my<br/>nader, my God, by U;<br/>Nader, my God, by U,<br/>steeds naderby.</lines>
+  </verse>
+ </lyrics>
+</song>

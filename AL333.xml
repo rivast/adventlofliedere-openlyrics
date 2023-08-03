@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL333 - Die Woord Is Gegee Aan Almal Wat Glo</title>
+   <title language="en">Sweet promise is given to all who believe</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="333"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die woord is gegee aan almal wat glo:<br/>die Here kom spoedig,<br/>Hy wag reeds daarbo;<br/>“Volhard tot Ek kom,<br/>hoe groot die gevaar!<br/>Slaap tog nie soos ander;<br/>Wees waaksaam, wees klaar.'</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Met lampe wat brand,<br/>staan ons op die wag;<br/>(vir vele kom Hy soos 'n dief in die nag!)<br/>Ons weet Hy's naby,<br/>maar ken nie die dag;<br/>Ons moet na die lente<br/>die somer verwag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ja, dit is ons hoop;<br/>Hy het dit geleer -<br/>die heerlike koms<br/>van ons Heiland en Heer.<br/>Van alles beloof, is hierdie die som:<br/>'o kyk, Ek kom haastig;<br/>volhard tot Ek kom!'</lines>
+  </verse>
+  <verse name="c1">
+   <lines>“Volhard tot Ek kom!'<br/>Sy woorde staan vas,<br/>' 'n kleed is berei en sneeuwit gewas.<br/>Ek bied jou My vreug;<br/>Berei jou 'n troon;<br/>Volhard tot Ek weer kom,<br/>dan vind jy 'n kroon'.</lines>
+  </verse>
+ </lyrics>
+</song>

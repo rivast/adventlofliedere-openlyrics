@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL311 - Meer Liefde, Heer, Vir U</title>
+   <title language="en">More love to Thee, O Christ!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="311"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Meer liefde, Heer, vir U,<br/>meer elke dag!<br/>Hoor tog, ek roep tot U,<br/>biddend om krag.<br/>Dis my gebed vandag;<br/>Meer liefde, Heer, vir U;<br/>Meer elke dag, meer elke dag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek het na eer gesoek –<br/>aardse genot -<br/>nou soek ek U alleen;<br/>U is my God.<br/>Dis my versoek vandag;<br/>Meer liefde, Heer, vir U;<br/>Meer elke dag, meer elke dag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Laat smart en droefheid kom;<br/>Stuur leed en pyn;<br/>Soet is U boodskappers,<br/>soet hul refrein,<br/>as hulle met my sing:<br/>meer liefde, Heer, vir U;<br/>Meer elke dag, meer elke dag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ja, tot my laaste uur<br/>sing ek U lof;<br/>En kom die dag wanneer<br/>ek keer tot stof<br/>sal my gebed nog wees:<br/>meer liefde, Heer, vir U;<br/>Meer elke dag, meer elke dag.</lines>
+  </verse>
+ </lyrics>
+</song>

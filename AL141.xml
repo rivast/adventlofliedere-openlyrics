@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL141 - Vol Liefde Is Die Majesteit</title>
+   <title language="en">Majestic sweetness sits enthroned</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="141"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Vol liefde is die Majesteit<br/>wat op Sy voorhoof troon;<br/>Sy woord is goedertierenheid<br/>en lig Sy gloriekroon!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Geen sterfling wat op aarde woon,<br/>kan met Hom vergelyk;<br/>Geen heil'ge engel is so skoon<br/>in gindse hemelryk!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Toe ek in wanhoop wou beswyk,<br/>deur sondelas gepla,<br/>het Hy my bitter kruis gekies<br/>en al my smart gedra!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>My lewe het in Hom begin,<br/>vir my is Hy gestraf;<br/>In my het Hy die dood oorwin -<br/>Hy red my van die graf!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Na wonings vir my voorberei<br/>rig U my skrede, Heer,<br/>en toon U heerlikheid aan my -<br/>wat kan ek nog begeer?</lines>
+  </verse>
+  <verse name="v6">
+   <lines>Want van Sy rykdom skenk Hy my<br/>die liefde van Sy Woord.<br/>Had ek 'n duisend harte, Heer,<br/>hul sou U toebehoort!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL019 - Weer Kan Ons Opgaan Na U Huis</title>
+   <title language="en">Again our earthly cares we leave</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="019"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Weer kan ons opgaan na U huis<br/>en van ons arbeid rus;<br/>Van U teenwoordigheid, o Heer,<br/>verseker en bewus.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Groot Herder van U volk, ons kniel<br/>eerbiedig voor U neer;<br/>Stem nou ons harte tot gebed,<br/>en wil U self ons leer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Neem weg, in U genade, Heer,<br/>die wolke wat ons skei;<br/>Maak ons ontvanklik vir die leer<br/>waarin U ons wil lei.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Heer, laat U aangesig tog skyn<br/>oor almal wat U vrees,<br/>dan sal ons in genade groei<br/>en wandel na die Gees.</lines>
+  </verse>
+ </lyrics>
+</song>

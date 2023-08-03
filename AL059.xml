@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL059 - Ons Kan Nie Opklim Tot Sy Troon</title>
+   <title language="en">We may not climb the heavenly steeps</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="059"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons kan nie opklim tot Sy troon<br/>om Jesus te bereik;<br/>Ons sou vergeefs na dieptes daal<br/>en in die afgrond kyk.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Nog steeds is Hy ons hulp in nood,<br/>so liefdevol en teer;<br/>Olyfberg huisves nog geloof<br/>en liefde van die Heer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Daar is nog heling in Sy kleed<br/>vir wrede pyn en vrees;<br/>In die gedrang raak ons Hom aan -<br/>ons krankheid word genees.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O God, ons Meester en ons Heer,<br/>wat ook ons voetstap rig,<br/>ons weet dat U oor alles heers -<br/>ons leer van U ons plig.</lines>
+  </verse>
+ </lyrics>
+</song>

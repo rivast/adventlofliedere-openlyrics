@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL272 - Jesus, U Belowe Dat U Deur U Gees</title>
+   <title language="en">Jesus, Thou hast promised</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="272"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus, U belowe<br/>dat U deur U Gees,<br/>waar U kinders saamkom,<br/>sal teenwoordig wees.<br/>Op U Woord vertrouend<br/>kniel ons voor U neer;<br/>Skenk ons nou U seën,<br/>wees teenwoordig, Heer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>U het ons al dikwels<br/>hier ontmoet, O Heer,<br/>kom nou in ons midde,<br/>voed ons nog 'n keer.<br/>Kom, o dierb're Heiland,<br/>vul ons met U gees,<br/>wil vandag die gasheer<br/>in ons midde wees</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Laat ons hier 'n loflied<br/>in U poorte sing;<br/>Hoor ook die gebede<br/>wat ons voor U bring<br/>maak ons weer gelowig,<br/>laat U Gees ons stig;<br/>Maak ons weë helder<br/>met U God'lik lig.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Jesus, wees teenwoordig<br/>waar ons voor U wag;<br/>Stort U ryke seën ook op ons vandag.</lines>
+  </verse>
+ </lyrics>
+</song>

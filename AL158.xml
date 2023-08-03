@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL158 - Breek U Die Lewensbrood</title>
+   <title language="en">Break Thou the bread of life</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="158"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Breek U die Lewensbrood<br/>vir my, o Heer,<br/>soos vir die menigte<br/>eens by die meer;<br/>Spreek uit die Heil'ge Skrif<br/>tot my met krag,<br/>Lewende Woord van God,<br/>na wie ek smag!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Seën die waarheid wat<br/>U openbaar,<br/>net soos die voedsel aan<br/>die honger skaar.<br/>Met elke band verbreek<br/>staan ek dan vry<br/>en word U beeld, o Heer,<br/>volmaak in my.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heiland, U woorde is<br/>Lewe en gees;<br/>Spreek tot my siel terwyl<br/>ek biddend lees.<br/>O Lewensbrood, U kan<br/>my honger stil,<br/>spysig my siel nou met<br/>U heil'ge wil.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL368 - Staan Op! Trek Op Met Jesus</title>
+   <title language="en">Stand up! stand up for Jesus!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="368"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Staan op! Trek op met Jesus,<br/>o helde van die kruis!<br/>Verhef Sy krygsbaniere<br/>ver bo die aards' gedruis;<br/>Oorwinnend, steeds oorwinnend,<br/>lei Hy Sy heil'ge leër,<br/>tot elke vyand neerbuig<br/>voor Hom as God en Heer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Staan op! Trek op met Jesus,<br/>die krygsgeroep weergalm,<br/>dit roep u tot die slagveld,<br/>sal u nog langer talm?<br/>Kom, dien die Heer manmoedig,<br/>die vyand lê en wag<br/>met duisende gevare:<br/>maar God gee moed en krag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Staan op! Trek op met Jesus,<br/>staan in Sy krag alleen;<br/>Vergeefs die hulp van mense,<br/>u krag kom net van Een!<br/>Trek aan Gods wapenrusting,<br/>vertrou slegs op Sy Naam;<br/>Roep plig u deur gevare,<br/>wees moedig om te gaan!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Staan op! Trek op met Jesus,<br/>dit sal nie lank meer duur;<br/>Dan hoor ons segesange,<br/>in die oorwinningsuur.<br/>God gee die kroon van lewe<br/>aan elkeen wat Hom dien,<br/>as al die kruisgesante<br/>die groot oorwinnaar sien!</lines>
+  </verse>
+ </lyrics>
+</song>

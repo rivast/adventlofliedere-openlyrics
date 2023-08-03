@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL005 - Juig, Al Wat Leef</title>
+   <title language="en">All people that on earth do dwell</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="005"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Juig al wat leef, juig voor die Heer;<br/>Dien Hom met blydskap, gee Hom eer<br/>verheug U voor Sy aangesig<br/>en loof Sy Naam in lofgedig.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die Heer is goed en niemand meer<br/>Hy het ons uit die stof formeer<br/>ons is die skape wat Hy lei<br/>om veilig in Sy sorg te wei.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Gaan deur Sy poorte in met lof<br/>en dien Hom in Sy tempelhof.<br/>Verhoog en prys Sy grote Naam<br/>soos dit die volk van God betaam.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Want goedertiere is die Heer,<br/>Sy liefde eindig nimmermeer;<br/>Sy trou en waarheid bly van krag<br/>tot in die laaste nageslag.</lines>
+  </verse>
+ </lyrics>
+</song>

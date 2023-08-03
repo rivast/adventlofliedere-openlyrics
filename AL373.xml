@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL373 - Ons Volg Gewillig</title>
+   <title language="en">With willing hearts we tread</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="373"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons volg gewillig<br/>op die kruisweg van ons Heer;<br/>Ons volg die voorbeeld wat Hy stel,<br/>en gee Hom al die eer!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Op U alleen berus<br/>ons hoop en ons geloof;<br/>Deur U versoening vind ons rus -<br/>die heil aan ons beloof.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>U het ons vrygekoop;<br/>O Heer, waak oor ons lot!<br/>Mag ons vir sonde daagliks sterf,<br/>en leef tot eer van God!</lines>
+  </verse>
+ </lyrics>
+</song>

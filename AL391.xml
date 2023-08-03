@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL391 - Dit Is Nou Weer Die Heil'ge Sabbatdag</title>
+   <title language="en">Again the day returns of holy rest</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="391"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Dit is nou weer die heil'ge Sabbatdag<br/>wat ons laat dink aan God se<br/>skeppingsmag;<br/>Hy het beveel dat ons daarop moet rus,<br/>van al Sy krag en heiligheid bewus.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Laat ons dan saam op hierdie<br/>heil'ge dag<br/>leer wat die Heer van elke mens verwag;<br/>Dan sal die God tot wie ons hulde bring<br/>hoor as ons bid en luister as ons sing.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>o Grote Skepper, neig tot ons U oor!<br/>Wil U in liefde ons gebede hoor;<br/>U ryk beloftes, Heer,<br/>sal nimmer faal;<br/>Laat nou U seën op U kinders daal.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Hemelse Vader, U op wie ons bou,<br/>ons groot Beskermer wat ons steeds<br/>behou<br/>dierbare Vriend, sien op U kinders neer;<br/>Aan U die lof die roem en al die eer.</lines>
+  </verse>
+ </lyrics>
+</song>

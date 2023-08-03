@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL322 - Net Enk'le Jare</title>
+   <title language="en">A few more years shall roll</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="322"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Net enk'le jare sal hul<br/>wisselgange gaan<br/>voor ons met ons bemindes<br/>weer verenig same staan;<br/>Berei my hart, o Heer,<br/>vir daardie grote dag;<br/>O reinig my met Jesus bloed<br/>terwyl ek waak en wag!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Eerlank bedaar die storms<br/>aan hierdie aardse kus,<br/>dan sal ons waar geen onweer dreun,<br/>by Gods verlostes rus;<br/>Berei my hart, o Heer,<br/>vir daardie grote dag;<br/>O reinig my met Jesus bloed<br/>terwyl ek waak en wag!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Nog net 'n weinig stryd,<br/>nog net 'n paar keer skei,<br/>dan is ons arbeid en ons trane<br/>ewiglik verby;<br/>Berei my hart, o Heer,<br/>vir daardie grote dag;<br/>O reinig my met Jesus bloed<br/>terwyl ek waak en wag!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Die tyd is haas verby,<br/>dan kom die Heiland weer;<br/>Hy het gesterf dat ons ook eendag<br/>met Hom kan regeer;<br/>Berei my hart, o Heer,<br/>vir daardie grote dag;<br/>O reinig my met Jesus bloed<br/>terwyl ek waak en wag!</lines>
+  </verse>
+ </lyrics>
+</song>

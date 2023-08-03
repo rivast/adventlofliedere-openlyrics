@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL297 - Jesus, Heiland, Lei U My</title>
+   <title language="en">Jesus, Saviour, pilot me</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="297"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus, Heiland, lei U my<br/>oor die wilde vloedgety.<br/>Onbekende strome maal,<br/>bange, donker nagte daal;<br/>Heer, U het kompas en kaart,<br/>lei my op my lewensvaart.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Soos 'n moedershand wat sus<br/>tot die kindjie saggies rus,<br/>kan U met 'n handgebaar<br/>wilde golwe laat bedaar.<br/>Gaan, o Heerser van die see,<br/>na die hawe met my mee.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Sien ek dan ten laaste land,<br/>hoor ek branders op die strand<br/>waar die ruwe rotse my<br/>van my vaderswoning skei;<br/>Mag ek dan U woorde hoor:<br/>“Vrees nie, ons gaan saam daaroor!'</lines>
+  </verse>
+ </lyrics>
+</song>

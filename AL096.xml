@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL096 - Daar Is Geen Ander Naam So Soet</title>
+   <title language="en">How sweet the name of Jesus sounds</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="096"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Daar is geen ander Naam so soet,<br/>as 'Jesus' vir my hart;<br/>Dit stil die pyn in my gemoed,<br/>verban my vrees en smart.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Dis balsem wat my smart genees,<br/>dis soete lafenis,<br/>dis manna vir my siel en gees<br/>en vir vermoei'nis rus.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O Jesus, Rots op wie ek bou,<br/>my Skild en Hoogvertrek,<br/>die skathuis wat genade hou<br/>wat al my sonde dek.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O Jesus, Heiland, Rigter, Vriend,<br/>my Herder, Koning, Heer;<br/>o Lig en Lewe onverdiend,<br/>neem aan my lof en eer.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>My beste poging is gering,<br/>my grootste liefde flou;<br/>Ek sal U liefde nog besing<br/>wanneer ek U aanskou.</lines>
+  </verse>
+ </lyrics>
+</song>

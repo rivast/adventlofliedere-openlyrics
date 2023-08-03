@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL261 - O, Die Rein Genot</title>
+   <title language="en">What a fellowship, what a joy divine</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="261"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O, die rein genot<br/>van gemeenskap soet!<br/>Veilig aan die sterke arm van God;<br/>Watter vrede vloei<br/>nou oor my gemoed!<br/>Veilig aan die sterke arm van God.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Daar is blydskap op<br/>hierdie pelgrimsweg,<br/>veilig aan die sterke arm van God<br/>op my enge weg<br/>skyn Sy helder lig,<br/>veilig aan die sterke arm van God.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Waarom sal ek vrees,<br/>waarom sal ek ly,<br/>veilig aan die sterke arm van God?<br/>Daar is soete rus<br/>by die Heer vir my,<br/>veilig aan die sterke arm van God.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Veilig, veilig,<br/>daar's geen gevaar so naby God.<br/>Veilig, veilig,<br/>veilig aan die sterke arm van God.</lines>
+  </verse>
+ </lyrics>
+</song>

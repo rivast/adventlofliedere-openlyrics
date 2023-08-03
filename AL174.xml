@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL174 - Ek Het ‘n Voorspraak By God</title>
+   <title language="en">I have a Saviour, He's pleading in glory</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="174"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek het 'n voorspraak<br/>by God in die hemel -<br/>my dierbare Heiland,<br/>my Vriend so getrou;<br/>Oor my waak Hy altyd<br/>so minlik en teder,<br/>maar is hierdie Heiland<br/>ook voorspraak vir jou?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek het 'n Vader<br/>en Hy het belowe<br/>dat ek in Sy huis<br/>eens 'n woning sal kry<br/>en as Hy my eendag<br/>kom roep na Sy howe,<br/>wil ek jou, my vriend,<br/>ook daar hê aan my sy.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek het 'n kleed<br/>wat my Heiland gemaak het,<br/>die Vader bewaar dit<br/>daarbowe vir my;<br/>En as ek dit neem<br/>uit die hand van my Here,<br/>wil ek sien dat jy ook<br/>‘n feeskleed daar kry.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>As Hy jou vind<br/>gaan verkondig die tyding<br/>dat my dierb're Heiland<br/>‘n sondaar kan red;<br/>En bid tot die Vader<br/>vir ander se redding,<br/>want Jesus sal hoor<br/>as jy roep in gebed.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Vir jou is my bede,<br/>vir jou is my bede,<br/>vir jou is my bede,<br/>Ek bid steeds vir jou.</lines>
+  </verse>
+ </lyrics>
+</song>

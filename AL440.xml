@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL440 - Hy Wat Die Eerste Egpaar</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="440"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hy wat die eerste egpaar<br/>so ruim geseën het,<br/>staan altyd in ons midde<br/>om op ons vreug te let.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>As Christenman en -dame<br/>hul in die eg verbind,<br/>is ook die groot Drie-eenheid<br/>se seën nog te vind.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O Heer, waak oor die egpaar<br/>wat wagtend voor U staan,<br/>tot hulle in die hemel<br/>eens na U troon sal gaan.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Om daar voor U aanbiddend<br/>hul krone neer te lê,<br/>en as die Bruid van Christus<br/>hul deel met U te hê.</lines>
+  </verse>
+ </lyrics>
+</song>

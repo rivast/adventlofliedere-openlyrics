@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL278 - Wees Stil Nou</title>
+   <title language="en">Be silent, be silent</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="278"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Wees stil nou, wees stil nou,<br/>wees stil voor die Heer.<br/>Wees stil nou en luister,<br/>Sy stem is so teer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wees stil nou, wees stil nou,<br/>want dit is Gods plan<br/>dat ons uit Sy tempel<br/>die wêreld verban.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Wees stil nou, wees stil nou,<br/>bid need'rig en sag.<br/>‘n voorsmaak van Eden<br/>geniet jy vandag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Wees stil nou, wees stil nou,<br/>Hy daal tot ons neer.<br/>Wees stil nou, wees stil nou,<br/>en wag op die Heer.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Loop saggies, loop saggies,<br/>die Heer is naby.<br/>Loop saggies, loop saggies,<br/>Hy is aan jou Sy.</lines>
+  </verse>
+ </lyrics>
+</song>

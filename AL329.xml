@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL329 - Ons Reis Na Die Land</title>
+   <title language="en">We're bound for the land of the pure and the holy</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="329"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons reis na die land<br/>wat die heiliges erwe -<br/>die tuiste van liefde<br/>en vreugde so skoon -<br/>en jy wat nog dwaal<br/>op onveilige weë,<br/>o sê, gaan jy mee<br/>om in Eden te woon?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die heerlike land<br/>ken geen trane of sonde,<br/>geen kommer of onreg<br/>word ooit daar gedoog;<br/>En jy, met jou sonde<br/>en trane en wonde,<br/>o sê, gaan jy mee<br/>na die Eden omhoog?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Daar heers geen bedrog,<br/>of die hand van verdrukking,<br/>want daar's geen geweld;<br/>O dis heerlik te glo!<br/>Geen sonde is daar,<br/>ook geen enkel mislukking;<br/>O sê, gaan jy mee<br/>na die Eden daarbo?</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Geen armoede daar,<br/>nee, die heil'ges het rykdom<br/>geërf van die Heer,<br/>hulle Skepper en Voog.<br/>Die land ken geen siekte<br/>of sonde of lyding,<br/>o sê, gaan jy mee<br/>na die Eden omhoog?</lines>
+  </verse>
+  <verse name="v5">
+   <lines>O kom, arme sondaar,<br/>ons toef nog 'n stonde,<br/>besluit net vandag<br/>om in Jesus te glo;<br/>Ja, kom nog vandag<br/>en die Heer sal jou aanneem,<br/>Hy bring ook vir jou<br/>na die Eden daarbo.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Gaan jy mee? Gaan jy mee?<br/>Gaan jy mee? Gaan jy mee?<br/>O sê, gaan jy mee<br/>na die Eden daarbo?</lines>
+  </verse>
+ </lyrics>
+</song>

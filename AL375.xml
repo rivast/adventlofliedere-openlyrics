@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL375 - Ek Sien Die Bloed Vloei Uit U Sy</title>
+   <title language="en">O now I see the crimson wave</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="375"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek sien die bloed vloei uit U sy -<br/>geopende fontein;<br/>Jesus, my Heer, net U kan red,<br/>was my van sonde rein.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek sien die nuwe skepping staan<br/>so rein, so onbevlek.<br/>My sondige natuur vergaan,<br/>Sy bloed het my bedek.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek wandel in die hemellig<br/>verhef bo sondenag;<br/>Met klere wit en hart gerig<br/>op Jesus waar ek wag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Genade Gods, so groot en ryk,<br/>dit is wat U ons vra;<br/>Word Hom, die Seun van God, gelyk,<br/>die Man van Golgota.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Die kosb're bloed, gestort vir my,<br/>was my van al my sonde vry;<br/>O prys die Heer! Dit reinig my,<br/>dit reinig my, ja, reinig my.</lines>
+  </verse>
+ </lyrics>
+</song>

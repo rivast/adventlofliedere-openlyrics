@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL459 - My Handjies Is Vanmôre</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="459"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>My handjies is vanmôre<br/>so pragtig skoon en sag,<br/>nou gee ek hul aan Jesus<br/>vir diens die hele dag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>My oortjies luister altyd<br/>net waar ons loop of speel<br/>of daar nie ook 'n kans is<br/>om liefde uit te deel.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>My ogies kyk gedurig<br/>wat handjies doen en laat<br/>en waarsku my ook altyd<br/>teen elke stoute daad.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Voetjies, wees versigtig<br/>waar jul loop of staan;<br/>Kies die regte paadjie<br/>wat na Jesus gaan.</lines>
+  </verse>
+ </lyrics>
+</song>

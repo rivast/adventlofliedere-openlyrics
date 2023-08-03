@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL129 - Jesus, O Soet Gedagtenis</title>
+   <title language="en">Jesus, the very thought of Thee</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="129"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus, o soet gedagtenis,<br/>U vul my gees met lus;<br/>Maar hoeveel soeter sal dit wees<br/>om aan U bors te rus.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Geen stem kan sing, geen hart verstaan<br/>geen sterweling kan wens<br/>om ooit 'n soeter naam te noem<br/>voor engel, God of mens.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>o Hoop van die verslae siel<br/>wat hom tot God bekeer,<br/>hoe tederlik rig U hom op<br/>wat val of struikel, Heer!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Wie kan die vreugde ooit beskryf<br/>van hom wat Jesus vind?<br/>Hoe groot Gods liefde, weet alleen<br/>Sy teer-beminde kind.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Jesus, dis U wat ek begeer,<br/>U is my saligheid;<br/>in U ontvou my klein bestaan<br/>stil met die ewigheid.</lines>
+  </verse>
+ </lyrics>
+</song>

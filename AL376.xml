@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL376 - Heer, Van U Liggaam, Eens Gebreek</title>
+   <title language="en">Thy broken body, gracious Lord</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="376"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer, van U liggaam, eens gebreek<br/>het hierdie brood simbool geword;<br/>En hierdie wyn wat ons hier skink,<br/>wys op U bloed vir ons gestort.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wyl ons hier saamkom in U Naam -<br/>ons is verenig deur U bloed -<br/>wil ons U dood eerbiedig vier;<br/>Dit gee ons krag en nuwe moed.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ons hoop staan vas dat U sal kom<br/>op wolke van U heerlikheid;<br/>Dan gaan ons met die Bruidegom,<br/>en leef met Hom in ewigheid.</lines>
+  </verse>
+ </lyrics>
+</song>

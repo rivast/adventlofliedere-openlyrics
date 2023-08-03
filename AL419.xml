@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL419 - Ek Staan Op Die Jordaan Se Wal</title>
+   <title language="en">On Jordan's stormy banks I stand</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="419"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek staan op die Jordaan se wal,<br/>en laat my oë gaan<br/>oor berg en songedrenkte veld<br/>waar spoedig ek sal staan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Oor daardie wye velde welf<br/>die ewig-skone dag,<br/>want Jesus is daar self die dag<br/>en Hy verdryf die nag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Wanneer bereik ek daardie land?<br/>(daar dwaal ek nimmer meer!)<br/>Wanneer sien ek die aangesig<br/>van Hom, my God en Heer?</lines>
+  </verse>
+  <verse name="v4">
+   <lines>My siel, vervul met hemelsvreug,<br/>wil hier nie langer bly;<br/>Deur die Jordaan wil ek liefs gaan,<br/>al dek die golwe my.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ons sal rus in die skone, blye dag<br/>net hier oorkant die aardse Jordaan!<br/>Sing die lied van Moses en die Lam,<br/>en woon met Jesus ewig saam.</lines>
+  </verse>
+ </lyrics>
+</song>

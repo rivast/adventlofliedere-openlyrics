@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL140 - Loof Hom! Loof Hom!</title>
+   <title language="en">Praise Him! praise Him! Jesus, our blessed Redeemer!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="140"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Loof Hom! Loof Hom!<br/>Jesus die grote Verlosser!<br/>Sing, o volke,<br/>sing van Sy liefde saam!<br/>Juig Hom toe,<br/>o hoogste aartseng'le daarbowe,<br/>gee Hom eer,<br/>verheerlik Sy grote Naam.<br/>Soos 'n herder waak Hy oor al Sy kinders<br/>met Sy hand beskut Hy hul elke dag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Loof Hom! Loof Hom!<br/>Jesus die grote Verlosser!<br/>Vir ons sondes het Hy Sy troon ontbeer.<br/>Hy ons Rots, ons hoop<br/>en ons enigste redding -<br/>juig Hom toe, want Hy het getriomfeer!<br/>Bring Hom hulde,<br/>Jesus die Man van smarte,<br/>liefde peilloos,<br/>wonderbaar, skoon en sterk.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Loof Hom! Loof Hom!<br/>Jesus die grote Verlosser!<br/>Laat hosannas Hom in Sy poorte eer.<br/>Jesus, Heiland,<br/>heers as ons ewige Koning,<br/>kroon Hom! Kroon Hom!<br/>Priester, Profeet en Heer!<br/>Christus kom weer,<br/>kom na ons as Oorwinnaar,<br/>eng'leskare sal Hom met prag omring.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Loof Hom! Loof Hom!<br/>Spreek van Sy heerlike grootheid;<br/>Loof Hom! Loof Hom!<br/>Ewig met vreugdesang.</lines>
+  </verse>
+ </lyrics>
+</song>

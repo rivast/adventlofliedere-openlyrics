@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL183 - Byna Beweeg Die Heilige Gees</title>
+   <title language="en">Almost persuaded now to believe</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="183"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Byna beweeg die Heilige Gees<br/>my om vandag 'n Christen te wees.<br/>Waarom sê ek in stryd:<br/>'ek is nie nou bereid;<br/>Op 'n gelee'ner tyd<br/>sal ek U roep?'</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Byna beweeg Hy my om te kom;<br/>Byna bewoë - ek draai weer om!<br/>Dierbares bid vandag,<br/>eng'le hou digby wag;<br/>Jesus roep teer en sag:<br/>'o, sondaar, kom!'</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Byna beweeg die Gees nou vir my;<br/>Byna beweeg - die tyd snel verby!<br/>Waarom is daar nog stryd?<br/>Daar is geen beter tyd.<br/>Heer, ek is nou bereid,<br/>neem U my aan!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL416 - Let Op Die Tekens Waar Die Weg Ons Lei</title>
+   <title language="en">Look for the waymarks as you journey on</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="416"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Let op die tekens<br/>waar die weg ons lei,<br/>stil gaan die bakens<br/>een vir een verby.<br/>Vier koninkryke het<br/>verbygegaan;<br/>Let op die tekens,<br/>kyk tog waar ons staan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Eenmaal het Babel,<br/>wêreldstad, gebloei,<br/>maar is deur Medo-Persië<br/>uitgeroei.<br/>Toe kom die Griekse<br/>wêreldkoninkryk<br/>wat voor Romeinse<br/>ysterhand moes wyk.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ons ken die voete -<br/>yster saam met klei!<br/>Hierdie verdeeldheid<br/>is ook haas verby;<br/>Wat volg daarna met<br/>heerlikheid en krag?<br/>Jesus se weerkoms<br/>waarna alles smag!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Let op die bakens -<br/>die evangelietyding -<br/>al vier die koninkryke is verby.<br/>Let op die bakens -<br/>profeties is die tyding -<br/>die einde is naby!</lines>
+  </verse>
+ </lyrics>
+</song>

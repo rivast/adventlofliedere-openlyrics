@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL024 - Heer, Wees Genadig</title>
+   <title language="en">Lord, have mercy, have mercy upon us</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="024"/>
+  </songbooks>
+  <verseOrder>v1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Wees genadig, genadig, o Heer<br/>en verleen ons die krag om<br/>U wet te hou!<br/>Amen</lines>
+  </verse>
+ </lyrics>
+</song>

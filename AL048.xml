@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL048 - Hoor Ons Bede, Heer</title>
+   <title language="en">Hear our prayer, O Lord</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="048"/>
+  </songbooks>
+  <verseOrder>v1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hoor ons bede Heer,<br/>hoor ons bede Heer,<br/>o neig U oor tot ons<br/>en skenk ons U vree.<br/>Amen</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL051 - Verheerlik Die Heer</title>
+   <title language="en">O worship the King, all glorious above</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="051"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Verheerlik die Heer,<br/>die Koning alwys,<br/>Sy liefde en trou<br/>kan niemand volprys;<br/>Hoewel Hy in ewige heerlikheid woon,<br/>verkies Hy die hart<br/>van die mens as Sy troon.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ontsettend Sy krag,<br/>verblindend Sy glans;<br/>Sy kleed is die lig,<br/>die ruimte Sy trans;<br/>Sy grimmigheid dreun<br/>in die swart donderwolk.<br/>Ja, vreeslik Sy toorn, soos die<br/>stormwind se kolk!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Met tedere sorg<br/>het U ons omring;<br/>Dit skyn in die lug<br/>wat lafenis bring<br/>dit vloei van die heuwels<br/>na vlakte en vlei,<br/>en blink in die reënt<br/>wat die velde verbly.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Verwek uit die stof,<br/>so nietig en broos,<br/>afhanklik van U<br/>in alles, altoos -<br/>Hoe liefderyk sien U<br/>op sterflinge neer;<br/>Ons Maker, Beskermer,<br/>Verlosser en Heer!</lines>
+  </verse>
+ </lyrics>
+</song>

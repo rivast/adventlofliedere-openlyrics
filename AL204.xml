@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL204 - Gelowig Kom Ek Na U</title>
+   <title language="en">My faith looks up to Thee</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="204"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Gelowig kom ek na U,<br/>Lam van Golgota;<br/>Dierbare Heer,<br/>verhoor my smeekgebed,<br/>neem weg die sondesmet<br/>wat my verdoem,<br/>en red my, tot U eer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wil U genadiglik<br/>my moeë hart verkwik<br/>met nuwe gees.<br/>Soos U vir my moes ly,<br/>mag liefde wat ek wy<br/>ewig en suiwer bly<br/>en vurig wees!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Waar ek in droefheidsnag<br/>wag op die helder dag,<br/>wees U my lig!<br/>Verander nag in dag,<br/>trane tot blye dag;<br/>Hou U my oog vandag<br/>op U gerig.</lines>
+  </verse>
+ </lyrics>
+</song>

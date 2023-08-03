@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL343 - Ons Het Geen Nardussalf</title>
+   <title language="en">Master, no offering</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="343"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons het geen nardussalf,<br/>dierbare Heer,<br/>om soos Maria, U mee te vereer;<br/>Maar ons wil dank betoon,<br/>soos wierook voor die troon,<br/>aan U, o Heer, aan U, o Heer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ons wil graag elke dag krag vind,<br/>o Heer,<br/>om deur 'n liefdedaad U te vereer;<br/>Ons wil 'n loflied sing<br/>en ook 'n sondaar bring<br/>tot U, o Heer, tot U, o Heer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Gun dat ons moed kan bring<br/>tot Hom wat vrees,<br/>laat ons vir hom wat ween,<br/>‘n trooster wees;<br/>Hom wat verbitter bly,<br/>deur liefde nader lei<br/>tot U, o Heer, tot U, o Heer.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>So bly U diens, o Heer,<br/>vir ons 'n lus<br/>tot ons na lange dag eindelik rus;<br/>Wanneer die uur dan slaan,<br/>laat ons in vrede gaan<br/>na U, o Heer, na U, o Heer.</lines>
+  </verse>
+ </lyrics>
+</song>

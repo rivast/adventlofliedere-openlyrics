@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL374 - Deur Die Bloed Word Ek Rein</title>
+   <title language="en">In the blood from the cross</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="374"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Deur die bloed word ek rein<br/>van alle sondesmet;<br/>Bose neigings verdwyn<br/>wanneer die Lam my red.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Uur na uur, dag na dag,<br/>seën die Heiland my;<br/>En Hy skenk my die krag<br/>wat tot oorwinning lei.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Altyd volg ek my Heer,<br/>want ek wil by Hom wees;<br/>Alles wat ek begeer,<br/>vra ek Hom sonder vrees.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Nou het ek vrede weer<br/>by al die smart en pyn,<br/>maar ek bid al hoe meer:<br/>“Maak my van sonde rein'.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Dieper steeds, dieper steeds<br/>in die genadevloed;<br/>Dieper steeds, dieper steeds<br/>onder Sy dierb're bloed.</lines>
+  </verse>
+ </lyrics>
+</song>

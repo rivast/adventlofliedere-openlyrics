@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL101 - God Neem In Christus Sondaars Aan</title>
+   <title language="en">Christ has for sin atonement made</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="101"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>God neem in Christus sondaars aan,<br/>wat 'n dierbare Heiland!<br/>Hy het die weg vir ons gebaan.<br/>wat 'n dierbare Heiland!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek sing van wat Sy bloed kan doen,<br/>wat 'n dierbare Heiland!<br/>Dit het my weer met God versoen,<br/>wat 'n dierbare Heiland!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Hy reinig my, Hom sy die eer,<br/>wat 'n dierbare Heiland!<br/>Nou is dit Hy wat my regeer,<br/>wat 'n dierbare Heiland!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Hy wandel naas my op die weg,<br/>wat 'n dierbare Heiland!<br/>En hou my skrede vas en reg,<br/>wat 'n dierbare Heiland!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Hy skenk my teen versoeking krag,<br/>wat 'n dierbare Heiland!<br/>In Hom oorwin ek dag na dag,<br/>wat 'n dierbare Heiland!</lines>
+  </verse>
+  <verse name="v6">
+   <lines>Aan Hom het ek my hart gewy,<br/>wat 'n dierbare Heiland!<br/>Nou kan my siel geen skade ly,<br/>wat 'n dierbare Heiland!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Wat 'n dierbare Heiland<br/>is Jesus, my Jesus!<br/>Wat 'n dierbare Heiland<br/>is Jesus, my Heer!</lines>
+  </verse>
+ </lyrics>
+</song>

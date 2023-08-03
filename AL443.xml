@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL443 - Bring Hul Tot U, My Heer</title>
+   <title language="en">Lead them, my God, to Thee</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="443"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Bring hul tot U, my Heer,<br/>bring hul vandag,<br/>my kinders, elke een,<br/>onder U mag.<br/>O, deur U groot gena<br/>bring hul tot U, my Heer,<br/>bring hul tot U, my Heer,<br/>bring hul tot U.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>As aardse vreugde wink,<br/>helder en bly,<br/>laat geen gesigsbedrog<br/>hul dan verlei;<br/>Maar van versoekingsmag<br/>bring hul tot U, my Heer,<br/>bring hul tot U, my Heer,<br/>bring hul tot U.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Selfs kleine kindertjies<br/>het U kom red.<br/>U het as kind geleef<br/>rein, onbesmet.<br/>Ek bid in Jesus Naam:<br/>bring hul tot U, my Heer,<br/>bring hul tot U, my Heer,<br/>bring hul tot U.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Sterk U my klein geloof<br/>om te vertrou<br/>dat U my kosb're skat<br/>ook sal behou;<br/>Neem hulle harte nou,<br/>bring hul tot U, my Heer,<br/>bring hul tot U, my Heer,<br/>bring hul tot U.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL243 - Een Ding Begeer Ek Van Die Heer</title>
+   <title language="en">One thing I of the Lord desire</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="243"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Een ding begeer ek van die Heer -<br/>my pad was donker, swaar met pyn -<br/>gebruik U water, loog of vuur,<br/>o, maak my rein! O, maak my rein!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>As U my dieper insig gee,<br/>sal ek U altyd dankbaar wees;<br/>Maar bo dit alles vra ek U<br/>‘n reiner hart, 'n suiwer gees.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Net as my lewe reiner word,<br/>sal groter insig in my woon;<br/>U lewe openbaar ons dit<br/>so God'lik skoon, so God'lik skoon.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek wil die sondeweg vermy<br/>tot boosheid uit my hart verdwyn,<br/>maar hoe ek worstel, hoe ook waak,<br/>ek bly onrein, ek bly onrein!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>o Maak my hart van sonde rein,<br/>kom was en louter - reinig my!<br/>Al bring die vuur ook smart en pyn,<br/>maak my van elke sonde vry!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL238 - Skenk God Jou Jonglingskap</title>
+   <title language="en">Give thou thy youth to God</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="238"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Skenk God jou jonglingskap,<br/>en dien Hom in jou jeug,<br/>terwyl jou lewe nog ontluik;<br/>Soek heiligheid en deug.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Jou Skepper vra jou hart,<br/>jou jeug en al jou krag;<br/>Hy wil jou ware vreugde gee<br/>en vrede elke dag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kies nou die kant van God<br/>in alles, groot en klein;<br/>Dan staan Hy by jou in jou lot<br/>en hou jou lewe rein.</lines>
+  </verse>
+ </lyrics>
+</song>

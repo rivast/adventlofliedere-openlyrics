@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL269 - Hef ‘n Loflied Aan</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="269"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hef 'n loflied aan<br/>tot die Opperwese!<br/>Orals waar U gaan,<br/>sing tot Jakobs God<br/>van U groot genot;<br/>Hy is nooit volprese.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Dit is die bevel<br/>van die Heer en Koning<br/>aan gans Israel:<br/>Dat hul saam sal sing<br/>om Sy lof te bring<br/>in elk need'rig woning.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Open julle mond:<br/>Vra van My vrymoedig<br/>volgens My verbond:<br/>Alles wat ontbreek,<br/>skenk Ek, as jul smeek,<br/>mildelik, oorvloedig.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Maar My volk was traag<br/>om na My te luister,<br/>hul het My mishaag -<br/>My gebod verag -<br/>en hul nageslag<br/>dwaal nog in die duister.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>As My volk maar net<br/>na My woord wil strewe<br/>om daarop te let<br/>en gelowig gaan<br/>op die effe baan<br/>van My wet, en lewe!</lines>
+  </verse>
+ </lyrics>
+</song>

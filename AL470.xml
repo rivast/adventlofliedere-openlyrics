@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL470 - Christus Is Die Vaste Grondslag</title>
+   <title language="en">Christ is made the sure foundation</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="470"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Christus is die vaste grondslag,<br/>Hy die hoeksteen, is die Hoof<br/>deur Hom het die Vader eenheid<br/>aan Sy kerk op aard beloof.<br/>Sionshulp is Hy vir ewig,<br/>kom, laat ons die Heiland loof!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Heel die kerk van God op aarde<br/>loof die grote Hemelheer -<br/>loof Hom met 'n vrome lofsang,<br/>wat Sy heil'ge Naam vereer.<br/>Heel die kerk op aarde loof Hom -<br/>loof die grote Hemelheer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kom, bewoon die aardse tempel,<br/>opgerig U Naam ter eer;<br/>Luister na ons smeekgebede<br/>waar ons hier voor U verkeer.<br/>Strek U hande uit, o Vader -<br/>seën ons, o grote Heer!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Skenk nou aan U gunsgenote<br/>in U huis hier saamgeskaar,<br/>elke heilige verwagting,<br/>maak U groot beloftes waar.<br/>Wil U hulle deur die lewe<br/>met U Vaderhand bewaar.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL474 - Nie Nou, Maar Eenmaal</title>
+   <title language="en">Not now, but in the coming years</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="474"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Nie nou, maar eenmaal, sal ons wel<br/>die doel kan sien van elke traan;<br/>Miskien eens in die beter land,<br/>maar eenmaal sal ons dit verstaan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ons sal die drade weer kan neem,<br/>en weef wat ons hier moes laat staan;<br/>Die raaisels lees ons een vir een,<br/>o dan, eers dan, sal ons verstaan.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Dan sal ons weet waarom ons hoop<br/>so dikwels met die mis vergaan;<br/>Waarom ons lied so gou verstil -<br/>dit alles sal ons daar verstaan.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Waarom moet dit wat ons begeer,<br/>so dikwels net die hand ontgaan;<br/>Waarom moet soveel werk misluk -<br/>eendag daarbo sal ons verstaan.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>God ken die pad, Hy sal bestier,<br/>Hy lei ons oor die lewensbaan;<br/>Eendag sal ons die waaroms peil,<br/>ja dan, daarbo, sal ons verstaan!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Vertrou op God van dag tot dag,<br/>Hy hou jou hand waar jy ook gaan;<br/>Al is dit om jou donker nag,<br/>eendag, eendag sal ons verstaan.</lines>
+  </verse>
+ </lyrics>
+</song>

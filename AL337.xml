@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL337 - Van Groenlands Ysgebergtes</title>
+   <title language="en">From Greenland's icy mountains</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="337"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Van Groenlands ysgebergtes<br/>en Indië se strand,<br/>waar Afrika se sonskyn op bos<br/>en vlakte brand;<br/>Van ou rivierbeskawings kom daar<br/>‘n stem wat smeek<br/>dat ons die sondebande in hul<br/>moet help verbreek.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wat baat die skone lane<br/>wat deur die palme vleg,<br/>al is die land so heerlik<br/>maar elke mens so sleg?<br/>Vergeefs is al die rykdom,<br/>die berge en die reën;<br/>Die heiden in sy blindheid<br/>buig neer voor hout en steen.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kan manne wat die lig het<br/>en God se waarheid hou,<br/>van hulle in die duister<br/>die woord van God weerhou?<br/>Verlossing! O verlossing!<br/>Roep uit met luide stem,<br/>tot elke stam en nasie<br/>ons dierb're Heiland ken!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O winde, neem die tyding<br/>en waai dit oor die land,<br/>tot soos 'n see van glorie<br/>dit strek van strand tot strand;<br/>Totdat oor die verlostes die Lam,<br/>vir ons geslag,<br/>as Koning heers vir ewig.<br/>Kom gou, o blye dag!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL143 - O Knegte Van God, Verkondig Sy Naam</title>
+   <title language="en">Ye servants of God, your Master proclaim</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="143"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O knegte van God,<br/>verkondig Sy Naam,<br/>ja maak dit bekend,<br/>en prys Hom tesaam;<br/>Verheerlik die Heiland,<br/>aanbid onse Heer<br/>die grote Oorwinnaar<br/>wat oor ons regeer!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die Here regeer<br/>met wysheid en krag,<br/>maar tog is Hy hier,<br/>Hy red die wat wag;<br/>Laat elke gemeente<br/>Sy sege besing,<br/>aan Hom as Verlosser<br/>hul dankoffer bring</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heil aan onse God<br/>wat sit op die troon<br/>laat almal Hom eer<br/>en hulde betoon.<br/>Die engele val op<br/>hul aangesig neer<br/>in diepe aanbidding<br/>voor Jesus, hul Heer</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Kom laat ons aanbid,<br/>want Hy voer gesag<br/>oor hemel en aard'<br/>in wysheid en krag.<br/>Laat ons saam met eng'le<br/>Hom hulde betoon;<br/>Sy liefde is ewig,<br/>Sy heerlikheid skoon.</lines>
+  </verse>
+ </lyrics>
+</song>

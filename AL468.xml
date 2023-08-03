@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL468 - Vlug Van Die Versoeking</title>
+   <title language="en">Yield not to temptation</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="468"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Vlug van die versoeking,<br/>want daar is gevaar,<br/>roep slegs tot die Here;<br/>Hy sal jou bewaar;<br/>Stry teen donker drange,<br/>bly aan Hom getrou,<br/>as jy sien op Jesus,<br/>sal Hy jou behou.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Keer jou van die spotters,<br/>my hulle gedrag;<br/>Hou Gods Naam in ere,<br/>spreek dit met ontsag;<br/>Wees stil en bedagsaam,<br/>goedhartig, getrou;<br/>As jy sien op Jesus,<br/>sal Hy jou behou.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Aan Hom wat oorwin het,<br/>gee Jesus 'n kroon;<br/>Glo net in die Here,<br/>Hy sal jou beloon;<br/>Hy gee moed en sterkte<br/>as kragte verflou,<br/>Sien altyd op Jesus<br/>Hy sal jou behou.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Bid die Here om leiding,<br/>sterkte, troos en verblyding;<br/>Hy's jou krag en bevryding -<br/>Jesus sal jou behou.</lines>
+  </verse>
+ </lyrics>
+</song>

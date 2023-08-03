@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL464 - Sing Die Lied Van Louter Vreugde</title>
+   <title language="en">Wake the song of joy and gladness</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="464"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Sing die lied van louter vreugde,<br/>sing tot eer van onse God;<br/>Sing van onse Heer se deugde,<br/>in Sy hand hou Hy ons lot.<br/>Loof die Heer wat ons gelei het,<br/>om mekaar hier te ontmoet;<br/>Aan Hom al die lof want Hy het<br/>ons gekoop met kosb're bloed.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Dankbaar jubel die groot skare,<br/>om die feesdag te begroet;<br/>Luid weerklink die blye mare;<br/>Laat ons neerbuig aan Sy voet.<br/>Sing dan van die Heer se lyding;<br/>Laat ons lof ten hemel styg;<br/>Dankbaar oor die ou, ou tyding<br/>juig ons nou - wie kan nog swyg.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ons wil danksê, goeie Vader<br/>vir die jaar se seëning;<br/>Neem van ons wat hier vergader,<br/>nou die hulde wat ons bring.<br/>Ons wil danksê, dierb're Heiland,<br/>vir verlossing deur U bloed;<br/>Heil'ge Gees, rig U ons skrede,<br/>daagliks nader aan ons God.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Laat ons sing, laat ons sing,<br/>kom sing van louter vreugde;<br/>Laat ons sing, kom ons sing<br/>die groot verlossingslied.</lines>
+  </verse>
+ </lyrics>
+</song>

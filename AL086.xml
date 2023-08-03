@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL086 - My Verlosser Aan Die Kruis</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="086"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>My Verlosser aan die kruis!<br/>Hy verduur die spot van sondaars:<br/>Seun van Dawid,<br/>waar is dan U almag tans -<br/>waar U Goddelike glans?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>My Verlosser aan die kruis!<br/>Ter vergewing van my sonde<br/>dra Hy wonde.<br/>Van die vloek maak Hy my vry<br/>en Sy sterwe reinig my.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>My Verlosser aan die kruis!<br/>Mag 'k U liefde nooit versmaai nie,<br/>nooit verraai nie!<br/>En as mense my ooit spot,<br/>dra ek bly my kruis en lot.</lines>
+  </verse>
+ </lyrics>
+</song>

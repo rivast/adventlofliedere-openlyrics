@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL193 - Verlosser, Vriend, O Hoop, O Lus</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="193"/>
+  </songbooks>
+  <verseOrder>v1 v2</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Verlosser, Vriend, o Hoop, o Lus,<br/>gee ag, o Heer, op hierdie lied<br/>wat ek, 'n sterfling, aan U bied.<br/>‘n Sondaar wat U voete kus-<br/>‘n sondaar, maar gered, o Heer,<br/>en nou geen sondaar meer.<br/>O, neem dit aan!<br/>U laat geen bidder staan.<br/>U hoor in lofgesange<br/>die sondaar se verlange;<br/>O, neem dit aan!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Waar is 'n vreug of kalme heil<br/>so salig soos die groot genot?<br/>Dit vloei uit God en keer tot God;<br/>Dit het geen maat, nog perk, nog peil<br/>in Jesus is my saal'ge lot -<br/>Verborge by my God.<br/>Hy is my lus<br/>totdat my stof eens rus.<br/>Ek prys Hom met gesange;<br/>Sy koms is my verlange;<br/>Hy is my lus.</lines>
+  </verse>
+ </lyrics>
+</song>

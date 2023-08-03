@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL209 - Onder Sy Vleuels</title>
+   <title language="en">Under His wings I am safely abiding</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="209"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Onder Sy vleuels skuil ek veilig en rustig,<br/>Al is daar dreiging van brander en wind;<br/>Nogtans vertrou ek, want Hy is my anker,<br/>Hy's my Verlosser en ek is Sy kind.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Onder Sy vleuels, wat 'n toevlug in droefheid!<br/>O hoe verlang ek na vrede en rus;<br/>Dikwels vind ek selfs by vriende geen troos nie,<br/>Hy gee my vrede en Hy is my lus.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Onder Sy vleuels, wat 'n heerlike woning!<br/>Daar wil ek skuil tot die woede bedaar;<br/>Daar is beskutting, o daar bly ek rustig -<br/>Ewig in Jesus se hoede bewaar.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Onder Sy vleuels, onder Sy vleuels,<br/>Wie kan my skei	van Sy liefde?<br/>Onder Sy vleuels is rus vir my siel<br/>Daar vind ek ewige vrede.</lines>
+  </verse>
+ </lyrics>
+</song>

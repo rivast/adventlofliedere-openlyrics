@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL131 - Jesus! Hoe Kan Ek My Ooit Skaam?</title>
+   <title language="en">Jesus, and shall it ever be</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="131"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus! Hoe kan ek my ooit skaam<br/>vir daardie soete, heil'ge Naam?<br/>My skaam vir Hom, die Opperheer<br/>wat engel aanbiddend eer!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>My skaam vir Jesus! Dit sy ver!<br/>Trots is die aand op elke ster!<br/>Hy laat die lig van liefde sprei<br/>oor hierdie duister siel van my.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>My skaam vir Jesus! Laat die nag<br/>dan skaam wees vir die helder dag!<br/>Ja, nag het uit my siel verdwyn<br/>toe U, my Môrester, verskyn.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>My skaam vir Hom, ons Vriend en lus,<br/>op wie ons hoop en toekoms rus!<br/>En as ek bloos dan sal dit wees<br/>om ek Hom nie meer loof en vrees.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>My skaam vir Jesus! Selfs as ek<br/>geen sonde had om te bedek,<br/>geen skandvlek om my oor te skaam<br/>van woord en daad wat nie betaam?</lines>
+  </verse>
+  <verse name="v6">
+   <lines>Ek sal nog in die Heiland roem<br/>wat my voor God en eng'le noem;<br/>Goddank, die Heer wat ek bely,<br/>die Christus, skaam Hom nie vir my!</lines>
+  </verse>
+ </lyrics>
+</song>

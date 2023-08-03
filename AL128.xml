@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL128 - O Jesus Wat Die Hart Verheug</title>
+   <title language="en">Jesus, Thou joy of loving hearts!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="128"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O Jesus wat die hart verheug,<br/>ons bron van lewe, liefde, lig,<br/>ons was verdwaas deur aardse vreug,<br/>maar nou soek ons U aangesig.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>U waarheid staan vir ewig vas,<br/>U red die drenkeling wat sink;<br/>Vir hul wat soek, dra U die las,<br/>U laat hul van U vreugde drink.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O Lewensbrood, vir ons so goed,<br/>o Heilfontein na wie ons smag,<br/>U sal ons met U waarheid voed<br/>en laaf'nis skenk van dag tot dag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Hoe rust'loos smag ons na die Heer<br/>waar ook die lewe ons mag lei.<br/>U glimlag maak ons vreugde meer<br/>as ons gelowig in U bly.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>O Jesus, as U by ons bly,<br/>is elke oomblik kalm en soet,<br/>wil ons van sondemag bevry<br/>en drenk die aarde in U vloed.</lines>
+  </verse>
+ </lyrics>
+</song>

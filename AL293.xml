@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL293 - Lei U My Voort</title>
+   <title language="en">Lead Thou me on, and then my feet, though weary</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="293"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Lei U my voort,<br/>dan struikel ek nie meer nie,<br/>hoe lank ook al die<br/>ruwe lewensbaan,<br/>al val die skadu's oor my weg,<br/>ek vrees nie,<br/>want U, o Heer, het reeds<br/>vooruitgegaan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Vul my, o Heer, met liefde<br/>rein en heilig,<br/>dan reflekteer ek al<br/>U liefde weer;<br/>Al sou die lewe my van<br/>U wou wegskeur,<br/>dan juig ek nog,<br/>want Jesus is my Heer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Skenk my oorvloedige genade, Here,<br/>as al die vyandsmagte<br/>teen my staan,<br/>en as die sorge my<br/>sou dryf tot wanhoop,<br/>neem U my hand,<br/>en wees oor my begaan!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>U vrede gaan my<br/>klein verstand te bowe<br/>en hul my siel in<br/>kalme hemelsrus,<br/>al dryf die storm my weg<br/>van land en hawe,<br/>sal ek tog veilig anker<br/>aan die kus.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Ek weet dat U my alles<br/>skenk in Jesus<br/>in wie die rykdom van<br/>die skpping woon.<br/>In die geloof reik ek<br/>deur Hom na bowe -<br/>Hy gee my kruis, maar Hy skenk<br/>ook my kroon.</lines>
+  </verse>
+ </lyrics>
+</song>

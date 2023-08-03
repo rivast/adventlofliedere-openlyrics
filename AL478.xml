@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL478 - Ons Is Verheug Dat Onse God</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="478"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons is verheug dat onse God<br/>beskikker is van elke lot;<br/>Dat Hy genadig elke uur<br/>in wysheid, leed of vreugde stuur.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hy wat sy eie weg wil gaan,<br/>sien dwaling vaak vir waarheid aan,<br/>en gee hy dan daaraan gehoor,<br/>verdwaal hy van die regte spoor.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>God ken alleen die naaste pad<br/>wat uitloop op die hemelstad<br/>wat Hy beskik, is altyd goed,<br/>al is dit smart en teëspoed.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>As ons die doodsvallei betree,<br/>neem ons geen aardse vriende mee,<br/>maar Hy, die beste Vriend in nood,<br/>lei ons selfs deur die graf en dood.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Kom, tree met my vrymoedig voort<br/>in vol vertroue op Sy woord.<br/>Hoe seer ons ook die weg mag vrees,<br/>tog sal die einde salig wees.</lines>
+  </verse>
+ </lyrics>
+</song>

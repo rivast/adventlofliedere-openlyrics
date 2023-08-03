@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL413 - Kind Van Gods Koninkryk</title>
+   <title language="en">Heir of the Kingdom, O why dost thou slumber?</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="413"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Kind van Gods koninkryk,<br/>hoe kan jy sluimer,<br/>hoe kan jy slaap<br/>wyl die stryd om jou woed?<br/>Maak jou gereed<br/>vir die koms van die Heiland,<br/>haas jou want kyk<br/>hoe die oomblikke spoed!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Kind van Gods koninkryk,<br/>hoe kan jy weifel?<br/>Hoe kan jy talm?<br/>Hy is reeds voor die deur!<br/>Was wit jou klere,<br/>gereed vir Sy weerkoms,<br/>wil jy kortsigtig<br/>jou erf'nis verbeur?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kyk hoe die nasies<br/>verdruk en verdelg word,<br/>hoor die gekerm<br/>en aanskou al die leed!<br/>Dis die geruis<br/>van die hemelse strydwa;<br/>Kind van Gods koninkryk,<br/>o wees gereed!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Hoe kan jy hunker<br/>na roem en besittings?<br/>Kyk hoe kortstondig<br/>is aardse genot;<br/>Breek nou die bande<br/>van lis en bekoring,<br/>kind van Gods ryk,<br/>keer terug na jou God!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Hef op jou oë<br/>en soek na die dagbreek,<br/>wees op jou hoede,<br/>volhard in die stryd;<br/>Weldra verskyn<br/>op die wolke jou Koning,<br/>sing van Sy koms,<br/>waak en bid, wees bereid!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL363 - Saai die saad van Liefde in die Vroeë More</title>
+   <title language="en">Sowing in the morning, sowing seeds of kindness</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="363"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Saai die saad van liefde in die vroeë more;<br/>Saai dit in die middag en die skemer –aand.<br/>Wag dan vir die wasdom wyl die oestyd nader,<br/>juigend sal ons dan die goue gerwe bring.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Saai dit in die sonskyn, saai dit in die skadu’s,<br/>sonder vrees vir wolke of die winterwind.<br/>As die oestyd aanbreek en die arbeid eindig,<br/>Bring ons met gejuig die goue gerwe in.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Saai dit met trane, saai dit vir die Meester,<br/>Soms sal ons verlies ly en dit diep betreur,<br/>Droefheid sal ook eindig in die hemelwoning,<br/>as ons met gejuig die goue gerwe bring.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Bring die gerwe in, bring die gerwe in;<br/>ons bring met gejuig die goue gerwe in!<br/><br/>Bring die gerwe in, bring die gerwe in;<br/>ons bring met gejuig die goue gerwe in!</lines>
+  </verse>
+ </lyrics>
+</song>

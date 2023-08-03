@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL068 - Die Bloute Wat Ons Hier Omring</title>
+   <title language="en">The spacious firmament on high</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="068"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die bloute wat ons hier omring<br/>soos 'n onmeetlik wye kring<br/>versier met fonkelligte skoon,<br/>bring aan die Skepper eerbetoon.<br/>Ja, onvermoeid van dag tot dag<br/>vermeld die son die Heer se krag,<br/>verkondig luid aan elke land:<br/>Almagtig is die Heer se hand!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wanneer die avondskadu's daal<br/>hervat die maan die groot verhaal;<br/>Deel aan die aarde kennis mee<br/>van skeppingsdade lank gelee.<br/>Die sterre in hul skitterprag<br/>bevestig dit van nag tot nag;<br/>Wyl elkeen op sy gang alleen<br/>sy weg baan deur die ruimtes heen.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Hoewel daar spraak nog woorde is<br/>verneem die Heer hul stem gewis;<br/>Onhoorbaar vir die menseoor,<br/>maar vir hul God 'n jubelkoor<br/>wat singend skyn en skynend sing,<br/>en aan hul Skepper hulde bring;<br/>'volmaak en God'lik is die wet<br/>van Hom wat ons geskape het'.</lines>
+  </verse>
+ </lyrics>
+</song>

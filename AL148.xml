@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL148 - Heil'ge Gees Van God, O Lei</title>
+   <title language="en">Holy Spirit, faithful Guide</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="148"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heil'ge Gees van God,<br/>o lei my deur hierdie woesteny;<br/>Troue Gids, neem U my hand<br/>deur die dorre vyandsland.<br/>Moeë siele skep weer moed<br/>as U saggies, wondersoet<br/>fluister deur die aardsgedruis:<br/>Volg my na die Vaderhuis.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Heil'ge, wonderbare Vriend,<br/>Hemelgawe, onverdiend,<br/>enkel U kan ons behoed<br/>as die storme om ons woed!<br/>Laat, o laat ons nie alleen<br/>as dit nag word om ons heen!<br/>Fluister dan: Neem op jou kruis,<br/>volg My na die Vaderhuis.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Aan die einde van die baan,<br/>met ons taak hier afgedaan,<br/>sal U hand ons veilig lei<br/>deur die kille doodsvallei;<br/>Neem vertwyfeling en vrees<br/>van my weg, o Heil'ge Gees,<br/>fluister as die doodsvloed bruis:<br/>Volg my na die Vaderhuis.</lines>
+  </verse>
+ </lyrics>
+</song>

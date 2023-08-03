@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL083 - Dis Op ‘n Heuwel, Rustig-Groen</title>
+   <title language="en">There is a green hill far away</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="083"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Dis op 'n heuwel, rustig-groen,<br/>daar buite Sionsmuur,<br/>waar onse Heer vir ons behoud<br/>die kruisdood moes verduur.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Geen mens besef wat Hy moes ly,<br/>alleen op Golgota;<br/>Ons weet slegs: Hy het al ons smart<br/>en krankhede gedra.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Om sondaars van die dood te red<br/>het onse Heer gesterf;<br/>Ja, deur Sy bloed het Hy ons eens<br/>verlos van die verderf.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Geen ander in die groot heelal<br/>kon vir ons sonde boet;<br/>Die toegang tot Gods koninkryk<br/>is enkel deur Sy bloed.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Hoe innig lief het Jesus ons!<br/>Laat ons Hom ook bemin,<br/>en, deur die werking van Sy bloed,<br/>ons swakhede oorwin.</lines>
+  </verse>
+ </lyrics>
+</song>

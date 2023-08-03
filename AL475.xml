@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL475 - Heerlik', Heilig', Opperwese</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="475"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heerlik', heilig', Opperwese,<br/>U gebied die groot heelal,<br/>en verdryf die donker vrese<br/>van U skepsels sonder tal.<br/>Sit ons droewig in die duister,<br/>skyn U lig nog onverdoof<br/>met sy glans en al sy luister<br/>om U grote Naam te loof.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>U alleen is alles waardig;<br/>Ons is stof wat moet vergaan.<br/>Ons wil in ons pligte vaardig<br/>voor U val of voor U staan.<br/>As dit tot U luister bydra,<br/>doen dan vry soos U begeer;<br/>Of ons ondergaan of drywe -<br/>alles lei slegs tot U eer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Diepe wysheid, ons verborge,<br/>is die weë van ons God.<br/>Ons ontwaar dit in ons sorge -<br/>in ons wis'lend lewenslot.<br/>Is dit bitterheid of soetheid,<br/>ons aanbid en swyg dan stil,<br/>want die wesenlike Goedheid<br/>maak ons heilig deur Sy wil.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL388 - Dit Is Die Dag Van Rus</title>
+   <title language="en">This is the day of rest</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="388"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Dit is die dag van rus,<br/>Heer, skenk ons nuwe krag;<br/>Verkwik ons liggaam en ons siel<br/>met hemeldou vandag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Dit is die dag van vree,<br/>ons harte soek U wil;<br/>Bestraf die tweedragswinde, Heer,<br/>en maak die golwe stil.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Die dag is vir gebed<br/>wat ons met U verbind;<br/>Mag ons wanneer ons na U soek<br/>die hemelsvrede vind.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Dit is die beste dag,<br/>voed ons met lewensbrood!<br/>Wek siele op wat dood is, Heer,<br/>oorwinnaar oor die dood!</lines>
+  </verse>
+ </lyrics>
+</song>

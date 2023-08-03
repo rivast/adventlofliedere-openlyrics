@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL223 - As Ons Wandel Met God</title>
+   <title language="en">When we walk with the Lord</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="223"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>As ons wandel met God<br/>na Sy woord en gebod,<br/>en Sy lig op ons weë aanskou;<br/>As ons Sy wil begeer,<br/>dan versorg Hy ons teer -<br/>as ons eerlik wil volg en vertrou.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Sou die wolke my dek<br/>en die skaduwees rek,<br/>kyk, Sy glimlag verdryf hulle gou.<br/>Daar's geen vrees wat bestaan,<br/>daar's geen sug en geen traan,<br/>as ons eerlik wil volg en vertrou.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Met die las wat ons dra,<br/>en die kommer wat pla,<br/>sal Hy edel karakters hier bou.<br/>Die verlies wat ons ly,<br/>elke stryd wat ons stry,<br/>word beloon as ons volg en vertrou.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Al Sy liefde en heil<br/>sal ons nimmer kan peil,<br/>tot ons alles aan God toevertrou;<br/>Die oorwinnaar se lied<br/>en die seën wat Hy bied,<br/>is vir hulle wat volg en vertrou.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>In gemeenskap, so soet,<br/>sal ons sit aan Sy voet,<br/>en 'n altaar uit dankbaarheid bou;<br/>Op Sy woord sal ons staan,<br/>waar Hy stuur sal ons gaan,<br/>sonder vrees as ons volg en vertrou.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Volg en vertrou,<br/>op die weg wat Hy bou;<br/>Jesus gee ons Sy vrede<br/>as ons volg en vertrou.</lines>
+  </verse>
+ </lyrics>
+</song>

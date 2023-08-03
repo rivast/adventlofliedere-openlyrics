@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL310 - Skenk My ‘n Nouer Band Met God</title>
+   <title language="en">O, for a closer walk with God!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="310"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Skenk my 'n nouer band met God,<br/>van kalme lewensvree,<br/>‘n lig wat voorgaan op my weg,<br/>my lei tot by die Lam.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Kom weer, o Heil'ge Gees, kom weer,<br/>o Boodskapper so bly;<br/>Ek haat die sonde daagliks meer<br/>wat U van my wil skei.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Die stille ure saam met U,<br/>o soet gedagtenis!<br/>Dit bring 'n weemoed in my hart<br/>as ek weer eensaam is.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Die liefste afgod wat ek ken,<br/>wat ek ookal begeer -<br/>help my dit wegskeur uit my hart<br/>dat U daar kan regeer.</lines>
+  </verse>
+ </lyrics>
+</song>

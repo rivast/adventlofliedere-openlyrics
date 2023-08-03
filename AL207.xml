@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL207 - Ek Weet My Troue Vader Weet</title>
+   <title language="en">I know my heavenly Father knows</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="207"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek weet my troue Vader weet<br/>van al my trane en my leed;<br/>En Hy verdryf die wolkenag,<br/>en skep die wye, blye dag (2x)</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek weet my troue Vader weet<br/>Hy sal my wonde nie vergeet,<br/>en met Sy God'lik tere hand<br/>versag Hy elke pyn wat brand. (2x)</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek weet my troue Vader weet<br/>hoe swak ek teen die vyand meet,<br/>maar in Sy wysheid en Sy mag<br/>bewaar Hy my van dag tot dag. (2x)</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek weet my troue Vader weet<br/>die tyd vir my hier afgemeet;<br/>En mag die uur, o troue Vrind<br/>my veilig aan U boesem vind! (2x)</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Hy weet, Hy weet<br/>van al my trane en my leed:<br/>Hy weet, Hy weet,<br/>en Hy sal nooit my smart vergeet.</lines>
+  </verse>
+ </lyrics>
+</song>

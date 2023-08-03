@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL318 - Die Skadu's Is Soms Byna Swart</title>
+   <title language="en">O sometimes the shadows are deep</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="318"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die skadu's is soms byna swart,<br/>oneffe die weg na ons doel;<br/>En dikwels verduister my hart<br/>as droefheid en leed daaroor spoel.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hoe lank val my somtyds die dag,<br/>hoe steil is die pad wat ek gaan,<br/>as swoegend ek byna versmag,<br/>laat my dan, o Rots, by U staan.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ja, digby die Rots wil ek staan<br/>om daar in Sy skadu te bly,<br/>wanneer ek oor berge moet gaan<br/>of selfs deur die skaduvallei.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>o Laat my dan vlug na die Rots,<br/>want die Rots is veel hoër as ek;<br/>O laat my dan vlug na die Rots,<br/>na die Rots soveel hoër as ek.</lines>
+  </verse>
+ </lyrics>
+</song>

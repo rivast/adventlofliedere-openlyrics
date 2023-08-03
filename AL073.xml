@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL073 - In Velde Digby Betlehem</title>
+   <title language="en">The first noel the angel did say</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="073"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>In velde digby Betlehem<br/>is die wakende herders<br/>tot vreugde gestem<br/>met die tyding deur die eng'le<br/>tot mense gebring,<br/>in die lied in die nagt'like stilte<br/>gesing.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>En aan die trans het 'n blinkende<br/>ster verskyn in die ooste,<br/>al winkend van ver;<br/>En Sy lig was die lig van 'n Gids<br/>wat sou lei,<br/>as dit sag oor verlate woestynpaaie<br/>sprei.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>En deur die lig van hierdie ster<br/>het die wyse gekom uit die ooste<br/>ver,<br/>om te soek na die lang verwagte<br/>Kind<br/>wat hulle in Betlehem sou vind.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Na die weste het hierdie ster gegaan<br/>en stil oor die need'rige stal bly<br/>staan -<br/>waar 'n krip as die Koning se bedjie<br/>moes dien -<br/>en daar het die wyse die Kindjie<br/>gesien.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Eerbiedig het hul die stal<br/>betree<br/>om aan die Koning geskenke<br/>te gee,<br/>en in aanbidding onse Heer<br/>met wierook en mirre en goud<br/>te vereer.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Die hemel juig, die eng'le sing -<br/>tyding van blydskap kom hulle bring.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL385 - U Heil'ge Sabbat, Heer</title>
+   <title language="en">Thy holy Sabbath, Lord</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="385"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>U heil'ge Sabbat, Heer,<br/>vervul U volk met lus;<br/>En wyl ons op U boodskap wag,<br/>sing ons van eeu'ge rus.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die dag van onse Heer<br/>verwelkom ons met sang;<br/>Hier voor U troon bring ons U eer<br/>soos U van ons verlang.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O seën ons hier saam,<br/>verhoor ons stil gebed;<br/>Laat ons U heil'ge dag geniet<br/>en lewe na U wet.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>En na die aardse stryd<br/>van lyding, smart en rou;<br/>Mag ons dan eindeloos met U<br/>die groter Sabbat hou!</lines>
+  </verse>
+ </lyrics>
+</song>

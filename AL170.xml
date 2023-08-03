@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL170 - Ek Het Gehoor Dat Jesus Sê</title>
+   <title language="en">I heard the voice of Jesus say</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="170"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek het gehoor dat Jesus sê:<br/>'o Kom na My en rus;<br/>Leun aan My bors, vermoeide siel,<br/>daar word My juk jou lus'.<br/>Ek het gegaan net soos ek was -<br/>bedroef, terneergedruk;<br/>In Jesus het ek rus gevind,<br/>en hemelse geluk.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek het gehoor dat Jesus sê:<br/>“Kom, dorstige, na My;<br/>Die water van die lewe<br/>gee Ek aan jou, ryk en vry'.<br/>Ek het gegaan en diep gedrink<br/>uit daardie Heilfontein;<br/>My dors is nou in Hom geles,<br/>my hart vernieu en rein.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek het gehoor dat Jesus sê:<br/>“In My alleen is lig;<br/>O siel wat in die donker sit,<br/>aanskou My aangesig'.<br/>Ek het gekyk en my verheug<br/>in Hom, my Ster, my Son;<br/>En ek sal wandel in die lig<br/>van daardie heil'ge Bron!</lines>
+  </verse>
+ </lyrics>
+</song>

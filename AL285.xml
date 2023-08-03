@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL285 - O Meester, Wandel U Met My</title>
+   <title language="en">O Master, let me walk with Thee</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="285"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O Meester, wandel U met my;<br/>Ek wil U need'rig diensbaar bly,<br/>verdryf die twyfel wat nog pla,<br/>en help my om my las te dra.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Laat die wat traag is om te leer,<br/>hul op my woord tot U bekeer;<br/>Help my om dwalendes te rig<br/>en bring hul tot U groter lig.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Maak my geduldig, liewe Heer,<br/>sagmoedig as ek ander leer;<br/>Wil U geloof in my versterk<br/>as ek met liefde vir U werk.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>In hoop wat al sy helder lig<br/>ver op die toekomsjare rig;<br/>In vrede wat ons nie verstaan,<br/>o Meester, laat my met U gaan.</lines>
+  </verse>
+ </lyrics>
+</song>

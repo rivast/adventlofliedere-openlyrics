@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL371 - Lei Voort, O Eeu'ge Koning</title>
+   <title language="en">Lead on, O King Eternal</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="371"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Lei voort, o eeu'ge Koning,<br/>die uur van stryd breek aan,<br/>ons wil op elke slagveld<br/>soos helde by U staan.<br/>In tyd van voorbereiding<br/>het U ons krag gegee,<br/>en nou, o eeu'ge Koning,<br/>maak ons die veldtog mee.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Lei voort, o eeu'ge Koning,<br/>totdat die vyand vlug,<br/>en elke heil'ge stryder<br/>‘n soet “Amen!' sal sug;<br/>Want nie met swaardgekletter<br/>of met 'n pantsermag,<br/>maar met die liefdewapen<br/>kan ons triomf verwag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Lei voort, o eeu'ge Koning,<br/>ons volg U sonder vrees,<br/>want lieflik is die môre<br/>as ons by U kan wees.<br/>U kruis is ons verseek'ring,<br/>die liefde is ons plig;<br/>Daar wag oorwinnaarskrone -<br/>lei voort, o God van lig!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL063 - Geheimnisvol Beweeg Die Heer</title>
+   <title language="en">God moves in a mysterious way</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="063"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Geheimnisvol beweeg die Heer<br/>om wonders te verrig;<br/>Ons sien Sy wandel in die see,<br/>in storms Sy aangesig.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hou moed, o vreesbevange siel,<br/>die swartste onweerswolk<br/>sal - van genade swanger - breek<br/>in seën oor Gods volk.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Vertrou op God wanneer dit skyn<br/>asof Hy ons vergeet;<br/>Tot onse beswil tugtig Hy<br/>wat alle dinge weet.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Sy doel met ons sal spoedig ryp<br/>en ope vou voor Hom.<br/>Die bloeiselknop mag bitter smaak,<br/>maar soet is eens die blom.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Nou moet ons wandel deur geloof<br/>en kinderlik vertrou;<br/>Die 'waarom' sal ons eens verstaan<br/>as ons die Heer aanskou.</lines>
+  </verse>
+ </lyrics>
+</song>

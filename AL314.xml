@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL314 - Trek My Steeds Nader, O My Vader</title>
+   <title language="en">Closer to Thee, my Father, draw me</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="314"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Trek my steeds nader, o my Vader,<br/>ek smag na U, my Heer;<br/>Daar aan U boesem vind ek ewig<br/>die rus wat ek begeer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Trek my steeds nader, o my Heiland,<br/>U liefde is so skoon;<br/>Dan dwaal ek nie meer doelloos rond nie,<br/>want ek sal by U woon.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heilige Gees, trek U my nader<br/>dat ek in U kan bly;<br/>Was my en heilig U my lewe,<br/>dan is ek rein en vry.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Nader aan U dierb're sy,<br/>trek, o Heiland, trek U my;<br/>Nader, nader, digter aan U sy.</lines>
+  </verse>
+ </lyrics>
+</song>

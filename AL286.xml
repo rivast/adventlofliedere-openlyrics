@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL286 - Aardse Vreugde Lok Nie Meer</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="286"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Aardse vreugde lok nie meer nie,<br/>ek wil wees soos Jesus.<br/>Geen plesier sal my ooit keer nie,<br/>ek wil wees soos Jesus!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hy verbreek die sondebande,<br/>ek wil wees soos Jesus;<br/>Dan dien ek met hart en hande,<br/>ek wil wees soos Jesus!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heel die weg volg ek Sy leiding,<br/>ek wil wees soos Jesus;<br/>Telkens weer die ou, ou tyding,<br/>ek wil wees soos Jesus!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Eens by Hom in hemelhowe<br/>wil ek wees soos Jesus;<br/>Hoor ek: “Welgedaan' daarbowe,<br/>ek wil wees soos Jesus!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Net soos Jesus wil ek leef,<br/>orals waar ek my begeef;<br/>Ek wil maar gedurig streef<br/>om te wees soos Jesus.</lines>
+  </verse>
+ </lyrics>
+</song>

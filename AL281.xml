@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL281 - Heer, Ek Vra U Geen Rykdom</title>
+   <title language="en">Lord, I care not for riches</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="281"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer, ek vra U geen rykdom<br/>ook geen silwer of eer;<br/>Ek verlang om daarbowe<br/>te kan staan by my Heer.<br/>Is my naam ook geskrywe,<br/>o, my Heiland, ek vra,<br/>in die boek van die lewe,<br/>deur U grote gena?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Heer, my sonde is vele,<br/>soos die sand aan die see,<br/>maar U bloed, o my Heiland,<br/>kan vergiffenis gee.<br/>U belofte is seker<br/>en U woorde staan vas:<br/>Is jou hart soos skarlaken,<br/>dit sal wit word soos was.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O die lieflike Godstad<br/>met sy wonings so skoon<br/>en sy heerlike wesens<br/>wat U handewerk kroon,<br/>waar geen sonde besoedel,<br/>maar U majesteit troon,<br/>sê my, Jesus my Heiland,<br/>sal ek eendag daar woon?</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Word my naam ook gevind,<br/>o my Heiland, ek vra,<br/>in die boek van die lewe,<br/>deur U grote gena?</lines>
+  </verse>
+ </lyrics>
+</song>

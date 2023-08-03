@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL187 - Gaan My Nie Verby, O Heiland</title>
+   <title language="en">Pass me not, O gentle Saviour</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="187"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Gaan my nie verby, o Heiland,<br/>neig U oor tot my!<br/>Wyl U ander seën, Heiland,<br/>gaan my nie verby!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Voor die troon van U genade,<br/>is ons rus beloof;<br/>As ek daar in ootmoed neerkniel,<br/>sterk tog my geloof!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek vertrou op U verdienste,<br/>smagtend na U lig;<br/>My gebroke gees soek heling<br/>voor U aangesig.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>U, die bron van my vertroosting,<br/>is my saligheid.<br/>Wie het ek hier buiten Jesus -<br/>of in ewigheid?</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Jesus, Heiland, neig U oor tot my,<br/>wyl U ander seën, Heiland,<br/>gaan my nie verby!</lines>
+  </verse>
+ </lyrics>
+</song>

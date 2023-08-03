@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL405 - Kom, Here, O Vertraag Tog Nie</title>
+   <title language="en">Come, Lord, and tarry not</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="405"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Kom, Here, o vertraag tog nie<br/>die blye dag;<br/>Ag, wanneer sal ons U aanskou?<br/>Waarom moet ons nog wag?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Kom, want die skepping sug<br/>onder verganklikheid,<br/>en wag reikhalsend op U koms!<br/>O God, verkort die tyd!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kom, want die oes is ryp;<br/>O, stuur die maaiers uit<br/>na al U uitverkorenes<br/>onder trompetgeluid.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Kom, laat die sterk man bind,<br/>vernietig al sy werk;<br/>Werp uit die vyand van U volk<br/>en van U heil'ge kerk!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Kom, onse Koning, kom,<br/>aanvaar die heerskappy;<br/>Laat vrede en geregtigheid<br/>in ewigheid gedy!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL466 - Ure, Dae, Maande, Jare</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="466"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ure, dae, maande, jare<br/>vlieg soos skadu's snel verby,<br/>kom en gaan net soos die bare<br/>slegs herinneringe bly.<br/>Op ons wandel hier benede<br/>sal geen voetspoor ooit bly staan,<br/>al die hede word verlede,<br/>maar ons werk sal met ons gaan!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Voorgeslagte het gesterwe<br/>en ons bou op hulle graf;<br/>Ons word spoedig hier vergete,<br/>mense val soos blare af.<br/>Wat die eeue opgegaar het,<br/>word slegs in die graf bewaar.<br/>Buiten U, o Eeu'ge Wese,<br/>wat bly nog vir ons gespaar?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Snel dan heen, o lewensjare,<br/>met jul blydskap onvoltooid,<br/>wissel maar, en bring gevare -<br/>God, my God, verander nooit.<br/>Al het alles my begewe,<br/>voortgelei deur God se hand,<br/>kyk ek uit die aardse lewe<br/>op my eeu'ge Vaderland.</lines>
+  </verse>
+ </lyrics>
+</song>

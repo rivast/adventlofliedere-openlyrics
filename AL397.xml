@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL397 - O Vredevors, U't Opgevaar</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="397"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O Vredevors, U't opgevaar<br/>in wolk en glorie glansend klaar<br/>terwyl dissipels opwaarts staar;<br/>O kom, Heer Jesus, kom tog gou!<br/>Die wêreld wag dat U moet kom;<br/>Die jare gaan so stadig om<br/>die skepping sug en swyg dan stom;<br/>O kom, Heer Jesus, kom tog gou.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hoor U die ganse skepping kreun,<br/>die klag van hul waar oorlog dreun;<br/>Woestyne roep U, heil'ge Seun:<br/>O kom, Heer Jesus, kom tog gou!<br/>Die tekens van gevaar ontvou<br/>in lande skaars nog uit die rou;<br/>Ons kan op U alleen vertrou,<br/>o kom, Heer Jesus, kom tog gou!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Deur leed en twyfel diep geraak,<br/>deur vyande beleër, bewaak;<br/>Hoor hoe die nasies oproer maak,<br/>o kom, Heer Jesus, kom tog gou!<br/>Hoop van die lankbeproefde skaar,<br/>hul enig vreug en trots, voorwaar!<br/>Sonder U koms bly niks gespaar,<br/>o kom, Heer Jesus, kom tog gou!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Kom met U heerlik' koningskroon;<br/>Kom met die skaar wat by U woon;<br/>Kom met die eng'le om U troon,<br/>o kom, Heer Jesus, kom tog gou!<br/>Kom op die wolke helder blank;<br/>Kom met die luid' basuingeklank<br/>die skepping wag nou al so lank,<br/>o kom, Heer Jesus, kom tog gou!</lines>
+  </verse>
+ </lyrics>
+</song>

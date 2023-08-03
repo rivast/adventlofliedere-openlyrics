@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>AL191 - Net Soos Ek Is</title>
+   <title language="en">Just as I am, without one plea</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="191"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Net soos ek is - geen woord van my -<br/>net dat U, Heer, vir my moes ly,<br/>en dat U bloed my kan bevry -<br/>o Lam van God, ek kom, ek kom!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Net soos ek is - vergeefs probeer<br/>ek om myself te reinig, Heer;<br/>Net soos ek is, ek wag nie meer -<br/>o Lam van God, ek kom, ek kom!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Net soos ek is, gekwel deur vrees,<br/>gebroke, met verslae gees;<br/>Net U alleen kan my genees -<br/>o Lam van God, ek kom, ek kom!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Net soos ek is, ellendig, blind,<br/>kortsigtig, dwaas en aardsgesind,<br/>om redding in my Heer te vind -<br/>o Lam van God, ek kom, ek kom!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Net soos ek is, ontvang U my,<br/>vergewe, reinig en bevry;<br/>Van alles wat my siel kasty -<br/>o Lam van God, ek kom, ek kom!</lines>
+  </verse>
+  <verse name="v6">
+   <lines>Net soos ek is - o liefde teer -<br/>werp elke skeidsmuur voor my neer<br/>maak my U kind, net uwe, Heer -<br/>o Lam van God, ek kom, ek kom!</lines>
+  </verse>
+ </lyrics>
+</song>
