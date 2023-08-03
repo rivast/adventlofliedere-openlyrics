@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Gaan Ek Deur Beproewing</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="277"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Gaan ek deur beproewing, Jesus,<br/>bid vir my;<br/>Word ek tot bedroewing van U Gees<br/>verlei<br/>en U sien ek weifel, <br/>rig U oog op my,<br/>dan sal vrees nog twyfel<br/>my tot kwaad verlei.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Lok die ydelhede van die <br/>wêreld my,<br/>rig U dan my skrede, <br/>wil my siel bevry!<br/>Wankel ek onseker, <br/>'k sal berouvol dink<br/>aan die wrange beker<br/>wat my Heer moes drink.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Wanneer U genade smart beskik<br/>oor my,<br/>as ek pyn en skade hier benee<br/>moet ly,<br/>sal ‘k my laste immer wentel op my,<br/>Heer,<br/>dan vergeet ek nimmer dat my God<br/>regeer.</lines>
+  </verse>
+ </lyrics>
+</song>

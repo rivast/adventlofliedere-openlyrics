@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Jesus Is So Lief Vir My</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="455"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus is so lief vir my<br/>o, dit maak my hartjie bly!<br/>Kindertjies behoort aan Hom<br/>as hul net na Jesus kom.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Jesus het vir my gely<br/>en vir my 'n plek berei,<br/>Hy maak my van sonde rein -<br/>laat my in al is ek klein.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Jesus is nog lief vir my<br/>as ek siek is en moet ly;<br/>Dan hou eng'le elke dag<br/>by my bedjie oor my wag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Jesus is so lief vir my,<br/>Hy sal altyd by my bly;<br/>As ek Hom op aarde dien<br/>sal ek Hom daarbo ook sien.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ja, Hy bemin my,<br/>ja, Hy bemin my,<br/>ja, Hy bemin my,<br/>die Bybel leer my so.</lines>
+  </verse>
+ </lyrics>
+</song>

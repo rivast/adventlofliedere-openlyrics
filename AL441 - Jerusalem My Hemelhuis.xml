@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Jerusalem, My Hemelhuis</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="441"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jerusalem, my hemelhuis,<br/>hoe lank moet ek nog wag<br/>voordat my siel, van droefheid vry,<br/>jou vreugde sien en prag?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Jou mure is van edelsteen,<br/>met pêrelpoorte rein,<br/>jou strate is van suiwer goud;<br/>Jou lig sal ewig skyn!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Die hemeltuine daar omhoog,<br/>is onbeskryflik skoon,<br/>waar die verlostes van die Heer<br/>in heerlikheid sal woon.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Wil U genade, liewe Heer,<br/>tog aan my siel bewys;<br/>Wanneer U kom, neem dan ook my<br/>na gindse Paradys!</lines>
+  </verse>
+ </lyrics>
+</song>

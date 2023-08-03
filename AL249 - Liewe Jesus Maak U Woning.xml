@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Liewe Jesus, Maak U Woning</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="249"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Liewe Jesus, maak U woning<br/>in die hart wat na U smag;<br/>Need'rig, soos ons Heer en Koning,<br/>wil ons wandel elke dag;<br/>Sonder U is ons nie veilig,<br/>daarom wil ons in U bly;<br/>Laat U Gees ons lewe heilig<br/>en ons langs U weë lei.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>In U spore volg ons, seker<br/>dat U liefde ons omring,<br/>en dat elke wrange beker<br/>ons slegs nader aan U bring.<br/>Ja, die kruis dra ons geduldig,<br/>want ons weet daar wag 'n kroon;<br/>Hoeveel dank is ons verskuldig<br/>aan U heilige persoon!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Van U goedheid en genade<br/>wil ons altyddeur vertel;<br/>Tevergeefs ons goeie dade<br/>as U ons nie vergesel.<br/>Deur die nag van pyn en lyding<br/>sou ons, sonder U, beswyk;<br/>Voor die dag kom van bevryding<br/>voor die donker skadu's wyk.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Dan, deur eindelose jare,<br/>sal ons U aanbid en loof<br/>waar geen doodsangs of gevare<br/>ons van vrede kan beroof;<br/>By U vind ons rus, o Here,<br/>uitgewoed is dan die stryd!<br/>U sy al die lof en ere<br/>tot in alle ewigheid!</lines>
+  </verse>
+ </lyrics>
+</song>

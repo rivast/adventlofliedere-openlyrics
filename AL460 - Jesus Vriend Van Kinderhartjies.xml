@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Jesus, Vriend Van Kinderhartjies</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="460"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus, Vriend van kinderhartjies,<br/>wees 'n Vriend van my;<br/>Neem my hand en hou my altyd<br/>aan U sy.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Leer my groei in goeie dinge<br/>daagliks meer en meer;<br/>U was ook 'n kind, en seker<br/>weet U, Heer!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Stap vir stap moet U my voortlei,<br/>opwaarts in my jeug -<br/>sterker, wyser met die jare<br/>in U deug.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Laat my nooit alleen, o Jesus<br/>al is ek ook groot;<br/>Ek het U van kleins af nodig -<br/>tot die dood.</lines>
+  </verse>
+ </lyrics>
+</song>

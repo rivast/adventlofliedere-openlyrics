@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Helaas! Hoe Moes My Heiland Ly!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="91"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Helaas! Hoe moes my Heiland ly!<br/>En moes my Koning sterf?<br/>Was dorings op Sy hoof om my<br/>te red van die verderf?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Het Hy die dood wat ek verdien,<br/>gesterf op Golgota?<br/>En smaad nog foltering ontsien,<br/>en al my skuld gedra?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Die heuwel was omfloers met rou,<br/>toe God Sy beker vul;<br/>Geen skepsel kan die kruis aanskou,<br/>in duisternis gehul.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>So moet ek ook in skaamte bloos<br/>as ek Sy kruis aanskou;<br/>My in Sy groot verlossing troos<br/>en ween as ek onthou.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>My trane sou geen offer wees<br/>of my van skuld bevry,<br/>ek gee my liggaam, siel en gees<br/>wat vra U nog van my?</lines>
+  </verse>
+ </lyrics>
+</song>

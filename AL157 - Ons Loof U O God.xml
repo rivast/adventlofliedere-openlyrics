@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ons Loof U, O God</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="157"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons loof U, o God,<br/>vir die Seun van U hart,<br/>vir Jesus, gekruisig,<br/>gepynig in smart.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ons loof U, o God,<br/>vir U Gees met Sy lig,<br/>wat ons Jesus getoon het<br/>en duister laat swig.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Gee lof aan die Lam<br/>wat ons sondes moes dra,<br/>en in ons plek moes sterf<br/>deur Sy grote gena.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Verfris ons opnuut;<br/>Laat U lieflike Gees<br/>ons besiel met 'n ywer<br/>wat ewig sal wees.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Halleluja, U die ere,<br/>Halleluja, amen!<br/>Halleluja, U die ere,<br/>besiel ons nou weer.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Jesus Roep Ons Oor Die Dreuning</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="290"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus roep ons oor die dreuning<br/>van die see se vloedgety;<br/>Dag na dag klink soet Sy roepstem:<br/>“Christen, kom en volg net My!'</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Jesus roep ons as ons harte<br/>smag na yd'le glans en eer.<br/>Weg van elke dwase afgod<br/>roep Hy: “Christen, min My meer!'</lines>
+  </verse>
+  <verse name="v3">
+   <lines>In ons vreugde, in ons droefheid,<br/>waar ons arbei, waar ons rus,<br/>klink Sy stem vol tere liefde:<br/>“Christen, is die Heer jou lus?'</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Jesus roep ons! Skenk genade<br/>dat ons U mag hoor, o Heer,<br/>en ons harte en ons lewens<br/>wy om U alleen te eer!</lines>
+  </verse>
+ </lyrics>
+</song>

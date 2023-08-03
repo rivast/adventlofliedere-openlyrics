@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hoe Vas Is Jou Grondslag</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="215"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hoe vas is jou grondslag,<br/>o Kerk van die Heer,<br/>gebou op Gods Woord<br/>en Sy heilige leer;<br/>In Christus het God Hom<br/>aan ons openbaar,<br/>ons toevlug en Redder<br/>in nood en gevaar.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>“Vrees nie, Ek is met jou,<br/>en wees nie verskrik,<br/>want Ek is jou God<br/>en Ek sal jou verkwik.<br/>Ek sterk en Ek help die wat stil<br/>op My wag,<br/>My hand ondersteun hul<br/>met reddende krag.”</lines>
+  </verse>
+  <verse name="v3">
+   <lines>“As jy deur die waters van droefheid<br/>moet gaan,<br/>vrees nie, oor jou hoof<br/>sal die golwe nie slaan.<br/>Want Ek is naby -<br/>tot jou redding gereed -<br/>om aan jou te heilig<br/>jou bitterste leed.”</lines>
+  </verse>
+  <verse name="v4">
+   <lines>“Wanneer Ek jou lei<br/>deur beproewende vuur,<br/>wanneer jy die vlamme<br/>van smart moet verduur,<br/>onthou My gena is genoeg<br/>en Ek waak;<br/>Ek wil jou slegs louter<br/>en heiliger maak.”</lines>
+  </verse>
+  <verse name="v5">
+   <lines>'o Siel wat volkome<br/>op Jesus vertrou,<br/>jou vyande sal Ek vernietig<br/>voor jou!<br/>En kyk, tot jou val is die hel<br/>nie in staat,<br/>want Ek sal jou nimmer,<br/>Nee nimmer verlaat.'</lines>
+  </verse>
+ </lyrics>
+</song>

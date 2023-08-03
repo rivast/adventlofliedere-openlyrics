@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Aanbid Die Here Op Sy Troon!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="127"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Aanbid die Here op Sy troon!<br/>Val, eng'le voor Hom neer;<br/>Bring voort 'n koninklike kroon<br/>en kroon Hom,<br/>kroon Hom,<br/>kroon Hom.<br/>Kroon Hom aller Heer!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Verkore saad van Abraham,<br/>bring Hom die lof en eer!<br/>Juig, vrygekooptes van die Lam<br/>en kroon Hom,<br/>kroon Hom,<br/>kroon Hom.<br/>Kroon Hom aller Heer!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Laat elke nasie en geslag<br/>erken dat Hy regeer!<br/>Aanskou Sy majesteit en krag<br/>en kroon Hom,<br/>kroon Hom,<br/>kroon Hom.<br/>Kroon Hom aller Heer!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O mag ons met die eng'le saam<br/>aanbiddend Hom vereer!<br/>Bring hulde aan Sy heil'ge Naam<br/>en kroon Hom,<br/>kroon Hom,<br/>kroon Hom.<br/>Kroon Hom aller Heer!</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Waar Rykdom Of Weelde</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="446"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Waar rykdom of weelde<br/>my skrede mag lei,<br/>my need'rige huisie <br/>bly dierbaar vir my;<br/>Op geen ander plek <br/>is ek ooit so bewus<br/>van hemelse vrede <br/>wat sag op my rus.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Al sou ek as swerwer<br/>in weelde verkeer,<br/>o gee my my need'rige <br/>huisie net weer,<br/>want daar sing die voëltjies<br/>so vreedsaam en bly;<br/>Waar elders sal ek <br/>daardie vrede verkry?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Selfs hul wat Sy vrede<br/>al jarelank mis,<br/>besef ook hoe soet <br/>Sy herin'ringe is.<br/>Van wêreldse skyn -<br/>dis niks meer as 'n klug -<br/>keer duisende harte <br/>verlangende t'rug.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Tuis, tuis, bring my tuis;<br/>Na my need'rige huisie<br/>so dierbaar vir my.</lines>
+  </verse>
+ </lyrics>
+</song>

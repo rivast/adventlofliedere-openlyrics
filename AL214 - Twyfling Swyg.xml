@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Twyf'ling Swyg</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="214"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Twyf'ling swyg, swyg, bange smarte!<br/>God is my getroue Vriend<br/>en Sy Gees sê aan my harte:<br/>'jy is ewiglik My kind'.<br/>Al verkla my hart my immer,<br/>nogtans vrees ek onheil nimmer.<br/>Dikwels vind ek moed in smart,<br/>God is Heerser van my hart.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Jesus Christus wat gesterf het,<br/>het verrys en leef vir my.<br/>Hy wat segepraal verwerf het,<br/>gee oorwinning ook aan my.<br/>Ek kan nooit Sy wysheid meet nie,<br/>maar Hy sal my nie vergeet nie,<br/>want uit deernis met my lot<br/>tree Hy vir my in by God.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ruwe storme breek in woede,<br/>om my strek die donker nag.<br/>Maar God hou my in Sy hoede<br/>en hou oor my heil die wag.<br/>As ek lank in vrees vernag het,<br/>kom Hy soos ek Hom verwag het.<br/>En deur nagtlik' duister dig<br/>lei Hy my na eeu'ge lig.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Watter lot in dood of lewe,<br/>Smaad of eer, hier op my wag,<br/>Jesus sal my nooit begewe;<br/>Is ek swak, by Hom is krag.<br/>Raad van vriend of teerbemindes,<br/>Bitter haat van kwaadgesindes,<br/>Hoogte, diepte, vreugde, rou -<br/>Niks ontroof my van U trou.</lines>
+  </verse>
+ </lyrics>
+</song>

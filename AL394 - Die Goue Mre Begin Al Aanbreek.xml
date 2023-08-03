@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Goue Môre Begin Al Aanbreek</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="394"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die goue môre begin al aanbreek,<br/>Jesus sal weer kom!<br/>Om al Sy troue en blye kinders<br/>saam te neem met Hom.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die evangelie word nou verkondig<br/>heel die wêreld deur;<br/>Die Bruidegom sal nie versuim nie,<br/>Hy staan voor die deur.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Met al die engele van die hemel<br/>daal die Regter neer;<br/>Hy kom en neem Sy kinders met Hom -<br/>hulle sterf nooit weer!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Bemindes wat deur die dood geskei is,<br/>sal mekaar weer sien;<br/>En Jesus droog dan self die trane<br/>waar ons Hom daar dien.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>o, Ons sien die lig van die goue môre - stromend deur die donker nag<br/>ja, ons hoor Sy stem in die goue môre - “Open elke graf!'</lines>
+  </verse>
+ </lyrics>
+</song>

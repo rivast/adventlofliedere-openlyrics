@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Neem Die Wêreld, Ek Kies Jesus!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="104"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Neem die wêreld, ek kies Jesus!<br/>Aardse vreugde snel verby;<br/>Maar Sy liefde bly dieselfde,<br/>deur die eeue heen vir my.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Neem die wêreld, ek kies Jesus!<br/>Hy vertroos en gee weer krag.<br/>As my Heiland oor my waghou,<br/>kan ek sing deur storm en nag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Neem die wêreld, ek kies Jesus!<br/>Laat my steeds Sy heil aanskou,<br/>dan sal Hy my pad verhelder<br/>om die regte koers te hou.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Neem die wêreld, ek kies Jesus!<br/>Ek verlaat my op die kruis.<br/>Eenmaal sal ek Hom in wese<br/>sien daar in Sy vaderhuis.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>o Hoe groot is Sy genade!<br/>Wie kan ooit Sy liefde peil?<br/>O hoe ruim is ons verlossing!<br/>Hy's die bron van eeu'ge heil.</lines>
+  </verse>
+ </lyrics>
+</song>

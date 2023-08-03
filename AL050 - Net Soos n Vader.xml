@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Net Soos ‘n Vader</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="50"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Net soos 'n Vader,<br/>sy kind verstaan,<br/>So is die Heiland<br/>oor sondaars begaan.<br/>Hy wag geduldig,<br/>sal nooit beskuldig,<br/>al was ons sondaars,<br/>Hy neem ons tog aan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Net soos 'n Vader<br/>neem Hy ons aan<br/>vol medelye,<br/>as ons tot Hom gaan;<br/>En wyl ons fluister,<br/>weet ons Hy luister,<br/>wat al ons diepste<br/>begeertes verstaan.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Net soos 'n Vader,<br/>immer getrou,<br/>skenk Hy ons sterkte<br/>wanneer ons verflou,<br/>dek ons verlede,<br/>hoor ons gebede,<br/>ken ons in wese<br/>en sien ons berou.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Net soos 'n Vader<br/>sal Hy ons lei<br/>en deur Sy liefde<br/>van sonde bevry;<br/>Hy rig ons skrede,<br/>skenk ons Sy vrede,<br/>en sal ons Vader<br/>in ewigheid bly.</lines>
+  </verse>
+ </lyrics>
+</song>

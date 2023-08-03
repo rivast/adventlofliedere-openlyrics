@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ek, Vernaamste Sondaarskind</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="188"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek, vernaamste sondaarskind,<br/>kan in Jesus redding vind.<br/>In Sy bloed is saligheid -<br/>lewe tot in ewigheid.<br/>Loot en wynstok leef as een,<br/>so bly ek in Hom alleen.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hoër as die hemel reik,<br/>aan die ewigheid gelyk,<br/>dieper as die diepste see<br/>is die liefde wat Hy gee;<br/>Liefde wat ook my kon vind,<br/>en vir ewig aan Hom bind.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek vernaamste sondaarskind,<br/>sal in Jesus alles vind;<br/>Hy weet wat my hart begeer -<br/>in my droefheid troos die Heer.<br/>Ek is veilig in Sy mag;<br/>Hy is my verborge krag.</lines>
+  </verse>
+ </lyrics>
+</song>

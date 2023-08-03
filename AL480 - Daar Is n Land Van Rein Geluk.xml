@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Daar Is ‘n Land Van Rein Geluk</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="480"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Daar is 'n land van rein geluk<br/>waar vreugde steeds regeer -<br/>waar nag die hart nie meer bedruk;<br/>Daar ken ons pyn nie meer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Daar sal dit ewig lente bly;<br/>Wie kan Sy skoonheid weet?<br/>En slegs 'n korte tydjie skei<br/>dié land van ons planeet.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kon ons maar saam met Moses staan<br/>en oor die landskap kyk,<br/>niks wat op aarde nog bestaan,<br/>kan daarmee vergelyk.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ons reis nou voorwaarts hand aan hand,<br/>gelukkig na Immanuelsland<br/>waar Jesus ewig sal regeer -<br/>dan skei ons nimmer, nimmermeer.<br/>Wat, skei ons nimmermeer?<br/>Nee, daar skei ons nie weer!<br/>Wat, skei ons nimmermeer?<br/>Nee, daar skei ons nie weer!<br/>Waar Jesus ewig sal regeer,</lines>
+  </verse>
+ </lyrics>
+</song>

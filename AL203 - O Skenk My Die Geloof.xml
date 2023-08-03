@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O Skenk My Die Geloof</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="203"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O skenk my die geloof<br/>wat swyg wanneer U my kasty;<br/>En as gevaar my siel bedreig,<br/>my siel bedreig,<br/>steeds in die Heiland bly.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wat nie sal murmureer en sug<br/>oor armoed of gebrek,<br/>maar in die uur van smart sal vlug,<br/>van smart sal vlug,<br/>na onse Hoogvertrek!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O Jesus, gee my die geloof<br/>wat triomfeer oor vrees;<br/>Dan sal geen storm my kalmte roof,<br/>ny kalmte roof,<br/>want ek sal veilig wees.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Dan sal geen bose lis of strik<br/>my ooit verlei tot kwaad;<br/>Sy woede sal my nie verskrik,<br/>my nie verskrik,<br/>nog sal Sy vleitaal baat.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Skenk deur geloof 'n voorsmaak,<br/>Heer, wyl laste ons nog druk,<br/>van vrede wat die hart begeer,<br/>die hart begeer,<br/>en hemelse geluk.</lines>
+  </verse>
+ </lyrics>
+</song>

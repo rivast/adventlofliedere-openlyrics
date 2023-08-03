@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Liefde Gee Ons Vreugde</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="454"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die liefde gee ons vreugde<br/>en hou ons paaie reg;<br/>Dit maak ons vriend'lik en bedagsaam<br/>orals op ons weg.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die wêreld is vol sonde,<br/>vol siekte, dood en smart.<br/>Ons werk vir Jesus elke dag<br/>met liefde in ons hart.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>As Hy ons eendag wegroep<br/>en na die hemel bring,<br/>Sal ons met blydskap elke dag<br/>van Jesus liefde sing.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Onse God is 'n God van liefde,<br/>ons moet ook liefhê net soos Hy.<br/>Die liefde gee ons vreugde<br/>en hou ons paaie reg;<br/>Dit maak ons vriend'lik en bedagsaam<br/>orals op ons weg.</lines>
+  </verse>
+ </lyrics>
+</song>

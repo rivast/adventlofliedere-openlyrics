@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Waak, Christen, Waak In Die Geloof</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="332"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Waak, Christen, waak in die geloof<br/>dat niemand jou die kroon ontroof;<br/>Gedra jou manlik, sterk en moedig<br/>in hierdie Godgewyde werk -<br/>standvastig, onbeweeglik, sterk,<br/>vol ywer altyddeur oorvloedig.<br/>Jou arbeid sal in onse Heer<br/>nooit ydel wees, Hom sy die eer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Voeg, Christen, by geloof ook deug<br/>en fiere moed in smart en vreug<br/>om steeds die kwaad te wederstrewe.<br/>Voeg by die deug 'n helder brein,<br/>vir selfsug en die kwaad te rein;<br/>By helder brein 'n matig' lewe.<br/>Wees dan geduldig ook soos Hy<br/>as God beskik dat jy moet ly.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Voeg by geduld godsaligheid;<br/>Dan skyn jou lig ook ver en wyd -<br/>want mense let steeds op jou voorbeeld.<br/>Gehoorsaam tog die groot gebod;<br/>Jou eerste liefde hoort aan God<br/>en gaan gepaard met naasteliefde;<br/>En met die liefde vir jou broer<br/>ook dié wat almal samesnoer.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O God, staan met U Gees ons by<br/>dat ons dié deugde mag verkry.<br/>O laat hul steeds in ons vermeerder!<br/>Dan sal ons duid'liker verstaan<br/>die lydensweg wat Hy moes gaan -<br/>die groot verlossingswerk van Jesus.<br/>O mag ons in die jongste dag<br/>nie dwaas en ledig voor U wag.</lines>
+  </verse>
+ </lyrics>
+</song>

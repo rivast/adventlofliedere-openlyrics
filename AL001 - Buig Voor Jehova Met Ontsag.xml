@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Buig Voor Jehova Met Ontsag</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="1"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Buig voor Jehova met ontsag;<br/>gee, mensdom, gee aan Hom die eer;<br/>God het alleen die oppermag,<br/>want Hy kan skep en ook verteer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hy het die mens formeer uit stof<br/>sonder ons toedoen, deur Sy Woord;<br/>en ons gered - Hom Sy die lof -<br/>Sy kudde wat Hom toebehoort.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Betree Sy voorhof met gejuig,<br/>Psalmsing en prys Sy grote Naam;<br/>laat die verlostes dank betuig<br/>hier in Sy voorhowe te saam.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Sy woorde staan onwankelbaar;<br/>Sy liefde is oneindig wyd;<br/>Sy waarheid sal in krag bestaan,<br/>van nou tot in die ewigheid.</lines>
+  </verse>
+ </lyrics>
+</song>

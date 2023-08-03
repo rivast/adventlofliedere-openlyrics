@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hoe Lieflik Wanneer Broeders Hier</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="445"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hoe lieflik wanneer broeders hier<br/>in liefde same woon;<br/>Waar vrede heerlik seëvier,<br/>met elke self verloën;</lines>
+  </verse>
+  <verse name="v2">
+   <lines>As elkeen met sy broeder sug<br/>en deel in al sy smart,<br/>en juigend met hom saam kan lug<br/>die vreugde van sy hart;</lines>
+  </verse>
+  <verse name="v3">
+   <lines>As elkeen sonder nyd of kwaad<br/>sy eie sin vergeet,<br/>en niemand van 'n ander praat<br/>die kwade wat hy weet;</lines>
+  </verse>
+  <verse name="v4">
+   <lines>As liefde soos 'n helder stroom<br/>deur alle harte vloei;<br/>En eenheidskrag en eerbetoon<br/>in alle dade gloei;</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Ja, in die blye hemelland<br/>sal ons diegene vind<br/>wat hul op aarde met die band<br/>van liefdedade bind.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heiland, Ons Loof Nogmaals</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="25"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heiland, ons loof nogmaals <br/>U dierb're Naam;<br/>In hierdie slotsang <br/>prys ons U tesaam.<br/>Eerbiedig staande <br/>sing ons U ter eer,<br/>en need'rig wag ons <br/>op U seën, o Heer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Skenk ons U vrede <br/>as ons huiswaarts keer;<br/>Ons wil die dag ook <br/>met U eindig, Heer<br/>waak oor ons lippe, <br/>hou ons harte rein<br/>vir U aanbidding <br/>as die daglig kwyn.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Skenk ons U vrede <br/>op ons lewensweg,<br/>balsem vir droefheid, <br/>sterkte om te veg;<br/>Het ons dan eenmaal, <br/>Heer, die stryd volstry,<br/>gee ons die vrede <br/>wat vir ewig bly.</lines>
+  </verse>
+ </lyrics>
+</song>

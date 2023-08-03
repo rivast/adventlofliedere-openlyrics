@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heer, Maak My Soos ‘n Lamp Wat Skyn</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="457"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer, maak my soos 'n lamp wat skyn<br/>op elke donker baan,<br/>‘n vlammetjie wat helder brand<br/>net waar ek ook mag gaan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Heer, maak my soos 'n blommetjie,<br/>‘n vreugde vir die oog,<br/>tevrede waar ek my bevind -<br/>in tuin of ereboog.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heer, maak my soos 'n blye lied<br/>wat hulle troos wat treur,<br/>wat swakkes help om sterk te wees<br/>en hulle op kan beur.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Heer, maak my soos 'n wandelstaf<br/>waar swakkes op kan leun,<br/>maak al my krag en lewenslus<br/>my medemens tot steun.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Eenmaal Het Die Hemelkore</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="72"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Eenmaal het die hemelkore<br/>oor die skeppingsdaad gejuig.<br/>Die Messias is gebore!<br/>Hulde het hul Hom betuig.<br/>Kom, aanbid Hom!<br/>Kom, aanbid Hom!<br/>Jesus Christus, onse Heer!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Herders het die blye tyding<br/>van die Christus-kind ontvang:<br/>Juig, wees bly oor die bevryding,<br/>hef tot God 'n lofgesang!<br/>Kom, aanbid Hom!<br/>Kom, aanbid Hom!<br/>Jesus Christus, onse Heer!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Wyse manne soek Sy woning,<br/>volg Sy wonderteken ver,<br/>en hul vind die Hemelkoning<br/>onder Sy geboortester!<br/>Kom, aanbid Hom!<br/>Kom, aanbid Hom!<br/>Jesus Christus, onse Heer!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Heiliges uit alle volke,<br/>wat die Heer lank verwag,<br/>kyk, Hy kom, Hy kom met wolke<br/>in Sy heerlikheid en krag!<br/>Kom, aanbid Hom!<br/>Kom, aanbid Hom!<br/>Jesus Christus, onse Heer!</lines>
+  </verse>
+ </lyrics>
+</song>

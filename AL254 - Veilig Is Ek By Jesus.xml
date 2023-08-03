@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Veilig Is Ek By Jesus</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="254"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Veilig is ek by Jesus,<br/>sag aan Sy bors gevly;<br/>Veilig hier in Sy liefde,<br/>soet is Sy rus vir my!<br/>Luister hoe sing die eng'le<br/>ver oor die glasesee -<br/>singend van Jesus liefde,<br/>bring hul Sy vrede mee.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Veilig is ek by Jesus,<br/>van alle sorge vry -<br/>stil is die wêreldlokstem -<br/>sonde nie meer vir my!<br/>Vry van die pyn en droefheid,<br/>twyfel of aardse vrees.<br/>Dof gloei die lout'ringsvure,<br/>min sal die trane wees!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Jesus, my dierb're Toevlug,<br/>ek sal op U vertrou;<br/>Vas op die Rots der Eeue<br/>sal ek my lewe bou!<br/>Laat my hier wag geduldig,<br/>wag deur die donker nag,<br/>wag tot die helder môre<br/>breek oor die goue dag!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Veilig is ek by Jesus,<br/>sag aan Sy bors gevly;<br/>Veilig hier in Sy liefde,<br/>soet is Sy rus vir my!</lines>
+  </verse>
+ </lyrics>
+</song>

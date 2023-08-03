@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>U Het Die Dood Gesterf</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="178"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>U het die dood gesterf -<br/>U bloed vir my gestort -<br/>dat ek in U kan leef<br/>en eens gereinig word.<br/>Vir my het U U bloed gegee,<br/>wat doen ek nou daarmee?<br/>Vir my het U U bloed gegee,<br/>wat doen ek nou daarmee?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>U Vadershemelhuis<br/>en boogomringde troon<br/>verruil U vir 'n kruis<br/>en vir 'n doringkroon.<br/>Vir my laat U die hemel staan,<br/>wat bied ek U tog aan?<br/>Vir my laat U die hemel staan,<br/>wat bied ek U tog aan?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heer, U het bloed gesweet,<br/>meer smart en angs verdra<br/>as wat ek ooit sal weet,<br/>of U van my kan vra.<br/>Vir my is U gekruisig, Heer<br/>hoe kan ek U vereer?<br/>Vir my is U gekruisig, Heer,<br/>hoe kan ek U vereer?</lines>
+  </verse>
+  <verse name="v4">
+   <lines>My lewe gee ek, Heer -<br/>my korte lewenspan;<br/>Laat aardse bande breek<br/>en vreug my leed verban.<br/>U het my deur U dood hernieu -<br/>ek gee myself aan U!<br/>U het my deur U dood hernieu -<br/>ek gee myself aan U!</lines>
+  </verse>
+ </lyrics>
+</song>

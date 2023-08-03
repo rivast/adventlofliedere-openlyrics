@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hoe Wonderbaar Is Gods Gena</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="189"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hoe wonderbaar is Gods gena<br/>aan my, ellendeling!<br/>Die afgedwaalde wat Hy dra,<br/>en by die kudde bring.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Genade het my hart laat vrees<br/>in diepe skuldbesef;<br/>Genade het my ook genees<br/>en liefd'ryk opgehef.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Deur arbeid, droefheid en gevaar<br/>bring Sy genade my;<br/>Ek weet, wat my ook wedervaar,<br/>dat Hy my veilig lei.</lines>
+  </verse>
+ </lyrics>
+</song>

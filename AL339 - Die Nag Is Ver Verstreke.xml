@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Nag Is Ver Verstreke</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="339"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die nag is ver verstreke,<br/>die rooidag breek al aan;<br/>In alle wêreldstreke<br/>is sondaars diep begaan.<br/>Die winde oor die seë<br/>bring verre tydings mee<br/>van nasies in beroering,<br/>gereed vir Sionswee.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Kyk, heidennasies buig nou<br/>ootmoedig voor ons Heer!<br/>Ja, duisende bring daagliks<br/>aan Hom die lof en eer.<br/>Die evangelieboodskap<br/>trek sondaars na die kruis;<br/>En alle volke loof daar<br/>die Heiland eens vergruis.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O stroom van lewenswater,<br/>vloei breed deur elke land;<br/>Tot elke volk en nasie,<br/>tot aan die verste strand;<br/>Vloei voort tot al Gods kinders<br/>gekom het tot die Bron;<br/>Laat niks U stroom verhinder<br/>totdat die Heer self kom.</lines>
+  </verse>
+ </lyrics>
+</song>

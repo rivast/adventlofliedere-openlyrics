@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Luister Hoe Die Eng'le Sing</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="69"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Luister hoe die eng'le sing<br/>en aan Jesus hulde bring!<br/>Vrede daal op aarde neer<br/>en versoen ons met die Heer.<br/>Juig, o volk're, loof Sy naam,<br/>sing met al die eng'le saam,<br/>juig Hom toe met hart en stem,<br/>eer die Kind van Betlehem.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Christus, hoog in hemeleer,<br/>Christus, ewig God en Heer,<br/>voor wie hemelwesens val,<br/>word gebore in 'n stal!<br/>Welbehae in die mens,<br/>dis die Vadere se wens;<br/>Hoor die lied wat opwaarts wel:<br/>Jesus is Emmanuel!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Vredevors vol majesteit,<br/>Son van Gods geregtigheid,<br/>laat U vleuels ons genees,<br/>leer ons om U naam te vrees.<br/>Hy wat Hom verneder het<br/>om ons van die dood te red,<br/>sal Gods liefde ons verklaar<br/>en ons siele wederbaar.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Luister hoe die eng'le sing<br/>en aan Jesus hulde bring!</lines>
+  </verse>
+ </lyrics>
+</song>

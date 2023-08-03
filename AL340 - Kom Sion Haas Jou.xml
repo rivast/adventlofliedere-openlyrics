@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Kom, Sion, Haas Jou</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="340"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Kom, Sion, haas jou <br/>en versprei die boodskap;<br/>Bring God se lig aan nasies wat nog wag.<br/>Hy wat die aarde <br/>en die mens gemaak het,<br/>wil almal red uit hierdie donker nag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Gaan almal voorwaarts, <br/>leer in al die lande,<br/>dat God, die Lewegewer, liefde is;<br/>Vertel hoe Hy moes sterwe <br/>hier in skande<br/>dat ons kan deel hê in Sy erfenis.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>God vra ons seuns en dogters <br/>vir die boodskap,<br/>Hy vra dat ons moet gee dat hul kan gaan<br/>stort uit U hart voor God vir al Sy werkers,<br/>Hy is ons borg en Hy sal by ons staan.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ja, Hy kom weer, o Sion, <br/>voor Hy t'rugkeer,<br/>bied elke siel Sy reddende gena;<br/>Laat elke sterfling reg <br/>wees vir die Koning<br/>as Hy Sy siel van my en jou sal vra.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Neem hierdie tyding, <br/>tyding van vree,<br/>tyding van Jesus:<br/>dit bring verlossing mee.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Here Nooi Sy Kerk</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="377"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die Here nooi Sy kerk<br/>om Avondmaal te vier;<br/>Daardeur gedenk ons dan die lyding<br/>wat Hy moes verduur.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Gelowig neem ons wyn<br/>en ongesuurde brood;<br/>Die sinnebeelde van Sy bloed<br/>en liggaam in Sy dood.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ons eet die lewensbrood<br/>en drink die lewenswyn;<br/>Dit sien verby die aardse nag<br/>en maak ons lewens rein.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Weldra verdwyn die nag,<br/>dan kom die Heiland weer,<br/>die bruilofsmaaltyd van die Lam<br/>eet ons dan met die Heer.</lines>
+  </verse>
+ </lyrics>
+</song>

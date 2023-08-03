@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>My Lewenshoop Het Ek Gegrond</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="212"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>My lewenshoop het ek gegrond<br/>op Jesus bloed en Sy verbond.<br/>Selfs prinse mag my hoop beskaam,<br/>maar ek vertrou op Jesus Naam.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>As duisternis my van Hom skei,<br/>dan weet ek Jesus sal my lei;<br/>Al rol die bare hoog en blou,<br/>Hy is die anker wat my hou.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Sy liefdeseed, Sy wrede dood<br/>versterk my in die uur van nood.<br/>As alles om my heen versink,<br/>dan sal my lied oorwinnend klink.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>En kom Hy met basuingeskal,<br/>as Heerser van die groot heelal -<br/>geklee in Sy geregtigheid,<br/>deel ek met Hom Sy heerlikheid.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Hy is die Rots waarop ek staan,<br/>elk ander vesting sal vergaan,<br/>elk ander vesting sal vergaan.</lines>
+  </verse>
+ </lyrics>
+</song>

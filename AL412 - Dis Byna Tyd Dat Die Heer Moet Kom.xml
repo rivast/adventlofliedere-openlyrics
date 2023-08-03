@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Dis Byna Tyd Dat Die Heer Moet Kom</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="412"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Dis byna tyd dat die Heer moet kom,<br/>die tyding gaan al rond;<br/>Die sterlig taan, die dag breek aan,<br/>kom ons juig oor die goue môrestond!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die handskrif staan in die son en maan<br/>op aarde, lug en see;<br/>En kondig luid die weerkoms aan<br/>van Hom wat aan ons die lewe gee!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Dis tyd om hoogmoed af te sweer,<br/>die lende te omgord;<br/>En deur die krag van onse Heer<br/>steeds reiner en heiliger te word.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Gaan haastig uit op die straat en laan<br/>en op die weë breed;<br/>Bring blindes en verminktes aan<br/>en maak hulle voor die koms gereed.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>O, die sterre verdwyn reeds voor die dag<br/>o, die sterre verdwyn reeds voor die dag<br/>die nag is haas verby,<br/>die dag kom ons verbly;<br/>O, die sterre verdwyn reeds voor die dag</lines>
+  </verse>
+ </lyrics>
+</song>

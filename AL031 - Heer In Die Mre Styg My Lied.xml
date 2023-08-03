@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heer In Die Môre Styg My Lied</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="31"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer in die môre styg my lied<br/>in dankbaarheid omhoog;<br/>Aan U wil ek 'n lofsang bied,<br/>tot U hef ek my oog.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek hef my oog gelowig <br/>tot U berg van heerlikheid,<br/>waar Jesus voor U troon, o God,<br/>as Hoëpriester pleit.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O, mag U Gees my skrede rig<br/>en my versterk met krag,<br/>dan sal ek nougeset my plig<br/>vervul van dag tot dag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Vir almal wat Hom eer en vrees,<br/>liefhebbers van Sy Naam,<br/>sal God 'n skild en pantser wees;<br/>Nooit word hul hoop beskaam.</lines>
+  </verse>
+ </lyrics>
+</song>

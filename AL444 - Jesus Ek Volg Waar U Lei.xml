@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Jesus, Ek Volg Waar U Lei</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="444"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus, ek volg waar U lei,<br/>want ek hoor U roep na my;<br/>Orals gaan ek met U saam,<br/>want ek glo in U Naam.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ogies kyk nie altyd reg,<br/>voetjies dwaal so dikwels weg;<br/>Al is ek ook swak en blind<br/>maar ek is nog U kind.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Al kry ek ook baie swaar,<br/>Jesus sal my nog bewaar;<br/>Aan my hand sal Hy my lei<br/>solank ek by Hom bly.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Jesus ek sal gaan,<br/>net waar U my sal lei.</lines>
+  </verse>
+ </lyrics>
+</song>

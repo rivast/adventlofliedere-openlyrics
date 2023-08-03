@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>U Stem Dring By My Aan</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="173"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>U stem dring by my aan -<br/>so pleitend sag en teer -<br/>om my te reinig in die bloed<br/>van Jesus, onse Heer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek kom in swakheid, Heer,<br/>tot U wat my kan red;<br/>O reinig my gewete nou<br/>van alle sondesmet.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Dis Jesus wat my roep<br/>na liefde groot en wyd,<br/>volmaakte vrede en geloof<br/>vir tyd en ewigheid.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O heil versoeningsbloed,<br/>vir ons die saligheid!<br/>Heil Jesus, ons getroue Heer<br/>en ons geregtigheid!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Heer, ek kom tot U,<br/>kom tot aan U sy!<br/>Was my in U dierb're bloed,<br/>so ruim gestort vir my!</lines>
+  </verse>
+ </lyrics>
+</song>

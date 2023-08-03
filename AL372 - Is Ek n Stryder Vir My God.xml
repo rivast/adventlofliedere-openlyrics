@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Is Ek ‘n Stryder Vir My God?</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="372"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Is ek 'n stryder vir my God,<br/>‘n volg'ling van die Lam?<br/>Is ek bevrees as mense spot;<br/>Skaam ek my vir Sy Naam?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wil ek langs rosepad so wyd<br/>na gindse hawe gaan,<br/>waar ander kom met harde stryd<br/>en menig' bitter traan?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Het ek geen worstelstryd te stry?<br/>Is aards' gemak my lot?<br/>Bring wêreldse plesier vir my<br/>dan nader aan my God?</lines>
+  </verse>
+  <verse name="v4">
+   <lines>As ek nie moediglik wil stry,<br/>verbeur ek ook my kroon;<br/>Heer, ek sal werk en ween en ly<br/>as Jesus in my woon.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Oorwinnaars in die aardse slag -<br/>al sou hul ook beswyk -<br/>sien deur geloof die blye dag<br/>van toegang tot Gods ryk!</lines>
+  </verse>
+  <verse name="v6">
+   <lines>Want eenmaal kom die skone dag,<br/>dan sal U stryders sing -<br/>in kleure van oorwinningsprag<br/>aan U die hulde bring!</lines>
+  </verse>
+ </lyrics>
+</song>

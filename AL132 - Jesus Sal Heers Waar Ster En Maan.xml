@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Jesus Sal Heers Waar Ster En Maan</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="132"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus sal heers waar ster en maan<br/>op wye hemelbane gaan;<br/>Sy Woord sal gaan van see tot see,<br/>tot selfs die son geen lig meer gee.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Van noord tot suid kom prinse saam<br/>en bring hul hulde aan Sy Naam.<br/>Die jong beskawings wes en noord -<br/>selfs heidendom - erken Sy woord.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ons bede sal Hom altyd loof,<br/>ons lofgesange kroon Sy hoof.<br/>Ek loof Sy Naam met hart en mond<br/>vroeg in die stille môrestond.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Mense van elke land en taal<br/>sing van Sy liefde wat nooit faal<br/>en kinderstemme juig tesaam<br/>in vreugde oor Sy soete Naam.</lines>
+  </verse>
+ </lyrics>
+</song>

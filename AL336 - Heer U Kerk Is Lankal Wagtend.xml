@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heer, U Kerk Is Lankal Wagtend</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="336"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer, U kerk is lankal wagtend;<br/>Wanneer kom U koninkryk?<br/>Hoelank bly ons hier verwagtend?<br/>Wanneer sal die donker wyk?<br/>Op die land vergaan die gerwe,<br/>want die arbeiders is min;<br/>Het U Seun verniet gesterwe?<br/>Sal die vyand dan oorwin?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Stuur die evangelieboodskap<br/>deur miljoene ongehoord;<br/>Daar is vreugde, daar is blydskap,<br/>daar is lewe in die Woord.<br/>Stuur dit uit na elke nasie,<br/>elke volk en stam en taal;<br/>Spreek van redding deur U grasie<br/>waar die mens in sonde dwaal.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>As U kerk se taak volbring is -<br/>veilig man en vrou en kind -<br/>as die sondenag verby is<br/>en die Satan is gebind;<br/>Dan sal pyn en dood en smarte<br/>ewig voor die lewe wyk;<br/>Hoor die bede van ons harte:<br/>Heer, kom stig U koninkryk.</lines>
+  </verse>
+ </lyrics>
+</song>

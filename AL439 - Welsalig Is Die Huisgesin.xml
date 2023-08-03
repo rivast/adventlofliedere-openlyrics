@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Welsalig Is Die Huisgesin</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="439"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Welsalig is die huisgesin<br/>waar God se liefde woon,<br/>waar almal saam eenstemmig bid<br/>in vrede voor Gods troon.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Welsalig is die huisgesin<br/>waar Jesus soete Naam<br/>geheilig en eerbiedig word<br/>deur kind en ouer saam.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Welsalig is die huisgesin<br/>waar Gods Woord en gebed<br/>geleer, geken, geuiter word<br/>voor Hom wat sondaars red.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O laat ons eensgesindheid vind<br/>en vrede, in ons Heer;<br/>Laat goue bande almal bind<br/>en liefde ons regeer.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Waar My Duister Gedagtes</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="251"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Waar my duister gedagtes<br/>soms moedeloos dwaal,<br/>klink 'n lied soos die skoonste psalm<br/>en die hemelse klanke<br/>spoel sag oor my heen,<br/>en dit maak my so rustig en kalm.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>O, die skat wat ek het<br/>in die vrede van God<br/>sal ek hou as die kosbaarste seën;<br/>So beskut dat geen mag<br/>my dit ooit kan ontroof,<br/>deur die eind'lose ewigheid heen.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek verheug my vanaand<br/>in die vrede van God,<br/>en berus in die Vader se wil;<br/>My Bewaarder is Hy,<br/>wat nie sluimer of slaap,<br/>en soos Dawid is ek voor Hom stil.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek verlang na die hemelse<br/>Godstad daarbo,<br/>ek sien Jesus alreeds in die gees;<br/>en ek glo dat 'n deel van ons<br/>loflied daarbo<br/>waar ons juig, oor Sy liefde sal wees.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Moeë siel, sonder blydskap<br/>of vrede of rus,<br/>soos die gras van die velde is jy;<br/>Maak die Heiland jou vriend,<br/>voor die vuur oor jou gaan,<br/>laat die vrede van God jou hier lei.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Vree, vree, lieflike vree;<br/>Daal so sag soos die dou in die nag;<br/>Wil, Heer, met U vrede my lewe verkwik,<br/>en vul my met liefde vandag.</lines>
+  </verse>
+ </lyrics>
+</song>

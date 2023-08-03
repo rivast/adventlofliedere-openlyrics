@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heer, Ek Hoor Van Seënstrome</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="151"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer, ek hoor van seënstrome<br/>wat U uitstort, ryk en vry.<br/>Les dan ook my dors volkome,<br/>stort die druppels ook op my.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Gaan my nie verby, o Vader,<br/>ek het al my skuld bely;<br/>Trek my deur U liefde nader -<br/>Heer, ontferm U ook oor my.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Was ek dood in bose sonde?<br/>Skenk herlewing ook aan my.<br/>Is 'k deur ydelheid gebonde?<br/>O, ek smeek U, maak my vry!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Heil'ge Gees, o hoor my klagte,<br/>U kan blindes ook genees!<br/>Spreek tot my in bange nagte,<br/>laat U vrede oor my wees.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ook op my, ook op my,<br/>stort die druppels ook op my.</lines>
+  </verse>
+ </lyrics>
+</song>

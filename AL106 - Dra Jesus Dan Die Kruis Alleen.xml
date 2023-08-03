@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Dra Jesus Dan Die Kruis Alleen?</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="106"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Dra Jesus dan die kruis alleen?<br/>Is ons volkome vry?<br/>Nee, daar's 'n kruis vir elke een<br/>en daar's 'n kruis vir my.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die kruis sal ek geduldig dra<br/>totdat Hy my bevry;<br/>En my 'n kroon skenk deur gena,<br/>want daar's 'n kroon vir my.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Dan werp ek self my goue kroon<br/>as offer voor Hom neer,<br/>en kniel aanbiddend voor Sy troon<br/>Sy grote Naam ter eer.</lines>
+  </verse>
+ </lyrics>
+</song>

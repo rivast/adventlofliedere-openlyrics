@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Kalmeer My, Heer, En Hou My Kalm!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="273"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Kalmeer my, Heer, en hou my kalm!<br/>As storme om my woed<br/>en wrede woorde ru weergalm,<br/>kalmeer dan my gemoed.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ja, hou my kalm in die rumoer,<br/>en in die felle stryd;<br/>Kalm as die stilte my ontroer<br/>in droewe eensaamheid.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kalm in gesondheid en in pyn,<br/>in oorvloed en gebrek;<br/>Kalm as my liggaamskragte kwyn,<br/>o God, my Hoogvertrek.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Kalm in die bang beproewingsuur<br/>wanneer gevare dreig;<br/>Kalm as ek onreg moet verduur<br/>en as die minste swyg.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Ja, onverstoorbaar kalm en stil,<br/>sag aan U bors gevly,<br/>rus ek, my Heiland, in U wil,<br/>volkome toegewy.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heer, Maak My Rein</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="453"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer, maak my rein,<br/>want ander soek na reinheid,<br/>maak my getrou<br/>dat ek U kan behaag;<br/>Gee my die krag<br/>vir elke uur van lyding,<br/>en maak my dapper:<br/>daar is veel te waag. (2x)</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Maak my 'n vriend<br/>van vyande en wese,<br/>laat my die gawe<br/>gee en dit vergeet;<br/>Maak my beskeie<br/>want ek ken my swakheid;<br/>Versag deur my<br/>die lydendes se leed. (2x)</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Graag leer ek hier<br/>die lesse van die lewe,<br/>maak oop U Woord<br/>en lei my elke dag;<br/>Laat my eerbiedig<br/>hoor as Jesus fluister<br/>en alles doen<br/>wat Hy van my verwag. (2x)</lines>
+  </verse>
+ </lyrics>
+</song>

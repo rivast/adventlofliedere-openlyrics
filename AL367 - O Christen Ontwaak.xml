@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O Christen, Ontwaak</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="367"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O Christen, ontwaak,<br/>hoor die Meester se stem,<br/>met helm en met skild<br/>en die swaard vasgeklem<br/>ontmoet die versoeker,<br/>stry dapper vir God,<br/>en staan soos 'n held<br/>sonder vrees vir jou lot.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hoe groot die gevaar,<br/>waak gedurig en bid,<br/>maar keer nie die rug,<br/>dis geheel onbeskut.<br/>Die magte van duisternis<br/>moet jy verslaan,<br/>staan vas soos 'n held,<br/>wees nie traag om te gaan.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Verdedig die saak <br/>van die Meester met mag,<br/>wees yw'rig en waaksaam<br/>en stry in Sy krag;<br/>Net waar Hy mag lei,<br/>volg Hom dapper en gou<br/>en staan soos 'n held<br/>vir die Meester getrou.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Gaan voorwaarts met ywer<br/>om Jesus te dien,<br/>want Hy sal genade <br/>en vreugde voorsien;<br/>Sy liefde sal dorstige siele verkwik -<br/>staan vas soos 'n held;<br/>Hy sal sege beskik.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Staan soos 'n held!<br/>Staan soos 'n held!<br/>Staan soos 'n held,<br/>want die stryd is vir God.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O Heer, Ek Is Verlore</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="199"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O Heer, ek is verlore,<br/>waar sal ek redding vind?<br/>Die sonde het diep spore gelaat<br/>op my, U kind.<br/>O God, hoor my gebede,<br/>aanskou my bitter smart!<br/>Wis uit die swart verlede<br/>en reinig nou my hart.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>As U in ons die sonde, o Heer,<br/>wil gadeslaan,<br/>sal niemand van U kinders<br/>ooit voor U troon kan staan.<br/>Maar nee - daar is vergewing<br/>deur Jesus bloed gewees;<br/>Daarom word U met bewing<br/>reg kinderlik gevrees.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek is Sy koms te wagte,<br/>en ek verlang steeds meer<br/>dat Hy met al Sy magte<br/>moet kom as onse Heer.<br/>My siel, vol angs en sorge,<br/>wag sterker op die Heer<br/>as wagters op die môre -<br/>O kom tog gou, o Heer!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Hoop op die Heer gelowig<br/>al is Sy volk in nood;<br/>Verlossing is belowe -<br/>Sy goedheid is so groot.<br/>Hy maak, op hul gebede,<br/>Sy kinders almal vry<br/>van ongeregtighede,<br/>en skenk dit ook aan my.</lines>
+  </verse>
+ </lyrics>
+</song>

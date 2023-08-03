@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Twee Handjies Kom Werk Vandag Vir Jesus</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="462"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Twee handjies kom werk vandag vir Jesus,<br/>een tongetjie kom sing Sy lof,<br/>twee oortjies hoor Sy liefdeswoorde,<br/>een stemmetjie klink in Sy hof.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Twee voetjies loop op die pad van Jesus -<br/>volg in die spore van die Heer -<br/>twee ogies lees die heil'ge Bybel<br/>waar ek van God se liefde leer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek gee ook my hartjie nou aan Jesus,<br/>dan kan die Heer my sieltjie red.<br/>Ek gee aan Hom my hele lewe,<br/>dis al wat ek op aarde het.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Heer, ek kom, ja ek kom<br/>in my vroeë kinderjare,<br/>ek kom by U leer.</lines>
+  </verse>
+ </lyrics>
+</song>

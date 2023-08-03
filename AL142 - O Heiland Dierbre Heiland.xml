@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O Heiland, Dierb're Heiland</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="142"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O Heiland, dierb're Heiland,<br/>hoe lieflik is U Naam!<br/>Onsigbaar, tog naby, want<br/>U wandel met ons saam.<br/>Ons seën en aanbid U,<br/>en sing steeds tot U eer;<br/>Ons loof U en bely U,<br/>want heilig is ons Heer!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>o Brenger van verlossing,<br/>Bewerker van ons heil,<br/>U self die openbaring<br/>van liefde sonder peil;<br/>Ons seën en aanbid U,<br/>en sing steeds tot U eer;<br/>Ons loof U en bely U,<br/>want liefd'ryk is ons Heer!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>In U woon al die volheid<br/>van Goddelike krag,<br/>en heerlikheid en hoogheid,<br/>en al die skeppingsmag!<br/>Ons seën en aanbid U,<br/>en sing steeds tot U eer;<br/>Ons loof U en bely U,<br/>want magtig is ons Heer!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O skenk ons die vervulling<br/>hiernamaals van ons lied.<br/>In eind'lose aanbidding<br/>wil ons U liefde bied.<br/>Ons seën en aanbid U,<br/>en sing steeds tot U eer;<br/>Ons loof U en bely U,<br/>ons Redder en ons Heer!</lines>
+  </verse>
+ </lyrics>
+</song>

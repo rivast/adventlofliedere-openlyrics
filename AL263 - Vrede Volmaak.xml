@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Vrede Volmaak</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="263"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Vrede volmaak -<br/>omring deur pyn en smart?<br/>Die Here skenk Sy vrede in ons hart.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Vrede volmaak -<br/>hoe swaar ook al my plig?<br/>Die wil van God is soet, Sy juk is lig.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Vrede volmaak -<br/>hoe bitter ook my leed?<br/>Hy sal my trane nimmer kan vergeet.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Vrede volmaak -<br/>van dierbares geskei?<br/>Die Here sal ons almal veilig lei.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Vrede volmaak -<br/>wat ook die toekoms baar?<br/>Die Heer regeer en Hy sal ons bewaar.</lines>
+  </verse>
+ </lyrics>
+</song>

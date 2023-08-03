@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hoor! Dis Die Verlossingslied</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="399"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hoor! Dis die verlossingslied<br/>van die ganse hemelkoor;<br/>Jesus kom, bekroon met eer,<br/>eng'le laat hul blydskap hoor.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hoor! Dis die trompetgeskal<br/>wat die weerkoms begelei!<br/>Heil'ges, hef U hoofde op,<br/>U verlossing is naby.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Kyk, die Here self verskyn,<br/>voor wie aard' en hemel wyk!<br/>Staan op, vrygekoopte volk,<br/>en beërf die koninkryk.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Gaan die Heiland tegemoet,<br/>vry van kommer, sorg of vrees;<br/>By U Here en U God<br/>sal U ewig salig wees.</lines>
+  </verse>
+ </lyrics>
+</song>

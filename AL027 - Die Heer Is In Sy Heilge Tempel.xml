@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Heer Is In Sy Heil'ge Tempel</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="27"/>
+  </songbooks>
+  <verseOrder>v1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die Heer is in Sy heil'ge tempel; <br/>die Heer is in Sy heil'ge tempel; <br/>Swyg voor Hom, ganse aarde,<br/>swyg voor Hom, ganse aarde, <br/>swyg voor God!<br/>Wees stil nou, wees stil nou, swyg voor Hom. Amen.</lines>
+  </verse>
+ </lyrics>
+</song>

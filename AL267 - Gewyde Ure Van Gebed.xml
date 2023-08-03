@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Gewyde Ure Van Gebed</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="267"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Gewyde ure van gebed,<br/>wat my van sorg en kommer red,<br/>wanneer ek voor my Vader kniel<br/>en rus vind vir my moeë siel!<br/>Ek maak bekend wat ek begeer;<br/>Lê alles aan Sy voete neer;<br/>Ontvlug die bose strik en net,<br/>in stille ure van gebed.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Gewyde ure van gebed,<br/>as ek met God gemeenskap het,<br/>en uit Sy Vaderhand ontvang<br/>die seën waarna ek verlang.<br/>Ek weet ek kan Sy woord vertrou,<br/>op Sy beloftes altyd bou;<br/>Hy wat op my behoeftes let,<br/>verhoor in ure van gebed.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Gewyde ure van gebed,<br/>o grootste voorreg wat ek het!<br/>Om Jesus deur geloof te eer,<br/>totdat Hy kom om te regeer!<br/>Dan sal my oë Hom aanskou;<br/>Geen sluier sal Hom meer omvou;<br/>Onsterflik, rein van alle smet<br/>is dan my lewe, deur gebed.</lines>
+  </verse>
+ </lyrics>
+</song>

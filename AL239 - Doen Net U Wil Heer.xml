@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Doen Net U Wil, Heer</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="239"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Doen net U wil, Heer, U wil met my!<br/>o Pottebakker, ek is U klei;<br/>Vorm my en maak my volgens U wil,<br/>wyl ek my oorgee, wagtend en stil.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Doen net U wil, Heer, U wil met my!<br/>Toets en deurgrond my, al moet ek ly;<br/>Witter as sneeu, Heer, reinig my siel<br/>wyl ek in ootmoed hier voor U kniel.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Doen net U wil, Heer, U wil met my!<br/>Sterwend, gebroke, o help U my!<br/>U het oor dood en lewe die mag -<br/>raak my dan aan, o Meester, vandag!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Doen net U wil, Heer, U wil met my!<br/>Voer oor my wese die heerskappy;<br/>Vul my, o Gees, voortreflik en skoon<br/>tot almal sien dat U in my woon.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O Mens, Wat Soek Jy Goud Of Eer</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="163"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O mens, wat soek jy goud of eer<br/>as jy in Jesus en Sy leer<br/>die grootste skat besit op aarde!<br/>Daar is vir jou die saligheid;<br/>Dit rig jou vir die ewigheid<br/>en skenk jou eenmaal eng'lewaarde.<br/>Dit stem jou hart tot ware deug<br/>berei jou siel vir hemelsvreug.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Waar vind die mens in sy verdriet<br/>die troos wat Jesus leer Hom bied?<br/>Waar is, in lyding, God Hom nader?<br/>Waar sien Sy oog in skoner lig.<br/>Ook waar die tugtiging nie swig,<br/>die doel van 'n vergewend' Vader?<br/>Waar is Sy eeu'ge saal'ge lot?<br/>Gegrondves op die eer van God.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O sterfling! Wat jou ooit ontgaan,<br/>mag hierdie leer nog voor jou staan<br/>waar jy in angs van dood sal bewe.<br/>Dit is 'n lamp vir elke voet,<br/>die staf wat jou van val behoed,<br/>jou troue gids tot beter lewe.<br/>Daarmee is jy vir elke kring,<br/>in elke stand Gods kwekeling.</lines>
+  </verse>
+ </lyrics>
+</song>

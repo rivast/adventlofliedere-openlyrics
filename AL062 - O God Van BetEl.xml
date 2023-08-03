@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O God Van Bet-El</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="62"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O God van Bet-el, dis U hand<br/>wat nog U kinders voed,<br/>U wat ons pelgrimsvadere<br/>gelei het en behoed.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Voor U genadetroon sal ons<br/>eerbiedig op U wag;<br/>God van ons vaders, wees die God<br/>ook van hul nageslag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Hoe moeilik onse weg ook skyn,<br/>U sal ons voed en klee<br/>en met ons daelikse brood<br/>ons al die goeie gee.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O dek ons met U vleuels, Heer,<br/>solank ons hier moet swerf,<br/>totdat ons in die Vaderhuis<br/>ons woninge beërf.</lines>
+  </verse>
+ </lyrics>
+</song>

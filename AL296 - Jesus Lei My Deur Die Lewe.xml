@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Jesus Lei My Deur Die Lewe</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="296"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Jesus lei my deur die lewe -<br/>waarna kan ek anders smag?<br/>Kan ek twyfel aan Sy liefde?<br/>Dit gee leiding, lig en krag.<br/>Soete vrede en vertroosting<br/>sal my hart in Hom bewaar;<br/>Alles werk vir my ten goede,<br/>wat my ook mag wedervaar,<br/>alles werk vir my ten goede,<br/>wat my ook mag wedervaar.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Jesus lei my deur die lewe,<br/>rig my op wanneer ek val;<br/>Sy genade is genoegsaam,<br/>selfs in hierdie skadudal!<br/>In Sy wil is hemelspyse,<br/>daarom word ek moeg nog mat;<br/>Uit die Rots vloei daar fonteine<br/>oor my dorre lewenspad,<br/>uit die Rots vloei daar fonteine<br/>oor my dorre lewenspad.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Jesus lei my deur die lewe,<br/>deel Sy volheid aan my mee,<br/>en beloof om my 'n woning<br/>in die Vaderhuis te gee.<br/>As Hy my onsterflik opwek<br/>en met heerlikheid beklee,<br/>is my lied deur al die eeue:<br/>Jesus het my steeds gelei!<br/>Is my lied deur al die eeue:<br/>Jesus het my steeds gelei!</lines>
+  </verse>
+ </lyrics>
+</song>

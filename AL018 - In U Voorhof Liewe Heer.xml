@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>In U Voorhof, Liewe Heer</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="18"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>In U voorhof, liewe Heer,<br/>kniel ons nou aanbiddend neer;<br/>neig tot ons gebed U oor!<br/>Sou ons roep en U nie hoor,<br/>sou ons roep en U nie hoor?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Heiland, wil genadiglik<br/>onse siele nou verkwik<br/>met 'n boodskap uit U Woord,<br/>dan gaan ons blymoedig voort,<br/>dan gaan ons blymoedig voort.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Skenk bevryding, deur U Gees,<br/>van bekommernis en vrees;<br/>Wyl ons need'rig op U wag,<br/>skenk verlossing, hoop en krag,<br/>skenk verlossing, hoop en krag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Kom, o Heer, en troos elkeen<br/>wat in rou en droefheid ween;<br/>Laat die hart wat smart moet ly,<br/>hom in U, o Heer, verbly,<br/>hom in U, o Heer, verbly.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Mag die pelgrim in U vind:<br/>Heler, Hoop en troue Vriend.<br/>stel die sondaar vry dat hy<br/>hom in Jesus kan verbly,<br/>hom in Jesus kan verbly.</lines>
+  </verse>
+ </lyrics>
+</song>

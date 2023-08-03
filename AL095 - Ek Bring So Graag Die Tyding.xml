@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ek Bring So Graag Die Tyding</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="95"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek bring so graag die tyding<br/>van dinge nooit gesien,<br/>van Jesus en Sy liefde,<br/>en eng'le wat Hom dien.<br/>Ek bring so graag die tyding<br/>omdat ek weet dis waar;<br/>Dit stil my diep verlange<br/>wat anders nooit bedaar.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek bring so graag die tyding,<br/>dit klink meer wonderbaar<br/>as al die goue drome<br/>wat ons begeertes baar.<br/>Ek bring so graag die tyding,<br/>dit doen soveel vir my,<br/>en ek verlang dat ander<br/>die tyding ook moet kry.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek bring so graag die tyding<br/>wat altyd soeter klink<br/>wanneer ek dit aan ander<br/>vertel, en daaroor dink.<br/>Ek bring so graag die tyding,<br/>vir vele ongehoord,<br/>Die boodskap van verlossing<br/>uit God se heil'ge Woord.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek bring so graag die tyding,<br/>want kinders van die Heer<br/>wat reeds daarmee bekend is,<br/>vra nog gedurig meer.<br/>En as ek in die hemel<br/>‘n nuwe lied kan sing,<br/>dan sing ek van die vreugde<br/>wat daardie tyding bring.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ek bring so graag die tyding,<br/>‘n loflied van bevryding;<br/>Dit is die ou, ou tyding<br/>die liefde van ons Heer.</lines>
+  </verse>
+ </lyrics>
+</song>

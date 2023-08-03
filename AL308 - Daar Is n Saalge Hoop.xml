@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Daar Is ‘n Saal'ge Hoop</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="308"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Daar is 'n saal'ge hoop,<br/>geseënd in die Heer,<br/>veel skoner as die dwase spot<br/>van aardse roem en eer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Daar is 'n helder ster<br/>wat skone lig verskaf,<br/>dit sprei sy vrede stil en sag<br/>oor elke donker graf.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Daar is 'n blye stem<br/>wat ons na bowe roep;<br/>Dit neem ons vrees en twyfel weg<br/>en fluister: 'God is goed'.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Die stem van Golgota,<br/>spreek elke sondaar vry!<br/>Die ster is openbaringslig,<br/>wat na die hemel lei.</lines>
+  </verse>
+ </lyrics>
+</song>

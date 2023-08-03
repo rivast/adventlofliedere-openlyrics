@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heil'ge Bron Van Elke Seën</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="197"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heil'ge Bron van elke seën,<br/>help my U gena besing!<br/>Liefdestrome sonder einde<br/>laat ons hulde tot U bring.<br/>Leer my om U Naam in ere<br/>hoog bo elke skat te hou;<br/>Wyl die hoop van hemelsvreugde<br/>my vervul met moed en trou.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hier plant ek my Ebeneser,<br/>want tot hier het U gelei;<br/>In die Vaderhuis eens veilig<br/>sal ek ewig by U bly.<br/>Ver van God het ek geswerwe,<br/>gans verduister van gemoed,<br/>toe U liefde my gevind het<br/>en versoen het deur U bloed.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Hoeveel is my siel verskuldig<br/>aan U goedheid, elke dag!<br/>Bind my met U liefdebande,<br/>onverbreekbaar en tog sag.<br/>Steeds geneig om, tot my skande,<br/>weg te dwaal van U gebod,<br/>smeek ek, neem my hart, verseël dit<br/>ewig vir U Naam, my God.</lines>
+  </verse>
+ </lyrics>
+</song>

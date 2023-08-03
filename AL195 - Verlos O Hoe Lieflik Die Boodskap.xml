@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Verlos! O Hoe Lieflik Die Boodskap</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="195"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Verlos! O hoe lieflik die boodskap:<br/>verlossing deur Jesus se bloed.<br/>Verlos deur Sy grote genade -<br/>Hy is vir Sy kinders so goed!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Verlos! So gelukkig in Jesus,<br/>kan taal my geluk ooit beskryf!<br/>Ek weet dat die lig van Sy aanskyn<br/>die donker vir altoos verdryf.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek dink aan my dierbare Heiland,<br/>ek loof Hom die hele dag lank;<br/>Ek sing want ek kan nie meer swyg nie<br/>ek bring Hom my liefde as dank.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek weet ek sal eenmaal in skoonheid<br/>die Koning der eeue aanskou;<br/>Wat liefderyk waak oor my skrede -<br/>my vul met 'n lied oor Sy trou.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Ek weet in die hemel is krone<br/>waar Jesus ons wonings berei;<br/>En spoedig, met harte volkome,<br/>sal ons daar by Jesus gaan bly.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Verlos, verlos;<br/>Verlossing deur Jesus se bloed.<br/>Verlos, verlos;<br/>Hy is vir Sy kinders so goed!</lines>
+  </verse>
+ </lyrics>
+</song>

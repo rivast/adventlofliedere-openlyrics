@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ek Sterf Met Jesus</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="220"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek sterf met Jesus,<br/>Sy dood maak my vry;<br/>Ek leef in Jesus en Hy leef in my;<br/>Ek sal deur Jesus verheerliking kry,<br/>oomblik na oomblik <br/>bly ek aan Sy Sy.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Nooit 'n beproewing of Jesus is daar;<br/>Nooit word my laste, met Sy hulp,<br/>te swaar;<br/>Selfs in verdriet en in lewensgevaar -<br/>oomblik na oomblik <br/>sal Hy my bewaar.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Nooit is daar droefheid, ‘n sug of 'n klag;<br/>Nooit is daar trane in donkere nag;<br/>Hy bring vertroosting<br/>as ons op Hom wag;<br/>Oomblik na oomblik skenk Hy nuwe krag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Nooit is daar swakheid<br/>of knaende vrees,<br/>nooit is daar siekte,<br/>of Hy kan genees;<br/>Hy stuur Sy troostende Heilige Gees;<br/>Oomblik na oomblik sal Hy by my wees.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Oomblik na oomblik bewaar Hy my teer;<br/>Oomblik na oomblik daal krag<br/>van Hom neer;<br/>Ek sal deur Jesus verheerliking kry,<br/>oomblik na oomblik bly ek aan Sy sy.</lines>
+  </verse>
+ </lyrics>
+</song>

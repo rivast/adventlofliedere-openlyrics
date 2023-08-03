@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Wagter, Sê My, Kom Die Môre</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="409"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Wagter, sê my, kom die môre,<br/>is die daeraad naby?<br/>En bespeur jy al die tekens<br/>wat ons harte sal verbly?<br/>Pelgrim ja! Staan op, kyk om jou,<br/>sien jy nie die môrelig?<br/>Maak gereed jou bruilofsklere,<br/>haas jou en vervul jou plig!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wagter, kyk die lig skyn om ons,<br/>helder langs die hele weg!<br/>Tekens vul die ganse aarde,<br/>langer bly ons nie gekneg.<br/>Onder jubelklank sal Jesus,<br/>uit die stof en uit die see,<br/>al die heiliges kom opwek,<br/>met onsterflikheid beklee!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Wagter, kyk, die lig verrys al<br/>van die heil'ge Sabbatjaar!<br/>Alles hier verkondig juigend:<br/>Hy kom met Sy eng'leskaar!<br/>Pelgrim, ja, daar in die verte<br/>sien ek die Beloofde land,<br/>en die Godstad in haar skoonheid<br/>daar aan gindse hemelstrand!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Wagter, in die stad daarbowe,<br/>op die troon van die heelal,<br/>sit die Lam van God as Koning.<br/>Vrede rus op berg en dal;<br/>Groene velde, koel fonteine,<br/>helder strome word bestraal<br/>deur die sagte gloed van Sion,<br/>waar geen awend ooit sal daal.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Wagter, kyk, die land kom nader!<br/>O, aanskou die blommeprag!<br/>Byna daar - nog net 'n skrede!<br/>Kom, laat ons nie langer wag.<br/>Luister! Op die reine luggie<br/>sweef musiek, verruklik skoon!<br/>Kyk, die skares! Hoor hul loflied:<br/>hier kan pelgrims ewig woon.</lines>
+  </verse>
+ </lyrics>
+</song>

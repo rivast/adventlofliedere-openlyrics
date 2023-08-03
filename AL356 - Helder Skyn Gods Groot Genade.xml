@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Helder Skyn Gods Groot Genade</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="356"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Helder skyn Gods groot genade<br/>uit die hemelsvaderland,<br/>maar Hy gee aan ons die opsig<br/>oor die liggies langs die strand.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>In die donker nag van sonde<br/>met die storm aan elke kant,<br/>soek daar oë met verlange<br/>na die liggies op die strand.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Maak jou lamp dan skoon en helder,<br/>want 'n siel in duisternis<br/>soek met angs en gaan verlore<br/>as hy daardie liggies mis.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Hou die kleiner liggies helder!<br/>Laat hul skyn oor land en see!<br/>Want miskien kan jy 'n drenk'ling<br/>daarmee hulp en redding gee.</lines>
+  </verse>
+ </lyrics>
+</song>

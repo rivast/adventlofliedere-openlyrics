@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ek Moet Jesus Aan My Sy Hê</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="124"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek moet Jesus aan my sy hê,<br/>want ek durf alleen nie gaan;<br/>Hy moet lig gee op my weë<br/>en Sy arms om my slaan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek moet Jesus aan my sy hê;<br/>My geloof is swak en klein;<br/>Hy kan my vertroos en aanspoor<br/>met Sy stem so skoon en rein.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek moet Jesus aan my sy hê<br/>elke oomblik, elke dag,<br/>op die weg wat ek bewandel<br/>deur die strydperk en die nag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek moet Jesus aan my sy hê<br/>want Hy rig my met Sy oog;<br/>Tot ek kom in gindse oorde<br/>van die Vaderhuis omhoog.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Dan kom my geen kwaad meer oor,<br/>waar Hy roep, daar gaan Hy voor,<br/>ek sal volg, nie murmureer nie,<br/>elke voetstap in Sy spoor.</lines>
+  </verse>
+ </lyrics>
+</song>

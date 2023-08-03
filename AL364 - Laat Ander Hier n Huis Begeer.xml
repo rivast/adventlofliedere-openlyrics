@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Laat Ander Hier ‘n Huis Begeer</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="364"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Laat ander hier 'n huis begeer -<br/>Jesus kom ons haal -<br/>waar watervloed en vuur verteer -<br/>Jesus kom ons haal!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Nee, ek wil in iets beters woon -<br/>Jesus kom ons haal -<br/>‘n hemelhuis naby Sy troon -<br/>Jesus kom ons haal!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Laat alle aardse vreug verdwyn -<br/>Jesus kom ons haal -<br/>al sou die son en maan nie skyn -<br/>Jesus kom ons haal!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Al word dit hier 'n woesteny -<br/>Jesus kom ons haal -<br/>my hemelwoning sal steeds bly -<br/>Jesus kom ons haal!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ons werk tot Jesus kom,<br/>ons werk tot Jesus kom,<br/>ons werk tot Jesus kom,<br/>totdat Hy ons kom haal.</lines>
+  </verse>
+ </lyrics>
+</song>

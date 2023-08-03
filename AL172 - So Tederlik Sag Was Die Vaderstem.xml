@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>So Tederlik Sag Was Die Vaderstem</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="172"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>So tederlik sag was die Vaderstem<br/>toe Hy my nog in sonde vind:<br/>“Kom stap oor die lyn,<br/>dit is net maar 'n tree;<br/>Ek wag vir jou, My kind'.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>“My sondes is groot,<br/>my geloof so klein!'<br/>dog Sy antwoord kom t'rug met krag:<br/>“Vertrou nie op self of op mense nie;<br/>stap oor die lyn, Ek wag'.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>“Maar my wil is so swak',<br/>het ek uitgeroep,<br/>'hoe sal ek die weg ooit kry?<br/>Ek vrees ek sal dalk 'n mislukking wees,<br/>U Naam daardeur laat ly'.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Die weg is te donker <br/>om t'rug te gaan<br/>ek moet voorwaarts na Jesus spoed;<br/>Nou lê ek my hand in U Vaderhand,<br/>stap oor die lyn vol moed!</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Stap oor die lyn, hoor die soet refrein,<br/>lieflike sang uit die hemele rein;<br/>Stap oor die lyn<br/>eer die roepstem verdwyn<br/>net 'n tree tussen my en Jesus.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Neem My Gevange Heer</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="232"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Neem my gevange, Heer,<br/>dan word ek waarlik vry;<br/>As U vir my die swaard hanteer,<br/>sal ek oorwinning kry.<br/>Ek sink weg in die slyk<br/>as ek alleen wil staan;<br/>Maar as ek voor U krag beswyk<br/>dan gord ek sterkte aan.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>My hart is swak en broos,<br/>verraderlik soos wind;<br/>In alles is dit rigtingloos<br/>tot dit 'n Meester vind.<br/>Daar kan geen vryheid wees<br/>voor ek in slawerny<br/>U liefde dien, en onbevrees<br/>U Meesterskap bely.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>My wil is sonder krag<br/>tot ek myself onttroon;<br/>Net na U wil in alles smag<br/>en U as Koning kroon.<br/>Dan word ek nie verlei,<br/>as sterk versoekings woed,<br/>want aan U boesem sag gevly,<br/>sal U my lewe voed.</lines>
+  </verse>
+ </lyrics>
+</song>

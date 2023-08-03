@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Nie Ek, Maar Christus</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="231"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Nie ek, maar Christus, <br/>moet in my verhoog word;<br/>Nie ek, maar Hy, <br/>gehoor word en gesien;<br/>Nie ek, maar Hy, <br/>in elke blik en hand'ling<br/>Nie ek, maar Hy, <br/>die Meester wat ek dien</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Nie ek, maar Christus, <br/>troos die swaar beproefdes,<br/>nie ek, maar Hy, <br/>verdryf hul blinde vrees;<br/>Nie ek, maar Hy, <br/>verban die hete trane,<br/>nie ek, maar Hy, <br/>moet in my alles wees.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ja, Hy alleen, <br/>geen waan of ydelhede,<br/>geen drukte wat <br/>tot my die aandag trek.<br/>Ja, Hy alleen, <br/>geen dwase selfverheffing<br/>net Hy, geen sweem <br/>meer van die eie-ek.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Nie ek, maar Hy, <br/>voorsien in my behoeftes,<br/>my krag en sterkte <br/>in die lewenstryd.<br/>Aan Hom gee ek <br/>my siel en gees en liggaam<br/>en neem Hom aan <br/>vir tyd en ewigheid.</lines>
+  </verse>
+ </lyrics>
+</song>

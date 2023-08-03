@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hy Wat Loop En Saai Met Trane</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="353"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hy wat loop en saai met trane,<br/>dra die saad terwyl Hy ween;<br/>Hy's nie moeg of mat of traag nie,<br/>want sy werk is hom tot seën.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hoor hoe ruis dit oor die bulte,<br/>reën en sonskyn gee die Heer;<br/>Hy gee vrugte by die wasdom,<br/>Hy alleen gee lewe weer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Saai die saad met bly verwagting,<br/>laat geen vrees die oorhand kry;<br/>Al gaan baie saad verlore,<br/>oestyd sal jou hart verbly.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Golwend dek die graan die heuwels,<br/>spoedig kom die goue kleur;<br/>Maar die werkers - daar is weinig,<br/>en die oes is voor die deur.</lines>
+  </verse>
+ </lyrics>
+</song>

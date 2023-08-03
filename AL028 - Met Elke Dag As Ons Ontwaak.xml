@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Met Elke Dag As Ons Ontwaak</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="28"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Met elke dag as ons ontwaak,<br/>kan ons opnuut U liefde smaak;<br/>U het bewaar in donker nag<br/>en ons verfris met moed en krag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Genade vir die nuwe dag<br/>bestraal ons waar ons op U wag -<br/>opnuut bewaar, opnuut vergeef<br/>met nuwe moed om reg te leef.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>As ons sou vasbeslote wees<br/>om met 'n rein, opregte gees<br/>aan God te wy wat ons besit,<br/>sou Hy meer gee as wat ons bid.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ons alledaagse weg en taak<br/>sal ons behoeftes duid'lik maak:<br/>geleentheid vir opoffering,<br/>‘n weg om ons na God te bring.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>O Here, wil ons voorberei<br/>om ewig daar by U te bly;<br/>Help hier U kerk, ja elke lid,<br/>om so te wandel soos ons bid.</lines>
+  </verse>
+ </lyrics>
+</song>

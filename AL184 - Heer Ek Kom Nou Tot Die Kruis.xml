@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heer, Ek Kom Nou Tot Die Kruis</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="184"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer, ek kom nou tot die kruis,<br/>ek is swak en arm en blind;<br/>Ek verlaat selfs haard en huis,<br/>om by U gena te vind.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek het lank na U verlang;<br/>Ek het ver van U geleef.<br/>Nou loof ek U in gesang,<br/>want U het my skuld vergeef.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heer ek gee myself aan U,<br/>alles wat ek mag begeer -<br/>Siel en liggaam wy ek U,<br/>neem my as U eie, Heer.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Jesus kom! Hy maak my vry<br/>en Hy bring volmaaktheid mee;<br/>Hy herstel Sy beeld in my,<br/>ek wil Hom die ere gee.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Vol vertroue kom ek na <br/>U, die Lam van Golgota;<br/>Wyl ek need'rig voor U kniel,<br/>red my, Jesus, red my siel.</lines>
+  </verse>
+ </lyrics>
+</song>

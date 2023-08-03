@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Veilig Deur ‘n Ander Week</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="386"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Veilig deur 'n ander week<br/>het die Here ons gelei;<br/>Laat ons nou hier voor Hom wag<br/>tot Sy seën ons verbly.<br/>Dag van vreugde en van lus,<br/>teken van ons eeu'ge rus;<br/>Dag van vreugde en van lus,<br/>teken van ons eeu'ge rus.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Heer, ons soek by U gena<br/>in ons dierb're Heilands Naam;<br/>Was ons rein, so wit soos sneeu,<br/>Heer, U sal ons nooit beskaam!<br/>Maak ons vry van alle blaam,<br/>gee ons rus in Jesus Naam;<br/>Maak ons vry van alle blaam,<br/>gee ons rus in Jesus Naam.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Heer ons loof U grote Naam,<br/>skenk ons U teenwoordigheid;<br/>Wyl ons in U tempel wag,<br/>toon ons tog U heerlikheid.<br/>Skenk 'n voorsmaak deur U Gees<br/>van die groot hiernamaalsfees!<br/>Skenk 'n voorsmaak deur U Gees<br/>van die groot hiernamaalsfees!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Mag die evangeliewoord<br/>sondaars wen en heil'ges sterk;<br/>Skenk die vrugte van die Gees,<br/>laat daar troos vir droefheid wees.<br/>Maak elk Sabbat so, o Heer,<br/>tot ons eens met U regeer!<br/>Maak elk Sabbat so, o Heer,<br/>tot ons eens met U regeer!</lines>
+  </verse>
+ </lyrics>
+</song>

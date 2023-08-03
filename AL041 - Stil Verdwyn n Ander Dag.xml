@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Stil Verdwyn ‘n Ander Dag</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="41"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Stil verdwyn 'n ander dag,<br/>saggies kom die donker nag;<br/>Wag en kyk eerbiedig nou<br/>hoe die sterreprag ontvou <br/>en ons verlig.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Lewensbron wat so getrou<br/>met U liefde ons omvou<br/>as U uit die hemel <br/>hoor hoe U skepsels,<br/>oor en oor, om redding smeek!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>In die nag se skaduwees<br/>sal U ons beskutting wees;<br/>Ons wil deur die sterre <br/>dring om ons lof<br/>aan U te bring - tot voor U troon.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Eenmaal sal die nag verdwyn<br/>en ons son vir ewig skyn;<br/>Vader, skenk ons in U ryk, <br/>waar die dood<br/>se newels wyk, onsterflikheid.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Heilig, heilig, heilig! O Here God!<br/>U deurstraal die groot heelal,<br/>en U skepsels, sonder tal,<br/>loof U, o Heer!</lines>
+  </verse>
+ </lyrics>
+</song>

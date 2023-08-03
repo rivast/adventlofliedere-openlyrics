@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ons Bou Op Die Rots</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="213"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons bou op die Rots, die vaste Rots,<br/>op Jesus, die Rots wat lewe;<br/>Op Hom sal ons staan deur vuur en vloed;<br/>Hy sal ons nooit begewe.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Wie sal op die losse dryfsand bou,<br/>op newels van aardse voorspoed?<br/>Wie bou op die skyn van wêreldeer,<br/>van roem en yd'le hoogmoed?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O bou op die Rots wat nooit vergaan,<br/>wat staan deur die eind'loos eeue;<br/>Sy hoop is die hoop wat sal bly staan -<br/>Hy is ons Rots der eeue.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Ons bou op die Rots; op die vaste Rots,<br/>op Jesus, onse Rots.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hef Aan Die Nuwe Heil'ge Lied</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="138"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hef aan die nuwe, heil'ge lied<br/>wat hemelwesens met ontsag<br/>aan Christus, ons Verlosser bied:<br/>Waardig die Lam vir ons geslag!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Juig, vrygekooptes van die Heer,<br/>Sy bloed verbreek die sondemag<br/>en maak ons priesters tot Sy eer:<br/>Waardig die Lam vir ons geslag!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Sy siel het Jesus uitgegiet<br/>as offer vir ons siel, en wag<br/>om my Sy volheid aan te bied:<br/>Waardig die Lam vir ons geslag!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Aan Hom, Seun van Gods majesteit,<br/>kom toe die rykdom en die krag;<br/>Die lof en eer en heerlikheid:<br/>Waardig die Lam vir ons geslag!</lines>
+  </verse>
+  <verse name="v5">
+   <lines>Met hierdie nuwe lied vereer ons U<br/>ons hele lewensdag,<br/>totdat ons eens met U regeer:<br/>Waardig die Lam vir ons geslag!</lines>
+  </verse>
+ </lyrics>
+</song>

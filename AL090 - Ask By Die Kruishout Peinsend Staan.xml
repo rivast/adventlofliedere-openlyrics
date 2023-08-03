@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>As'k By Die Kruishout Peinsend Staan</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="90"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>As'k by die kruishout peinsend staan<br/>waaraan my Heiland eens moes sterf,<br/>verfoei ek alle eiewaan<br/>en hebsug wat my siel verderf.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Aanskou Sy hoof, Sy hand en voet:<br/>is reinheid ooit so swak beloon?<br/>Het smart die liefde ooit ontmoet<br/>in so 'n wrede doringkroon?</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Verhoed o God, dat ek ooit roem<br/>behalwe in my Heer se kruis;<br/>Vir my - verlore en gedoem -<br/>is Hy verbrysel en verguis!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Al was die skepping in my hand,<br/>as offer sou dit nietig wees;<br/>U liefde ver bo my verstand<br/>verg heel my liggaam, siel en gees.</lines>
+  </verse>
+ </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O God Van Lig</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="53"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O God van lig,<br/>voor U gesig staan <br/>almal skuldgebonde<br/>ons is bevlek, met skuld bedek,<br/>mismaak deur menig sonde.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Heer, waar dan heen? <br/>Tot U alleen;<br/>Nooit sal U ons begewe.<br/>U eie Seun, ons hulp en steun,<br/>ontsluit vir ons die lewe.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ja, amen, ja, op Golgota<br/>vloei lewe uit Sy wonde;<br/>En deur Sy bloed <br/>word ons gemoed<br/>gereinig van die sonde.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Sterk in ons Heer <br/>steeds meer en meer<br/>vertroue sonder perke;<br/>Dan bring ons vry, gereed en bly,<br/>uit liefde goeie werke.</lines>
+  </verse>
+ </lyrics>
+</song>

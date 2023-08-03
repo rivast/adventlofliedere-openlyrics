@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Heer Ek Dink Aan Die Land</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="355"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Heer ek dink aan die land<br/>waar U kinders heen gaan<br/>as die Heer op die wolke verskyn,<br/>as ek daar deur genade<br/>voor Jesus kan staan,<br/>sal daar ook in my kroon sterre skyn?</lines>
+  </verse>
+  <verse name="v2">
+   <lines>In die Here se krag<br/>wil ek arbei en wag,<br/>ek wil red wat verlore mag gaan,<br/>sodat sterre mag skyn<br/>daardie heuglike dag<br/>as verlostes voor Jesus sal staan.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Watter vreugde as ek eens<br/>die Heer kan aanskou<br/>en die oes van my arbeid kan toon;<br/>Maar die vreugde sal meer wees<br/>as ek ooit verdien<br/>as daar sterre sal skyn in my kroon.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Sal daar ook sterre skyn,<br/>sterre skyn in my kroon<br/>as die Heer op die wolke verskyn,<br/>as ek daar eendag rus,<br/>aan die hemelse kus,<br/>sal daar ook in my kroon sterre skyn?</lines>
+  </verse>
+ </lyrics>
+</song>

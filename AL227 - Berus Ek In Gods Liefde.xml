@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Berus Ek In Gods Liefde</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="227"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Berus ek in Gods liefde,<br/>dan kom geen kwaad my oor,<br/>want Hy is my Geliefde,<br/>niks kan my rus verstoor.<br/>Met onweerswolke oor my<br/>mag ek mismoedig wees,<br/>maar met Sy laer om my,<br/>sal ek geen onheil vrees!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Hy lei my waar die waters<br/>my siel met rus omstroom,<br/>geen herder soos my Leidsman<br/>waarvan my siel kan droom.<br/>Hy lei my in Sy wysheid,<br/>so helder soos die son;<br/>Hy ken die weg van waarheid,<br/>en ek gaan saam met Hom!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Groen weivelde wag op my<br/>soos in die Paradys;<br/>Weldra die blou lug oor my<br/>al was die wolke grys.<br/>My hoop is onafmeetlik,<br/>my lewensweg gebaan,<br/>gemeenskap onvergeetlik,<br/>met Jesus waar ek gaan.</lines>
+  </verse>
+ </lyrics>
+</song>

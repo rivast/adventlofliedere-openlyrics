@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Offer Wat Ons Hou</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="344"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die offer wat ons hou,<br/>behoort aan U, o Heer,<br/>U het dit aan ons toevertrou,<br/>ons gee dit aan U weer. Amen.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ons wil U eiendom<br/>voordelig gaan bestee,<br/>en van die vrugte wat daar kom,<br/>die eerstelinge gee.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Daar's harte koud en dood<br/>en huise leeg en kaal;<br/>En soveel kinders, klein en groot,<br/>het ver van U verdwaal.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ons glo wat U ons leer -<br/>hoe swak ook die geloof -<br/>wat ons vir hulle doen,<br/>o Heer, doen ons vir U, ons Hoof.</lines>
+  </verse>
+ </lyrics>
+</song>

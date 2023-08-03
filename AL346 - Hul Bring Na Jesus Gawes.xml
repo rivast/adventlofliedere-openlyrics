@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hul Bring Na Jesus Gawes</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="346"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hul bring na Jesus gawes,<br/>en lê dit aan Sy voet;<br/>Hul liefde vir die Heiland<br/>maak elke offer soet.<br/>Weldadig en goedhartig<br/>het hul die nood versag;<br/>En Jesus het geen gawe<br/>ooit te gering geag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>En naby daardie gewers,<br/>staan ook 'n swerweling,<br/>wat sien die kleinste gawe<br/>word tot die Heer gebring.<br/>En dit was Sy verlange,<br/>om ook 'n gif te gee;<br/>Maar Hy was self 'n arme -<br/>behoeftig en verleë.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>“My Heer, ek merk U goedheid',<br/>roep hy diep uit sy smart,<br/>'neem al wat ek kan aanbied,<br/>my sondig', donker hart'.<br/>Toe antwoord Jesus vriend'lik:<br/>“ag nie jou gif gering -<br/>van al die gawes het jy<br/>die beste gif gebring'.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Bring jy ook 'n geskenkie<br/>vir Jesus en Sy kerk?<br/>Sê: Heer, ek gee my lewe,<br/>gebruik dit in U werk.</lines>
+  </verse>
+ </lyrics>
+</song>

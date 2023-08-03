@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Son Skyn Oor Die Land En See</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="32"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die son skyn oor die land en see,<br/>dit is weer dag;<br/>En elke uur wil ons bestee,<br/>met diep ontsag,<br/>aan God wat ons die lewe gee;<br/>Dan kom die nag.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>U troue sorg omring ons hier<br/>soos sterreprag.<br/>U goedertierenhede sier<br/>ons lewensdag.<br/>Van U wat steeds ons lot bestier,<br/>kry ons die krag.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ook moeilikhede en verdriet<br/>moet ons verwag;<br/>En onder al ons droefheid<br/>bied U hulp en krag.<br/>Ons hele lewe is 'n lied -<br/>‘n goue dag.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Aan U kom toe die heerlikheid!<br/>U sy die mag,<br/>O Vader, Seun en Gees,<br/>wat tyd nie ken of ag!<br/>Drie-enig God, en ewigheid<br/>loof ons U krag.</lines>
+  </verse>
+ </lyrics>
+</song>

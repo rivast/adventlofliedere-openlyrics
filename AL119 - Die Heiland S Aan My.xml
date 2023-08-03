@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Die Heiland Sê Aan My</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="119"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Die Heiland sê aan my:<br/>'jou eie krag is klein,<br/>jy moet waak en bid en stry;<br/>vind in My jou Heilfontein'.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Die wonderbare krag<br/>vind ek by U, o Heer;<br/>Om harte te versag<br/>en sondaars te bekeer.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Geen vriend wat ek besit,<br/>kan vir my sonde boet;<br/>Daarom was Hy my wit<br/>in Golgota se bloed.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Staan ek dan voor die troon,<br/>volmaak in onse Heer,<br/>lê ek my sterrekroon<br/>daar aan Sy voete neer.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Hy't my skuld betaal!<br/>Wat kan ek besit?<br/>Sonde het my hart bevlek,<br/>maar Hy was dit weer wit.</lines>
+  </verse>
+ </lyrics>
+</song>

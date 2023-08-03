@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O Herder Trou, Wil U My Lei</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="302"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>O Herder trou, wil U my lei,<br/>waar stille waters saggies vloei,<br/>na groene velde bring U my,<br/>laat ook in my U liefde bloei.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>En as die vyand om my skree,<br/>bedek U my teen elke skrik;<br/>U sal my in U skaduwee<br/>met Goddelike rus verkwik.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>En as die dag ten einde spoed,<br/>dan roep U my om t'rug te keer:<br/>ek hoor U stem wat my begroet,<br/>en haas my na die kudde weer.</lines>
+  </verse>
+ </lyrics>
+</song>

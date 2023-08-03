@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ek Wil My Dank Betaal, O Vader</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="42"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek wil my dank betaal, o Vader,<br/>U loof en prys in hierdie lied;<br/>Die donker nag kom stadig nader<br/>maar U, my Lig, verlaat my nie.<br/>U maak my soos U gunstelinge,<br/>meer as 'n Vader, sorg U vry,<br/>o milde bron van seëninge -<br/>so 'n ontfermer is U my.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek dank U vir U groot bewaring;<br/>U hand het my gevoed, gelei;<br/>U was die troos in my beswaring<br/>in elke moeilikheid naby;<br/>Die aand roep my, na al my sorge<br/>tot rus van liggaam, siel en gees;<br/>U Vaderhand was nooit verborge,<br/>U was heel dag my heil gewees.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Dank, Vader, dank vir die genade!<br/>U het my, sondaar, krag verleen;<br/>Slaan U my dwase sondes gade,<br/>waar skuil ek dan, waar vlug ek heen?<br/>Maar nee, ek wil nie, mag nie vrees nie,<br/>U spreek my vry deur Jesus bloed;<br/>Niks anders kan my hart genees nie,<br/>Hy bring ook rus vir my gemoed.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ek weet aan wie 'k my toevertrou het<br/>van vroeë dag tot donker nag;<br/>Ek ken die Rots waarop 'k gebou het<br/>Hy is die heil wat ek verwag.<br/>Eens aan die awend van my lewe -<br/>moeg van die sorg en worsteling -<br/>vir elke dag my hier gegewe,<br/>wil ek my dank as offer bring.</lines>
+  </verse>
+ </lyrics>
+</song>

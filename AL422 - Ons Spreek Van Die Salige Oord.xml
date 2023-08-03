@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ons Spreek Van Die Salige Oord</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="422"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ons spreek van die salige oord,<br/>die land soos die môre so skoon;<br/>En lieflik is daar elke woord;<br/>Hoe salig om eens daar te woon!<br/>Ons praat van die strate van goud<br/>en mure so helder en skoon,<br/>Sy wonders as nog onbekend -<br/>hoe salig om eens daar te woon!</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ons spreek van verlossing uit smart,<br/>uit droefheid, versoeking en hoon,<br/>van stryd in die vlees en die hart -<br/>hoe salig om eens daar te woon!<br/>Ons spreek van die liefde wat dien,<br/>van ewige lewe en loon -<br/>die plek van verlostes omhoog -<br/>hoe salig om eens daar te woon!</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Geen doodskuld meer om te betaal<br/>as Hy ons met lewe vereer;<br/>Ons sien hoe Jerusalem daal,<br/>versier soos 'n bruid vir haar Heer.<br/>Die stad is so heilig en rein,<br/>geen droefheid ontreinig die lug;<br/>Beproewing en sonde verdwyn;<br/>Daar hoor ons geen klag of gesug!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Wil U in versoeking en leed<br/>my siel vir die hemel berei;<br/>En spoedig sal ek ook kan weet<br/>hoe voel dit om daar te kan bly.<br/>Ons wandel op seë van glas<br/>in vreugde eteries en skoon,<br/>met eng'le en heiliges tuis<br/>waar Jesus self by ons sal woon!</lines>
+  </verse>
+ </lyrics>
+</song>

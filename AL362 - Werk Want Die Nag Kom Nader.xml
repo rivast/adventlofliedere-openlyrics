@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Werk, Want Die Nag Kom Nader</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="362"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Werk, want die nag kom nader;<br/>Werk in die môredou;<br/>Werk voor die son verrys het,<br/>wees jou taak getrou.<br/>Werk in die koele môre;<br/>Werk as die son jou brand;<br/>Werk, want die nag kom nader,<br/>dan rus elke hand.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Werk, want die nag kom nader;<br/>Werk in die middaguur.<br/>Vul heel die dag met arbeid;<br/>Rus sal ewig duur.<br/>Laat nooit 'n enkel oomblik<br/>leeg uit jou hande gly;<br/>Werk, want die nag kom nader,<br/>werktyd spoed verby.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Werk, want die nag kom nader,<br/>voordat die skadu's daal;<br/>Werk in die laaste sonlig<br/>voor die daglig faal.<br/>Werk tot die dag hier sterwe,<br/>nooit skyn Sy lig hier weer.<br/>Werk, want die nag kom nader,<br/>dan werk ons nie meer.</lines>
+  </verse>
+ </lyrics>
+</song>

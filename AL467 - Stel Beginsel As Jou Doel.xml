@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Stel Beginsel As Jou Doel</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="467"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Stel beginsel as jou doel,<br/>staan by Gods bevel;<br/>Eer die helde van die stryd<br/>en staan soos Daniël.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Helde het die stryd verloor -<br/>vrees was hul gesel -<br/>as hul maar by God wou staan,<br/>was elk 'n Daniël.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Baie reuse word vandag<br/>teen die grond gevel;<br/>Deur die manne van Gods Woord<br/>wat staan soos Daniël.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Ons moet matigheid as plig<br/>daagliks hoër stel;<br/>Om die bose mag te stuit<br/>vereis 'n Daniël.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Wees vandag 'n Daniël,<br/>wees jou doel getrou;<br/>Staan al is dit ook alleen,<br/>God sal jou behou.</lines>
+  </verse>
+ </lyrics>
+</song>

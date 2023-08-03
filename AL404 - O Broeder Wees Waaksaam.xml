@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>O, Broeder, Wees Waaksaam!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="404"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>o, Broeder, wees waaksaam!<br/>Want spoedig kom Hy<br/>op wie ons so lank reeds al wag.<br/>O, spoedig sal ons die beloning verkry,<br/>oorwinnaars deur Jesus se krag.<br/>O, broeder, wees waaksaam,<br/>opreg en getrou,<br/>want Hy het Sy lewe gegee,<br/>uit grenslose liefde,<br/>om ons te behou,<br/>te red van die ewige weë.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>o, Broeder, wees waaksaam!<br/>Die Godstad so skoon<br/>berei vir die reines van hart;<br/>Sal ons, na Sy weerkoms,<br/>in vrede bewoon,<br/>want daar is geen trane of smart.<br/>O broeder, wees waaksaam,<br/>lank sal ons nie bly<br/>in droefheid, vermoeid en belas;<br/>Die nag van verdriet is al byna verby<br/>die dag sal ons spoedig verras.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>O, broeder, wees waaksaam! <br/>Hy kom spoedig weer, <br/>om sonde en boosheid te straf;<br/>Met duisende engele kom onse Heer in triomf oor dood en die graf.<br/>O, broeder, wees waaksaam;<br/>Ons sal Hom aanskou<br/>en hoor wat ons vurig begeer:<br/>“Mooi so, goeie dienskneg, oor weinig getrou, gaan in, in die vreug van jou Heer!'</lines>
+  </verse>
+  <verse name="v4">
+   <lines>O, broeder, wees waaksaam! <br/>Volhard in die stryd;<br/>Die kruis word vervang deur 'n kroon,<br/>wanneer ons beklee word met onsterflikheid,<br/>en God in ons midde sal woon.<br/>O, broeder, wees waaksaam, die tyd is so kort, die eind'lose ewigheid wag;<br/>Daar sal ons geen smart ly, geen trane <br/>ooit stort, want daar is geen pyn en geen nag.</lines>
+  </verse>
+ </lyrics>
+</song>

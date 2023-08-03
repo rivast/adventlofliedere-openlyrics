@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Ek Soek Jesus Wyl Ek Jonk Is</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="450"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Ek soek Jesus wyl ek jonk is,<br/>daagliks wil ek van Hom leer;<br/>Ek wil volg in elke voetspoor,<br/>ek wil doen wat Hy begeer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>As Hy stuur, wil ek gehoorsaam;<br/>Ek is jonk, maar ek sal gaan.<br/>Elke dag wil ek Sy boodskap<br/>en Sy doel met my verstaan.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>In versoekings is Hy naby,<br/>en sal my van sonde red;<br/>Ek sal roep en Hy sal antwoord,<br/>want Hy hoor ook my gebed.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Want Hy min my, en Sy liefde<br/>dwing my om in Hom te glo;<br/>Jesus red my en Hy lei my,<br/>daarom min ek Jesus so.</lines>
+  </verse>
+ </lyrics>
+</song>

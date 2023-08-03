@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Hoe Ver Van God Het Ek Gedwaal</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="186"/>
+  </songbooks>
+  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Hoe ver van God het ek gedwaal,<br/>nou kom ek weer t'rug;<br/>Uit sondenag kom U my haal,<br/>Heer, ek kom nou t'rug.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>My jare het ek hier verkwis,<br/>nou kom ek weer t'rug,<br/>met trane van belydenis<br/>Heer, kom ek nou t'rug.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Die sonde het my siel gebreek,<br/>nou kom ek weer t'rug;<br/>Skenk my U liefde, Heer, ek smeek,<br/>want ek kom nou t'rug.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Geen ander hoop is daar vir my,<br/>nou kom ek weer t'rug;<br/>As Jesus wat vir my moes ly -<br/>Heer, ek kom nou t'rug.</lines>
+  </verse>
+  <verse name="v5">
+   <lines>My sondes pynig my gemoed;<br/>Nou kom ek weer t'rug.<br/>O, was my rein in Jesus bloed;<br/>Heer, ek kom nou t'rug.</lines>
+  </verse>
+  <verse name="c1">
+   <lines>Eenmaal tuis, eenmaal tuis,<br/>wil ek nooit meer dwaal;<br/>Laat my aan U boesem rus,<br/>Heer, ek kom nou tuis.</lines>
+  </verse>
+ </lyrics>
+</song>

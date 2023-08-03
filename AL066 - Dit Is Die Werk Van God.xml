@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Dit Is Die Werk Van God</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="66"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Dit is die werk van God -<br/>die aarde waar ons woon -<br/>en orals sing Sy handewerk<br/>‘n loflied wonderskoon.<br/>Dit is die werk van God,<br/>en ek verlustig my<br/>in gras en dou en seë blou;<br/>Sy hand het dit berei.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Dit is die werk van God;<br/>Die voëltjies sing Sy lof;<br/>Die goue dag, die blommeprag<br/>versier Sy aardse hof.<br/>Dit is die werk van God;<br/>Die skepping spreek van Hom;<br/>Elk vergesig weerkaats Sy lig -<br/>Sy skoonheid straal alom.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Dit is die werk van God;<br/>O laat my steeds onthou -<br/>al kom die kwaad in skrikgewaad,<br/>my Heerser bly getrou.<br/>Dit is die werk van God;<br/>Daarvan kan ek getuig.<br/>Die Heer regeer en niemand meer,<br/>laat heel die aarde juig!</lines>
+  </verse>
+ </lyrics>
+</song>

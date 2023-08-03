@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Vul My, O Gees Van God</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="150"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Vul my, o Gees van God,<br/>vul my met lewe weer.<br/>Dat ek mag min wat U bemin<br/>en doen wat U begeer.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Vul my, o Gees van God,<br/>en maak my lewe rein.<br/>Tot my wil een met U wil is<br/>en self in my verdwyn.</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Vul my, o Gees van God,<br/>vul my in hierdie uur;<br/>Vul my tot hierdie aardse klei<br/>sal gloei met God'lik vuur!</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Vul my, o Gees van God,<br/>tot liefdesdiens bereid -<br/>Dat ek volmaak voor U kan leef<br/>in alle ewigheid.</lines>
+  </verse>
+ </lyrics>
+</song>

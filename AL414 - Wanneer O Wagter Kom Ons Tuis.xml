@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+ <properties>
+  <titles>
+   <title>Wanneer, O Wagter, Kom Ons Tuis!</title>
+  </titles>
+  <authors>
+   <author>Unknown</author>
+  </authors>
+  <songbooks>
+   <songbook name="AL" entry="414"/>
+  </songbooks>
+  <verseOrder>v1 v2 v3 v4</verseOrder>
+ </properties>
+ <lyrics>
+  <verse name="v1">
+   <lines>Wanneer, o wagter, kom ons tuis!<br/>Die antwoord kom, die hemel spreek:<br/>“Die donker nag is haas verby,<br/>die helder môre breek!<br/>Ween dan nie meer, versnel jou pas,<br/>jou Leidsman is die Môrester;<br/>Tot aan die hemelpoort lei Hy -<br/>die dag is nou nie ver'.</lines>
+  </verse>
+  <verse name="v2">
+   <lines>Ek vra die krygsman op sy pos:<br/>dit was sy lied, vol lof en dank:<br/>'met moed voleindig ek die stryd,<br/>die slag duur nie meer lank.<br/>Ween dan nie meer, maar glo in God!<br/>Ons het die goeie stryd begin,<br/>Hy sal ons sekerlik beloon;<br/>Ons sal gewis oorwin!'</lines>
+  </verse>
+  <verse name="v3">
+   <lines>Ek vra die aarde, see en son,<br/>met een stem antwoord hulle my:<br/>“die tyd haas na sy laaste uur,<br/>die einde is naby!<br/>Ween dan nie meer, die tekens kom<br/>en waarsku ons deur son en maan;<br/>Die hele skepping sug en kla,<br/>die oordeelsuur moet slaan'.</lines>
+  </verse>
+  <verse name="v4">
+   <lines>Dit duur nie lank dan is ons tuis.<br/>Die tyding gee die krygsman moed<br/>en beur die moeë swerwer op;<br/>Dit bring vertroosting soet -<br/>ween dan nie meer, maar juig my siel,<br/>jou swerftog loop ten einde nou;<br/>Verdriet en droefheid is verby -<br/>‘n kroon wag daar op jou!</lines>
+  </verse>
+ </lyrics>
+</song>
