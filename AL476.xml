@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL476 - Rus, Swerwer, Rus</title>
-   <title language="en">Sweet be thy rest</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="476"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Rus, swerwer, rus,<br/>jy slaap nou in vrede,<br/>jou God onthou waar jy rus benede;<br/>Salige slaap waar sorge nie steur nie,<br/>ons treur nie meer;<br/>God het jou geseën.<br/>Rus, swerwer, rus.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Dit is verby; jou taak is beëindig;<br/>Daar wag 'n kroon<br/>waar droefheid nie meer pynig;<br/>Daar is vir jou geen nag meer<br/>van pyn nie, net stille rus<br/>waar kragte nie kwyn nie.<br/>Rus, swerwer, rus.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Rus, swerwer, rus;<br/>Ons sien jou nie meer nie,<br/>voor daardie dag wanneer ook ons<br/>nie treur nie;<br/>O grote dag wanneer aardse skeiding<br/>ewig vergeet word in ons verblyding.<br/>Rus, swerwer, rus.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:24">
+  <properties>
+    <titles>
+      <title>AL476 - Rus, Swerwer, Rus</title>
+      <title>Sweet be thy rest</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="476"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rus, swerwer, rus,<br/>jy slaap nou in vrede,<br/>jou God onthou waar jy rus benede;<br/>Salige slaap waar sorge nie steur nie,<br/>ons treur nie meer;<br/>God het jou geseën.<br/>Rus, swerwer, rus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dit is verby; jou taak is beëindig;<br/>Daar wag 'n kroon<br/>waar droefheid nie meer pynig;<br/>Daar is vir jou geen nag meer<br/>van pyn nie, net stille rus<br/>waar kragte nie kwyn nie.<br/>Rus, swerwer, rus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rus, swerwer, rus;<br/>Ons sien jou nie meer nie,<br/>voor daardie dag wanneer ook ons<br/>nie treur nie;<br/>O grote dag wanneer aardse skeiding<br/>ewig vergeet word in ons verblyding.<br/>Rus, swerwer, rus.</lines>
+    </verse>
+  </lyrics>
 </song>

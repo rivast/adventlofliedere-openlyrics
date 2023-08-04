@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL304 - Een Guns Wil Ek Van U Begeer</title>
-   <title language="en">One precious boon, O Lord, I seek</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="304"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Een guns wil ek van U begeer<br/>op hierdie ruwe lewensee;<br/>Wanneer ek U behaag, o Heer,<br/>wil dit aan my te kenne gee.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek sal nie kla oor smaad en spot,<br/>al word ek deur die mens verstoot;<br/>Weet ek dit is die wil van God,<br/>bly ek getrou tot in die dood.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Al sou my vriende van my keer<br/>en hul met my nie wil versoen,<br/>dan bid ek nog: o Troue Heer,<br/>vergeef! Hul weet nie wat hul doen.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>As ek net weet ek doen Sy wil,<br/>die werke wat my Heer behaag,<br/>dan word die onrus in my stil<br/>en alle vrees en pyn vervaag.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Ek wag op daardie blye dag<br/>deur heiliges van God voorspel<br/>wanneer U kom met grote krag,<br/>om alle dinge te herstel.</lines>
-  </verse>
-  <verse name="v6">
-   <lines>Na ek die spot en smaad moes dra<br/>vir Hom wat nog vir sondaars pleit,<br/>verander dit in vreugde, ja,<br/>in heerlike onsterflikheid.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+  <properties>
+    <titles>
+      <title>AL304 - Een Guns Wil Ek Van U Begeer</title>
+      <title>One precious boon, O Lord, I seek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="304"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Een guns wil ek van U begeer<br/>op hierdie ruwe lewensee;<br/>Wanneer ek U behaag, o Heer,<br/>wil dit aan my te kenne gee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek sal nie kla oor smaad en spot,<br/>al word ek deur die mens verstoot;<br/>Weet ek dit is die wil van God,<br/>bly ek getrou tot in die dood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al sou my vriende van my keer<br/>en hul met my nie wil versoen,<br/>dan bid ek nog: o Troue Heer,<br/>vergeef! Hul weet nie wat hul doen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As ek net weet ek doen Sy wil,<br/>die werke wat my Heer behaag,<br/>dan word die onrus in my stil<br/>en alle vrees en pyn vervaag.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ek wag op daardie blye dag<br/>deur heiliges van God voorspel<br/>wanneer U kom met grote krag,<br/>om alle dinge te herstel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na ek die spot en smaad moes dra<br/>vir Hom wat nog vir sondaars pleit,<br/>verander dit in vreugde, ja,<br/>in heerlike onsterflikheid.</lines>
+    </verse>
+  </lyrics>
 </song>

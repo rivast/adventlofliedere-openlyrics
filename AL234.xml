@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL234 - My Heer, Ek Bemin U</title>
-   <title language="en">My Jesus, I love Thee, I know Thou art mine</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="234"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>My Heer, ek bemin U<br/>wat op Golgota<br/>my losprys betaal het,<br/>my smarte moes dra.<br/>Ek kniel aan U voete<br/>in diepe berou;<br/>As'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek min U want U het<br/>my eerste bemin;<br/>Ek ag alles skade,<br/>net U as gewin.<br/>Die wêreld versaak ek<br/>om U te behou;<br/>As'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Al moet ek ook gaan<br/>in die skaduvallei,<br/>geen dood sal my ooit<br/>van U liefde kan skei;<br/>Ek sê - as die doodsweet<br/>eens pêrel soos dou -<br/>as'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>In wonings van vrede,<br/>verruklik en skoon<br/>ontvang ek van U,<br/>onverwelklik, my kroon<br/>en sing in aanbidding,<br/>as ek U aanskou:<br/>As'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+  <properties>
+    <titles>
+      <title>AL234 - My Heer, Ek Bemin U</title>
+      <title>My Jesus, I love Thee, I know Thou art mine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="234"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Heer, ek bemin U<br/>wat op Golgota<br/>my losprys betaal het,<br/>my smarte moes dra.<br/>Ek kniel aan U voete<br/>in diepe berou;<br/>As'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek min U want U het<br/>my eerste bemin;<br/>Ek ag alles skade,<br/>net U as gewin.<br/>Die wêreld versaak ek<br/>om U te behou;<br/>As'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al moet ek ook gaan<br/>in die skaduvallei,<br/>geen dood sal my ooit<br/>van U liefde kan skei;<br/>Ek sê - as die doodsweet<br/>eens pêrel soos dou -<br/>as'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In wonings van vrede,<br/>verruklik en skoon<br/>ontvang ek van U,<br/>onverwelklik, my kroon<br/>en sing in aanbidding,<br/>as ek U aanskou:<br/>As'k U ooit bemin het,<br/>my Heer, is dit nou.</lines>
+    </verse>
+  </lyrics>
 </song>

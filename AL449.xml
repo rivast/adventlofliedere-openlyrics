@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL449 - As Hy Weer Kom</title>
-   <title language="en">When He cometh, when He cometh</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="449"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>As Hy weer kom, as Hy weer kom,<br/>kom haal Hy Sy pêrels,<br/>al Sy pêrels, fraaie pêrels<br/>vir Jesus se kroon.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hy versamel, Hy versamel<br/>die hemel se pêrels;<br/>al die reines, al die skones,<br/>vir Jesus se kroon.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Al die kinders, al die kinders<br/>wat Jesus gehoorsaam,<br/>is die pêrels, fraaie pêrels,<br/>vir Jesus se kroon.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Al die kindergesiggies<br/>soos die sterre se liggies,<br/>is die hemel se pêrels<br/>vir Jesus se kroon</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:22">
+  <properties>
+    <titles>
+      <title>AL449 - As Hy Weer Kom</title>
+      <title>When He cometh, when He cometh</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="449"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As Hy weer kom, as Hy weer kom,<br/>kom haal Hy Sy pêrels,<br/>al Sy pêrels, fraaie pêrels<br/>vir Jesus se kroon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hy versamel, Hy versamel<br/>die hemel se pêrels;<br/>al die reines, al die skones,<br/>vir Jesus se kroon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al die kinders, al die kinders<br/>wat Jesus gehoorsaam,<br/>is die pêrels, fraaie pêrels,<br/>vir Jesus se kroon.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Al die kindergesiggies<br/>soos die sterre se liggies,<br/>is die hemel se pêrels<br/>vir Jesus se kroon</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL379 - O Plegtig Is Die Werklikheid!</title>
-   <title language="en">O solemn thought! and can it be</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="379"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O plegtig is die werklikheid!<br/>Die uur van oordeel het gekom<br/>wat elke mens se lot getrou beslis<br/>vir wel of wee voor Hom.<br/>Ja, dit is so: die oordeelsuur<br/>haas vinnig na die ewigheid<br/>wanneer die Regter sal verskyn<br/>om reg te spreek in majesteit.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hy wat moes kom om hier te sterf<br/>as offer vir misdadigheid,<br/>en opgevaar het na Sy huis,<br/>is eerlank vir Sy koms bereid.<br/>Hy staan nou in die heiligdom<br/>waar Hy as Hoëpriester dien,<br/>dat elkeen wat Sy Naam bely<br/>Sy heerlik aangesig mag sien.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Straks breek die oomblik plegtig aan<br/>dat elk wat hier Sy Naam bely,<br/>allenig voor sy God moet staan<br/>om daar sy loon of straf te kry.<br/>O Jesus, onse Middelaar,<br/>by U wil ons genade soek;<br/>Bely ons name voor Gods troon<br/>en wis ons sondes uit U boek.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>O dierb're Heer, laat ons besef<br/>die plegtigheid van hierdie uur;<br/>Vul met U ywer elke hart,<br/>en wil in ons U liefde stuur.<br/>Dat ons mag sterk wees in U krag<br/>en dapper as die stryd ontbrand,<br/>dan sal ons bo-op Sion staan,<br/>oorwinnaars in die Vaderland!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:18">
+  <properties>
+    <titles>
+      <title>AL379 - O Plegtig Is Die Werklikheid!</title>
+      <title>O solemn thought! and can it be</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="379"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O plegtig is die werklikheid!<br/>Die uur van oordeel het gekom<br/>wat elke mens se lot getrou beslis<br/>vir wel of wee voor Hom.<br/>Ja, dit is so: die oordeelsuur<br/>haas vinnig na die ewigheid<br/>wanneer die Regter sal verskyn<br/>om reg te spreek in majesteit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hy wat moes kom om hier te sterf<br/>as offer vir misdadigheid,<br/>en opgevaar het na Sy huis,<br/>is eerlank vir Sy koms bereid.<br/>Hy staan nou in die heiligdom<br/>waar Hy as Hoëpriester dien,<br/>dat elkeen wat Sy Naam bely<br/>Sy heerlik aangesig mag sien.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Straks breek die oomblik plegtig aan<br/>dat elk wat hier Sy Naam bely,<br/>allenig voor sy God moet staan<br/>om daar sy loon of straf te kry.<br/>O Jesus, onse Middelaar,<br/>by U wil ons genade soek;<br/>Bely ons name voor Gods troon<br/>en wis ons sondes uit U boek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O dierb're Heer, laat ons besef<br/>die plegtigheid van hierdie uur;<br/>Vul met U ywer elke hart,<br/>en wil in ons U liefde stuur.<br/>Dat ons mag sterk wees in U krag<br/>en dapper as die stryd ontbrand,<br/>dan sal ons bo-op Sion staan,<br/>oorwinnaars in die Vaderland!</lines>
+    </verse>
+  </lyrics>
 </song>

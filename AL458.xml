@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL458 - Sterretjies Wat Skitter</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="458"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Sterretjies wat skitter<br/>aan die hemelblou,<br/>ek het soms gewonder<br/>of jul nog onthou<br/>hoe daar een soos julle<br/>eenmaal was bestem<br/>as die gids van wyses<br/>na ou Betlehem.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Het jul die geskenke<br/>vir die kind gesien,<br/>en die stal en krippie<br/>wat as wieg moes dien,<br/>hoe hul Hom aanbid het<br/>soos dit hul betaam -<br/>Hom die vreemd kindjie<br/>met die vreemde Naam?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Het jul ooit die moeders<br/>pleitend daar sien staan<br/>waar die wrede manne<br/>met die swaarde slaan?<br/>Het jul ook vir Josef<br/>vlugtend weg sien ry<br/>na die land Egipte -<br/>deur jul lig gelei?</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Het jul Hom sien goed doen<br/>waar Hy rond moes swerf?<br/>Weet jul hoe vir sondaars<br/>Hy die dood moes sterf?<br/>Sterretjies wat skitter,<br/>het jul al vergeet?<br/>Wat jul daar gesien het,<br/>sou ek graag wou weet!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:23">
+  <properties>
+    <titles>
+      <title>AL458 - Sterretjies Wat Skitter</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="458"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sterretjies wat skitter<br/>aan die hemelblou,<br/>ek het soms gewonder<br/>of jul nog onthou<br/>hoe daar een soos julle<br/>eenmaal was bestem<br/>as die gids van wyses<br/>na ou Betlehem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Het jul die geskenke<br/>vir die kind gesien,<br/>en die stal en krippie<br/>wat as wieg moes dien,<br/>hoe hul Hom aanbid het<br/>soos dit hul betaam -<br/>Hom die vreemd kindjie<br/>met die vreemde Naam?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Het jul ooit die moeders<br/>pleitend daar sien staan<br/>waar die wrede manne<br/>met die swaarde slaan?<br/>Het jul ook vir Josef<br/>vlugtend weg sien ry<br/>na die land Egipte -<br/>deur jul lig gelei?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Het jul Hom sien goed doen<br/>waar Hy rond moes swerf?<br/>Weet jul hoe vir sondaars<br/>Hy die dood moes sterf?<br/>Sterretjies wat skitter,<br/>het jul al vergeet?<br/>Wat jul daar gesien het,<br/>sou ek graag wou weet!</lines>
+    </verse>
+  </lyrics>
 </song>

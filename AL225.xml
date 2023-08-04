@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL225 - ‘n Lig Verras Die Christen</title>
-   <title language="en">Sometimes a light surprises</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="225"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>‘n Lig verras die Christen<br/>somtyds terwyl Hy sing;<br/>Dit is die Heer se vleuels<br/>wat weer genesing bring;<br/>Hy skenk aan ons na droefheid,<br/>beproewing en geween<br/>‘n tydperk van verligting,<br/>soos sonskyn na die reën.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>In heilige oorpeinsing<br/>van Sy verlossingsplan<br/>word ons gemoed vernuwe,<br/>en al ons vrees verban.<br/>Die onbekende toekoms<br/>gaan ons dan tegemoet<br/>versekerd van Sy liefde<br/>in voor en teëspoed.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Gods volk sal geen gebrek ly;<br/>Hy kan ons nie vergeet;<br/>Die Skepper van die lelies<br/>sal ook Sy kinders kleed.<br/>Die Here voed Sy skepsels<br/>en let op hulle nood;<br/>Hy sorg selfs vir die rawe<br/>en gee Sy kinders brood.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Al sou geen boord of wingerd<br/>ons met Sy vrug verbly,<br/>en op verdorde velde<br/>geen wild of kudde wei;<br/>Nog bly God onveranderd,<br/>en kan ek Hom vertrou;<br/>Ek prys en loof Sy goedheid<br/>wat nimmer sal verflou.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:11">
+  <properties>
+    <titles>
+      <title>AL225 - ‘n Lig Verras Die Christen</title>
+      <title>Sometimes a light surprises</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="225"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‘n Lig verras die Christen<br/>somtyds terwyl Hy sing;<br/>Dit is die Heer se vleuels<br/>wat weer genesing bring;<br/>Hy skenk aan ons na droefheid,<br/>beproewing en geween<br/>‘n tydperk van verligting,<br/>soos sonskyn na die reën.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In heilige oorpeinsing<br/>van Sy verlossingsplan<br/>word ons gemoed vernuwe,<br/>en al ons vrees verban.<br/>Die onbekende toekoms<br/>gaan ons dan tegemoet<br/>versekerd van Sy liefde<br/>in voor en teëspoed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gods volk sal geen gebrek ly;<br/>Hy kan ons nie vergeet;<br/>Die Skepper van die lelies<br/>sal ook Sy kinders kleed.<br/>Die Here voed Sy skepsels<br/>en let op hulle nood;<br/>Hy sorg selfs vir die rawe<br/>en gee Sy kinders brood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Al sou geen boord of wingerd<br/>ons met Sy vrug verbly,<br/>en op verdorde velde<br/>geen wild of kudde wei;<br/>Nog bly God onveranderd,<br/>en kan ek Hom vertrou;<br/>Ek prys en loof Sy goedheid<br/>wat nimmer sal verflou.</lines>
+    </verse>
+  </lyrics>
 </song>

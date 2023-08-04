@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL451 - Ek Is So Bly Dat My Hemelse Heer</title>
-   <title language="en">I am so glad that our Father in heaven</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="451"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek is so bly dat<br/>my hemelse Heer<br/>ons van die liefde<br/>van Jesus wou leer;<br/>Wondere kom deur<br/>Sy woord tot ons vry,<br/>grootste van almal is:<br/>Jesus min my.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Al sou ek wegdwaal<br/>in sonde en kwaad,<br/>Jesus se liefde<br/>sal my nooit verlaat;<br/>Ek het vir Jesus<br/>waarheen ek kan vlug,<br/>as ek verdwaal,<br/>bring Sy liefde my t'rug</lines>
-  </verse>
-  <verse name="v3">
-   <lines>As daar maar een lied is<br/>wat ek kan sing,<br/>as ek daarbowe<br/>my dank aan Hom bring,<br/>dan sal my lied<br/>deur die ewigheid bly:<br/>'o, wat 'n dierbare<br/>Jesus min my!'</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Ek is so bly, want Jesus min my,<br/>Jesus min my, Jesus min my!<br/>Ek is so bly, want Jesus min my,<br/>Jesus bemin ook my.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:22">
+  <properties>
+    <titles>
+      <title>AL451 - Ek Is So Bly Dat My Hemelse Heer</title>
+      <title>I am so glad that our Father in heaven</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="451"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek is so bly dat<br/>my hemelse Heer<br/>ons van die liefde<br/>van Jesus wou leer;<br/>Wondere kom deur<br/>Sy woord tot ons vry,<br/>grootste van almal is:<br/>Jesus min my.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al sou ek wegdwaal<br/>in sonde en kwaad,<br/>Jesus se liefde<br/>sal my nooit verlaat;<br/>Ek het vir Jesus<br/>waarheen ek kan vlug,<br/>as ek verdwaal,<br/>bring Sy liefde my t'rug</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As daar maar een lied is<br/>wat ek kan sing,<br/>as ek daarbowe<br/>my dank aan Hom bring,<br/>dan sal my lied<br/>deur die ewigheid bly:<br/>'o, wat 'n dierbare<br/>Jesus min my!'</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ek is so bly, want Jesus min my,<br/>Jesus min my, Jesus min my!<br/>Ek is so bly, want Jesus min my,<br/>Jesus bemin ook my.</lines>
+    </verse>
+  </lyrics>
 </song>

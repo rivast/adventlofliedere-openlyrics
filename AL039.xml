@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL039 - Die Dag, O Heer, Wat U Gegee Het</title>
-   <title language="en">The day Thou gavest, Lord, is ended</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="039"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Die dag, o Heer, wat U gegee het,<br/>daal in die weste; dit word nag.<br/>Soos ons die oggenduur bestee het<br/>met U, so eindig ons die dag.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ons dank U dat U kerk, steeds wakend,<br/>haar oog oor heel die wêreld hou,<br/>terwyl die aarde, immer kerend,<br/>uit son en ster sy dae bou.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>So breek oor elke land en eiland,<br/>op sy gesette tyd, die dag;<br/>Onafgebroke hoor die Heiland<br/>die loflied van Sy kerk op wag.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Dit sy so, Heer; U troon sal nimmer<br/>soos aardse koninkryke val,<br/>want U gesag verbrei hom immer,<br/>o Koning van die groot heelal.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:59">
+  <properties>
+    <titles>
+      <title>AL039 - Die Dag, O Heer, Wat U Gegee Het</title>
+      <title>The day Thou gavest, Lord, is ended</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="039"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die dag, o Heer, wat U gegee het,<br/>daal in die weste; dit word nag.<br/>Soos ons die oggenduur bestee het<br/>met U, so eindig ons die dag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ons dank U dat U kerk, steeds wakend,<br/>haar oog oor heel die wêreld hou,<br/>terwyl die aarde, immer kerend,<br/>uit son en ster sy dae bou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So breek oor elke land en eiland,<br/>op sy gesette tyd, die dag;<br/>Onafgebroke hoor die Heiland<br/>die loflied van Sy kerk op wag.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dit sy so, Heer; U troon sal nimmer<br/>soos aardse koninkryke val,<br/>want U gesag verbrei hom immer,<br/>o Koning van die groot heelal.</lines>
+    </verse>
+  </lyrics>
 </song>

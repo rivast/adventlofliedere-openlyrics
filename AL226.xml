@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL226 - O Reisiger, So Onbekend</title>
-   <title language="en">Come, O Thou Traveler unknown</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="226"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>o Reisiger, so onbekend,<br/>onsigbaar in die donker nag,<br/>trag nie om U van my te wend;<br/>Ek sal U vashou tot die dag;<br/>Al worstel ek met U alleen<br/>ek kleef U aan tot U my seën.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Daar is geen deug waarop ek roem;<br/>U ken my sonde en my vrees,<br/>en het my op my naam genoem;<br/>Het U dit in U hand gelees?<br/>Maak tog U naam bekend, o Heer,<br/>U weet hoe sterk ek dit begeer.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ek sal U seker nie bevry<br/>voordat U doen wat ek U vra.<br/>Het U, o Heer, gesterf vir my?<br/>Is U die Man van Golgota?<br/>Al breek die dag, U kan nie gaan<br/>aleer ek weet wie voor my staan.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:11">
+  <properties>
+    <titles>
+      <title>AL226 - O Reisiger, So Onbekend</title>
+      <title>Come, O Thou Traveler unknown</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>o Reisiger, so onbekend,<br/>onsigbaar in die donker nag,<br/>trag nie om U van my te wend;<br/>Ek sal U vashou tot die dag;<br/>Al worstel ek met U alleen<br/>ek kleef U aan tot U my seën.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daar is geen deug waarop ek roem;<br/>U ken my sonde en my vrees,<br/>en het my op my naam genoem;<br/>Het U dit in U hand gelees?<br/>Maak tog U naam bekend, o Heer,<br/>U weet hoe sterk ek dit begeer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ek sal U seker nie bevry<br/>voordat U doen wat ek U vra.<br/>Het U, o Heer, gesterf vir my?<br/>Is U die Man van Golgota?<br/>Al breek die dag, U kan nie gaan<br/>aleer ek weet wie voor my staan.</lines>
+    </verse>
+  </lyrics>
 </song>

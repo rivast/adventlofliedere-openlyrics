@@ -1,26 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL057 - Heer, U Glans Verlig Die Hemel</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="057"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Heer, U glans verlig die hemel,<br/>op die aarde skyn dit neer;<br/>Al die eer word U gegewe,<br/>Heilig, heilig is U, Heer!<br/>In die hemel klink 'n loflied,<br/>aarde hoor die eng'leheer,<br/>Heilig, heilig, heilig, singend,<br/>Here God, U Sy die eer!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Broeders, laat ons lofgesange<br/>saamsmelt tot Sy lof en eer.<br/>Hom is al die eer gegewe -<br/>Heilig, heilig is die Heer!<br/>Met Sy eng'leskare voor Hom,<br/>met Sy heil'ge kerk tesaam,<br/>sing ons voor die Heer aanbiddend;<br/>Heilig is Sy grote Naam.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Heer, U glans verlig die hemel,<br/>op die aarde skyn dit neer;<br/>Al die eer word U gegewe,<br/>Heilig, heilig is U, Heer!<br/>Ons bely U naam so heerlik -<br/>Sing dit met die eng'le saam -<br/>Heilig, heilig is U, Here,<br/>Heilig is U grote Naam.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T18:56:14">
+  <properties>
+    <titles>
+      <title>AL057 - Heer, U Glans Verlig Die Hemel</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="057"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Heer, U glans verlig die hemel,<br/>op die aarde skyn dit neer;<br/>Al die eer word U gegewe,<br/>Heilig, heilig is U, Heer!</lines>
+      <lines>In die hemel klink 'n loflied,<br/>aarde hoor die eng'leheer,<br/>Heilig, heilig, heilig, singend,<br/>Here God, U Sy die eer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Broeders, laat ons lofgesange<br/>saamsmelt tot Sy lof en eer.<br/>Hom is al die eer gegewe -<br/>Heilig, heilig is die Heer!</lines>
+      <lines>Met Sy eng'leskare voor Hom,<br/>met Sy heil'ge kerk tesaam,<br/>sing ons voor die Heer aanbiddend;<br/>Heilig is Sy grote Naam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Heer, U glans verlig die hemel,<br/>op die aarde skyn dit neer;<br/>Al die eer word U gegewe,<br/>Heilig, heilig is U, Heer!</lines>
+      <lines>Ons bely U naam so heerlik -<br/>Sing dit met die eng'le saam -<br/>Heilig, heilig is U, Here,<br/>Heilig is U grote Naam.</lines>
+    </verse>
+  </lyrics>
 </song>

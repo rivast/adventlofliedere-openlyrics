@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL169 - Sag En Vol Teerheid Is Jesus Se Roepstem</title>
-   <title language="en">Softly and tenderly Jesus is calling</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="169"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Sag en vol teerheid is Jesus<br/>se roepstem;<br/>Hy roep tot jou en tot my -<br/>Voor die deur staan Hy al kloppend<br/>en wagtend,<br/>Hy wag op jou en op my.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Waarom vertoef ons?<br/>Hoor Jesus se pleitstem;<br/>Hy pleit met jou en met my.<br/>Waarom nog aarsel? Hy bied ons<br/>Sy redding -<br/>Redding vir jou en vir my.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Eens gaan die son van ons lewens<br/>hier onder;<br/>Wat wag vir jou en vir my?<br/>Skadu's rek langer en nag kom<br/>al nader -<br/>Duister vir jou en vir my.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Dink aan die liefde wat Hy ons<br/>beloof het,<br/>liefde vir jou en vir my;<br/>Al is ons sondes soos purper,<br/>Hy reinig,<br/>reinig vir jou en vir my.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Kom tuis, kom nou,<br/>Jy wat so moeg is, kom tuis.<br/>Pleitend vol liefde is Jesus se roepstem<br/>“Kom tot My, sondaar, kom nou!'</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:08">
+  <properties>
+    <titles>
+      <title>AL169 - Sag En Vol Teerheid Is Jesus Se Roepstem</title>
+      <title>Softly and tenderly Jesus is calling</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sag en vol teerheid is Jesus<br/>se roepstem;<br/>Hy roep tot jou en tot my -<br/>Voor die deur staan Hy al kloppend<br/>en wagtend,<br/>Hy wag op jou en op my.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Waarom vertoef ons?<br/>Hoor Jesus se pleitstem;<br/>Hy pleit met jou en met my.<br/>Waarom nog aarsel? Hy bied ons<br/>Sy redding -<br/>Redding vir jou en vir my.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eens gaan die son van ons lewens<br/>hier onder;<br/>Wat wag vir jou en vir my?<br/>Skadu's rek langer en nag kom<br/>al nader -<br/>Duister vir jou en vir my.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dink aan die liefde wat Hy ons<br/>beloof het,<br/>liefde vir jou en vir my;<br/>Al is ons sondes soos purper,<br/>Hy reinig,<br/>reinig vir jou en vir my.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kom tuis, kom nou,<br/>Jy wat so moeg is, kom tuis.<br/>Pleitend vol liefde is Jesus se roepstem<br/>“Kom tot My, sondaar, kom nou!'</lines>
+    </verse>
+  </lyrics>
 </song>

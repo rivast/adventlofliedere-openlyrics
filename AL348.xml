@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL348 - Red Wat Verlore Gaan</title>
-   <title language="en">Rescue the perishing</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="348"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Red wat verlore gaan,<br/>help die wat sterwe,<br/>ruk hul ontfermend<br/>uit sonde en dood;<br/>Ween oor die dwalendes,<br/>staan by die swakkes,<br/>laat hulle hoor van Gods liefde so groot.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Al smaad die mense Hom,<br/>tog wag die Heiland,<br/>wag op die koms<br/>van die sondaars tot Hom.<br/>Hy pleit so tederlik,<br/>roep hulle vriend'lik,<br/>Hy sal vergewe as hulle net kom.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Diep in die sondaarshart<br/>lê daar verbrysel,<br/>tere gevoelens wat<br/>God kan hernieu;<br/>Raak dit met liefde aan,<br/>vriend'lik en teder,<br/>en hul ontwaak met 'n rein melodie.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Red wat verlore gaan,<br/>liefde vereis dit,<br/>krag vir die taak sal die Here jou gee;<br/>Bring hulle almal tog<br/>t'rug na die nou weg,<br/>deel aan die pelgrims<br/>Sy reddingskrag mee!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Red wat verlore gaan,<br/>help die wat sterwe;<br/>Jesus is liefdevol,<br/>Jesus sal red!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:16">
+  <properties>
+    <titles>
+      <title>AL348 - Red Wat Verlore Gaan</title>
+      <title>Rescue the perishing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Red wat verlore gaan,<br/>help die wat sterwe,<br/>ruk hul ontfermend<br/>uit sonde en dood;<br/>Ween oor die dwalendes,<br/>staan by die swakkes,<br/>laat hulle hoor van Gods liefde so groot.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al smaad die mense Hom,<br/>tog wag die Heiland,<br/>wag op die koms<br/>van die sondaars tot Hom.<br/>Hy pleit so tederlik,<br/>roep hulle vriend'lik,<br/>Hy sal vergewe as hulle net kom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Diep in die sondaarshart<br/>lê daar verbrysel,<br/>tere gevoelens wat<br/>God kan hernieu;<br/>Raak dit met liefde aan,<br/>vriend'lik en teder,<br/>en hul ontwaak met 'n rein melodie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Red wat verlore gaan,<br/>liefde vereis dit,<br/>krag vir die taak sal die Here jou gee;<br/>Bring hulle almal tog<br/>t'rug na die nou weg,<br/>deel aan die pelgrims<br/>Sy reddingskrag mee!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Red wat verlore gaan,<br/>help die wat sterwe;<br/>Jesus is liefdevol,<br/>Jesus sal red!</lines>
+    </verse>
+  </lyrics>
 </song>

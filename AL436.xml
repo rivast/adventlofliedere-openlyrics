@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL436 - Na Hierdie Skeem'ring</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="436"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Na hierdie skeem'ring,<br/>o blye môre<br/>as ons met Jesus<br/>daarbo sal woon!<br/>Die stryd geëindig,<br/>o goue môre!<br/>Na hierdie skeem'ring<br/>is vreugde skoon.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Na hierdie skeem'ring<br/>verdwyn die wolke,<br/>geen storme dreig dan,<br/>geen angs of pyn,<br/>o dag van blydskap,<br/>o eeu'ge môre!<br/>Na hierdie skeem'ring,<br/>slegs vreugde rein.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Na hierdie skeem'ring<br/>sal ek gelei word<br/>na God, die Vader<br/>wat ek vereer.<br/>Sy grootste luister,<br/>Sy welkomswoorde<br/>sal daar my deel wees,<br/>by onse Heer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Na hierdie skeem'ring,<br/>blye ontmoeting!<br/>Daar met ons dierb'res<br/>ween ons nie meer.<br/>In daardie tuiste<br/>is nie meer skeiding<br/>na hierdie skeem'ring,<br/>by onse Heer.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:21">
+  <properties>
+    <titles>
+      <title>AL436 - Na Hierdie Skeem'ring</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="436"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na hierdie skeem'ring,<br/>o blye môre<br/>as ons met Jesus<br/>daarbo sal woon!<br/>Die stryd geëindig,<br/>o goue môre!<br/>Na hierdie skeem'ring<br/>is vreugde skoon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na hierdie skeem'ring<br/>verdwyn die wolke,<br/>geen storme dreig dan,<br/>geen angs of pyn,<br/>o dag van blydskap,<br/>o eeu'ge môre!<br/>Na hierdie skeem'ring,<br/>slegs vreugde rein.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na hierdie skeem'ring<br/>sal ek gelei word<br/>na God, die Vader<br/>wat ek vereer.<br/>Sy grootste luister,<br/>Sy welkomswoorde<br/>sal daar my deel wees,<br/>by onse Heer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na hierdie skeem'ring,<br/>blye ontmoeting!<br/>Daar met ons dierb'res<br/>ween ons nie meer.<br/>In daardie tuiste<br/>is nie meer skeiding<br/>na hierdie skeem'ring,<br/>by onse Heer.</lines>
+    </verse>
+  </lyrics>
 </song>

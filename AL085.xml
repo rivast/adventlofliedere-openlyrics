@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL085 - Dis Nag, En Bo Olyfbergkruin</title>
-   <title language="en">'Tis midnight; and on Olive's brow</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="085"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Dis nag; en bo Olyfbergkruin<br/>verflou die sterre een vir een;<br/>Dis nag; en in die donker tuin<br/>stry Jesus in gebed alleen.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Dis nag; verlate en alleen<br/>moet Hy die foltering verduur;<br/>Geen vriend vertroos Hom waar Hy ween<br/>of waak met Hom 'n enkel uur.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Dis nag; die Man van smarte kniel<br/>om vir ons bose skuld te boet;<br/>Net God alleen verlaat Hom nie,<br/>al sweet Hy in die spanning bloed.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Dis nag; die worst'ling is verby,<br/>bleek en verwronge syg Hy neer;<br/>Dis nag; die stryd is nou volstry;<br/>En engele versterk die Heer.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:03">
+  <properties>
+    <titles>
+      <title>AL085 - Dis Nag, En Bo Olyfbergkruin</title>
+      <title>'Tis midnight; and on Olive's brow</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="085"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dis nag; en bo Olyfbergkruin<br/>verflou die sterre een vir een;<br/>Dis nag; en in die donker tuin<br/>stry Jesus in gebed alleen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dis nag; verlate en alleen<br/>moet Hy die foltering verduur;<br/>Geen vriend vertroos Hom waar Hy ween<br/>of waak met Hom 'n enkel uur.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dis nag; die Man van smarte kniel<br/>om vir ons bose skuld te boet;<br/>Net God alleen verlaat Hom nie,<br/>al sweet Hy in die spanning bloed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dis nag; die worst'ling is verby,<br/>bleek en verwronge syg Hy neer;<br/>Dis nag; die stryd is nou volstry;<br/>En engele versterk die Heer.</lines>
+    </verse>
+  </lyrics>
 </song>

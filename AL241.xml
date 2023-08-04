@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL241 - Digby Die Kruis Van Jesus</title>
-   <title language="en">Beneath the cross of Jesus</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="241"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Digby die kruis van Jesus,<br/>o daar vertoef ek graag -<br/>die skadu van 'n reuse rots<br/>wat die vermoeide laaf;<br/>‘n rusplek in die wildernis,<br/>‘n tuiste onverwags;<br/>‘n skuiling teen die middagson<br/>en hitte van die dag.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>En aan die kruis van Jesus<br/>bespeur ek soms my Heer,<br/>soos Hy daar sterwende moes hang,<br/>deur foltering verteer.<br/>O sondaarsliefde, wonderbaar,<br/>oneindig diep en wyd!<br/>Gebroke, wenend treur my siel<br/>oor my onwaardigheid.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ek neem o kruis, U skadu<br/>as toevlugsoord vir my;<br/>Die lig wat uit my Heiland straal,<br/>maak my so innig bly.<br/>Ek skei my van die wêreld af,<br/>ontvlug die aardsgedruis;<br/>My skande is my sondig' self,<br/>my roem alleen die kruis.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+  <properties>
+    <titles>
+      <title>AL241 - Digby Die Kruis Van Jesus</title>
+      <title>Beneath the cross of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="241"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Digby die kruis van Jesus,<br/>o daar vertoef ek graag -<br/>die skadu van 'n reuse rots<br/>wat die vermoeide laaf;<br/>‘n rusplek in die wildernis,<br/>‘n tuiste onverwags;<br/>‘n skuiling teen die middagson<br/>en hitte van die dag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>En aan die kruis van Jesus<br/>bespeur ek soms my Heer,<br/>soos Hy daar sterwende moes hang,<br/>deur foltering verteer.<br/>O sondaarsliefde, wonderbaar,<br/>oneindig diep en wyd!<br/>Gebroke, wenend treur my siel<br/>oor my onwaardigheid.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ek neem o kruis, U skadu<br/>as toevlugsoord vir my;<br/>Die lig wat uit my Heiland straal,<br/>maak my so innig bly.<br/>Ek skei my van die wêreld af,<br/>ontvlug die aardsgedruis;<br/>My skande is my sondig' self,<br/>my roem alleen die kruis.</lines>
+    </verse>
+  </lyrics>
 </song>

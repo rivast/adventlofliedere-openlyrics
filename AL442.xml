@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL442 - Waar Koel Siloam Saggies Bruis</title>
-   <title language="en">By cool Siloam's shady rill</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="442"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Waar koel Siloam saggies bruis,<br/>kan lelies welig groei;<br/>Waar geurbelaaide windjies suis,<br/>kan Saronrose bloei.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Waar liefde in die huis regeer,<br/>en kalme vrede woon,<br/>sal kinders opwas tot Gods eer<br/>en ouersorg beloon.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Van dag tot dag skenk U ons brood,<br/>die lewe, ja, veel meer;<br/>As kind en man en in die dood<br/>bly ons U eie, Heer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:22">
+  <properties>
+    <titles>
+      <title>AL442 - Waar Koel Siloam Saggies Bruis</title>
+      <title>By cool Siloam's shady rill</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="442"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waar koel Siloam saggies bruis,<br/>kan lelies welig groei;<br/>Waar geurbelaaide windjies suis,<br/>kan Saronrose bloei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Waar liefde in die huis regeer,<br/>en kalme vrede woon,<br/>sal kinders opwas tot Gods eer<br/>en ouersorg beloon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Van dag tot dag skenk U ons brood,<br/>die lewe, ja, veel meer;<br/>As kind en man en in die dood<br/>bly ons U eie, Heer!</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL034 - Vader, Ons Dank U Vir Die Nag</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="034"/>
-  </songbooks>
-  <verseOrder>v1 v2</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Vader, ons dank U vir die nag<br/>en vir die môredou se prag,<br/>vir rus en voedsel wat ons kry,<br/>vir alles wat die dag verbly.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Mag ons aan and're doen en sê,<br/>wat U, o Heer, van ons wil hê.<br/>Maak ons in werk en spel en lag<br/>meer liefdevol van dag tot dag.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:59">
+  <properties>
+    <titles>
+      <title>AL034 - Vader, Ons Dank U Vir Die Nag</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="034"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vader, ons dank U vir die nag<br/>en vir die môredou se prag,<br/>vir rus en voedsel wat ons kry,<br/>vir alles wat die dag verbly.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mag ons aan and're doen en sê,<br/>wat U, o Heer, van ons wil hê.<br/>Maak ons in werk en spel en lag<br/>meer liefdevol van dag tot dag.</lines>
+    </verse>
+  </lyrics>
 </song>

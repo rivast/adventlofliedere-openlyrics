@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL029 - Soet Klink Die Oggendsang</title>
-   <title language="en">Sweetly the holy hymn</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="029"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Soet klink die oggendsang<br/>deur klare môrelug,<br/>en voor daar weer 'n rookwaas hang,<br/>wil ons na U toe vlug.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Wyl blomme, doubenat,<br/>wat tot die son verrys,<br/>stort uit U Gees, o Heer, sodat<br/>ons U opreg kan prys.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Beskerm ons met U skild<br/>in die verwoede stryd<br/>teen boesemsonde, wild en wreed<br/>en vol arglistigheid.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Daar op die berg alleen,<br/>lank voor die daeraad,<br/>o Man van smart, het U geween<br/>en U op God verlaat.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Verhoor ons smeekgebed,<br/>want ons is swak en broos.<br/>in Jesus naam wil U ons red<br/>en tederlik vertroos.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:59">
+  <properties>
+    <titles>
+      <title>AL029 - Soet Klink Die Oggendsang</title>
+      <title>Sweetly the holy hymn</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="029"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soet klink die oggendsang<br/>deur klare môrelug,<br/>en voor daar weer 'n rookwaas hang,<br/>wil ons na U toe vlug.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wyl blomme, doubenat,<br/>wat tot die son verrys,<br/>stort uit U Gees, o Heer, sodat<br/>ons U opreg kan prys.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beskerm ons met U skild<br/>in die verwoede stryd<br/>teen boesemsonde, wild en wreed<br/>en vol arglistigheid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daar op die berg alleen,<br/>lank voor die daeraad,<br/>o Man van smart, het U geween<br/>en U op God verlaat.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Verhoor ons smeekgebed,<br/>want ons is swak en broos.<br/>in Jesus naam wil U ons red<br/>en tederlik vertroos.</lines>
+    </verse>
+  </lyrics>
 </song>

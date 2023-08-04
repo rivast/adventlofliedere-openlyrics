@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL398 - Ons Weet Nie Wanneer Hy Sal Kom Nie</title>
-   <title language="en">We know not the time when He cometh</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="398"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ons weet nie wanneer Hy sal kom nie -<br/>met skemer of diep in die nag;<br/>Miskien kom Hy saam met die dagbreek,<br/>maar ons moet Hom altyd verwag.<br/>“Gereed wees en waak', is die boodskap,<br/>ons lampe moet helderder skyn,<br/>met harte volkome gereinig<br/>tot Hy op die wolke verskyn.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek dink aan Sy ewige liefde -<br/>die prys vir ons sonde en haat;<br/>Paleise van heerlike luister<br/>moes Hy vir die sondaar verlaat.<br/>En somtyds dink ek dit behaag Hom<br/>as hulle vir wie Hy moes ly,<br/>die hoop van hul harte verkondig,<br/>deur wakend en wagtend te bly.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>O Jesus, my dierb're Verlosser,<br/>ek koester die hoop oor en oor;<br/>Dat ek, as U kom op die wolke,<br/>U woorde van welkom sal hoor.<br/>Wanneer U verskyn as die Regter,<br/>vir die wat sal wegvlug in rou;<br/>Begroet ek U as my Verlosser!<br/>Ja, kom, Here Jesus, kom gou!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Wakend en biddend,<br/>wakend en biddend;<br/>Wakend en biddend;<br/>Steeds wakend en wagtend vir U.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:19">
+  <properties>
+    <titles>
+      <title>AL398 - Ons Weet Nie Wanneer Hy Sal Kom Nie</title>
+      <title>We know not the time when He cometh</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="398"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ons weet nie wanneer Hy sal kom nie -<br/>met skemer of diep in die nag;<br/>Miskien kom Hy saam met die dagbreek,<br/>maar ons moet Hom altyd verwag.<br/>“Gereed wees en waak', is die boodskap,<br/>ons lampe moet helderder skyn,<br/>met harte volkome gereinig<br/>tot Hy op die wolke verskyn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek dink aan Sy ewige liefde -<br/>die prys vir ons sonde en haat;<br/>Paleise van heerlike luister<br/>moes Hy vir die sondaar verlaat.<br/>En somtyds dink ek dit behaag Hom<br/>as hulle vir wie Hy moes ly,<br/>die hoop van hul harte verkondig,<br/>deur wakend en wagtend te bly.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jesus, my dierb're Verlosser,<br/>ek koester die hoop oor en oor;<br/>Dat ek, as U kom op die wolke,<br/>U woorde van welkom sal hoor.<br/>Wanneer U verskyn as die Regter,<br/>vir die wat sal wegvlug in rou;<br/>Begroet ek U as my Verlosser!<br/>Ja, kom, Here Jesus, kom gou!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wakend en biddend,<br/>wakend en biddend;<br/>Wakend en biddend;<br/>Steeds wakend en wagtend vir U.</lines>
+    </verse>
+  </lyrics>
 </song>

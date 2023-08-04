@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL043 - Heiland, Strek U Hande Helend</title>
-   <title language="en">Saviour, breathe an evening blessing</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="043"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Heiland, strek U hande helend<br/>in die aanduur oor ons uit;<br/>Eerdat soete sluimer strelend<br/>ons vermoeide oë sluit.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Waar U waak deur donker nagte,<br/>rus ons sag en kommervry;<br/>O, hoe soet is die gedagte<br/>dat geen nag ons van U skei!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Self wanneer verwoesting om ons<br/>wandel en die pyle val,<br/>vrees ons nie, want kyk, rondom ons<br/>staan die eng'lewagte pal.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>As die dood vannag ons woning<br/>skielik, onverwags betree,<br/>wek ons weer, o Hemelkoning,<br/>met onsterflikheid beklee.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:00">
+  <properties>
+    <titles>
+      <title>AL043 - Heiland, Strek U Hande Helend</title>
+      <title>Saviour, breathe an evening blessing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="043"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heiland, strek U hande helend<br/>in die aanduur oor ons uit;<br/>Eerdat soete sluimer strelend<br/>ons vermoeide oë sluit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Waar U waak deur donker nagte,<br/>rus ons sag en kommervry;<br/>O, hoe soet is die gedagte<br/>dat geen nag ons van U skei!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Self wanneer verwoesting om ons<br/>wandel en die pyle val,<br/>vrees ons nie, want kyk, rondom ons<br/>staan die eng'lewagte pal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As die dood vannag ons woning<br/>skielik, onverwags betree,<br/>wek ons weer, o Hemelkoning,<br/>met onsterflikheid beklee.</lines>
+    </verse>
+  </lyrics>
 </song>

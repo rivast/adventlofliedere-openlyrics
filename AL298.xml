@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL298 - Herder Van Prille Jeug</title>
-   <title language="en">Shepherd of tender youth</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="298"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Herder van prille jeug,<br/>wat waarheid leer en deug,<br/>U is alwys!<br/>Christus, Oorwinnaar, Heer,<br/>ons wil U Naam vereer,<br/>en ook ons kinders leer<br/>om U te prys.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Heilig is U, ons God,<br/>U Woord en U gebod<br/>skik alle twis;<br/>U het in smaad gesterf,<br/>en onse heil verwerf;<br/>Uit allerdiepst' verderf<br/>red U gewis.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ons Hoëpriester,<br/>Hy wat ons 'n fees<br/>berei so liefderyk<br/>Hy lenig onse pyn,<br/>laat angs en vrees verdwyn,<br/>en maak ons harte rein;<br/>Laat sonde wyk.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Wees onse Gids, o Heer,<br/>dan kan geen kwaad ons deer.<br/>Sterk ons geloof,<br/>lei in U eie spoor;<br/>Laat ons U woorde hoor,<br/>gaan self U kinders voor,<br/>ons Heer en Hoof!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:14">
+  <properties>
+    <titles>
+      <title>AL298 - Herder Van Prille Jeug</title>
+      <title>Shepherd of tender youth</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herder van prille jeug,<br/>wat waarheid leer en deug,<br/>U is alwys!<br/>Christus, Oorwinnaar, Heer,<br/>ons wil U Naam vereer,<br/>en ook ons kinders leer<br/>om U te prys.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heilig is U, ons God,<br/>U Woord en U gebod<br/>skik alle twis;<br/>U het in smaad gesterf,<br/>en onse heil verwerf;<br/>Uit allerdiepst' verderf<br/>red U gewis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ons Hoëpriester,<br/>Hy wat ons 'n fees<br/>berei so liefderyk<br/>Hy lenig onse pyn,<br/>laat angs en vrees verdwyn,<br/>en maak ons harte rein;<br/>Laat sonde wyk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wees onse Gids, o Heer,<br/>dan kan geen kwaad ons deer.<br/>Sterk ons geloof,<br/>lei in U eie spoor;<br/>Laat ons U woorde hoor,<br/>gaan self U kinders voor,<br/>ons Heer en Hoof!</lines>
+    </verse>
+  </lyrics>
 </song>

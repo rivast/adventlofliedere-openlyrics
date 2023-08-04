@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL087 - Gaan Na Bang Getsemane</title>
-   <title language="en">Go to dark Gethsemane</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="087"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Gaan na bang Getsemane<br/>as versoekings om jou woed;<br/>Maak met Hom die worst'ling mee;<br/>Waar die Heer moes stry tot bloed:<br/>moet die beker nie vermy:<br/>leer, soos Hy, die stryd volstry.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Volg Hom voor die Joodse Raad,<br/>vals beskuldig en bespot;<br/>Kyk hoe wreed word Hy gesmaad,<br/>liefde dra die mens se lot!<br/>Word ook jy verag, verguis?<br/>Dra, soos Jesus, stil jou kruis.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Kom, bestyg ook Golgota,<br/>kniel daar by Sy voete neer<br/>waar Hy wrede smart moes dra.<br/>O, die wonder van die Heer!<br/>Hoor, Hy roep: “Dit is verby!'<br/>Leer ons om te sterf soos Hy.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:03">
+  <properties>
+    <titles>
+      <title>AL087 - Gaan Na Bang Getsemane</title>
+      <title>Go to dark Gethsemane</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="087"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gaan na bang Getsemane<br/>as versoekings om jou woed;<br/>Maak met Hom die worst'ling mee;<br/>Waar die Heer moes stry tot bloed:<br/>moet die beker nie vermy:<br/>leer, soos Hy, die stryd volstry.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Volg Hom voor die Joodse Raad,<br/>vals beskuldig en bespot;<br/>Kyk hoe wreed word Hy gesmaad,<br/>liefde dra die mens se lot!<br/>Word ook jy verag, verguis?<br/>Dra, soos Jesus, stil jou kruis.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kom, bestyg ook Golgota,<br/>kniel daar by Sy voete neer<br/>waar Hy wrede smart moes dra.<br/>O, die wonder van die Heer!<br/>Hoor, Hy roep: “Dit is verby!'<br/>Leer ons om te sterf soos Hy.</lines>
+    </verse>
+  </lyrics>
 </song>

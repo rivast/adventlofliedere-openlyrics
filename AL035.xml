@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL035 - Son Van My Siel</title>
-   <title language="en">Sun of my soul, O Saviour dear!</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="035"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Son van my siel, getroue Heer,<br/>daar is geen nag waar U regeer;<br/>Laat tog geen donker aardse wolk<br/>U skei, o Here, van U volk.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>As sagte sluimer my omvou,<br/>weet ek dat U die wag sal hou;<br/>Van U getroue sorg bewus,<br/>versink my gees in soete rus.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Bly U by my van vroeg tot laat!<br/>U is my hulp, my toeverlaat;<br/>Bly U by my waar ek mag swerf;<br/>Want sonder U durf ek nie sterf.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>O seën my as ek ontwaak<br/>en sterk my vir die dag se taak -<br/>tot in verrukking eens my oog<br/>U sal aanskou, my Heer, omhoog.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:59">
+  <properties>
+    <titles>
+      <title>AL035 - Son Van My Siel</title>
+      <title>Sun of my soul, O Saviour dear!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="035"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Son van my siel, getroue Heer,<br/>daar is geen nag waar U regeer;<br/>Laat tog geen donker aardse wolk<br/>U skei, o Here, van U volk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As sagte sluimer my omvou,<br/>weet ek dat U die wag sal hou;<br/>Van U getroue sorg bewus,<br/>versink my gees in soete rus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bly U by my van vroeg tot laat!<br/>U is my hulp, my toeverlaat;<br/>Bly U by my waar ek mag swerf;<br/>Want sonder U durf ek nie sterf.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O seën my as ek ontwaak<br/>en sterk my vir die dag se taak -<br/>tot in verrukking eens my oog<br/>U sal aanskou, my Heer, omhoog.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL320 - Ek Het U Nodig, Jesus</title>
-   <title language="en">I need Thee, precious Jesus</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="320"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek het U nodig, Jesus,<br/>want ek is arm en swak -<br/>‘n swerwer en 'n pelgrim<br/>gekleed in as en sak.<br/>Ek het U liefde nodig,<br/>dit maak my laste lig;<br/>Dit lei my trae skrede<br/>en skenk my krag vir plig.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>U hart, Heer, het ek nodig,<br/>oor al my sorg begaan,<br/>wat deel in my beproewings,<br/>en my verdriet verstaan.<br/>U Gees het ek ook nodig<br/>om self aan my te toon,<br/>om my te leer van Jesus -<br/>te lei tot voor Sy troon.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ek het U nodig, Jesus;<br/>Ek sal U spoedig sien<br/>omsirkel met 'n reënboog<br/>waar engele U dien.<br/>Daar met verloste skares<br/>sien ons U, Heer en Hoof;<br/>Met vreugde in ons harte<br/>sal ons U ewig loof.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+  <properties>
+    <titles>
+      <title>AL320 - Ek Het U Nodig, Jesus</title>
+      <title>I need Thee, precious Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="320"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek het U nodig, Jesus,<br/>want ek is arm en swak -<br/>‘n swerwer en 'n pelgrim<br/>gekleed in as en sak.<br/>Ek het U liefde nodig,<br/>dit maak my laste lig;<br/>Dit lei my trae skrede<br/>en skenk my krag vir plig.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>U hart, Heer, het ek nodig,<br/>oor al my sorg begaan,<br/>wat deel in my beproewings,<br/>en my verdriet verstaan.<br/>U Gees het ek ook nodig<br/>om self aan my te toon,<br/>om my te leer van Jesus -<br/>te lei tot voor Sy troon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ek het U nodig, Jesus;<br/>Ek sal U spoedig sien<br/>omsirkel met 'n reënboog<br/>waar engele U dien.<br/>Daar met verloste skares<br/>sien ons U, Heer en Hoof;<br/>Met vreugde in ons harte<br/>sal ons U ewig loof.</lines>
+    </verse>
+  </lyrics>
 </song>

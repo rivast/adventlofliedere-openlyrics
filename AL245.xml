@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL245 - Ek Lê My Skuld Op Jesus</title>
-   <title language="en">I lay my sins on Jesus</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="245"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek lê my skuld op Jesus<br/>die Offerlam van God;<br/>Hy dra die vloek en skande,<br/>gehoorsaam Gods gebod.<br/>Ek bring my sonde na Hom<br/>en in Sy dierb're bloed<br/>was Hy my en skenk vrede<br/>en rus in my gemoed.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek lê al my behoeftes<br/>op Jesus wat voorsien;<br/>En Hy genees my krankheid,<br/>gee meer as ek verdien.<br/>Ek lê my leed op Jesus,<br/>my laste en verdriet,<br/>en Hy verlos van almal,<br/>want Hy kan vrede bied.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ag, maak my tog soos Jesus<br/>so need'rig en so goed,<br/>o Vader van my Heiland,<br/>in alle teëspoed!<br/>O bring my tog by Jesus<br/>as die verloste skaar<br/>Hom loof saam met die eng'le,<br/>ag, wanneer kom ons daar!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+  <properties>
+    <titles>
+      <title>AL245 - Ek Lê My Skuld Op Jesus</title>
+      <title>I lay my sins on Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="245"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek lê my skuld op Jesus<br/>die Offerlam van God;<br/>Hy dra die vloek en skande,<br/>gehoorsaam Gods gebod.<br/>Ek bring my sonde na Hom<br/>en in Sy dierb're bloed<br/>was Hy my en skenk vrede<br/>en rus in my gemoed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek lê al my behoeftes<br/>op Jesus wat voorsien;<br/>En Hy genees my krankheid,<br/>gee meer as ek verdien.<br/>Ek lê my leed op Jesus,<br/>my laste en verdriet,<br/>en Hy verlos van almal,<br/>want Hy kan vrede bied.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ag, maak my tog soos Jesus<br/>so need'rig en so goed,<br/>o Vader van my Heiland,<br/>in alle teëspoed!<br/>O bring my tog by Jesus<br/>as die verloste skaar<br/>Hom loof saam met die eng'le,<br/>ag, wanneer kom ons daar!</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL365 - In Die Hart Van Jesus</title>
-   <title language="en">In the heart of Jesus</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="365"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>In die hart van Jesus<br/>is daar ook vir jou<br/>liefde, rein en teder,<br/>soos die môredou;<br/>Waarom voel jy eensaam,<br/>sonder vriendekring,<br/>as die hart van Jesus<br/>aan jou volheid bring?</lines>
-  </verse>
-  <verse name="v2">
-   <lines>In die siel van Jesus<br/>is gena vir jou<br/>wat verwarm soos sonskyn,<br/>en verkwik soos dou;<br/>Waarom sou jy toegee<br/>aan bekommernis<br/>as die siel van Jesus<br/>vol ontferming is?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>In die werk van Jesus<br/>is 'n taak vir jou,<br/>wat Hy selfs aan eng'le<br/>nie wou toevertrou;<br/>Waarom staan jy ledig,<br/>loop met trae tred,<br/>as die saak van Jesus<br/>jou van node het?</lines>
-  </verse>
-  <verse name="v4">
-   <lines>In die huis van Jesus<br/>is 'n plek vir jou,<br/>rustig en gelukkig,<br/>skoon om te aanskou;<br/>Waarom sou jy droewig<br/>rondswerf in verdriet,<br/>as die huis van Jesus<br/>jou 'n woning bied.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:17">
+  <properties>
+    <titles>
+      <title>AL365 - In Die Hart Van Jesus</title>
+      <title>In the heart of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="365"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In die hart van Jesus<br/>is daar ook vir jou<br/>liefde, rein en teder,<br/>soos die môredou;<br/>Waarom voel jy eensaam,<br/>sonder vriendekring,<br/>as die hart van Jesus<br/>aan jou volheid bring?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In die siel van Jesus<br/>is gena vir jou<br/>wat verwarm soos sonskyn,<br/>en verkwik soos dou;<br/>Waarom sou jy toegee<br/>aan bekommernis<br/>as die siel van Jesus<br/>vol ontferming is?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In die werk van Jesus<br/>is 'n taak vir jou,<br/>wat Hy selfs aan eng'le<br/>nie wou toevertrou;<br/>Waarom staan jy ledig,<br/>loop met trae tred,<br/>as die saak van Jesus<br/>jou van node het?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In die huis van Jesus<br/>is 'n plek vir jou,<br/>rustig en gelukkig,<br/>skoon om te aanskou;<br/>Waarom sou jy droewig<br/>rondswerf in verdriet,<br/>as die huis van Jesus<br/>jou 'n woning bied.</lines>
+    </verse>
+  </lyrics>
 </song>

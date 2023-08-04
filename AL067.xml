@@ -1,27 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL067 - Ek Loof U Grote Mag, O God</title>
-   <title language="en">I sing the mighty power of God</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="067"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek loof U grote mag, o God<br/>wat setel in U Woord,<br/>U spreek, en daar kom berg en see<br/>en bloue heem'le voort!<br/>Ek loof die wysheid wat bedags<br/>die son oor ons laat skyn,<br/>en ons die maan en sterre gee<br/>wanneer die son verdwyn.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek loof U milde sorg, o Heer,<br/>wat al U skepsels voed,<br/>ja, alles wat U hand formeer<br/>is wonderbaarlik goed!<br/>So ver die menseoog kan reik<br/>sien ons U handewerk -<br/>die aarde in haar vrugbaarheid,<br/>die peilloos bloue swerk!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>‘n Glorieblyk is elke plant<br/>en blommekelk wat vorm,<br/>ons hoor U stem in donderwolk<br/>en in die woeste storm!<br/>Skepsels aan wie U lewe skenk,<br/>sal steeds U sorg ervaar;<br/>Ja, waar ek my ook mag bevind,<br/>God is teenwoordig daar!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T19:04:52">
+  <properties>
+    <titles>
+      <title>AL067 - Ek Loof U Grote Mag, O God</title>
+      <title>I sing the mighty power of God</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="067"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ek loof U grote mag, o God<br/>wat setel in U Woord,<br/>U spreek, en daar kom berg en see<br/>en bloue heem'le voort!</lines>
+      <lines>Ek loof die wysheid wat bedags<br/>die son oor ons laat skyn,<br/>en ons die maan en sterre gee<br/>wanneer die son verdwyn.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Ek loof U milde sorg, o Heer,<br/>wat al U skepsels voed,<br/>ja, alles wat U hand formeer<br/>is wonderbaarlik goed!</lines>
+      <lines>So ver die menseoog kan reik<br/>sien ons U handewerk -<br/>die aarde in haar vrugbaarheid,<br/>die peilloos bloue swerk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">‘n Glorieblyk is elke plant<br/>en blommekelk wat vorm,<br/>ons hoor U stem in donderwolk<br/>en in die woeste storm!</lines>
+      <lines>Skepsels aan wie U lewe skenk,<br/>sal steeds U sorg ervaar;<br/>Ja, waar ek my ook mag bevind,<br/>God is teenwoordig daar!</lines>
+    </verse>
+  </lyrics>
 </song>

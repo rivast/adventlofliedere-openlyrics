@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL222 - Ek Hunker Elke Uur</title>
-   <title language="en">I need Thee every hour</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="222"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek hunker elke uur<br/>na U, o Heer,<br/>geen ander stem kan my<br/>gemoed kalmeer.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek hunker na U, Heer;<br/>Wees my naby,<br/>versoekings het geen mag<br/>as U my lei.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ek hunker na U, Heer,<br/>in vreug en pyn;<br/>Die lewe sonder U<br/>is ydel skyn.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Ek hunker na U, Heer;<br/>Leer my U wil,<br/>kom U beloftes nou<br/>in my vervul.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Ek hunker na U, Heer;<br/>My Krag en Steun,<br/>neem my nou as U kind,<br/>geseënde Seun!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Heer, ek het U so nodig!<br/>Elke uur so nodig!<br/>Kom seën my, o Heiland,<br/>ek kom tot U.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:11">
+  <properties>
+    <titles>
+      <title>AL222 - Ek Hunker Elke Uur</title>
+      <title>I need Thee every hour</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="222"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek hunker elke uur<br/>na U, o Heer,<br/>geen ander stem kan my<br/>gemoed kalmeer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek hunker na U, Heer;<br/>Wees my naby,<br/>versoekings het geen mag<br/>as U my lei.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ek hunker na U, Heer,<br/>in vreug en pyn;<br/>Die lewe sonder U<br/>is ydel skyn.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ek hunker na U, Heer;<br/>Leer my U wil,<br/>kom U beloftes nou<br/>in my vervul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ek hunker na U, Heer;<br/>My Krag en Steun,<br/>neem my nou as U kind,<br/>geseënde Seun!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Heer, ek het U so nodig!<br/>Elke uur so nodig!<br/>Kom seën my, o Heiland,<br/>ek kom tot U.</lines>
+    </verse>
+  </lyrics>
 </song>

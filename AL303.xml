@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL303 - O Jehova, Gaan U Voor My</title>
-   <title language="en">Guide me, O Thou great Jehovah!</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="303"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O Jehova, gaan U voor my,<br/>pelgrim deur 'n dorre land;<br/>Ek is swak maar U is magtig;<br/>Lei my met U sterke hand.<br/>Lewegewer, Lewegewer;<br/>Voed my met die Lewensbrood!<br/>Voed my met die Lewensbrood!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Laat die waters van genesing<br/>altyd langs my weë vloei,<br/>stuur die wolkkolom se skadu<br/>as die middagson my skroei;<br/>Sterke Redder, sterke Redder;<br/>Wees U krag en skild vir my.<br/>Wees U krag en skild vir my.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Laat my sonder angs of vrese<br/>deur die doodsjordaan ook gaan;<br/>Lei my veilig deur die water<br/>tot ek eens in Kanaän staan.<br/>Lofgesange, lofgesange,<br/>sing ek dan U Naam ter eer!<br/>Sing ek dan U Naam ter eer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+  <properties>
+    <titles>
+      <title>AL303 - O Jehova, Gaan U Voor My</title>
+      <title>Guide me, O Thou great Jehovah!</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="303"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jehova, gaan U voor my,<br/>pelgrim deur 'n dorre land;<br/>Ek is swak maar U is magtig;<br/>Lei my met U sterke hand.<br/>Lewegewer, Lewegewer;<br/>Voed my met die Lewensbrood!<br/>Voed my met die Lewensbrood!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Laat die waters van genesing<br/>altyd langs my weë vloei,<br/>stuur die wolkkolom se skadu<br/>as die middagson my skroei;<br/>Sterke Redder, sterke Redder;<br/>Wees U krag en skild vir my.<br/>Wees U krag en skild vir my.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Laat my sonder angs of vrese<br/>deur die doodsjordaan ook gaan;<br/>Lei my veilig deur die water<br/>tot ek eens in Kanaän staan.<br/>Lofgesange, lofgesange,<br/>sing ek dan U Naam ter eer!<br/>Sing ek dan U Naam ter eer!</lines>
+    </verse>
+  </lyrics>
 </song>

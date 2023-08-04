@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL010 - Met Eerbied Moet Die Heil'ges Wag</title>
-   <title language="en">With reverence let the saints appear</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="010"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Met eerbied moet die heil'ges wag<br/>en need'rig kniel voor God;<br/>Beef voor Sy Woord met diep ontsag,<br/>getrou aan Sy gebod.<br/>Getrou aan Sy gebod.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hoe vreeslik is U majesteit!<br/>Hoe groot U leërskaar!<br/>Wie kan U teenstaan in die stryd,<br/>of waarheid spreek so klaar.<br/>Of waarheid spreek so klaar.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Sing, vrygekooptes van die Heer,<br/>van U Verlosser, sing!<br/>Pelgrims op weg na Sion, leer<br/>u Koning hulde bring.<br/>U Koning hulde bring.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>O Jesus, onse Hemelheer,<br/>wat steeds U volk vertroos,<br/>U kom toe al die dank en eer<br/>vir ewig en altoos.<br/>Vir ewig en altoos.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:58">
+  <properties>
+    <titles>
+      <title>AL010 - Met Eerbied Moet Die Heil'ges Wag</title>
+      <title>With reverence let the saints appear</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="010"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Met eerbied moet die heil'ges wag<br/>en need'rig kniel voor God;<br/>Beef voor Sy Woord met diep ontsag,<br/>getrou aan Sy gebod.<br/>Getrou aan Sy gebod.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoe vreeslik is U majesteit!<br/>Hoe groot U leërskaar!<br/>Wie kan U teenstaan in die stryd,<br/>of waarheid spreek so klaar.<br/>Of waarheid spreek so klaar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing, vrygekooptes van die Heer,<br/>van U Verlosser, sing!<br/>Pelgrims op weg na Sion, leer<br/>u Koning hulde bring.<br/>U Koning hulde bring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jesus, onse Hemelheer,<br/>wat steeds U volk vertroos,<br/>U kom toe al die dank en eer<br/>vir ewig en altoos.<br/>Vir ewig en altoos.</lines>
+    </verse>
+  </lyrics>
 </song>

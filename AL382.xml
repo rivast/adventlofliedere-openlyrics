@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL382 - Hoe Lieflik Is Die Sabbatdag</title>
-   <title language="en">How sweet upon this sacred day</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="382"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Hoe lieflik is die Sabbatdag,<br/>die beste van die week,<br/>wanneer ons van ons werke rus,<br/>en aardse bande breek!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hoe lieflik dat ons saam kan bid -<br/>om skuldvergifnis smeek;<br/>Om soos 'n kind na Hom te gaan,<br/>en met ons Vader spreek.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Hoe lieflik as die Here spreek:<br/>“Nou is jy wit soos wol'.<br/>Dit maak jou hart met hemelsrus<br/>en reine vreugde vol.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Omdat ons nie deur eie krag<br/>die sonde kan bestry,<br/>maak Jesus ons genadiglik<br/>van al ons sondes vry.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:18">
+  <properties>
+    <titles>
+      <title>AL382 - Hoe Lieflik Is Die Sabbatdag</title>
+      <title>How sweet upon this sacred day</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="382"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoe lieflik is die Sabbatdag,<br/>die beste van die week,<br/>wanneer ons van ons werke rus,<br/>en aardse bande breek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoe lieflik dat ons saam kan bid -<br/>om skuldvergifnis smeek;<br/>Om soos 'n kind na Hom te gaan,<br/>en met ons Vader spreek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoe lieflik as die Here spreek:<br/>“Nou is jy wit soos wol'.<br/>Dit maak jou hart met hemelsrus<br/>en reine vreugde vol.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Omdat ons nie deur eie krag<br/>die sonde kan bestry,<br/>maak Jesus ons genadiglik<br/>van al ons sondes vry.</lines>
+    </verse>
+  </lyrics>
 </song>

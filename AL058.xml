@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL058 - O God, Ons Toevlugsoord En Krag</title>
-   <title language="en">O God, our help in ages past</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="058"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O God, ons toevlugsoord en krag<br/>deur al die eeue heen;<br/>Tot in die verste nageslag<br/>hoop ons op U alleen.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Onder die skadu van U troon,<br/>waar onheil nimmer deer,<br/>kan al U kinders veilig woon<br/>o allerhoogste Heer!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Voor berge in die vroegste tyd<br/>uit dieptes kon verrys;<br/>Van ewigheid tot ewigheid<br/>is U, o God, alwys!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Want duisend jaar is in U oog<br/>slegs soos 'n skemer uur -<br/>In die oneindigheid omhoog,<br/>‘n nagwaak, kort van duur.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>O God, ons toevlugsoord en krag<br/>deur al die eeue heen;<br/>Wees U ons Leidsman elke dag,<br/>ons woning, U alleen.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:01">
+  <properties>
+    <titles>
+      <title>AL058 - O God, Ons Toevlugsoord En Krag</title>
+      <title>O God, our help in ages past</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="058"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God, ons toevlugsoord en krag<br/>deur al die eeue heen;<br/>Tot in die verste nageslag<br/>hoop ons op U alleen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Onder die skadu van U troon,<br/>waar onheil nimmer deer,<br/>kan al U kinders veilig woon<br/>o allerhoogste Heer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Voor berge in die vroegste tyd<br/>uit dieptes kon verrys;<br/>Van ewigheid tot ewigheid<br/>is U, o God, alwys!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Want duisend jaar is in U oog<br/>slegs soos 'n skemer uur -<br/>In die oneindigheid omhoog,<br/>‘n nagwaak, kort van duur.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O God, ons toevlugsoord en krag<br/>deur al die eeue heen;<br/>Wees U ons Leidsman elke dag,<br/>ons woning, U alleen.</lines>
+    </verse>
+  </lyrics>
 </song>

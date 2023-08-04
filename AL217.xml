@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL217 - Die Heer Is My Lig!</title>
-   <title language="en">The Lord is my light; then why should I fear?</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="217"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Die Heer is my lig!<br/>Waarom sal ek vrees?<br/>In daglig en duister<br/>sal Hy by my wees;<br/>Hy red my van sonde<br/>en stil my verdriet,<br/>die Vader het ons<br/>die verseek'ring gebied.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Die Heer is my lig<br/>as skaduwees daal,<br/>geloof sien na bowe<br/>waar sintuie faal -<br/>waar Jesus vir ewig regeer<br/>op Sy troon,<br/>hoe kan ek nog langer<br/>in duisternis woon?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Die Heer is my lig,<br/>die Heer is my krag;<br/>ek weet in Sy Naam<br/>kan ek alles vermag.<br/>My swakheid sal Hy<br/>met Sy sterkte oordek,<br/>dan wandel ons saam,<br/>my Verlosser en ek.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Die Heer is my lig,<br/>my alles en al,<br/>Sy heerlikheid skyn<br/>in die donkerste dal;<br/>Hy is my Verlosser,<br/>my Koning en Heer,<br/>met juiging en lofsang<br/>sal ek Hom vereer.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Die Heer is my lig,<br/>my vreugde so bly,<br/>in daglig en duister<br/>sal Hy my lei.<br/>Die Heer is my lig,<br/>my vreugde so bly,<br/>in daglig en duister<br/>sal Hy my lei.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:11">
+  <properties>
+    <titles>
+      <title>AL217 - Die Heer Is My Lig!</title>
+      <title>The Lord is my light; then why should I fear?</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="217"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Heer is my lig!<br/>Waarom sal ek vrees?<br/>In daglig en duister<br/>sal Hy by my wees;<br/>Hy red my van sonde<br/>en stil my verdriet,<br/>die Vader het ons<br/>die verseek'ring gebied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die Heer is my lig<br/>as skaduwees daal,<br/>geloof sien na bowe<br/>waar sintuie faal -<br/>waar Jesus vir ewig regeer<br/>op Sy troon,<br/>hoe kan ek nog langer<br/>in duisternis woon?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Heer is my lig,<br/>die Heer is my krag;<br/>ek weet in Sy Naam<br/>kan ek alles vermag.<br/>My swakheid sal Hy<br/>met Sy sterkte oordek,<br/>dan wandel ons saam,<br/>my Verlosser en ek.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die Heer is my lig,<br/>my alles en al,<br/>Sy heerlikheid skyn<br/>in die donkerste dal;<br/>Hy is my Verlosser,<br/>my Koning en Heer,<br/>met juiging en lofsang<br/>sal ek Hom vereer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Die Heer is my lig,<br/>my vreugde so bly,<br/>in daglig en duister<br/>sal Hy my lei.<br/>Die Heer is my lig,<br/>my vreugde so bly,<br/>in daglig en duister<br/>sal Hy my lei.</lines>
+    </verse>
+  </lyrics>
 </song>

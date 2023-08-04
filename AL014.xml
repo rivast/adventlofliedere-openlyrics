@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL014 - Loof, Loof Hom Koning, God En Heer</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="014"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Loof, loof Hom Koning, God en Heer,<br/>o al Sy knegte, gee Hom eer;<br/>u wat gedurig voor Hom staan,<br/>hef nou 'n vrome loflied aan!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hef nou u hande na omhoog,<br/>Rig tot Sy heiligdom u oog<br/>En kniel eerbiedig voor Hom neer;<br/>Loof, loof Hom Koning, God en Heer!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>O mag Gods seën op u daal -<br/>Sy guns uit Sion u bestraal.<br/>Die ganse skepping moet Hom eer;<br/>Loof, loof Hom Koning, God en Heer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:58">
+  <properties>
+    <titles>
+      <title>AL014 - Loof, Loof Hom Koning, God En Heer</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="014"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Loof, loof Hom Koning, God en Heer,<br/>o al Sy knegte, gee Hom eer;<br/>u wat gedurig voor Hom staan,<br/>hef nou 'n vrome loflied aan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hef nou u hande na omhoog,<br/>Rig tot Sy heiligdom u oog<br/>En kniel eerbiedig voor Hom neer;<br/>Loof, loof Hom Koning, God en Heer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O mag Gods seën op u daal -<br/>Sy guns uit Sion u bestraal.<br/>Die ganse skepping moet Hom eer;<br/>Loof, loof Hom Koning, God en Heer!</lines>
+    </verse>
+  </lyrics>
 </song>

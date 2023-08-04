@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL115 - Soos Die Hert Op Dorre Vlaktes</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="115"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Soos die hert op dorre vlaktes<br/>smagtend dors na die genot<br/>van die koele waterstrome,<br/>so smag ek na U, o God.<br/>Ja, my siel dors na die Heer;<br/>God van lewe, o wanneer<br/>sal ek nader voor U oë -<br/>Biddend in U tempelhowe.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Maar die Here self gee uitkoms!<br/>Hy wat die verkwikking bied,<br/>maak my lewe daagliks rustig<br/>en wek in my hart 'n lied;<br/>Ja, ek sing selfs in die nag<br/>van die God wat ek verwag,<br/>en soos wierook voor die Here<br/>bied ek daagliks my gebede.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>o My siel, van waar die trane?<br/>Wie beroof jou van die rus?<br/>Voed die ou vertroue weer eens;<br/>Soek in hoogste lof jou lus.<br/>Dikwels het die Heer jou nag<br/>laat verander in die dag.<br/>Hoop op Hom en kyk na bowe;<br/>Loof Hom in Sy tempelhowe.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+  <properties>
+    <titles>
+      <title>AL115 - Soos Die Hert Op Dorre Vlaktes</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="115"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soos die hert op dorre vlaktes<br/>smagtend dors na die genot<br/>van die koele waterstrome,<br/>so smag ek na U, o God.<br/>Ja, my siel dors na die Heer;<br/>God van lewe, o wanneer<br/>sal ek nader voor U oë -<br/>Biddend in U tempelhowe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maar die Here self gee uitkoms!<br/>Hy wat die verkwikking bied,<br/>maak my lewe daagliks rustig<br/>en wek in my hart 'n lied;<br/>Ja, ek sing selfs in die nag<br/>van die God wat ek verwag,<br/>en soos wierook voor die Here<br/>bied ek daagliks my gebede.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>o My siel, van waar die trane?<br/>Wie beroof jou van die rus?<br/>Voed die ou vertroue weer eens;<br/>Soek in hoogste lof jou lus.<br/>Dikwels het die Heer jou nag<br/>laat verander in die dag.<br/>Hoop op Hom en kyk na bowe;<br/>Loof Hom in Sy tempelhowe.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL423 - Eng'lestemme Saggies Singend</title>
-   <title language="en">Angel voices sweetly singing</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="423"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Eng'lestemme saggies singend,<br/>eggo's deur die sfere kringend;<br/>Tyding van die hemel bringend:<br/>ons is byna tuis!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Daar is reeds die jaspismure,<br/>wat ons wink soos welkomsvure;<br/>O ons tel alreeds die ure,<br/>ons is byna daar!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Sagte melodieë hoor ons,<br/>dit oorweldig en bekoor ons;<br/>Elke aardse drang verloor ons,<br/>ons is byna daar!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Nooit sal trane ooit daar val nie,<br/>nooit sal vreugde daar vergal nie;<br/>Die verwagting is nie al nie,<br/>ons is byna daar!</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Skoonste Jesus, onse Here,<br/>is die lig; aan Hom die ere;<br/>Hy's die Lam, die Heer der Here,<br/>ons is byna daar!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Byna daar! Byna daar!<br/>Heerlike verwagting met Jesus daar!<br/>Byna daar! Byna daar!<br/>Eindelose vreugde met Jesus daar!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:20">
+  <properties>
+    <titles>
+      <title>AL423 - Eng'lestemme Saggies Singend</title>
+      <title>Angel voices sweetly singing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="423"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eng'lestemme saggies singend,<br/>eggo's deur die sfere kringend;<br/>Tyding van die hemel bringend:<br/>ons is byna tuis!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daar is reeds die jaspismure,<br/>wat ons wink soos welkomsvure;<br/>O ons tel alreeds die ure,<br/>ons is byna daar!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sagte melodieë hoor ons,<br/>dit oorweldig en bekoor ons;<br/>Elke aardse drang verloor ons,<br/>ons is byna daar!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nooit sal trane ooit daar val nie,<br/>nooit sal vreugde daar vergal nie;<br/>Die verwagting is nie al nie,<br/>ons is byna daar!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Skoonste Jesus, onse Here,<br/>is die lig; aan Hom die ere;<br/>Hy's die Lam, die Heer der Here,<br/>ons is byna daar!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Byna daar! Byna daar!<br/>Heerlike verwagting met Jesus daar!<br/>Byna daar! Byna daar!<br/>Eindelose vreugde met Jesus daar!</lines>
+    </verse>
+  </lyrics>
 </song>

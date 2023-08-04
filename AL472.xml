@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL472 - O Erekoning, Kom!</title>
-   <title language="en">Great King of glory, come</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="472"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>o Erekoning, kom!<br/>En kroon met guns en eer<br/>die tempel as U huis,<br/>ons as U eie, Heer.<br/>Wil U in hierdie tempel toon<br/>dat God selfs by die mens kan woon.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ag, hoor tog as ons smeek<br/>en dank en loflied bring;<br/>En wil tot elkeen spreek<br/>wat hier U Naam besing.<br/>Mag dorstig sondaars hier kom drink<br/>en laat U Woord hier helder klink.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Mag ook ons kinders hier<br/>U goedheid kom besing;<br/>Maak selfs die swakste fier<br/>in hierdie saal'ge kring.<br/>Ontbloot U krag en red vandag<br/>elkeen wat hier op Jesus wag.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>As ons U Woord hier hoor,<br/>mag ons U waarheid glo;<br/>En sing in daardie koor<br/>met serafim daarbo.<br/>Tot almal wat die Heer verwag<br/>sal triomfeer op daardie dag.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:23">
+  <properties>
+    <titles>
+      <title>AL472 - O Erekoning, Kom!</title>
+      <title>Great King of glory, come</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="472"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>o Erekoning, kom!<br/>En kroon met guns en eer<br/>die tempel as U huis,<br/>ons as U eie, Heer.<br/>Wil U in hierdie tempel toon<br/>dat God selfs by die mens kan woon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ag, hoor tog as ons smeek<br/>en dank en loflied bring;<br/>En wil tot elkeen spreek<br/>wat hier U Naam besing.<br/>Mag dorstig sondaars hier kom drink<br/>en laat U Woord hier helder klink.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mag ook ons kinders hier<br/>U goedheid kom besing;<br/>Maak selfs die swakste fier<br/>in hierdie saal'ge kring.<br/>Ontbloot U krag en red vandag<br/>elkeen wat hier op Jesus wag.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As ons U Woord hier hoor,<br/>mag ons U waarheid glo;<br/>En sing in daardie koor<br/>met serafim daarbo.<br/>Tot almal wat die Heer verwag<br/>sal triomfeer op daardie dag.</lines>
+    </verse>
+  </lyrics>
 </song>

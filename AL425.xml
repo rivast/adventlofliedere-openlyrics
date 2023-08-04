@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL425 - Eens Is Beproewing En Arbeid Verby</title>
-   <title language="en">When all my labors and trials are o'er</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="425"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Eens is beproewing en arbeid verby,<br/>dan sal ek my in die godstad verbly -<br/>veilig, tevrede aan Jesus se sy,<br/>deur al die eeue so heerlik vir my.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Eens deur genade wat my sondes dek,<br/>as die basuin uit die dode my wek,<br/>vind ek daarbowe vir my ook 'n plek<br/>deur al die eeue so heerlik vir my.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Vriende sal daar wees wat jare al rus<br/>strome van vreugde bring vrede en lus<br/>net om my Heiland se voete te kus -<br/>deur al die eeue so heerlik vir my.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>o, Dit sal wees heerlik en bly,<br/>heerlik en bly, heerlik en bly;<br/>As Hy dit gun dat ek voor Hom sal staan;<br/>Sal dit my vrede, my vreugde daar wees!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:20">
+  <properties>
+    <titles>
+      <title>AL425 - Eens Is Beproewing En Arbeid Verby</title>
+      <title>When all my labors and trials are o'er</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="425"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eens is beproewing en arbeid verby,<br/>dan sal ek my in die godstad verbly -<br/>veilig, tevrede aan Jesus se sy,<br/>deur al die eeue so heerlik vir my.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eens deur genade wat my sondes dek,<br/>as die basuin uit die dode my wek,<br/>vind ek daarbowe vir my ook 'n plek<br/>deur al die eeue so heerlik vir my.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vriende sal daar wees wat jare al rus<br/>strome van vreugde bring vrede en lus<br/>net om my Heiland se voete te kus -<br/>deur al die eeue so heerlik vir my.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>o, Dit sal wees heerlik en bly,<br/>heerlik en bly, heerlik en bly;<br/>As Hy dit gun dat ek voor Hom sal staan;<br/>Sal dit my vrede, my vreugde daar wees!</lines>
+    </verse>
+  </lyrics>
 </song>

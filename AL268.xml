@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL268 - O, Kon Ek Maar Van Dag Tot Dag</title>
-   <title language="en">O, could I find, from day to day</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="268"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O, kon ek maar van dag tot dag,<br/>digby die Here bly;<br/>Dan vloei my ure, soet en sag,<br/>hier in Sy diens verby.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Meester, in U teenwoordigheid<br/>is rus vir my gemoed,<br/>wat bly vir ewig en altyd;<br/>En vreugde wondersoet!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>O Liewe Jesus, kom regeer<br/>as Koning in my hart;<br/>Met alles onder U beheer,<br/>ken ek geen sondesmart.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+  <properties>
+    <titles>
+      <title>AL268 - O, Kon Ek Maar Van Dag Tot Dag</title>
+      <title>O, could I find, from day to day</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="268"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, kon ek maar van dag tot dag,<br/>digby die Here bly;<br/>Dan vloei my ure, soet en sag,<br/>hier in Sy diens verby.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meester, in U teenwoordigheid<br/>is rus vir my gemoed,<br/>wat bly vir ewig en altyd;<br/>En vreugde wondersoet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Liewe Jesus, kom regeer<br/>as Koning in my hart;<br/>Met alles onder U beheer,<br/>ken ek geen sondesmart.</lines>
+    </verse>
+  </lyrics>
 </song>

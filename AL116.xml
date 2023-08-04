@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL116 - Jesus Wat My Siel Bemin</title>
-   <title language="en">Jesus, lover of my soul</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="116"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Jesus, wat my siel bemin,<br/>laat my aan U boesem leun,<br/>as die golwe om my slaan,<br/>as die donder dreigend dreun.<br/>Heiland, laat my by U skuil,<br/>stil in die onstuimigheid,<br/>veilig as die winde huil,<br/>veilig tot in ewigheid!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ander toevlug het ek geen,<br/>U is al wat ek begeer;<br/>Laat, o laat my nie alleen,<br/>sterk U en vertroos my, Heer.<br/>Ek wil niks van U weerhou -<br/>U wat my vervul met krag;<br/>wil oor my U vleuels hou,<br/>Heer, by U sal ek vernag.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>U, o Here, is my lus,<br/>U alleen bevredig my;<br/>Rig my op en skenk my rus,<br/>maak my van my sorge vry!<br/>Heilig, heilig is U Naam,<br/>U is reine heerlikheid;<br/>Voor U moet ek skuldig staan,<br/>vol van ongeregtigheid.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>U genade is so wyd<br/>dit kan al my sonde dek;<br/>Laat die stroom van saligheid<br/>my bevry van elke vlek.<br/>U, o Heer, die Heilfontein,<br/>laat my vrylik uit U drink;<br/>Lewenswater, koel en rein,<br/>vloei uit U in ewigheid.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+  <properties>
+    <titles>
+      <title>AL116 - Jesus Wat My Siel Bemin</title>
+      <title>Jesus, lover of my soul</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="116"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, wat my siel bemin,<br/>laat my aan U boesem leun,<br/>as die golwe om my slaan,<br/>as die donder dreigend dreun.<br/>Heiland, laat my by U skuil,<br/>stil in die onstuimigheid,<br/>veilig as die winde huil,<br/>veilig tot in ewigheid!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ander toevlug het ek geen,<br/>U is al wat ek begeer;<br/>Laat, o laat my nie alleen,<br/>sterk U en vertroos my, Heer.<br/>Ek wil niks van U weerhou -<br/>U wat my vervul met krag;<br/>wil oor my U vleuels hou,<br/>Heer, by U sal ek vernag.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>U, o Here, is my lus,<br/>U alleen bevredig my;<br/>Rig my op en skenk my rus,<br/>maak my van my sorge vry!<br/>Heilig, heilig is U Naam,<br/>U is reine heerlikheid;<br/>Voor U moet ek skuldig staan,<br/>vol van ongeregtigheid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>U genade is so wyd<br/>dit kan al my sonde dek;<br/>Laat die stroom van saligheid<br/>my bevry van elke vlek.<br/>U, o Heer, die Heilfontein,<br/>laat my vrylik uit U drink;<br/>Lewenswater, koel en rein,<br/>vloei uit U in ewigheid.</lines>
+    </verse>
+  </lyrics>
 </song>

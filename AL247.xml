@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL247 - Leef Uit U Lewe In My</title>
-   <title language="en">Live out Thy life within me</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="247"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Leef uit U lewe in my -<br/>dit is wat ek begeer -<br/>en wees U self die antwoord<br/>op al my twyfel, Heer.<br/>Leef uit U lewe in my;<br/>Gebruik my soos U wil,<br/>want ek is slegs U werktuig,<br/>gedienstig, kalm en stil.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Die tempel van my liggaam<br/>is aan Hom oorgegee,<br/>met heerlikheid van bowe<br/>sal Hy dit nou beklee -<br/>gereinig van die sonde,<br/>gesuiwer van die smet,<br/>gereed vir al die pligte<br/>wat Jesus vir my het.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>En onderdanig wag ek<br/>om, waar U stuur, te gaan;<br/>Gereed om diens te lewer<br/>of om opsy te staan;<br/>Geen rustelose strewe<br/>of ontevredenheid,<br/>geen kwellinge of spanning<br/>dwing my gemoed tot stryd.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Maar rustig, kalm en buigsaam,<br/>van vooroordeel bevry,<br/>wag ek op U besluite<br/>en volg waar U my lei.<br/>O Koning aller konings,<br/>wil self in my kom leef,<br/>en antwoord wanneer twyfel<br/>weer aan my siel wil kleef.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+  <properties>
+    <titles>
+      <title>AL247 - Leef Uit U Lewe In My</title>
+      <title>Live out Thy life within me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leef uit U lewe in my -<br/>dit is wat ek begeer -<br/>en wees U self die antwoord<br/>op al my twyfel, Heer.<br/>Leef uit U lewe in my;<br/>Gebruik my soos U wil,<br/>want ek is slegs U werktuig,<br/>gedienstig, kalm en stil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die tempel van my liggaam<br/>is aan Hom oorgegee,<br/>met heerlikheid van bowe<br/>sal Hy dit nou beklee -<br/>gereinig van die sonde,<br/>gesuiwer van die smet,<br/>gereed vir al die pligte<br/>wat Jesus vir my het.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>En onderdanig wag ek<br/>om, waar U stuur, te gaan;<br/>Gereed om diens te lewer<br/>of om opsy te staan;<br/>Geen rustelose strewe<br/>of ontevredenheid,<br/>geen kwellinge of spanning<br/>dwing my gemoed tot stryd.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maar rustig, kalm en buigsaam,<br/>van vooroordeel bevry,<br/>wag ek op U besluite<br/>en volg waar U my lei.<br/>O Koning aller konings,<br/>wil self in my kom leef,<br/>en antwoord wanneer twyfel<br/>weer aan my siel wil kleef.</lines>
+    </verse>
+  </lyrics>
 </song>

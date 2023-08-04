@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL349 - Gaan Met Die Reddingstou Diep In Die See</title>
-   <title language="en">Throw out the life line across the dark wave</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="349"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Gaan met die reddingstou diep in die see;<br/>Daar is 'n broeder, die stroom voer hom mee.<br/>Hy is 'n drenkeling diep in gevaar,<br/>o wie sal die tou neem en inswem tot daar?</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Gaan met die reddingstou, span in jou krag;<br/>Waarom nog aarsel, o waarom nog wag?<br/>Kyk hoe Hy worstel, gaan red hom tog gou,<br/>o gaan met die reddingsboot - gaan met die tou!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Gaan met die reddingstou na die gevaar;<br/>Dink aan die angs van die drenkeling daar!<br/>Wind van versoeking en branders van wee<br/>oorrompel hom in die onstuimige see.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Spoedig is reddingsgeleentheid verby;<br/>Spoedig sal net hul gedagtenis bly.<br/>Gaan haastig, broeder, o waarom nog wag?<br/>Gaan nou tot hul redding en bring hul vandag.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Haas tot Sy redding! (x2)<br/>Iemand dryf weg en verdrink.<br/>Haas tot Sy redding! (x2)<br/>Daar is 'n broeder wat sink.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:16">
+  <properties>
+    <titles>
+      <title>AL349 - Gaan Met Die Reddingstou Diep In Die See</title>
+      <title>Throw out the life line across the dark wave</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="349"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gaan met die reddingstou diep in die see;<br/>Daar is 'n broeder, die stroom voer hom mee.<br/>Hy is 'n drenkeling diep in gevaar,<br/>o wie sal die tou neem en inswem tot daar?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gaan met die reddingstou, span in jou krag;<br/>Waarom nog aarsel, o waarom nog wag?<br/>Kyk hoe Hy worstel, gaan red hom tog gou,<br/>o gaan met die reddingsboot - gaan met die tou!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gaan met die reddingstou na die gevaar;<br/>Dink aan die angs van die drenkeling daar!<br/>Wind van versoeking en branders van wee<br/>oorrompel hom in die onstuimige see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spoedig is reddingsgeleentheid verby;<br/>Spoedig sal net hul gedagtenis bly.<br/>Gaan haastig, broeder, o waarom nog wag?<br/>Gaan nou tot hul redding en bring hul vandag.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Haas tot Sy redding! (x2)<br/>Iemand dryf weg en verdrink.<br/>Haas tot Sy redding! (x2)<br/>Daar is 'n broeder wat sink.</lines>
+    </verse>
+  </lyrics>
 </song>

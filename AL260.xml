@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL260 - Blye Verseek'ring</title>
-   <title language="en">Blessed assurance, Jesus is mine!</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="260"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Blye verseek'ring: Hy is my Heer!<br/>Salige voorsmaak van wat ons begeer!<br/>Jesus verlig my duister gemoed,<br/>wedergebore, rein deur Sy bloed.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>As ek gehoorsaam, sien ek Sy lig<br/>heerlik daarbowe, o skone gesig!<br/>Hemelse wesens bring van Sy hof<br/>weerklank van liefde, vrede en lof.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Daardie verseek'ring stel my gerus;<br/>Ek is van Jesus se liefde bewus.<br/>Wakend, gelowig, wag ek op Hom;<br/>Vas staan Sy woorde: “Ek sal weer kom!'</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Dit is my boodskap, dit is my lied,<br/>wat ek as lof aan Jesus wil bied.<br/>Dit is my boodskap, dit is my lied,<br/>wat ek as lof aan Jesus wil bied.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+  <properties>
+    <titles>
+      <title>AL260 - Blye Verseek'ring</title>
+      <title>Blessed assurance, Jesus is mine!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="260"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blye verseek'ring: Hy is my Heer!<br/>Salige voorsmaak van wat ons begeer!<br/>Jesus verlig my duister gemoed,<br/>wedergebore, rein deur Sy bloed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As ek gehoorsaam, sien ek Sy lig<br/>heerlik daarbowe, o skone gesig!<br/>Hemelse wesens bring van Sy hof<br/>weerklank van liefde, vrede en lof.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daardie verseek'ring stel my gerus;<br/>Ek is van Jesus se liefde bewus.<br/>Wakend, gelowig, wag ek op Hom;<br/>Vas staan Sy woorde: “Ek sal weer kom!'</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dit is my boodskap, dit is my lied,<br/>wat ek as lof aan Jesus wil bied.<br/>Dit is my boodskap, dit is my lied,<br/>wat ek as lof aan Jesus wil bied.</lines>
+    </verse>
+  </lyrics>
 </song>

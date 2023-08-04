@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL406 - Blaas Die Basuine</title>
-   <title language="en">Lift up the trumpet, and loud let it ring</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="406"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Blaas die basuine,<br/>verkondig dit luid:<br/>Jesus, ons Heiland, kom weer!<br/>Hou moed, o pelgrims,<br/>wees hoopvol en sing:<br/>Jesus, ons Heiland, kom weer!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Berge weergalm dit,<br/>en vlaktes herhaal<br/>Jesus, ons Heiland, kom weer!<br/>Hy kom verheerlik<br/>met hemelse praal -<br/>Jesus, ons Heiland, kom weer!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Seë, verkondig<br/>in brandergedruis:<br/>Jesus, ons Heiland, kom weer!<br/>Laat al jul golwe<br/>dit donderend bruis:<br/>Jesus, ons Heiland, kom weer!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Aardbewings teister<br/>die wêreld alom,<br/>Jesus, ons Heiland, kom weer!<br/>Storms en orkane<br/>leer ons dat Hy kom,<br/>Jesus, ons Heiland, kom weer!</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Nasies is toornig,<br/>hieraan moet ons weet:<br/>Jesus, ons Heiland, kom weer!<br/>Kennis vermeerder,<br/>verwoesting bring leed;<br/>Jesus, ons Heiland, kom weer!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Jesus kom weer!<br/>Jesus kom weer!<br/>Jesus, ons Heiland, kom weer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:20">
+  <properties>
+    <titles>
+      <title>AL406 - Blaas Die Basuine</title>
+      <title>Lift up the trumpet, and loud let it ring</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="406"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blaas die basuine,<br/>verkondig dit luid:<br/>Jesus, ons Heiland, kom weer!<br/>Hou moed, o pelgrims,<br/>wees hoopvol en sing:<br/>Jesus, ons Heiland, kom weer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Berge weergalm dit,<br/>en vlaktes herhaal<br/>Jesus, ons Heiland, kom weer!<br/>Hy kom verheerlik<br/>met hemelse praal -<br/>Jesus, ons Heiland, kom weer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seë, verkondig<br/>in brandergedruis:<br/>Jesus, ons Heiland, kom weer!<br/>Laat al jul golwe<br/>dit donderend bruis:<br/>Jesus, ons Heiland, kom weer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aardbewings teister<br/>die wêreld alom,<br/>Jesus, ons Heiland, kom weer!<br/>Storms en orkane<br/>leer ons dat Hy kom,<br/>Jesus, ons Heiland, kom weer!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nasies is toornig,<br/>hieraan moet ons weet:<br/>Jesus, ons Heiland, kom weer!<br/>Kennis vermeerder,<br/>verwoesting bring leed;<br/>Jesus, ons Heiland, kom weer!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus kom weer!<br/>Jesus kom weer!<br/>Jesus, ons Heiland, kom weer!</lines>
+    </verse>
+  </lyrics>
 </song>

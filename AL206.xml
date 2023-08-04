@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL206 - Gods Weg Is Die Beste</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="206"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Gods weg is die beste,<br/>Hy dink ook aan my,<br/>al sien ek geen rede<br/>waarom ek moet ly.<br/>My hart wil Hy reinig<br/>met vreugde en rou,<br/>daarom sal ek need'rig<br/>Hom altyd vertrou.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Gods weg is die beste,<br/>Hy't my pad berei.<br/>Ek vertrou Hom altyd;<br/>Sy hand sal my lei.<br/>In skadu en sonskyn<br/>is Jesus naby,<br/>met Hom as my toevlug<br/>vrees ek niks vir my.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Gods weg is ook my weg,<br/>Hy weet wat is goed,<br/>ek leun net op Jesus,<br/>my rus is so soet.<br/>Niks sal my oorval nie -<br/>veilig by my God -<br/>by Hom bly ek ewig,<br/>o salige lot.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Gods weg is die beste,<br/>Gods weg is die regte,<br/>ek swyg voor Hom need'rig,<br/>Hy weet wat is goed.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:10">
+  <properties>
+    <titles>
+      <title>AL206 - Gods Weg Is Die Beste</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gods weg is die beste,<br/>Hy dink ook aan my,<br/>al sien ek geen rede<br/>waarom ek moet ly.<br/>My hart wil Hy reinig<br/>met vreugde en rou,<br/>daarom sal ek need'rig<br/>Hom altyd vertrou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gods weg is die beste,<br/>Hy't my pad berei.<br/>Ek vertrou Hom altyd;<br/>Sy hand sal my lei.<br/>In skadu en sonskyn<br/>is Jesus naby,<br/>met Hom as my toevlug<br/>vrees ek niks vir my.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gods weg is ook my weg,<br/>Hy weet wat is goed,<br/>ek leun net op Jesus,<br/>my rus is so soet.<br/>Niks sal my oorval nie -<br/>veilig by my God -<br/>by Hom bly ek ewig,<br/>o salige lot.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gods weg is die beste,<br/>Gods weg is die regte,<br/>ek swyg voor Hom need'rig,<br/>Hy weet wat is goed.</lines>
+    </verse>
+  </lyrics>
 </song>

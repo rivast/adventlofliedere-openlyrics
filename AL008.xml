@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL008 - Gee My ‘n Hart Wat God Wil Dien</title>
-   <title language="en">O for a heart to praise my God!</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="008"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Gee my 'n hart wat God wil dien,<br/>‘n hart van sonde vry,<br/>‘n hart gereinig deur die bloed<br/>so ruim gestort vir my.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>‘n Hart wat sag en teder is -<br/>maak dit, o Heer, U troon;<br/>Waar net my God alleen kan spreek<br/>en Jesus in kan woon.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>‘n Hart wat rein gedagtes dink,<br/>waar net U liefde troon,<br/>volmaak en rein en reg en goed;<br/>soos Jesus net so skoon.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Gee my U rein gesindheid, Heer;<br/>o haas U na my sy;<br/>Skryf op my hart die beste naam -<br/>U nuwe naam vir my.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:58">
+  <properties>
+    <titles>
+      <title>AL008 - Gee My ‘n Hart Wat God Wil Dien</title>
+      <title>O for a heart to praise my God!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="008"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gee my 'n hart wat God wil dien,<br/>‘n hart van sonde vry,<br/>‘n hart gereinig deur die bloed<br/>so ruim gestort vir my.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‘n Hart wat sag en teder is -<br/>maak dit, o Heer, U troon;<br/>Waar net my God alleen kan spreek<br/>en Jesus in kan woon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‘n Hart wat rein gedagtes dink,<br/>waar net U liefde troon,<br/>volmaak en rein en reg en goed;<br/>soos Jesus net so skoon.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gee my U rein gesindheid, Heer;<br/>o haas U na my sy;<br/>Skryf op my hart die beste naam -<br/>U nuwe naam vir my.</lines>
+    </verse>
+  </lyrics>
 </song>

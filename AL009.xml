@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL009 - Prys Die Heer Met Blye Galme</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="009"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Prys die Heer met blye galme,<br/>o my siel, daar's ryke stof;<br/>heel my lewe sal ek psalme<br/>juigend sing Sy Naam tot lof<br/>en solank ek lig geniet,<br/>Hom verhoog in elke lied.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Moet geen hoop op mense bou nie;<br/>Waar kom tog jou hulp vandaan?<br/>As jy nie op God vertrou nie,<br/>sal hul jou beskaamd laat staan.<br/>Keer hul na die aarde weer,<br/>stort hul planne met hul neer.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Salig Hy wat in die lewe<br/>op die God van Jakob steun;<br/>Hy wat Hom tot God begewe<br/>as die onweer om Hom dreun;<br/>Wat sy hoop in elke lot<br/>vestig op die Heer sy God.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:58">
+  <properties>
+    <titles>
+      <title>AL009 - Prys Die Heer Met Blye Galme</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="009"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prys die Heer met blye galme,<br/>o my siel, daar's ryke stof;<br/>heel my lewe sal ek psalme<br/>juigend sing Sy Naam tot lof<br/>en solank ek lig geniet,<br/>Hom verhoog in elke lied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moet geen hoop op mense bou nie;<br/>Waar kom tog jou hulp vandaan?<br/>As jy nie op God vertrou nie,<br/>sal hul jou beskaamd laat staan.<br/>Keer hul na die aarde weer,<br/>stort hul planne met hul neer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Salig Hy wat in die lewe<br/>op die God van Jakob steun;<br/>Hy wat Hom tot God begewe<br/>as die onweer om Hom dreun;<br/>Wat sy hoop in elke lot<br/>vestig op die Heer sy God.</lines>
+    </verse>
+  </lyrics>
 </song>

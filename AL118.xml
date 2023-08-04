@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL118 - Die Groot Geneesheer Is Naby</title>
-   <title language="en">The Great Physician now is near</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="118"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Die groot Geneesheer is naby -<br/>die simpatieke Jesus -<br/>Sy woorde sal jou hart verbly,<br/>o hoor die stem van Jesus!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Sy wonde bied genesing aan,<br/>die Lam van God is Jesus;<br/>Hoe mooi klink die Verlossersnaam -<br/>die skone Naam van Jesus.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Die Naam verdryf my angs en vrees -<br/>geen ander Naam as Jesus!<br/>Ek smag met liggaam, siel en gees<br/>na daardie Naam van Jesus!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Hy kom verheerlik en met krag -<br/>my Heer, so hoog verhewe -<br/>saam sal ons dan in hemelprag<br/>die kroon ontvang van lewe!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Soetste klank in serafslied,<br/>soetste naam in Gods gebied;<br/>Soetste troos in ons verdriet;<br/>Daardie Naam is Jesus!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+  <properties>
+    <titles>
+      <title>AL118 - Die Groot Geneesheer Is Naby</title>
+      <title>The Great Physician now is near</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="118"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die groot Geneesheer is naby -<br/>die simpatieke Jesus -<br/>Sy woorde sal jou hart verbly,<br/>o hoor die stem van Jesus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sy wonde bied genesing aan,<br/>die Lam van God is Jesus;<br/>Hoe mooi klink die Verlossersnaam -<br/>die skone Naam van Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die Naam verdryf my angs en vrees -<br/>geen ander Naam as Jesus!<br/>Ek smag met liggaam, siel en gees<br/>na daardie Naam van Jesus!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hy kom verheerlik en met krag -<br/>my Heer, so hoog verhewe -<br/>saam sal ons dan in hemelprag<br/>die kroon ontvang van lewe!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Soetste klank in serafslied,<br/>soetste naam in Gods gebied;<br/>Soetste troos in ons verdriet;<br/>Daardie Naam is Jesus!</lines>
+    </verse>
+  </lyrics>
 </song>

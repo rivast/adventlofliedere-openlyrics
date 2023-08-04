@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL418 - Wagters Op Die Muur Van Sion</title>
-   <title language="en">Watchmen on the walls of Zion</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="418"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Wagters op die muur van Sion,<br/>kyk hoe ver is tog die nag?<br/>Sal die môrester haas opkom?<br/>Breek weldra die skone dag?<br/>Sien jy tekens van die lig<br/>net voor die dag?</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Het ons nou die laaste baken<br/>van ons lange reis bereik?<br/>Vaar ons reeds die hawe binne?<br/>Sal die newels weldra wyk?<br/>Is ons byna in die<br/>heil'ge koninkryk?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Reeds verrys die blinke dagster<br/>om die wagters te verbly;<br/>Kyk, die lig verdring die duister,<br/>spoedig word Gods kerk bevry!<br/>Juig dan, heil'ges,<br/>ons verlossing is naby!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Vinnig nader ons die hawe,<br/>vol vertroue vaar ons voort;<br/>Ons kompas en kaart, geliefdes,<br/>is die onvervalste Woord.<br/>Juigend nader ons<br/>die Goddelike oord!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:20">
+  <properties>
+    <titles>
+      <title>AL418 - Wagters Op Die Muur Van Sion</title>
+      <title>Watchmen on the walls of Zion</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="418"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wagters op die muur van Sion,<br/>kyk hoe ver is tog die nag?<br/>Sal die môrester haas opkom?<br/>Breek weldra die skone dag?<br/>Sien jy tekens van die lig<br/>net voor die dag?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Het ons nou die laaste baken<br/>van ons lange reis bereik?<br/>Vaar ons reeds die hawe binne?<br/>Sal die newels weldra wyk?<br/>Is ons byna in die<br/>heil'ge koninkryk?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reeds verrys die blinke dagster<br/>om die wagters te verbly;<br/>Kyk, die lig verdring die duister,<br/>spoedig word Gods kerk bevry!<br/>Juig dan, heil'ges,<br/>ons verlossing is naby!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vinnig nader ons die hawe,<br/>vol vertroue vaar ons voort;<br/>Ons kompas en kaart, geliefdes,<br/>is die onvervalste Woord.<br/>Juigend nader ons<br/>die Goddelike oord!</lines>
+    </verse>
+  </lyrics>
 </song>

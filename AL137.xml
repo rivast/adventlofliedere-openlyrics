@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL137 - Kon Ek My Heer Se Liefde Loof</title>
-   <title language="en">O could I speak the matchless worth</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="137"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Kon ek my Heer se liefde loof,<br/>die glorie tot die wêreld bring<br/>wat Jesus steeds omring:<br/>tot by die hemel sou ek gaan,<br/>met Gabriël juigend voor God staan<br/>as ons die Lam besing.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Sy kosb're bloed en bitter leed,<br/>die losprys vir my sonde skuld,<br/>Sy liefde en geduld -<br/>dit is my lied in ewigheid -<br/>Sy vleklose geregtigheid,<br/>my rein, wit bruilofskleed.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Van Sy gesindheid wil ek sing;<br/>Van troue liefde wat ons red<br/>soos Hy belowe het.<br/>O prys Hom dan wat op die troon<br/>verhewe in die hemel woon,<br/>ver bo ons skemering.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Ja, weldra breek die skone dag<br/>wanneer my Heiland sal verskyn<br/>op wolke wit en rein;<br/>Dan sien ek Hom in hemellig<br/>van aangesig tot aangesig:<br/>Oorwinnaar deur Sy mag!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:06">
+  <properties>
+    <titles>
+      <title>AL137 - Kon Ek My Heer Se Liefde Loof</title>
+      <title>O could I speak the matchless worth</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kon ek my Heer se liefde loof,<br/>die glorie tot die wêreld bring<br/>wat Jesus steeds omring:<br/>tot by die hemel sou ek gaan,<br/>met Gabriël juigend voor God staan<br/>as ons die Lam besing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sy kosb're bloed en bitter leed,<br/>die losprys vir my sonde skuld,<br/>Sy liefde en geduld -<br/>dit is my lied in ewigheid -<br/>Sy vleklose geregtigheid,<br/>my rein, wit bruilofskleed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Van Sy gesindheid wil ek sing;<br/>Van troue liefde wat ons red<br/>soos Hy belowe het.<br/>O prys Hom dan wat op die troon<br/>verhewe in die hemel woon,<br/>ver bo ons skemering.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, weldra breek die skone dag<br/>wanneer my Heiland sal verskyn<br/>op wolke wit en rein;<br/>Dan sien ek Hom in hemellig<br/>van aangesig tot aangesig:<br/>Oorwinnaar deur Sy mag!</lines>
+    </verse>
+  </lyrics>
 </song>

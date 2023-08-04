@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL401 - Ons Sien Die Waarheid In Sy Boek</title>
-   <title language="en">A glory in the word we find</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="401"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ons sien die waarheid in Sy Boek<br/>soos Hy ons wyser maak,<br/>want sonde was 'n sluierdoek<br/>voor daardie lig volmaak!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>As God die sluier van ons vee<br/>dan sien ons reg en goed;<br/>God het Sy Woord aan ons gegee<br/>as lamp vir onse voet.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Hoe salig met ontblote oog<br/>sien ons Sy heerlikheid.<br/>Deur heel Gods Woord word Hy verhoog,<br/>steeds tot ons hulp bereid.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>O laat ons deur aanskouing dien<br/>en groei in heiligheid,<br/>dat ons kan smag om U te sien,<br/>hoog in U heerlikheid!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:19">
+  <properties>
+    <titles>
+      <title>AL401 - Ons Sien Die Waarheid In Sy Boek</title>
+      <title>A glory in the word we find</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="401"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ons sien die waarheid in Sy Boek<br/>soos Hy ons wyser maak,<br/>want sonde was 'n sluierdoek<br/>voor daardie lig volmaak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As God die sluier van ons vee<br/>dan sien ons reg en goed;<br/>God het Sy Woord aan ons gegee<br/>as lamp vir onse voet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoe salig met ontblote oog<br/>sien ons Sy heerlikheid.<br/>Deur heel Gods Woord word Hy verhoog,<br/>steeds tot ons hulp bereid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O laat ons deur aanskouing dien<br/>en groei in heiligheid,<br/>dat ons kan smag om U te sien,<br/>hoog in U heerlikheid!</lines>
+    </verse>
+  </lyrics>
 </song>

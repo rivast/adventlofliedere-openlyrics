@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL230 - Neem My Lewe, Laat Dit, Heer</title>
-   <title language="en">Take my life, and let it be</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="230"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Neem my lewe, laat dit, Heer,<br/>toegewy wees tot U eer;<br/>Neem my hande, maak hul sterk<br/>vir U reine liefdewerk.<br/>Vir U reine liefdewerk.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Maak my voete, meer en meer,<br/>vlug en lieflik vir U Heer;<br/>Neem my stem en leer my sing<br/>van U liefde wat my dring.<br/>Van U liefde wat my dring.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Laat my lippe immer dra<br/>boodskappe van U gena;<br/>Neem my goud en silwer, Heer,<br/>alles bring ek aan U weer.<br/>Alles bring ek aan U weer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Neem die wil wat ek U bied,<br/>laat U wil in my geskied;<br/>Neem my hart, kom daarin woon,<br/>maak dit, Heiland, tot U troon.<br/>Maak dit, Heiland, tot U troon.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Neem my liefde, dierb're Heer,<br/>aan U voet lê ek dit neer;<br/>Neem my soos ek tot U kom<br/>en maak my U eiendom.<br/>En maak my U eiendom.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+  <properties>
+    <titles>
+      <title>AL230 - Neem My Lewe, Laat Dit, Heer</title>
+      <title>Take my life, and let it be</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neem my lewe, laat dit, Heer,<br/>toegewy wees tot U eer;<br/>Neem my hande, maak hul sterk<br/>vir U reine liefdewerk.<br/>Vir U reine liefdewerk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maak my voete, meer en meer,<br/>vlug en lieflik vir U Heer;<br/>Neem my stem en leer my sing<br/>van U liefde wat my dring.<br/>Van U liefde wat my dring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Laat my lippe immer dra<br/>boodskappe van U gena;<br/>Neem my goud en silwer, Heer,<br/>alles bring ek aan U weer.<br/>Alles bring ek aan U weer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Neem die wil wat ek U bied,<br/>laat U wil in my geskied;<br/>Neem my hart, kom daarin woon,<br/>maak dit, Heiland, tot U troon.<br/>Maak dit, Heiland, tot U troon.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Neem my liefde, dierb're Heer,<br/>aan U voet lê ek dit neer;<br/>Neem my soos ek tot U kom<br/>en maak my U eiendom.<br/>En maak my U eiendom.</lines>
+    </verse>
+  </lyrics>
 </song>

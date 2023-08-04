@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL432 - Daar's ‘n Land Soos Die Môre So Skoon</title>
-   <title language="en">There's a land that is fairer than day</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="432"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Daar's 'n land soos die môre so<br/>skoon<br/>deur geloof sal ons eenmaal daar bly<br/>waar verlostes vir ewig sal woon<br/>in die tuiste wat Jesus berei.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hoe welluidend en bly sal ons sing<br/>aan die salige hemelse kus;<br/>Waar geen pyn of verdriet ons meer dwing<br/>om te smag na 'n oomblik van rus.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Aan die Vader, so mild en so goed,<br/>sal ons elkeen ons dankbaarheid<br/>bied<br/>vir die gawe van Jesus se bloed<br/>en die einde van al ons verdriet.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>In die land van ons heil sal ons<br/>saam voor Gods troon juigend staan!<br/>In die land van ons heil sal ons<br/>saam voor Gods troon juigend staan!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:21">
+  <properties>
+    <titles>
+      <title>AL432 - Daar's ‘n Land Soos Die Môre So Skoon</title>
+      <title>There's a land that is fairer than day</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="432"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daar's 'n land soos die môre so<br/>skoon<br/>deur geloof sal ons eenmaal daar bly<br/>waar verlostes vir ewig sal woon<br/>in die tuiste wat Jesus berei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoe welluidend en bly sal ons sing<br/>aan die salige hemelse kus;<br/>Waar geen pyn of verdriet ons meer dwing<br/>om te smag na 'n oomblik van rus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aan die Vader, so mild en so goed,<br/>sal ons elkeen ons dankbaarheid<br/>bied<br/>vir die gawe van Jesus se bloed<br/>en die einde van al ons verdriet.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In die land van ons heil sal ons<br/>saam voor Gods troon juigend staan!<br/>In die land van ons heil sal ons<br/>saam voor Gods troon juigend staan!</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL023 - Mag God U Weë Altoos Bewaar</title>
-   <title language="en">God bless and keep thee through all thy days</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="023"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Mag God U weë altoos bewaar;<br/>Mag God U seën, steeds jaar na jaar;<br/>'mispa', ons afskeidsgroet,<br/>'mispa', tot ons ontmoet<br/>rondom ons Heer,<br/>as Hy Sy volk vergaar.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hoe lieflik is die aanbiddingstond<br/>saam met Gods kinders in heilverbond;<br/>Daar waar Gods vrede woon,<br/>daar waar Sy liefde troon,<br/>daar word die smart vergeet<br/>wat ons verwond.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Lewende strome vloei uit Sy Woord,<br/>en soete manna kom daaruit voort.<br/>U wat ons siele voed,<br/>U is ons hoogste God!<br/>ja, en in droefheid<br/>onse toevlugsoord.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:59">
+  <properties>
+    <titles>
+      <title>AL023 - Mag God U Weë Altoos Bewaar</title>
+      <title>God bless and keep thee through all thy days</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="023"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mag God U weë altoos bewaar;<br/>Mag God U seën, steeds jaar na jaar;<br/>'mispa', ons afskeidsgroet,<br/>'mispa', tot ons ontmoet<br/>rondom ons Heer,<br/>as Hy Sy volk vergaar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoe lieflik is die aanbiddingstond<br/>saam met Gods kinders in heilverbond;<br/>Daar waar Gods vrede woon,<br/>daar waar Sy liefde troon,<br/>daar word die smart vergeet<br/>wat ons verwond.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lewende strome vloei uit Sy Woord,<br/>en soete manna kom daaruit voort.<br/>U wat ons siele voed,<br/>U is ons hoogste God!<br/>ja, en in droefheid<br/>onse toevlugsoord.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL054 - My Skepper En My God</title>
-   <title language="en">My Maker and my King</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="054"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>My Skepper en my God,<br/>ek is U eiendom,<br/>ja, dit is steeds op U gebod<br/>dat seëninge kom.<br/>Ja, dit is steeds op U gebod<br/>dat seëninge kom.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Soms as U liefde dring,<br/>bevind ek my te stom<br/>om selfs 'n lied tot U te sing<br/>van Wie my lewe kom.<br/>Om selfs 'n lied tot U te sing<br/>van Wie my lewe kom.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Wat kan ek aan U bring?<br/>Van U kom alles, Heer.<br/>‘n hart wat van U goedheid sing<br/>is al wat U begeer.<br/>‘n hart wat van U goedheid sing<br/>is al wat U begeer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Wil U my hart versterk;<br/>Vervul my met U Gees;<br/>Laat ek in elke woord en werk<br/>alleen U dienaar wees.<br/>Laat ek in elke woord en werk<br/>alleen U dienaar wees.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:01">
+  <properties>
+    <titles>
+      <title>AL054 - My Skepper En My God</title>
+      <title>My Maker and my King</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="054"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Skepper en my God,<br/>ek is U eiendom,<br/>ja, dit is steeds op U gebod<br/>dat seëninge kom.<br/>Ja, dit is steeds op U gebod<br/>dat seëninge kom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soms as U liefde dring,<br/>bevind ek my te stom<br/>om selfs 'n lied tot U te sing<br/>van Wie my lewe kom.<br/>Om selfs 'n lied tot U te sing<br/>van Wie my lewe kom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wat kan ek aan U bring?<br/>Van U kom alles, Heer.<br/>‘n hart wat van U goedheid sing<br/>is al wat U begeer.<br/>‘n hart wat van U goedheid sing<br/>is al wat U begeer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wil U my hart versterk;<br/>Vervul my met U Gees;<br/>Laat ek in elke woord en werk<br/>alleen U dienaar wees.<br/>Laat ek in elke woord en werk<br/>alleen U dienaar wees.</lines>
+    </verse>
+  </lyrics>
 </song>

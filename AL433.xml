@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL433 - Daar Is ‘n Land Van Wyn</title>
-   <title language="en">There is a land of corn and wine</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="433"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Daar is 'n land van wyn en graan,<br/>sy vreugde smaak ons spoedig saam;<br/>Waar onbewolk die eeu'ge dag,<br/>nooit sal verander tot die nag.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>My Heiland wandel daar met my,<br/>o blye stonde aan Sy sy!<br/>Hy neem my vriend'lik aan die hand<br/>en lei my deur die Vaderland.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Verfrissend is die geure daar,<br/>met lentekleure deur die jaar;<br/>Waar blomme onverwelklik bloei<br/>en lewenstrome rustig vloei.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Op stille wind se vleuels sweef<br/>die lieflikheid van klank wat leef<br/>in eng’le lied so roerend mooi,<br/>waar hul die pelgrims huis toe nooi.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Verhewe land bo son en maan,<br/>hoog op jou berge wil ek staan<br/>en uitkyk oor die glasesee,<br/>oor wonings wat die Heer sal gee;<br/>En op sy strate en sy strand<br/>vind ek my eeu'ge Vaderland.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:21">
+  <properties>
+    <titles>
+      <title>AL433 - Daar Is ‘n Land Van Wyn</title>
+      <title>There is a land of corn and wine</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="433"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daar is 'n land van wyn en graan,<br/>sy vreugde smaak ons spoedig saam;<br/>Waar onbewolk die eeu'ge dag,<br/>nooit sal verander tot die nag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My Heiland wandel daar met my,<br/>o blye stonde aan Sy sy!<br/>Hy neem my vriend'lik aan die hand<br/>en lei my deur die Vaderland.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verfrissend is die geure daar,<br/>met lentekleure deur die jaar;<br/>Waar blomme onverwelklik bloei<br/>en lewenstrome rustig vloei.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Op stille wind se vleuels sweef<br/>die lieflikheid van klank wat leef<br/>in eng’le lied so roerend mooi,<br/>waar hul die pelgrims huis toe nooi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Verhewe land bo son en maan,<br/>hoog op jou berge wil ek staan<br/>en uitkyk oor die glasesee,<br/>oor wonings wat die Heer sal gee;<br/>En op sy strate en sy strand<br/>vind ek my eeu'ge Vaderland.</lines>
+    </verse>
+  </lyrics>
 </song>

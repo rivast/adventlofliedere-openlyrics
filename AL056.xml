@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL056 - God, Die Almagtige</title>
-   <title language="en">God, the Omnipotent! King, who ordainest</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="056"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>God, die Almagtige!<br/>U wat as Koning<br/>oor sterke winde en donder regeer,<br/>sien in genade op ons uit U woning,<br/>skenk ons U rus, o genadige Heer.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>God, die barmhartige!<br/>Deur die versaking van U gebod<br/>skend die mensdom U eer;<br/>Vreeslik U grimmigheid in sy ontwaking,<br/>wees ons barmhartig, genadige Heer.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>God, die regverdige!  Heiland, verhewe,<br/>onwankelbaar staan U woorde en leer;<br/>Leuenaars en boosdoeners<br/>sal voor U bewe<br/>ss reg geskied, o genadige Heer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>God, onse toeverlaat<br/>in doodsgevare,<br/>wat onheil van al U kindere weer;<br/>Juigend weerklink oor die berge en bare:<br/>U kom toe sterkte en glorie, o Heer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:01">
+  <properties>
+    <titles>
+      <title>AL056 - God, Die Almagtige</title>
+      <title>God, the Omnipotent! King, who ordainest</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="056"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God, die Almagtige!<br/>U wat as Koning<br/>oor sterke winde en donder regeer,<br/>sien in genade op ons uit U woning,<br/>skenk ons U rus, o genadige Heer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God, die barmhartige!<br/>Deur die versaking van U gebod<br/>skend die mensdom U eer;<br/>Vreeslik U grimmigheid in sy ontwaking,<br/>wees ons barmhartig, genadige Heer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God, die regverdige!  Heiland, verhewe,<br/>onwankelbaar staan U woorde en leer;<br/>Leuenaars en boosdoeners<br/>sal voor U bewe<br/>ss reg geskied, o genadige Heer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>God, onse toeverlaat<br/>in doodsgevare,<br/>wat onheil van al U kindere weer;<br/>Juigend weerklink oor die berge en bare:<br/>U kom toe sterkte en glorie, o Heer!</lines>
+    </verse>
+  </lyrics>
 </song>

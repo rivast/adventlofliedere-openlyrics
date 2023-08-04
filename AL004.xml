@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL004 - Eng'lestemme Klink Gedurig</title>
-   <title language="en">Angel voices ever singing</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="004"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Eng'lestemme klink gedurig<br/>juigend voor U troon;<br/>Harpe speel gewyd en vurig,<br/>soet en wonderskoon.<br/>Talloos is hul wat aanbiddend<br/>eindeloos U eer betoon.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>U, so ver en hoog verhewe,<br/>buig U tot ons neer?<br/>Let U ook op onse strewe<br/>om U Naam te eer?<br/>Luister U na ons gesange<br/>en verlange, dierb're Heer?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ja, U het 'n welbehae<br/>in elk sterweling;<br/>Hand en stem het U geskape<br/>om U te besing.<br/>Snarespel en lied dien beide<br/>om U lof en eer te bring.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Singend bied ons U op aarde<br/>lof en harmonie;<br/>Loof met hart en mond U waarde<br/>op geboë knie.<br/>Luister nou met welbehae<br/>na ons soetste melodie.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:58">
+  <properties>
+    <titles>
+      <title>AL004 - Eng'lestemme Klink Gedurig</title>
+      <title>Angel voices ever singing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="004"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eng'lestemme klink gedurig<br/>juigend voor U troon;<br/>Harpe speel gewyd en vurig,<br/>soet en wonderskoon.<br/>Talloos is hul wat aanbiddend<br/>eindeloos U eer betoon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>U, so ver en hoog verhewe,<br/>buig U tot ons neer?<br/>Let U ook op onse strewe<br/>om U Naam te eer?<br/>Luister U na ons gesange<br/>en verlange, dierb're Heer?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ja, U het 'n welbehae<br/>in elk sterweling;<br/>Hand en stem het U geskape<br/>om U te besing.<br/>Snarespel en lied dien beide<br/>om U lof en eer te bring.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Singend bied ons U op aarde<br/>lof en harmonie;<br/>Loof met hart en mond U waarde<br/>op geboë knie.<br/>Luister nou met welbehae<br/>na ons soetste melodie.</lines>
+    </verse>
+  </lyrics>
 </song>

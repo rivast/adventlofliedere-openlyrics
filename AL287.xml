@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL287 - Aan Die Voete Van My Heiland</title>
-   <title language="en">Sitting at the feet of Jesus</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="287"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Aan die voete van my Heiland<br/>klink Sy woorde teer en sag;<br/>Heil'ge plek so hoog verhewe,<br/>naby Jesus elke dag.<br/>Aan die voete van my Heiland<br/>met gedagtes van weleer,<br/>sien ek weer Sy groot genade -<br/>dit het my tot Hom bekeer.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Aan die voete van my Heiland<br/>Hy's my vreugde en my lus -<br/>lê ek al my sondeskulde;<br/>As ek moeg is - daar is rus.<br/>Aan die voete van my Heiland,<br/>waar ek dikwels ween en bid -<br/>daar is rykdom van genade<br/>waar ek aan Sy voete sit.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Seën my, my Heiland seën my,<br/>ek wag aan U voete nou.<br/>Kyk in liefde op U dienskneg,<br/>laat my U vandag aanskou.<br/>Gee my Jesus se gesindheid,<br/>maak my tot Sy diens bereid.<br/>Laat hul sien ek was met Jesus;<br/>Hy is my geregtigheid.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:14">
+  <properties>
+    <titles>
+      <title>AL287 - Aan Die Voete Van My Heiland</title>
+      <title>Sitting at the feet of Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aan die voete van my Heiland<br/>klink Sy woorde teer en sag;<br/>Heil'ge plek so hoog verhewe,<br/>naby Jesus elke dag.<br/>Aan die voete van my Heiland<br/>met gedagtes van weleer,<br/>sien ek weer Sy groot genade -<br/>dit het my tot Hom bekeer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aan die voete van my Heiland<br/>Hy's my vreugde en my lus -<br/>lê ek al my sondeskulde;<br/>As ek moeg is - daar is rus.<br/>Aan die voete van my Heiland,<br/>waar ek dikwels ween en bid -<br/>daar is rykdom van genade<br/>waar ek aan Sy voete sit.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Seën my, my Heiland seën my,<br/>ek wag aan U voete nou.<br/>Kyk in liefde op U dienskneg,<br/>laat my U vandag aanskou.<br/>Gee my Jesus se gesindheid,<br/>maak my tot Sy diens bereid.<br/>Laat hul sien ek was met Jesus;<br/>Hy is my geregtigheid.</lines>
+    </verse>
+  </lyrics>
 </song>

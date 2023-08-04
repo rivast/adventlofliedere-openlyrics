@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL003 - O Nader Die Heer</title>
-   <title language="en">O worship the Lord in the beauty of holiness</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="003"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O nader die Heer<br/>in die sieraad van heiligheid;<br/>Buig en aanbid Hom,<br/>verkondig Sy eer,<br/>met goud van gehoorsaamheid<br/>en wierook van need'righeid;<br/>Bring Hom die hulde<br/>as Koning en Heer.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Lê aan Sy voete<br/>u las van beslommernis -<br/>Hy het belowe om alles te dra -<br/>Werp op die Heer<br/>u verdriet en bekommernis,<br/>want Hy vertroos u<br/>En skenk wat u vra.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Vrees nie, al voel u gebrek en<br/>armoedigheid,<br/>tree tot Sy heiligdom<br/>toe met gesang;<br/>Waarheid en liefde<br/>en tere sagmoedigheid -<br/>Dit is die offers wat Jesus verlang.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Ja, al u onrus<br/>en bange vertwyfeling<br/>sal in Sy liefde<br/>soos newels verdwyn;<br/>Jesus genees al ons<br/>dwaasheid en weifeling,<br/>en skenk weer vreugde<br/>na droefheid en pyn.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:58">
+  <properties>
+    <titles>
+      <title>AL003 - O Nader Die Heer</title>
+      <title>O worship the Lord in the beauty of holiness</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="003"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O nader die Heer<br/>in die sieraad van heiligheid;<br/>Buig en aanbid Hom,<br/>verkondig Sy eer,<br/>met goud van gehoorsaamheid<br/>en wierook van need'righeid;<br/>Bring Hom die hulde<br/>as Koning en Heer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lê aan Sy voete<br/>u las van beslommernis -<br/>Hy het belowe om alles te dra -<br/>Werp op die Heer<br/>u verdriet en bekommernis,<br/>want Hy vertroos u<br/>En skenk wat u vra.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vrees nie, al voel u gebrek en<br/>armoedigheid,<br/>tree tot Sy heiligdom<br/>toe met gesang;<br/>Waarheid en liefde<br/>en tere sagmoedigheid -<br/>Dit is die offers wat Jesus verlang.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja, al u onrus<br/>en bange vertwyfeling<br/>sal in Sy liefde<br/>soos newels verdwyn;<br/>Jesus genees al ons<br/>dwaasheid en weifeling,<br/>en skenk weer vreugde<br/>na droefheid en pyn.</lines>
+    </verse>
+  </lyrics>
 </song>

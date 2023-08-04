@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL415 - Heil'ges, Waak! Die Dag Kom Nader</title>
-   <title language="en">Watch, ye saints, with eyelids waking</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="415"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Heil'ges, waak! Die dag kom nader,<br/>bose magte sal vergader;<br/>Vul jul lampe voor die nag kom,<br/>Jesus kom - Sy volk verwag Hom;</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hy belowe ons die lewe,<br/>guns by God en skuld vergewe;<br/>Bruilofsklere, lewenskrone -<br/>as Hy kom, bring Hy ons lone.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Trotse ryke gaan ten gronde,<br/>hoor! Sy waens se wiele donder;<br/>Gaan! Verkondig Sy genade,<br/>roep die sondaars op tot dade;</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Nasies is met vrees bevange,<br/>maar Gods volk wag met verlange;<br/>Doodsangs laat volke bewe;<br/>Ons verwag die bron van lewe;</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Hoor hoe pleit Hy: “Skei van sonde'.<br/>Sondaar, kom, Hy heel jou wonde;<br/>Haas jou! Reik na beter dade,<br/>spoedig eindig Sy genade;</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Kyk, Hy kom! Ja, Jesus kom!<br/>Jesus kom, Hy kom in luister,<br/>om te heers oor lig en duister,<br/>Hy sal kom! Ja, Jesus kom!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:20">
+  <properties>
+    <titles>
+      <title>AL415 - Heil'ges, Waak! Die Dag Kom Nader</title>
+      <title>Watch, ye saints, with eyelids waking</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="415"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heil'ges, waak! Die dag kom nader,<br/>bose magte sal vergader;<br/>Vul jul lampe voor die nag kom,<br/>Jesus kom - Sy volk verwag Hom;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hy belowe ons die lewe,<br/>guns by God en skuld vergewe;<br/>Bruilofsklere, lewenskrone -<br/>as Hy kom, bring Hy ons lone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trotse ryke gaan ten gronde,<br/>hoor! Sy waens se wiele donder;<br/>Gaan! Verkondig Sy genade,<br/>roep die sondaars op tot dade;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nasies is met vrees bevange,<br/>maar Gods volk wag met verlange;<br/>Doodsangs laat volke bewe;<br/>Ons verwag die bron van lewe;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hoor hoe pleit Hy: “Skei van sonde'.<br/>Sondaar, kom, Hy heel jou wonde;<br/>Haas jou! Reik na beter dade,<br/>spoedig eindig Sy genade;</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kyk, Hy kom! Ja, Jesus kom!<br/>Jesus kom, Hy kom in luister,<br/>om te heers oor lig en duister,<br/>Hy sal kom! Ja, Jesus kom!</lines>
+    </verse>
+  </lyrics>
 </song>

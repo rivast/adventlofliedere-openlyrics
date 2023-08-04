@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL430 - Sal Ons Saamkom Met Die Vrome?</title>
-   <title language="en">Shall we gather at the river</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="430"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Sal ons saamkom met die vrome,<br/>waar die eng'leskare staan,<br/>by die helder waterstrome<br/>wat van God se troon uitgaan.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Op die Godsrivier se oewers<br/>waar die reënboogkleure sprei,<br/>sal ons Hom aanbid vir ewig;<br/>Elke goue dag so bly!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Voor ons op die oewers aankom,<br/>lê ons al ons laste neer,<br/>en ontvang oorwinnaarskrone<br/>uit die hand van onse Heer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Nie meer lank nie en dan sien ons<br/>daardie ligomstraalde stroom,<br/>daar sal al ons harte saam juig<br/>by die groene lewensboom.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Daar ontmoet ons al die vrome,<br/>by altyd helder, altyd klaar strome -<br/>skoner nog as ons aardse drome -<br/>daar rondom die troon van God.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:21">
+  <properties>
+    <titles>
+      <title>AL430 - Sal Ons Saamkom Met Die Vrome?</title>
+      <title>Shall we gather at the river</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="430"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sal ons saamkom met die vrome,<br/>waar die eng'leskare staan,<br/>by die helder waterstrome<br/>wat van God se troon uitgaan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Op die Godsrivier se oewers<br/>waar die reënboogkleure sprei,<br/>sal ons Hom aanbid vir ewig;<br/>Elke goue dag so bly!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Voor ons op die oewers aankom,<br/>lê ons al ons laste neer,<br/>en ontvang oorwinnaarskrone<br/>uit die hand van onse Heer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie meer lank nie en dan sien ons<br/>daardie ligomstraalde stroom,<br/>daar sal al ons harte saam juig<br/>by die groene lewensboom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Daar ontmoet ons al die vrome,<br/>by altyd helder, altyd klaar strome -<br/>skoner nog as ons aardse drome -<br/>daar rondom die troon van God.</lines>
+    </verse>
+  </lyrics>
 </song>

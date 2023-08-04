@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL136 - Rig U Oog En Hart Na Bowe</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="136"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Rig u oog en hart na bowe;<br/>Veel word hier op aard gemis.<br/>Wil u lewe, liefhê, lowe,<br/>gaan dan na waar Jesus is.<br/>Alle aardse skatte faal<br/>om my losprys te betaal -<br/>wil u lewe, liefhê, lowe,<br/>rig u oog en hart na bowe.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ons sal saligheid beërwe,<br/>ons sal lewe sonder pyn,<br/>sonder siekte, sonder sterwe,<br/>sondeloos - vir ewig rein;<br/>Lewe in volmaakte deug,<br/>vrome blydskap, hemelsvreug;<br/>Ons sal lewe, liefhê, lowe<br/>in die Vaderhuis daarbowe.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Jesus! Bron van hemelvreugde<br/>wat vir elke vrome wag,<br/>U skenk ons in reine deugde<br/>meer as konings ooit vermag.<br/>Maak ons nou, o Heer, bereid<br/>vir die hemelsheerlikheid;<br/>Dan sal ons U ewig lowe!<br/>Jesus, trek ons hart na bowe.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:06">
+  <properties>
+    <titles>
+      <title>AL136 - Rig U Oog En Hart Na Bowe</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rig u oog en hart na bowe;<br/>Veel word hier op aard gemis.<br/>Wil u lewe, liefhê, lowe,<br/>gaan dan na waar Jesus is.<br/>Alle aardse skatte faal<br/>om my losprys te betaal -<br/>wil u lewe, liefhê, lowe,<br/>rig u oog en hart na bowe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ons sal saligheid beërwe,<br/>ons sal lewe sonder pyn,<br/>sonder siekte, sonder sterwe,<br/>sondeloos - vir ewig rein;<br/>Lewe in volmaakte deug,<br/>vrome blydskap, hemelsvreug;<br/>Ons sal lewe, liefhê, lowe<br/>in die Vaderhuis daarbowe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus! Bron van hemelvreugde<br/>wat vir elke vrome wag,<br/>U skenk ons in reine deugde<br/>meer as konings ooit vermag.<br/>Maak ons nou, o Heer, bereid<br/>vir die hemelsheerlikheid;<br/>Dan sal ons U ewig lowe!<br/>Jesus, trek ons hart na bowe.</lines>
+    </verse>
+  </lyrics>
 </song>

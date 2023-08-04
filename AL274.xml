@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL274 - Eers Het Ek Lig Gevra</title>
-   <title language="en">At first I prayed for light</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="274"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Eers het ek lig gevra,<br/>hier op my aardse pad,<br/>wat my in veiligheid sou lei<br/>na gindse hemelstad.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Toe het ek krag begeer<br/>om met standvastigheid<br/>steeds aan die kant van God te staan<br/>in hierdie lewenstryd.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Daarna was sterk geloof<br/>immer my smeekgebed;<br/>Ag, kon ek net my God vertrou,<br/>hoe ferm was dan my tred!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Slegs liefde vra ek nou<br/>om God en mens te dien;<br/>Liefde wat alles kan verduur,<br/>en weet dat God voorsien.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Lig en geloof en krag<br/>met liefde skenk die Heer;<br/>Geduldig moes Hy wag om my<br/>die groot gebed te leer.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+  <properties>
+    <titles>
+      <title>AL274 - Eers Het Ek Lig Gevra</title>
+      <title>At first I prayed for light</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="274"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eers het ek lig gevra,<br/>hier op my aardse pad,<br/>wat my in veiligheid sou lei<br/>na gindse hemelstad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toe het ek krag begeer<br/>om met standvastigheid<br/>steeds aan die kant van God te staan<br/>in hierdie lewenstryd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daarna was sterk geloof<br/>immer my smeekgebed;<br/>Ag, kon ek net my God vertrou,<br/>hoe ferm was dan my tred!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Slegs liefde vra ek nou<br/>om God en mens te dien;<br/>Liefde wat alles kan verduur,<br/>en weet dat God voorsien.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lig en geloof en krag<br/>met liefde skenk die Heer;<br/>Geduldig moes Hy wag om my<br/>die groot gebed te leer.</lines>
+    </verse>
+  </lyrics>
 </song>

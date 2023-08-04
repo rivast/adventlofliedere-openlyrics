@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL240 - Jesus, Hou My By Die Kruis</title>
-   <title language="en">Jesus, keep me near the cross</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="240"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Jesus, hou my by die kruis -<br/>die fontein van lewe;<br/>Waaruit helend' strome vloei,<br/>vry aan ons gegewe.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>By die kruis, bevreesde siel,<br/>slaan ek lyding gade;<br/>Daar omskyn die Môrester<br/>my met Sy genade.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>By die kruis, o Lam van God,<br/>sien ek weer U smarte;<br/>Laat ons wandel met Sy beeld<br/>daagliks in ons harte.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>By die kruis sal my geloof<br/>aansterk deur vertroue;<br/>Tot dit in die beter land<br/>oorgaan in aanskoue.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>In die kruis, in die kruis,<br/>sal ek roem vir ewig;<br/>Tot ek eens verheerlik staan<br/>by die stroom van lewe!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+  <properties>
+    <titles>
+      <title>AL240 - Jesus, Hou My By Die Kruis</title>
+      <title>Jesus, keep me near the cross</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, hou my by die kruis -<br/>die fontein van lewe;<br/>Waaruit helend' strome vloei,<br/>vry aan ons gegewe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By die kruis, bevreesde siel,<br/>slaan ek lyding gade;<br/>Daar omskyn die Môrester<br/>my met Sy genade.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By die kruis, o Lam van God,<br/>sien ek weer U smarte;<br/>Laat ons wandel met Sy beeld<br/>daagliks in ons harte.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By die kruis sal my geloof<br/>aansterk deur vertroue;<br/>Tot dit in die beter land<br/>oorgaan in aanskoue.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In die kruis, in die kruis,<br/>sal ek roem vir ewig;<br/>Tot ek eens verheerlik staan<br/>by die stroom van lewe!</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL250 - As Vrede My Pad Hier Op Aarde Verlig</title>
-   <title language="en">When peace, like a river, attendeth my way</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="250"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>As vrede my pad hier op aarde verlig,<br/>as droefheid my vreugde verniel, o mag<br/>ek dan weet, watter lot my ook tref,<br/>dit is wel, dit is wel met my siel.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Hoe satan ook woed, watter rampe<br/>fenaak, met sekerheid sal ek vertel:<br/>vir my het die Heiland Sy lewe gegee,<br/>dit is wel, met my siel, dit is wel.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>My sondes, o saal'ge verseek'ring van<br/>Hom! Het Hy aan die kruishout genael;<br/>Nou ken ek die vrede wat Jesus ons gee<br/>loof die Heer, al my skuld is betaal.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Verhaas, liewe Heer, daardie heerlike<br/>dag, vanouds deur profete voorspel,<br/>as wolke sal wegvlug en Jesus sal kom,<br/>is dit wel, met my siel, is dit wel!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Dit is wel, met my siel,<br/>dit is wel,<br/>dit is wel, met my siel.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+  <properties>
+    <titles>
+      <title>AL250 - As Vrede My Pad Hier Op Aarde Verlig</title>
+      <title>When peace, like a river, attendeth my way</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As vrede my pad hier op aarde verlig,<br/>as droefheid my vreugde verniel, o mag<br/>ek dan weet, watter lot my ook tref,<br/>dit is wel, dit is wel met my siel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoe satan ook woed, watter rampe<br/>fenaak, met sekerheid sal ek vertel:<br/>vir my het die Heiland Sy lewe gegee,<br/>dit is wel, met my siel, dit is wel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My sondes, o saal'ge verseek'ring van<br/>Hom! Het Hy aan die kruishout genael;<br/>Nou ken ek die vrede wat Jesus ons gee<br/>loof die Heer, al my skuld is betaal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verhaas, liewe Heer, daardie heerlike<br/>dag, vanouds deur profete voorspel,<br/>as wolke sal wegvlug en Jesus sal kom,<br/>is dit wel, met my siel, is dit wel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dit is wel, met my siel,<br/>dit is wel,<br/>dit is wel, met my siel.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL033 - As Stil Die Dagbreek Kom</title>
-   <title language="en">When morning gilds the skies</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="033"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>As stil die dagbreek kom,<br/>verheug ek my in Hom.<br/>Loof Jesus, onse Heer!<br/>My arbeid en gebed<br/>verheerlik Hom wat red.<br/>Loof Jesus, onse Heer!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>En klink die kerkklok bly<br/>oor dorp en rant en vlei,<br/>loof Jesus, onse Heer!<br/>O luister na die klank<br/>en bring aan God u dank;<br/>Loof Jesus, onse Heer!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Lig sal ons nag verdring<br/>as ons van harte sing:<br/>Loof Jesus, onse Heer!<br/>Want bose magte wyk<br/>vir hierdie huldeblyk:<br/>Loof Jesus, onse Heer!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Laat ons die wêreld oor<br/>verenig in die koor:<br/>Loof Jesus, onse Heer!<br/>Laat al die nasies juig,<br/>eendragtig dank betuig:<br/>Loof Jesus, onse Heer!</lines>
-  </verse>
-  <verse name="v5">
-   <lines>In gindse saal'ge oord<br/>hoor ons die soet akkoord:<br/>Loof Jesus, onse Heer!<br/>Laat land en lug en see<br/>alom die antwoord gee:<br/>Loof Jesus, onse Heer!</lines>
-  </verse>
-  <verse name="v6">
-   <lines>Solank U lewe bied,<br/>bly dit my hoogste lied:<br/>Loof Jesus, onse Heer!<br/>Hierna sing ek altoos<br/>deur eeue eindeloos:<br/>Loof Jesus, onse Heer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:59">
+  <properties>
+    <titles>
+      <title>AL033 - As Stil Die Dagbreek Kom</title>
+      <title>When morning gilds the skies</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="033"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As stil die dagbreek kom,<br/>verheug ek my in Hom.<br/>Loof Jesus, onse Heer!<br/>My arbeid en gebed<br/>verheerlik Hom wat red.<br/>Loof Jesus, onse Heer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>En klink die kerkklok bly<br/>oor dorp en rant en vlei,<br/>loof Jesus, onse Heer!<br/>O luister na die klank<br/>en bring aan God u dank;<br/>Loof Jesus, onse Heer!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lig sal ons nag verdring<br/>as ons van harte sing:<br/>Loof Jesus, onse Heer!<br/>Want bose magte wyk<br/>vir hierdie huldeblyk:<br/>Loof Jesus, onse Heer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Laat ons die wêreld oor<br/>verenig in die koor:<br/>Loof Jesus, onse Heer!<br/>Laat al die nasies juig,<br/>eendragtig dank betuig:<br/>Loof Jesus, onse Heer!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In gindse saal'ge oord<br/>hoor ons die soet akkoord:<br/>Loof Jesus, onse Heer!<br/>Laat land en lug en see<br/>alom die antwoord gee:<br/>Loof Jesus, onse Heer!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Solank U lewe bied,<br/>bly dit my hoogste lied:<br/>Loof Jesus, onse Heer!<br/>Hierna sing ek altoos<br/>deur eeue eindeloos:<br/>Loof Jesus, onse Heer!</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL179 - Jy Wat Dit Gehoor Het</title>
-   <title language="en">'Whosoever heareth,' shout, shout the sound!</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="179"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Jy wat dit gehoor het,<br/>Roep, roep dit pal,<br/>Stuur die evangelie met trompetgeskal<br/>Maak die woord bekend,<br/>Oor elke berg en dal,<br/>Enigeen wat hoor, kan kom.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Jy wat dit gehoor het,<br/>Waarom nog wag?<br/>God neem sondaars aan,<br/>O kom tot Hom vandag!<br/>Jesus is die weg,<br/>Die Lam vir ons geslag,<br/>Enigeen wat hoor, kan kom.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Jy wat dit gehoor het, salig is jy<br/>Jy wat dit gehoor het,<br/>Moet die stryd volstry<br/>Jy wat dit gehoor het, kan die lewe kry,<br/>Enigeen wat hoor, kan kom.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Enigeen wat hoor, enigeen wat hoor,<br/>Stuur die boodskap berge en riviere oor<br/>God die Vader nooi die sondaar om te kom<br/>Enigeen wat hoor, kan kom.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:09">
+  <properties>
+    <titles>
+      <title>AL179 - Jy Wat Dit Gehoor Het</title>
+      <title>'Whosoever heareth,' shout, shout the sound!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="179"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jy wat dit gehoor het,<br/>Roep, roep dit pal,<br/>Stuur die evangelie met trompetgeskal<br/>Maak die woord bekend,<br/>Oor elke berg en dal,<br/>Enigeen wat hoor, kan kom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jy wat dit gehoor het,<br/>Waarom nog wag?<br/>God neem sondaars aan,<br/>O kom tot Hom vandag!<br/>Jesus is die weg,<br/>Die Lam vir ons geslag,<br/>Enigeen wat hoor, kan kom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jy wat dit gehoor het, salig is jy<br/>Jy wat dit gehoor het,<br/>Moet die stryd volstry<br/>Jy wat dit gehoor het, kan die lewe kry,<br/>Enigeen wat hoor, kan kom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Enigeen wat hoor, enigeen wat hoor,<br/>Stuur die boodskap berge en riviere oor<br/>God die Vader nooi die sondaar om te kom<br/>Enigeen wat hoor, kan kom.</lines>
+    </verse>
+  </lyrics>
 </song>

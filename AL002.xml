@@ -1,29 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL002 - Laat Elk Die Heer Se Goedheid Lowe</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="002"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Laat elk die Heer se goedheid lowe;<br/>sing tot die Oppermajesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.<br/>o Israel, kom die Here lowe!<br/>sing van Sy roem en majesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Die Heer is my 'n sterke Vader,<br/>Hy is my lied, my psalmgesang.<br/>Hy bring my tot Sy howe nader,<br/>dus loof ek Hom my lewe lang!<br/>Ons hoor die vrome lied se galme<br/>van hulp en heil van dag tot dag;<br/>Daar sing ons bly ons dankb're psalme.<br/>God's regterhand doen grote krag!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Dit is die roem, van alle dae,<br/>wat onse God geheilig het,<br/>laat ons verheug, van sorg ontslae,<br/>Hom roem in lofsang en gebed.<br/>o Heer, gee tans U seëninge!<br/>o Heer, gee heil op hierdie dag!<br/>Mag daar op al die eerstelinge<br/>‘n ryke oes van voorspoed wag!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>U is my God, U wil ek lowe;<br/>ek sing U grote majesteit.<br/>My God, niks gaan U roem te bowe -<br/>U prys ek tot in ewigheid!<br/>Laat elk die Heer se goedheid lowe;<br/>sing tot die Oppermajesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T18:46:35">
+  <properties>
+    <titles>
+      <title>AL002 - Laat Elk Die Heer Se Goedheid Lowe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="002"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Laat elk die Heer se goedheid lowe;<br/>sing tot die Oppermajesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
+      <lines>o Israel, kom die Here lowe!<br/>sing van Sy roem en majesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Die Heer is my 'n sterke Vader,<br/>Hy is my lied, my psalmgesang.<br/>Hy bring my tot Sy howe nader,<br/>dus loof ek Hom my lewe lang!</lines>
+      <lines>Ons hoor die vrome lied se galme<br/>van hulp en heil van dag tot dag;<br/>Daar sing ons bly ons dankb're psalme.<br/>God's regterhand doen grote krag!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Dit is die roem, van alle dae,<br/>wat onse God geheilig het,<br/>laat ons verheug, van sorg ontslae,<br/>Hom roem in lofsang en gebed.</lines>
+      <lines>o Heer, gee tans U seëninge!<br/>o Heer, gee heil op hierdie dag!<br/>Mag daar op al die eerstelinge<br/>‘n ryke oes van voorspoed wag!</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">U is my God, U wil ek lowe;<br/>ek sing U grote majesteit.<br/>My God, niks gaan U roem te bowe -<br/>U prys ek tot in ewigheid!</lines>
+      <lines>Laat elk die Heer se goedheid lowe;<br/>sing tot die Oppermajesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL477 - Die Rus In Jesus Is Volmaak</title>
-   <title language="en">Asleep in Jesus! blessed sleep</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="477"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Die rus in Jesus is volmaak -<br/>om nooit tot trane te ontwaak -<br/>‘n ongestoorde, kalme rus,<br/>van pyn of lyding onbewus.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Die rus in Jesus! O hoe soet<br/>om Hom so rustig te ontmoet<br/>en elke uur bereid te wees,<br/>en stil te gaan, so sonder vrees.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Die rus in Jesus is so sag!<br/>Ons sal ontwaak deur God se mag;<br/>Geen vrees of ramp sal dan verhoed<br/>dat ons die Heiland sal ontmoet.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Die rus in Hom is spoedig oor:<br/>as ons basuingeskal sal hoor,<br/>dan gee die graf sy lewe weer,<br/>onsterflik, skoon in onse Heer.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:24">
+  <properties>
+    <titles>
+      <title>AL477 - Die Rus In Jesus Is Volmaak</title>
+      <title>Asleep in Jesus! blessed sleep</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="477"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die rus in Jesus is volmaak -<br/>om nooit tot trane te ontwaak -<br/>‘n ongestoorde, kalme rus,<br/>van pyn of lyding onbewus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Die rus in Jesus! O hoe soet<br/>om Hom so rustig te ontmoet<br/>en elke uur bereid te wees,<br/>en stil te gaan, so sonder vrees.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die rus in Jesus is so sag!<br/>Ons sal ontwaak deur God se mag;<br/>Geen vrees of ramp sal dan verhoed<br/>dat ons die Heiland sal ontmoet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Die rus in Hom is spoedig oor:<br/>as ons basuingeskal sal hoor,<br/>dan gee die graf sy lewe weer,<br/>onsterflik, skoon in onse Heer.</lines>
+    </verse>
+  </lyrics>
 </song>

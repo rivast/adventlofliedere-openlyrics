@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL065 - Vir Die Sonskyn En Die Reën</title>
-   <title language="en">For the beauty of the earth</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="065"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Vir die sonskyn en die reën,<br/>vlei en veld en blommeprag,<br/>vir die liefde wat my seën<br/>sedert my geboortedag,<br/>milde Gewer, goed en wys,<br/>sal ek U steeds dank en prys.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Vir my kommerlose jeug,<br/>ouerliefde, broedermin,<br/>rein genot en ware vreug,<br/>vriendekring en huisgesin,<br/>milde Gewer, goed en wys,<br/>sal ek U steeds dank en prys.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Vir die gawe van U Seun,<br/>vir die hoop op saligheid,<br/>vir die Heil'ge Gees en steun,<br/>vir die kroon na hierdie stryd,<br/>milde Gewer, goed en wys,<br/>sal ek U steeds dank en prys.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:01">
+  <properties>
+    <titles>
+      <title>AL065 - Vir Die Sonskyn En Die Reën</title>
+      <title>For the beauty of the earth</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="065"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vir die sonskyn en die reën,<br/>vlei en veld en blommeprag,<br/>vir die liefde wat my seën<br/>sedert my geboortedag,<br/>milde Gewer, goed en wys,<br/>sal ek U steeds dank en prys.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vir my kommerlose jeug,<br/>ouerliefde, broedermin,<br/>rein genot en ware vreug,<br/>vriendekring en huisgesin,<br/>milde Gewer, goed en wys,<br/>sal ek U steeds dank en prys.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vir die gawe van U Seun,<br/>vir die hoop op saligheid,<br/>vir die Heil'ge Gees en steun,<br/>vir die kroon na hierdie stryd,<br/>milde Gewer, goed en wys,<br/>sal ek U steeds dank en prys.</lines>
+    </verse>
+  </lyrics>
 </song>

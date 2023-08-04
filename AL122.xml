@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL122 - Gee Jesus Om</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="122"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Gee Jesus om as my bange hart<br/>van weemoed en pyn wil vlug,<br/>as my laste druk<br/>en ek laag moet buk<br/>tot ek moeg en moedeloos sug?</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Gee Jesus om as my hart beswyk<br/>in die duistere nag van vrees,<br/>as die daglig faal<br/>en die skadu's daal,<br/>sal die Heer ook dan by my wees?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Gee Jesus om as versoeking kom<br/>en ek voor die druk beswyk,<br/>as my wange gloei<br/>en my trane vloei,<br/>sal Sy hand my dan nog bereik?</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Gee Jesus om as ek afskeid neem<br/>van die liefste op aard' vir my,<br/>en die dood hom wreek<br/>tot my hart wil breek,<br/>is dit niks vir Hom as ek ly?</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Ja, Hy gee om, my Heer gee om,<br/>Sy hart is week met my leed.<br/>As die dae lank is,<br/>my hart snags krank is,<br/>weet ek my Heer gee om.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+  <properties>
+    <titles>
+      <title>AL122 - Gee Jesus Om</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="122"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gee Jesus om as my bange hart<br/>van weemoed en pyn wil vlug,<br/>as my laste druk<br/>en ek laag moet buk<br/>tot ek moeg en moedeloos sug?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gee Jesus om as my hart beswyk<br/>in die duistere nag van vrees,<br/>as die daglig faal<br/>en die skadu's daal,<br/>sal die Heer ook dan by my wees?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gee Jesus om as versoeking kom<br/>en ek voor die druk beswyk,<br/>as my wange gloei<br/>en my trane vloei,<br/>sal Sy hand my dan nog bereik?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gee Jesus om as ek afskeid neem<br/>van die liefste op aard' vir my,<br/>en die dood hom wreek<br/>tot my hart wil breek,<br/>is dit niks vir Hom as ek ly?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ja, Hy gee om, my Heer gee om,<br/>Sy hart is week met my leed.<br/>As die dae lank is,<br/>my hart snags krank is,<br/>weet ek my Heer gee om.</lines>
+    </verse>
+  </lyrics>
 </song>

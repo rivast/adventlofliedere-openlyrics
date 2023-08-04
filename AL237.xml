@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL237 - Rots Der Eeue, Oop Vir My</title>
-   <title language="en">Rock of Ages, cleft for me</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="237"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Rots der Eeue, oop vir my,<br/>laat my veilig in U bly!<br/>Laat die water en die bloed<br/>uit U sy as helend' vloed,<br/>my van sondeskuld en -mag<br/>dubbel vrymaak, Heer, vandag.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Niks is daar wat ek kan doen,<br/>Heer, wat my, met U versoen;<br/>Sou my siel met ywer gloei,<br/>sou my trane ewig vloei -<br/>losser is daar net maar Een,<br/>U moet red, en U alleen!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ledig, slegs met sondelas,<br/>hou ek aan die kruishout vas.<br/>Nakend, smeek ek om 'n kleed,<br/>swak is ek, omring deur leed.<br/>Ek is vuil en vol verderf;<br/>Heiland, was my eer ek sterf!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Lê ek eens die pelgrimstaf<br/>van my swerwerslewe af,<br/>as die uur van oordeel slaan,<br/>en ek voor my Regter staan -<br/>Rots der eeue, oop vir my,<br/>laat my dan nog in U bly!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+  <properties>
+    <titles>
+      <title>AL237 - Rots Der Eeue, Oop Vir My</title>
+      <title>Rock of Ages, cleft for me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rots der Eeue, oop vir my,<br/>laat my veilig in U bly!<br/>Laat die water en die bloed<br/>uit U sy as helend' vloed,<br/>my van sondeskuld en -mag<br/>dubbel vrymaak, Heer, vandag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niks is daar wat ek kan doen,<br/>Heer, wat my, met U versoen;<br/>Sou my siel met ywer gloei,<br/>sou my trane ewig vloei -<br/>losser is daar net maar Een,<br/>U moet red, en U alleen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ledig, slegs met sondelas,<br/>hou ek aan die kruishout vas.<br/>Nakend, smeek ek om 'n kleed,<br/>swak is ek, omring deur leed.<br/>Ek is vuil en vol verderf;<br/>Heiland, was my eer ek sterf!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lê ek eens die pelgrimstaf<br/>van my swerwerslewe af,<br/>as die uur van oordeel slaan,<br/>en ek voor my Regter staan -<br/>Rots der eeue, oop vir my,<br/>laat my dan nog in U bly!</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL181 - Ek Hoor My Heiland Roep My</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="181"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek hoor my Heiland roep my,<br/>Sy stem is sag en teer;<br/>Voortdurend roep en roep Hy<br/>maar ek verset my weer.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek hoor my Heiland roep my<br/>so smekend soet en skoon;<br/>Voortdurend roep en roep Hy:<br/>'mag ek by jou kom woon?'</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ek hoor my Heiland roep my<br/>met meegevoel so sag;<br/>Voortdurend roep en roep Hy<br/>dit raak my hart vandag.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Waarom draai ek my weg van<br/>Hom -<br/>Die Heer wat my bemin?</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:09">
+  <properties>
+    <titles>
+      <title>AL181 - Ek Hoor My Heiland Roep My</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="181"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek hoor my Heiland roep my,<br/>Sy stem is sag en teer;<br/>Voortdurend roep en roep Hy<br/>maar ek verset my weer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek hoor my Heiland roep my<br/>so smekend soet en skoon;<br/>Voortdurend roep en roep Hy:<br/>'mag ek by jou kom woon?'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ek hoor my Heiland roep my<br/>met meegevoel so sag;<br/>Voortdurend roep en roep Hy<br/>dit raak my hart vandag.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Waarom draai ek my weg van<br/>Hom -<br/>Die Heer wat my bemin?</lines>
+    </verse>
+  </lyrics>
 </song>

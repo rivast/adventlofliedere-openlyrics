@@ -1,27 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL076 - ‘n Wonderskone Lied</title>
-   <title language="en">It came upon the midnight clear</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="076"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>‘n Wonderskone lied<br/>het in die stilte van die nag<br/>gesweef oor Betlehem vanouds,<br/>melodieus en sag:<br/>''n Welbehae in die mens<br/>het Hy wat vrede bring;<br/>Aan Hom kom toe die eer en krag,'<br/>het engele gesing.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Nog klink die hemelse musiek<br/>van daardie eng'lerei,<br/>oor hierdie aarde so vol smart<br/>en wrede dwinglandy.<br/>Nog kom die boodskappers van God<br/>aan mense vrede bring;<br/>Vêr bo die wêreldse rumoer,<br/>hoor ons nog eng'le sing.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Skep moed, terneergedrukte siel,<br/>vermoeid en afgemat,<br/>wat onder sware laste buk<br/>hier op jou lewenspad!<br/>Die boodskap van die hemelkoor<br/>sal vrede aan jou bring;<br/>Werp al jou laste op die Heer,<br/>en luister, eng'le sing!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T19:16:01">
+  <properties>
+    <titles>
+      <title>AL076 - ‘n Wonderskone Lied</title>
+      <title>It came upon the midnight clear</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="076"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">‘n Wonderskone lied<br/>het in die stilte van die nag<br/>gesweef oor Betlehem vanouds,<br/>melodieus en sag:</lines>
+      <lines>"'n Welbehae in die mens<br/>het Hy wat vrede bring;<br/>Aan Hom kom toe die eer en krag,"<br/>het engele gesing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Nog klink die hemelse musiek<br/>van daardie eng'lerei,<br/>oor hierdie aarde so vol smart<br/>en wrede dwinglandy.</lines>
+      <lines>Nog kom die boodskappers van God<br/>aan mense vrede bring;<br/>Vêr bo die wêreldse rumoer,<br/>hoor ons nog eng'le sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Skep moed, terneergedrukte siel,<br/>vermoeid en afgemat,<br/>wat onder sware laste buk<br/>hier op jou lewenspad!</lines>
+      <lines>Die boodskap van die hemelkoor<br/>sal vrede aan jou bring;<br/>Werp al jou laste op die Heer,<br/>en luister, eng'le sing!</lines>
+    </verse>
+  </lyrics>
 </song>

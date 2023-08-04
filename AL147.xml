@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL147 - Heil'ge Gees, O God'lik Lig</title>
-   <title language="en">Holy Spirit, light divine</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="147"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Heil'ge Gees, o God'lik Lig,<br/>skyn U oor my aangesig,<br/>laat die skadu's van my nag<br/>wegvlug voor U nuwe dag.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Heil'ge Gees, o God'lik krag,<br/>reinig U my hart vandag<br/>van die sonde wat daar woon,<br/>maak my lewe rein en skoon.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Heil'ge Gees, o Vreugde rein,<br/>stil U in my hart die pyn;<br/>Neem van my die dood se smart,<br/>heel U my gewonde hart.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Gees van God, kom in my woon,<br/>duld geen afgod op U troon;<br/>Kom, o Heiland, en regeer<br/>in my hart as God en Heer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:07">
+  <properties>
+    <titles>
+      <title>AL147 - Heil'ge Gees, O God'lik Lig</title>
+      <title>Holy Spirit, light divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heil'ge Gees, o God'lik Lig,<br/>skyn U oor my aangesig,<br/>laat die skadu's van my nag<br/>wegvlug voor U nuwe dag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heil'ge Gees, o God'lik krag,<br/>reinig U my hart vandag<br/>van die sonde wat daar woon,<br/>maak my lewe rein en skoon.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heil'ge Gees, o Vreugde rein,<br/>stil U in my hart die pyn;<br/>Neem van my die dood se smart,<br/>heel U my gewonde hart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gees van God, kom in my woon,<br/>duld geen afgod op U troon;<br/>Kom, o Heiland, en regeer<br/>in my hart as God en Heer!</lines>
+    </verse>
+  </lyrics>
 </song>

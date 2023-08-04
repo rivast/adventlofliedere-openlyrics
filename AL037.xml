@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL037 - Heer, Wees U Met Ons</title>
-   <title language="en">Now God be with us, for the night is closing</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="037"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Heer, wees U met ons,<br/>want die nag kom nader,<br/>daglig en duister kom van U,<br/>ons Vader;<br/>Geen ander toevlug het ons hier benede;<br/>Hoor U ons bede.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Laat geen verskrikking<br/>hierdie woning nader,<br/>waak tot die daglig ons weer wek,<br/>o Vader;<br/>Onder U vleuels rus U kinders veilig -<br/>deur U geheilig.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ons het geen toevlug buiten U,<br/>o Vader,<br/>ons is U kinders,<br/>trek ons daagliks nader<br/>aan U groot liefde wat ons hart vir ewig<br/>in U verstewig.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Vader, U Naam kan ons nie prys<br/>na waarde;<br/>O laat U wil in ons geskied op aarde;<br/>U, wat die sonde wegneem en vergewe,<br/>skenk ons die lewe.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:59">
+  <properties>
+    <titles>
+      <title>AL037 - Heer, Wees U Met Ons</title>
+      <title>Now God be with us, for the night is closing</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="037"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heer, wees U met ons,<br/>want die nag kom nader,<br/>daglig en duister kom van U,<br/>ons Vader;<br/>Geen ander toevlug het ons hier benede;<br/>Hoor U ons bede.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Laat geen verskrikking<br/>hierdie woning nader,<br/>waak tot die daglig ons weer wek,<br/>o Vader;<br/>Onder U vleuels rus U kinders veilig -<br/>deur U geheilig.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ons het geen toevlug buiten U,<br/>o Vader,<br/>ons is U kinders,<br/>trek ons daagliks nader<br/>aan U groot liefde wat ons hart vir ewig<br/>in U verstewig.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vader, U Naam kan ons nie prys<br/>na waarde;<br/>O laat U wil in ons geskied op aarde;<br/>U, wat die sonde wegneem en vergewe,<br/>skenk ons die lewe.</lines>
+    </verse>
+  </lyrics>
 </song>

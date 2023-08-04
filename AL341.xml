@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL341 - Hoor! Daar Klink Die Stem Van Jesus!</title>
-   <title language="en">Hark! the voice of Jesus calling</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="341"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Hoor! Daar klink die stem van Jesus!<br/>“Wie sal gaan?' hoor ek Hom vra,<br/>'kyk, die oes is ryp en wagtend,<br/>wie sal help die gerwe dra?'<br/>Helder klink die Heer se roepstem,<br/>ryk vergoeding bied Hy vry;<br/>Wie sal antwoord op Sy roepstem:<br/>'hier is ek, Heer, stuur U my?'</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Kan jy nie van huis af gaan nie,<br/>moet jy hierdie plig verbeur;<br/>Kyk, hier is ook heid'ne naby,<br/>hulle staan selfs aan jou deur.<br/>Ken jy nie die taal van eng'le?<br/>Kan jy nie soos Paulus preek?<br/>Tog kan jy getuig vir Jesus,<br/>van Sy kruisdood kan jy spreek.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Al is jy ook nie die wagter<br/>wat op Sionsmure staan,<br/>en die hemelweg hier aanwys<br/>waarop dwalendes moet gaan;<br/>Met gebed en offergawes<br/>kan jy doen wat God verwag,<br/>daarmee skraag ook jy die hande<br/>van 'n Moses elke dag.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Wyl daar siele om jou sterwe,<br/>en die Meester jou wil stuur,<br/>laat tog niemand jou hoor sê nie:<br/>“Niemand het my ooit gehuur'.<br/>doen gewillig elke dagtaak,<br/>laat Sy werk jou vreugde bly;<br/>Op Sy roepstem antwoord daad'lik:<br/>'hier is ek, Heer, stuur U my!'</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:16">
+  <properties>
+    <titles>
+      <title>AL341 - Hoor! Daar Klink Die Stem Van Jesus!</title>
+      <title>Hark! the voice of Jesus calling</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="341"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoor! Daar klink die stem van Jesus!<br/>“Wie sal gaan?' hoor ek Hom vra,<br/>'kyk, die oes is ryp en wagtend,<br/>wie sal help die gerwe dra?'<br/>Helder klink die Heer se roepstem,<br/>ryk vergoeding bied Hy vry;<br/>Wie sal antwoord op Sy roepstem:<br/>'hier is ek, Heer, stuur U my?'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kan jy nie van huis af gaan nie,<br/>moet jy hierdie plig verbeur;<br/>Kyk, hier is ook heid'ne naby,<br/>hulle staan selfs aan jou deur.<br/>Ken jy nie die taal van eng'le?<br/>Kan jy nie soos Paulus preek?<br/>Tog kan jy getuig vir Jesus,<br/>van Sy kruisdood kan jy spreek.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al is jy ook nie die wagter<br/>wat op Sionsmure staan,<br/>en die hemelweg hier aanwys<br/>waarop dwalendes moet gaan;<br/>Met gebed en offergawes<br/>kan jy doen wat God verwag,<br/>daarmee skraag ook jy die hande<br/>van 'n Moses elke dag.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wyl daar siele om jou sterwe,<br/>en die Meester jou wil stuur,<br/>laat tog niemand jou hoor sê nie:<br/>“Niemand het my ooit gehuur'.<br/>doen gewillig elke dagtaak,<br/>laat Sy werk jou vreugde bly;<br/>Op Sy roepstem antwoord daad'lik:<br/>'hier is ek, Heer, stuur U my!'</lines>
+    </verse>
+  </lyrics>
 </song>

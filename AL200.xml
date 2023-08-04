@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL200 - O Heer, Ek Verlang Om U Eie Te Wees</title>
-   <title language="en">Lord Jesus, I long to be perfectly whole</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="200"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O Heer, ek verlang<br/>om U eie te wees;<br/>Kom leef in my hart<br/>en verdryf al my vrees;<br/>Verbreek elke afgod;<br/>Vul my met U Gees;<br/>O was my en witter<br/>as sneeu sal ek wees.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Heer Jesus, sien neer<br/>uit die hemel daarbo,<br/>volmaak U my offer,<br/>o Vader, ek glo<br/>dat U my volkome<br/>van sonde genees!<br/>O, was my en witter<br/>as sneeu sal ek wees!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>In need'righeid smeek ek,<br/>o Heer, om gena;<br/>Ek wag aan U voete,<br/>wat kan ek meer vra?<br/>Ek weet dat U bloed<br/>my van sonde genees;<br/>O was my en witter<br/>as sneeu sal ek wees.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>O Here, ek smeek<br/>U geduldig vandag,<br/>herskep U my hart<br/>wyl ek stil voor U wag;<br/>U bloed sal my reinig<br/>van sonde en vrees;<br/>O was my en witter<br/>as sneeu sal ek wees.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Witter as sneeu,<br/>ja, witter as sneeu;<br/>O was my, en witter<br/>as sneeu sal ek wees.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:10">
+  <properties>
+    <titles>
+      <title>AL200 - O Heer, Ek Verlang Om U Eie Te Wees</title>
+      <title>Lord Jesus, I long to be perfectly whole</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Heer, ek verlang<br/>om U eie te wees;<br/>Kom leef in my hart<br/>en verdryf al my vrees;<br/>Verbreek elke afgod;<br/>Vul my met U Gees;<br/>O was my en witter<br/>as sneeu sal ek wees.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heer Jesus, sien neer<br/>uit die hemel daarbo,<br/>volmaak U my offer,<br/>o Vader, ek glo<br/>dat U my volkome<br/>van sonde genees!<br/>O, was my en witter<br/>as sneeu sal ek wees!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In need'righeid smeek ek,<br/>o Heer, om gena;<br/>Ek wag aan U voete,<br/>wat kan ek meer vra?<br/>Ek weet dat U bloed<br/>my van sonde genees;<br/>O was my en witter<br/>as sneeu sal ek wees.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Here, ek smeek<br/>U geduldig vandag,<br/>herskep U my hart<br/>wyl ek stil voor U wag;<br/>U bloed sal my reinig<br/>van sonde en vrees;<br/>O was my en witter<br/>as sneeu sal ek wees.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Witter as sneeu,<br/>ja, witter as sneeu;<br/>O was my, en witter<br/>as sneeu sal ek wees.</lines>
+    </verse>
+  </lyrics>
 </song>

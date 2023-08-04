@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL393 - Die Heer Is In Sy Heil'ge Tempel</title>
-   <title language="en">The Lord is in His holy temple</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="393"/>
-  </songbooks>
-  <verseOrder>v1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Die Heer is in Sy heil’ge tempel;<br/>Swyg voor Hom, ganse aarde,<br/>aanbid Hom.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:19">
+  <properties>
+    <titles>
+      <title>AL393 - Die Heer Is In Sy Heil'ge Tempel</title>
+      <title>The Lord is in His holy temple</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="393"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Die Heer is in Sy heil’ge tempel;<br/>Swyg voor Hom, ganse aarde,<br/>aanbid Hom.</lines>
+    </verse>
+  </lyrics>
 </song>

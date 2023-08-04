@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL060 - Op Berge En In Dale</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="060"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Op berge en in dale<br/>en oweral is God;<br/>Waar ek herhaalde male<br/>mag dwaal of sit, is God.<br/>Waar my gedagtes swewe<br/>of styg, ook daar is God.<br/>Omlaag en hoog verhewe,<br/>ja, oweral is God!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Sy troue Vaderoë<br/>sien alles van naby;<br/>Wie steun op Sy vermoë,<br/>bewaar en seën Hy.<br/>Hy hoor die jonge rawe,<br/>beklee met gras die dal;<br/>Die wurm vind ook 'n gawe -<br/>God sorg vir die heelal.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Juig Christen! Want die Vader<br/>is by in elke lot.<br/>Al kom die einde nader,<br/>in lyding, daar is God.<br/>Waar troue vriendehande<br/>gemis word, daar is God.<br/>In angs en doodse bande,<br/>ja, oweral is God!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:01">
+  <properties>
+    <titles>
+      <title>AL060 - Op Berge En In Dale</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="060"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Op berge en in dale<br/>en oweral is God;<br/>Waar ek herhaalde male<br/>mag dwaal of sit, is God.<br/>Waar my gedagtes swewe<br/>of styg, ook daar is God.<br/>Omlaag en hoog verhewe,<br/>ja, oweral is God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sy troue Vaderoë<br/>sien alles van naby;<br/>Wie steun op Sy vermoë,<br/>bewaar en seën Hy.<br/>Hy hoor die jonge rawe,<br/>beklee met gras die dal;<br/>Die wurm vind ook 'n gawe -<br/>God sorg vir die heelal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Juig Christen! Want die Vader<br/>is by in elke lot.<br/>Al kom die einde nader,<br/>in lyding, daar is God.<br/>Waar troue vriendehande<br/>gemis word, daar is God.<br/>In angs en doodse bande,<br/>ja, oweral is God!</lines>
+    </verse>
+  </lyrics>
 </song>

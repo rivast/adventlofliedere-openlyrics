@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL134 - In U Is Daar Volheid Van Vreugde En Krag</title>
-   <title language="en">O Thou in whose presence my soul takes delight</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="134"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>In U is daar volheid<br/>van vreugde en krag,<br/>en troos in die haglikste lot;<br/>My sterkte bedags en my lied<br/>in die nag,<br/>my Hoop, my Verlosser, my God!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>U stem soos die klank<br/>van die dulsimer soet,<br/>dring deur tot die diep doodsvallei.<br/>Die Libanonseders buig neer<br/>aan U voet,<br/>en die lug adem vrede vir my.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>U mond, die fontein<br/>waar geregtigheid vloei,<br/>‘n tuin deur genade begroet,<br/>waaruit al die nasies se redding<br/>sal groei,<br/>gebaai in U glimlag se gloed.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>U wink, en tienduisende engele<br/>wag,<br/>miljoene volbring U gebod;<br/>U spreek, en die ewigheid tril<br/>met ontsag<br/>voor U, drie maal heilige God!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:06">
+  <properties>
+    <titles>
+      <title>AL134 - In U Is Daar Volheid Van Vreugde En Krag</title>
+      <title>O Thou in whose presence my soul takes delight</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="134"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In U is daar volheid<br/>van vreugde en krag,<br/>en troos in die haglikste lot;<br/>My sterkte bedags en my lied<br/>in die nag,<br/>my Hoop, my Verlosser, my God!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>U stem soos die klank<br/>van die dulsimer soet,<br/>dring deur tot die diep doodsvallei.<br/>Die Libanonseders buig neer<br/>aan U voet,<br/>en die lug adem vrede vir my.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>U mond, die fontein<br/>waar geregtigheid vloei,<br/>‘n tuin deur genade begroet,<br/>waaruit al die nasies se redding<br/>sal groei,<br/>gebaai in U glimlag se gloed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>U wink, en tienduisende engele<br/>wag,<br/>miljoene volbring U gebod;<br/>U spreek, en die ewigheid tril<br/>met ontsag<br/>voor U, drie maal heilige God!</lines>
+    </verse>
+  </lyrics>
 </song>

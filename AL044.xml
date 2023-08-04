@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL044 - O Grote Christus, Eeu'ge Lig</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="044"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>o Grote Christus, eeu'ge lig,<br/>niks is bedek voor U gesig<br/>wat oor ons straal net waar ons gaan<br/>al skyn geen son of bleke maan.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Toon ons U liefde en U mag<br/>deur U beskerming, Heer, vannag;<br/>Bewaar ons van elk ramp of leed<br/>en staan as onse hulp gereed.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Verkwik ons met 'n soete rus<br/>om U te dien met nuwe lus,<br/>en laat ons matig slaap, o Heer,<br/>dat ons ook so U Naam kan eer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Hou ons gereed, ook in die nag,<br/>dat ons selfs dan U koms verwag;<br/>Laat ons in stil vertroue leef<br/>dat U ons sondeskuld vergeef.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>O Vader! Laat U liefde blyk,<br/>o Seun! Maak ons U beeld gelyk,<br/>o Gees! Stuur ons vertroosting neer,<br/>Drie-enig God, U sy die eer.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:00">
+  <properties>
+    <titles>
+      <title>AL044 - O Grote Christus, Eeu'ge Lig</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="044"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>o Grote Christus, eeu'ge lig,<br/>niks is bedek voor U gesig<br/>wat oor ons straal net waar ons gaan<br/>al skyn geen son of bleke maan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toon ons U liefde en U mag<br/>deur U beskerming, Heer, vannag;<br/>Bewaar ons van elk ramp of leed<br/>en staan as onse hulp gereed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verkwik ons met 'n soete rus<br/>om U te dien met nuwe lus,<br/>en laat ons matig slaap, o Heer,<br/>dat ons ook so U Naam kan eer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hou ons gereed, ook in die nag,<br/>dat ons selfs dan U koms verwag;<br/>Laat ons in stil vertroue leef<br/>dat U ons sondeskuld vergeef.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Vader! Laat U liefde blyk,<br/>o Seun! Maak ons U beeld gelyk,<br/>o Gees! Stuur ons vertroosting neer,<br/>Drie-enig God, U sy die eer.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL352 - U Roep Miskien Oor Die Berge Hoog</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="352"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>U roep miskien oor die berge hoog<br/>of ver oor die woeste see,<br/>miskien is dit in die hete stryd<br/>dat U my die werk wil gee.<br/>Maar, Heer, as U saggies roep na my -<br/>my stuur na 'n vreemde land,<br/>dan antwoord ek:<br/>Heer, waar U roep, sal ek gaan<br/>gelei deur U magtige hand.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Miskien is daar nog 'n woord van troos<br/>wat ek aan 'n vriend moet sê:<br/>‘n sondaar mag in die donker dwaal<br/>wat Jesus van my wil hê.<br/>O Heiland, as U my gids wil wees -<br/>hoe moeilik en donker die nag -<br/>my stem sal U boodskap trou herhaal<br/>en spreek soos U wil elke dag.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Daar moet 'n plek op die aarde wees,<br/>hoe nederig dit ook sy,<br/>waar ek my dierbare Heer kan dien<br/>so lank ek op aarde bly.<br/>Met volle vertroue in U sterk hand -<br/>ek weet van U liefde vir my -<br/>sal ek gehoorsaam, U wil volbring<br/>met U, o my Heer, aan my sy.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Ek gaan waar U roep,<br/>o Heer, ek gaan,<br/>oor berge, of vlaktes of see;<br/>Wat U my beveel, sal ek sê, liewe Heer,<br/>ek gaan, want U gaan met my mee!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:16">
+  <properties>
+    <titles>
+      <title>AL352 - U Roep Miskien Oor Die Berge Hoog</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="352"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U roep miskien oor die berge hoog<br/>of ver oor die woeste see,<br/>miskien is dit in die hete stryd<br/>dat U my die werk wil gee.<br/>Maar, Heer, as U saggies roep na my -<br/>my stuur na 'n vreemde land,<br/>dan antwoord ek:<br/>Heer, waar U roep, sal ek gaan<br/>gelei deur U magtige hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miskien is daar nog 'n woord van troos<br/>wat ek aan 'n vriend moet sê:<br/>‘n sondaar mag in die donker dwaal<br/>wat Jesus van my wil hê.<br/>O Heiland, as U my gids wil wees -<br/>hoe moeilik en donker die nag -<br/>my stem sal U boodskap trou herhaal<br/>en spreek soos U wil elke dag.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daar moet 'n plek op die aarde wees,<br/>hoe nederig dit ook sy,<br/>waar ek my dierbare Heer kan dien<br/>so lank ek op aarde bly.<br/>Met volle vertroue in U sterk hand -<br/>ek weet van U liefde vir my -<br/>sal ek gehoorsaam, U wil volbring<br/>met U, o my Heer, aan my sy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ek gaan waar U roep,<br/>o Heer, ek gaan,<br/>oor berge, of vlaktes of see;<br/>Wat U my beveel, sal ek sê, liewe Heer,<br/>ek gaan, want U gaan met my mee!</lines>
+    </verse>
+  </lyrics>
 </song>

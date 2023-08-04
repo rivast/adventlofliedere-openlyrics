@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL015 - God Se Groot Genade</title>
-   <title language="en">God's free mercy streameth</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="015"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>God se groot genade<br/>stroom soos 'n rivier;<br/>Oor Sy kerk op aarde<br/>wapper Sy banier.<br/>Uitgestrek en magtig<br/>soos die hemelblou,<br/>spreek Sy dade kragtig<br/>van Sy liefdetrou.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Helder somersonskyn<br/>baai die land en see,<br/>blye lig bring welsyn<br/>gul en ryklik mee,<br/>alles juig op aarde<br/>in die milde gloed;<br/>Kon ons U na waarde<br/>prys, want U is goed!</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Heer, genees ons blindheid,<br/>ons wil U aanskou;<br/>Gee ons U gesindheid,<br/>liefderyk, getrou;<br/>Donker is ons lewe<br/>sonder U, ons Lig,<br/>en die moed begewe<br/>ons, as U nie rig.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Nimmer mag daar twyfel<br/>insluip in ons hart,<br/>nee, ons sal nie weifel,<br/>selfs in sterwensmart,<br/>want U het belowe<br/>om ons te gelei<br/>na die Huis daarbowe<br/>vir ons voorberei.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:56:58">
+  <properties>
+    <titles>
+      <title>AL015 - God Se Groot Genade</title>
+      <title>God's free mercy streameth</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="015"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God se groot genade<br/>stroom soos 'n rivier;<br/>Oor Sy kerk op aarde<br/>wapper Sy banier.<br/>Uitgestrek en magtig<br/>soos die hemelblou,<br/>spreek Sy dade kragtig<br/>van Sy liefdetrou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Helder somersonskyn<br/>baai die land en see,<br/>blye lig bring welsyn<br/>gul en ryklik mee,<br/>alles juig op aarde<br/>in die milde gloed;<br/>Kon ons U na waarde<br/>prys, want U is goed!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heer, genees ons blindheid,<br/>ons wil U aanskou;<br/>Gee ons U gesindheid,<br/>liefderyk, getrou;<br/>Donker is ons lewe<br/>sonder U, ons Lig,<br/>en die moed begewe<br/>ons, as U nie rig.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nimmer mag daar twyfel<br/>insluip in ons hart,<br/>nee, ons sal nie weifel,<br/>selfs in sterwensmart,<br/>want U het belowe<br/>om ons te gelei<br/>na die Huis daarbowe<br/>vir ons voorberei.</lines>
+    </verse>
+  </lyrics>
 </song>

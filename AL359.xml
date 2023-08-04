@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL359 - Sê Dit Aan Alle Volke En Nasies</title>
-   <title language="en">Tell it to every kindred and nation</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="359"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Sê dit aan alle volke en nasies!<br/>Stuur die nuus alom!<br/>Donkerste nagte kom tot 'n einde;<br/>Jesus sal spoedig kom.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Nasies verkeer in stryd en ellende!<br/>Wie sal hul bevry?<br/>Tekens het reeds verskyn aan die<br/>heem'le, dagbreek is nou naby.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Kinders van Jesus, glo en wees moedig!<br/>Sing tot lof van Hom!<br/>Salig is Hy wat wakend en biddend<br/>wag tot die dagbreek kom!</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Heil Hom, die Erekoning,<br/>Godslam wat gekruisig is!<br/>Leer dit in elke woning:<br/>Jesus kom gewis.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:17">
+  <properties>
+    <titles>
+      <title>AL359 - Sê Dit Aan Alle Volke En Nasies</title>
+      <title>Tell it to every kindred and nation</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="359"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sê dit aan alle volke en nasies!<br/>Stuur die nuus alom!<br/>Donkerste nagte kom tot 'n einde;<br/>Jesus sal spoedig kom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nasies verkeer in stryd en ellende!<br/>Wie sal hul bevry?<br/>Tekens het reeds verskyn aan die<br/>heem'le, dagbreek is nou naby.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kinders van Jesus, glo en wees moedig!<br/>Sing tot lof van Hom!<br/>Salig is Hy wat wakend en biddend<br/>wag tot die dagbreek kom!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Heil Hom, die Erekoning,<br/>Godslam wat gekruisig is!<br/>Leer dit in elke woning:<br/>Jesus kom gewis.</lines>
+    </verse>
+  </lyrics>
 </song>

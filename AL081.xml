@@ -1,29 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL081 - Middelpunt Van Ons Verlange</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="081"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Middelpunt van ons verlange,<br/>Trooster van ons bang gemoed,<br/>Jesus onse lofgesange<br/>loof U liefde, ruim en goed.<br/>Uit U heerlik hemelhowe<br/>het U tot ons neergedaal<br/>om die offer eens belowe<br/>vir ons sondes te betaal.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Liefde! o Die medelyde<br/>wat U vir die sterfling het!<br/>Vir die sondaars was U lyde<br/>om hul van die vloek te red.<br/>Vir ons was U bloed en lyding<br/>in die bang Getsemane,<br/>maar Hy bring die blye tyding<br/>van verlossing, rus en vree.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Liefde! Spot was in U ore -<br/>spot wat dring deur murg en been.<br/>U is vir die kruis gebore -<br/>vir die wêreld - U alleen!<br/>Bitter was U lydensbeker<br/>aan die kruis van Golgota,<br/>maar ons redding was verseker<br/>meer as wat ons ooit kon vra.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Liefde! U is heel ons lewe;<br/>U is al ons hoogste goed.<br/>Deur die kruis is ons vergewe<br/>ons juig oor U offerbloed.<br/>O hoe lief het ons U, Meester,<br/>Jesus, Redder, God en mens,<br/>U gena het ons begeester,<br/>U vervul ons laaste wens.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T19:19:26">
+  <properties>
+    <titles>
+      <title>AL081 - Middelpunt Van Ons Verlange</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="081"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Middelpunt van ons verlange,<br/>Trooster van ons bang gemoed,<br/>Jesus onse lofgesange<br/>loof U liefde, ruim en goed.</lines>
+      <lines>Uit U heerlik hemelhowe<br/>het U tot ons neergedaal<br/>om die offer eens belowe<br/>vir ons sondes te betaal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Liefde! o Die medelyde<br/>wat U vir die sterfling het!<br/>Vir die sondaars was U lyde<br/>om hul van die vloek te red.</lines>
+      <lines>Vir ons was U bloed en lyding<br/>in die bang Getsemane,<br/>maar Hy bring die blye tyding<br/>van verlossing, rus en vree.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Liefde! Spot was in U ore -<br/>spot wat dring deur murg en been.<br/>U is vir die kruis gebore -<br/>vir die wêreld - U alleen!</lines>
+      <lines>Bitter was U lydensbeker<br/>aan die kruis van Golgota,<br/>maar ons redding was verseker<br/>meer as wat ons ooit kon vra.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Liefde! U is heel ons lewe;<br/>U is al ons hoogste goed.<br/>Deur die kruis is ons vergewe<br/>ons juig oor U offerbloed.</lines>
+      <lines>O hoe lief het ons U, Meester,<br/>Jesus, Redder, God en mens,<br/>U gena het ons begeester,<br/>U vervul ons laaste wens.</lines>
+    </verse>
+  </lyrics>
 </song>

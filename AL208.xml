@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL208 - Bly Jou Anker Vas In Die Lewenstorm</title>
-   <title language="en">Will you anchor hold in the storm of life</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="208"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Bly jou anker vas in die lewenstorm<br/>as die wolke swart in die blou lug vorm?<br/>As die vloedgety elke kabel rek,<br/>sal jou anker sleep of vaster trek?</lines>
-  </verse>
-  <verse name="v2">
-   <lines>As die Heiland my vasgeanker het,<br/>sal ek veilig skuil in die aanlêplek.<br/>Want die kabel strek van Sy hart na my<br/>dis deur God gesterk teen die gety.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Waar die rif verskyn hou dit veilig stand<br/>as die rotse dreig om die skip te strand<br/>laat die storme dreun en die water woel<br/>nie een brander sal ons skip oorspoel.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Dit sal stewig hou in die doodsgety,<br/>as ons skippie bang teen die golwe stry;<br/>As die waters groei, sal dit ons behou<br/>want ons anker rus op God se trou.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>As die oog sal sien, in die môrelig,<br/>daardie pêrelpoort in die vergesig,<br/>werp ons anker daar aan die hemelkus<br/>waar geen storm ons ooit weer sal ontrus.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Ons het 'n anker wat vas sal staan,<br/>selfs as die stormwinde oor ons gaan<br/>stewig op die vaste Rots gegrond -<br/>ewig in Sy liefde en vree-verbond.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:10">
+  <properties>
+    <titles>
+      <title>AL208 - Bly Jou Anker Vas In Die Lewenstorm</title>
+      <title>Will you anchor hold in the storm of life</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="208"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bly jou anker vas in die lewenstorm<br/>as die wolke swart in die blou lug vorm?<br/>As die vloedgety elke kabel rek,<br/>sal jou anker sleep of vaster trek?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As die Heiland my vasgeanker het,<br/>sal ek veilig skuil in die aanlêplek.<br/>Want die kabel strek van Sy hart na my<br/>dis deur God gesterk teen die gety.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Waar die rif verskyn hou dit veilig stand<br/>as die rotse dreig om die skip te strand<br/>laat die storme dreun en die water woel<br/>nie een brander sal ons skip oorspoel.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dit sal stewig hou in die doodsgety,<br/>as ons skippie bang teen die golwe stry;<br/>As die waters groei, sal dit ons behou<br/>want ons anker rus op God se trou.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As die oog sal sien, in die môrelig,<br/>daardie pêrelpoort in die vergesig,<br/>werp ons anker daar aan die hemelkus<br/>waar geen storm ons ooit weer sal ontrus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ons het 'n anker wat vas sal staan,<br/>selfs as die stormwinde oor ons gaan<br/>stewig op die vaste Rots gegrond -<br/>ewig in Sy liefde en vree-verbond.</lines>
+    </verse>
+  </lyrics>
 </song>

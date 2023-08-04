@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL113 - Ek Het ‘n Troue Vriend Gevind</title>
-   <title language="en">I've found a Friend; oh, such a Friend!</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="113"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek het 'n troue Vriend gevind<br/>wat my al lank bemin het;<br/>Sy liefde het my aangetrek,<br/>nog voor ek Hom geken het.<br/>En Hy het my aan Hom gebind<br/>met bande sag maar stewig;<br/>Hy is my Vriend en ek Sy kind<br/>vir ewig, ja vir ewig.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek het 'n troue Vriend gevind,<br/>vir my het Hy gesterwe;<br/>En met Sy vriendskap sal Hy my<br/>Sy lewe ook laat erwe.<br/>Wat ek besit, kom van my Heer -<br/>die Vader is vrygewig!<br/>My krag, my lewe, gee ek weer<br/>terug aan Hom vir ewig.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ek het 'n troue Vriend gevind,<br/>aan Hom is daar gegewe<br/>die wysheid om my voort te lei,<br/>tot reiner, hoër lewe.<br/>Hier moet ek werk en waak en wag,<br/>die aardse stryd is hewig;<br/>Maar ek verwag 'n nuwe dag,<br/>dan sal ek rus vir ewig.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Ek het 'n troue Vriend gevind,<br/>so sag en vol ontferming;<br/>By Hom, my Raadsman en my Gids,<br/>is ook vir my beskerming.<br/>Wie sal my van my Heiland skei?<br/>Die liefdesband is stewig!<br/>Geen aardse mag skeur Hom van my!<br/>Ek bly in Hom vir ewig.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+  <properties>
+    <titles>
+      <title>AL113 - Ek Het ‘n Troue Vriend Gevind</title>
+      <title>I've found a Friend; oh, such a Friend!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="113"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek het 'n troue Vriend gevind<br/>wat my al lank bemin het;<br/>Sy liefde het my aangetrek,<br/>nog voor ek Hom geken het.<br/>En Hy het my aan Hom gebind<br/>met bande sag maar stewig;<br/>Hy is my Vriend en ek Sy kind<br/>vir ewig, ja vir ewig.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek het 'n troue Vriend gevind,<br/>vir my het Hy gesterwe;<br/>En met Sy vriendskap sal Hy my<br/>Sy lewe ook laat erwe.<br/>Wat ek besit, kom van my Heer -<br/>die Vader is vrygewig!<br/>My krag, my lewe, gee ek weer<br/>terug aan Hom vir ewig.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ek het 'n troue Vriend gevind,<br/>aan Hom is daar gegewe<br/>die wysheid om my voort te lei,<br/>tot reiner, hoër lewe.<br/>Hier moet ek werk en waak en wag,<br/>die aardse stryd is hewig;<br/>Maar ek verwag 'n nuwe dag,<br/>dan sal ek rus vir ewig.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ek het 'n troue Vriend gevind,<br/>so sag en vol ontferming;<br/>By Hom, my Raadsman en my Gids,<br/>is ook vir my beskerming.<br/>Wie sal my van my Heiland skei?<br/>Die liefdesband is stewig!<br/>Geen aardse mag skeur Hom van my!<br/>Ek bly in Hom vir ewig.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL146 - Heilige Gees, Kom Sweef Oor Ons</title>
-   <title language="en">Come, Holy Spirit, heavenly Dove</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="146"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Heilige Gees, kom sweef oor ons,<br/>Hemelse Duif, daal neer;<br/>Laat in ons hart U liefde brand<br/>en trek ons tot die Heer!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Red ons van dwase eiewaan<br/>en aardse ydelheid,<br/>dan sal ons met hernieude moed<br/>volhard in hierdie stryd.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Stem U ons harte om te sing<br/>van onse God en Heer,<br/>dan hef ons saam 'n danklied aan<br/>en twyfel nimmermeer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Vader, ons wil nie langer leef<br/>in duisternis en leed;<br/>Ons gee aan U ons hele hart,<br/>U sal ons nooit vergeet.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Heilige Gees, kom sweef oor ons,<br/>Hemelse Duif, daal neer!<br/>Blaas hoog die liefde in ons hart<br/>met U groot liefde, Heer!</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:07">
+  <properties>
+    <titles>
+      <title>AL146 - Heilige Gees, Kom Sweef Oor Ons</title>
+      <title>Come, Holy Spirit, heavenly Dove</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heilige Gees, kom sweef oor ons,<br/>Hemelse Duif, daal neer;<br/>Laat in ons hart U liefde brand<br/>en trek ons tot die Heer!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Red ons van dwase eiewaan<br/>en aardse ydelheid,<br/>dan sal ons met hernieude moed<br/>volhard in hierdie stryd.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stem U ons harte om te sing<br/>van onse God en Heer,<br/>dan hef ons saam 'n danklied aan<br/>en twyfel nimmermeer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vader, ons wil nie langer leef<br/>in duisternis en leed;<br/>Ons gee aan U ons hele hart,<br/>U sal ons nooit vergeet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Heilige Gees, kom sweef oor ons,<br/>Hemelse Duif, daal neer!<br/>Blaas hoog die liefde in ons hart<br/>met U groot liefde, Heer!</lines>
+    </verse>
+  </lyrics>
 </song>

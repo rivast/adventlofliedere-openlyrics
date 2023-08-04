@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL194 - Daar Is ‘n Lied Wat Ek Graag Sing</title>
-   <title language="en">I have a song I love to sing</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="194"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Daar is 'n lied wat ek graag sing:<br/>Die Heer het my verlos!<br/>Ek sal my Heiland hulde bring,<br/>want Hy het my verlos!</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek het 'n Christus - danksy God<br/>Hy het my siel verlos!<br/>Om Hom te dien, is my genot,<br/>want Hy het my verlos.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Nou kan my lewe ook getuig<br/>dat Christus my verlos.<br/>My vrees is weg en ek kan juig,<br/>want Hy het my verlos.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>‘n Tuiste is vir my berei -<br/>want ek is ook verlos -<br/>waar ek in ewigheid sal bly,<br/>my siel het Hy verlos.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Die Heer het my verlos!<br/>Die Heer het my verlos!<br/>Ek verheug my in Sy Naam,<br/>want Hy het my verlos.<br/>Ek verheug my in my Heer se Naam.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:09">
+  <properties>
+    <titles>
+      <title>AL194 - Daar Is ‘n Lied Wat Ek Graag Sing</title>
+      <title>I have a song I love to sing</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="194"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daar is 'n lied wat ek graag sing:<br/>Die Heer het my verlos!<br/>Ek sal my Heiland hulde bring,<br/>want Hy het my verlos!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek het 'n Christus - danksy God<br/>Hy het my siel verlos!<br/>Om Hom te dien, is my genot,<br/>want Hy het my verlos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nou kan my lewe ook getuig<br/>dat Christus my verlos.<br/>My vrees is weg en ek kan juig,<br/>want Hy het my verlos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‘n Tuiste is vir my berei -<br/>want ek is ook verlos -<br/>waar ek in ewigheid sal bly,<br/>my siel het Hy verlos.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Die Heer het my verlos!<br/>Die Heer het my verlos!<br/>Ek verheug my in Sy Naam,<br/>want Hy het my verlos.<br/>Ek verheug my in my Heer se Naam.</lines>
+    </verse>
+  </lyrics>
 </song>

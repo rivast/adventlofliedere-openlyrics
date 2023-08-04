@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL383 - Welkom Is Die Sabbatdag</title>
-   <title language="en">Welcome, welcome, day of rest</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="383"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Welkom is die Sabbatdag,<br/>aan die mens deur God gegee;<br/>Welkom in my need'rig' hart,<br/>welkom dag van rus en vree.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Dag van stille sielerus,<br/>lieflik gaan die tyd verby;<br/>Tot ons aan die hemelkus<br/>ons in eeu'ge rus verbly.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Heil'ge dag, ons ag jou hoog,<br/>dag van lofsang en gebed;<br/>Jy maak selfs die dwase wys,<br/>jy's die seël van die wet.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Welkom is die Sabbatdag,<br/>met sy god'lik atmosfeer;<br/>Mag sy heiligheid vandag<br/>my gedagtes opwaarts keer.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:18">
+  <properties>
+    <titles>
+      <title>AL383 - Welkom Is Die Sabbatdag</title>
+      <title>Welcome, welcome, day of rest</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="383"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Welkom is die Sabbatdag,<br/>aan die mens deur God gegee;<br/>Welkom in my need'rig' hart,<br/>welkom dag van rus en vree.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dag van stille sielerus,<br/>lieflik gaan die tyd verby;<br/>Tot ons aan die hemelkus<br/>ons in eeu'ge rus verbly.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heil'ge dag, ons ag jou hoog,<br/>dag van lofsang en gebed;<br/>Jy maak selfs die dwase wys,<br/>jy's die seël van die wet.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Welkom is die Sabbatdag,<br/>met sy god'lik atmosfeer;<br/>Mag sy heiligheid vandag<br/>my gedagtes opwaarts keer.</lines>
+    </verse>
+  </lyrics>
 </song>

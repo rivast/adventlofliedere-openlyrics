@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL079 - Bevry, O God, Ons Bang Gemoed</title>
-   <title language="en">Dear Lord and Father of mankind</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="079"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4 v5</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Bevry, o God, ons bang bemoed,<br/>van alles wat beklem;<br/>Neem weg die onrus wat daar woed;<br/>Wil ons, gereinig deur U bloed,<br/>tot diep aanbidding stem.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ook ons wil goed en bloed verlaat,<br/>en volg waar U ons lei;<br/>Soos hulle wat vanouds in staat was<br/>tot die kinderlike daad,<br/>en alles U kon wy.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>O Sabbature, God-gewyd,<br/>met Jesus langs die meer!<br/>O Goddelike Majesteit!<br/>Die kalmte van die ewigheid<br/>straal uit U wese, Heer!</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Verfris ons met die sagte dou<br/>van vrede, diep en stil;<br/>Ons eie strewe moet verflou,<br/>sodat daar in ons kan ontvou<br/>‘n lewe na U wil.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Laat deur die drifte van die vlees<br/>U koele balsem vloei;<br/>Totdat die kalmte van U gees<br/>ons hete sinlikheid genees,<br/>en reinheid in ons bloei.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T19:17:02">
+  <properties>
+    <titles>
+      <title>AL079 - Bevry, O God, Ons Bang Gemoed</title>
+      <title>Dear Lord and Father of mankind</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="079"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bevry, o God, ons bang bemoed,<br/>van alles wat beklem;<br/>Neem weg die onrus wat daar woed;<br/>Wil ons, gereinig deur U bloed,<br/>tot diep aanbidding stem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ook ons wil goed en bloed verlaat,<br/>en volg waar U ons lei;<br/>Soos hulle wat vanouds in staat was<br/>tot die kinderlike daad,<br/>en alles U kon wy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Sabbature, God-gewyd,<br/>met Jesus langs die meer!<br/>O Goddelike Majesteit!<br/>Die kalmte van die ewigheid<br/>straal uit U wese, Heer!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verfris ons met die sagte dou<br/>van vrede, diep en stil;<br/>Ons eie strewe moet verflou,<br/>sodat daar in ons kan ontvou<br/>‘n lewe na U wil.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Laat deur die drifte van die vlees<br/>U koele balsem vloei;<br/>Totdat die kalmte van U gees<br/>ons hete sinlikheid genees,<br/>en reinheid in ons bloei.</lines>
+    </verse>
+  </lyrics>
 </song>

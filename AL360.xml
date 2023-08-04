@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL360 - O Waar Is Die Werkers Wat Uit Kan Gaan?</title>
-   <title language="en">O where are the reapers that garner in</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="360"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O waar is die werkers<br/>wat uit kan gaan<br/>om orals te soek<br/>na die goeie graan?<br/>Met sekels van waarheid<br/>en hande sterk<br/>moet ons onverpoos<br/>in die oesland werk.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Gaan soek nou die gange<br/>en lanings deur;<br/>Die koring wys daar<br/>ook Sy goue kleur.<br/>Gaan soek op die grootpad,<br/>slaan niemand oor,<br/>laat almal die hemelse<br/>boodskap hoor.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Die lande is wit<br/>met die oes wat wag;<br/>Die tyd snel verby<br/>na die oordeelsdag;<br/>Die oes is so groot<br/>en die werkers min<br/>en veel sal vergaan<br/>as ons nie begin.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>O kom met jul sekels<br/>en laat ons gaan,<br/>vergader tesame<br/>die goue graan.<br/>Kom werk tot die Heer<br/>van die oes sal kom,<br/>en juig dan oor siele<br/>gered vir Hom</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Waar is die werkers?<br/>O wie sal gaan en koring vergader<br/>waar die onkruid staan?<br/>O wie kom help ons die koring vind?<br/>En wie se hand sal die gerwe bind?</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:17">
+  <properties>
+    <titles>
+      <title>AL360 - O Waar Is Die Werkers Wat Uit Kan Gaan?</title>
+      <title>O where are the reapers that garner in</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="360"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O waar is die werkers<br/>wat uit kan gaan<br/>om orals te soek<br/>na die goeie graan?<br/>Met sekels van waarheid<br/>en hande sterk<br/>moet ons onverpoos<br/>in die oesland werk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gaan soek nou die gange<br/>en lanings deur;<br/>Die koring wys daar<br/>ook Sy goue kleur.<br/>Gaan soek op die grootpad,<br/>slaan niemand oor,<br/>laat almal die hemelse<br/>boodskap hoor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Die lande is wit<br/>met die oes wat wag;<br/>Die tyd snel verby<br/>na die oordeelsdag;<br/>Die oes is so groot<br/>en die werkers min<br/>en veel sal vergaan<br/>as ons nie begin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O kom met jul sekels<br/>en laat ons gaan,<br/>vergader tesame<br/>die goue graan.<br/>Kom werk tot die Heer<br/>van die oes sal kom,<br/>en juig dan oor siele<br/>gered vir Hom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Waar is die werkers?<br/>O wie sal gaan en koring vergader<br/>waar die onkruid staan?<br/>O wie kom help ons die koring vind?<br/>En wie se hand sal die gerwe bind?</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,29 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL049 - O, Goedheid Gods</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="049"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3 v4</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>O, goedheid Gods, nog nooit volprese!<br/>Is Hy nog mens wat dit verag?<br/>Hoe diep ondankbaar is die wese<br/>wat nie met blydskap op Hom wag!<br/>Hom wil ek dank in doel en strewe;<br/>Dit is my plig, my lus, my lied.<br/>Hom wat my nooit nie sal begewe,<br/>sal ek my lof vir ewig bied.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Wie gee my alles met die lewe?<br/>Die God wat my nie nodig het!<br/>Wie lei so wyslik al my strewe?<br/>Hy teen wie ek my soms verset!<br/>Wie skenk in my gemoed die vrede?<br/>Wie sterk my gees met nuwe krag?<br/>Wie antwoord so getrou my bede?<br/>Is dit nie God, so groot in mag?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>En sou ek hierdie God nie eer nie?<br/>Sou ek Sy goedheid nie verstaan?<br/>Sou Hy my rig en ek nie leer nie?<br/>Die weg wat Hy berei, nie gaan?<br/>Sy wil bestier my hart en strewe;<br/>Sy Woord bly my gedurig by.<br/>Ek moet Hom liefhê bo my lewe,<br/>en ook my naaste min soos my.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Dit is my dank, dit Sy behae:<br/>Ek moet volkome wees soos Hy.<br/>Hy is my strewe al my dae,<br/>daarom verrys Sy beeld in my;<br/>En vul Sy liefde heel my lewe,<br/>dan sal ek doen soos Hy begeer.<br/>Al moet ek vaak in swakheid bewe,<br/>tog heers die dood in my nie meer.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T18:50:33">
+  <properties>
+    <titles>
+      <title>AL049 - O, Goedheid Gods</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="049"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O, goedheid Gods, nog nooit volprese!<br/>Is Hy nog mens wat dit verag?<br/>Hoe diep ondankbaar is die wese<br/>wat nie met blydskap op Hom wag!</lines>
+      <lines>Hom wil ek dank in doel en strewe;<br/>Dit is my plig, my lus, my lied.<br/>Hom wat my nooit nie sal begewe,<br/>sal ek my lof vir ewig bied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Wie gee my alles met die lewe?<br/>Die God wat my nie nodig het!<br/>Wie lei so wyslik al my strewe?<br/>Hy teen wie ek my soms verset!</lines>
+      <lines>Wie skenk in my gemoed die vrede?<br/>Wie sterk my gees met nuwe krag?<br/>Wie antwoord so getrou my bede?<br/>Is dit nie God, so groot in mag?</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">En sou ek hierdie God nie eer nie?<br/>Sou ek Sy goedheid nie verstaan?<br/>Sou Hy my rig en ek nie leer nie?<br/>Die weg wat Hy berei, nie gaan?</lines>
+      <lines>Sy wil bestier my hart en strewe;<br/>Sy Woord bly my gedurig by.<br/>Ek moet Hom liefhê bo my lewe,<br/>en ook my naaste min soos my.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Dit is my dank, dit Sy behae:<br/>Ek moet volkome wees soos Hy.<br/>Hy is my strewe al my dae,<br/>daarom verrys Sy beeld in my;</lines>
+      <lines>En vul Sy liefde heel my lewe,<br/>dan sal ek doen soos Hy begeer.<br/>Al moet ek vaak in swakheid bewe,<br/>tog heers die dood in my nie meer.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL396 - Wanneer Jesus Die Nasies Vergader</title>
-   <title language="en">When Jesus shall gather the nations</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="396"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Wanneer Jesus die nasies vergader,<br/>en elkeen se dade kom voor;<br/>Hoe sal ons dan staan in die<br/>oordeel,<br/>gedaag om ons vonnis te hoor?</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Sal ons hoor uit die mond van die<br/>Regter: wees welkom, o dienskneg getrou?<br/>Of sal ons met trane en bewing,<br/>ons lewe op aarde berou?</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Met 'n glimlag kyk Hy na Sy kinders<br/>wat staan in die beeld van hul Heer;<br/>Hy beklee hul met hemelse<br/>skoonheid,<br/>dan buig hul aanbiddend daar neer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>O laat ons dan waak en gereed wees,<br/>met brandende lamp in die hand;<br/>En wanneer Hy ons roep na die<br/>bruilof,<br/>gaan ons na die heerlike land.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Met oë gerig op die hemel,<br/>geduldig wag ons op die Heer;<br/>Met ons reis hier op aarde<br/>beëindig,<br/>sal ons daar met Jesus verkeer.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Al die koring sal Hy dan versamel,<br/>maar die kaf word verteer in die vuur;<br/>Hoe sal ons dan staan voor die Regter,<br/>in die vreeslike oordeelsuur?</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:19">
+  <properties>
+    <titles>
+      <title>AL396 - Wanneer Jesus Die Nasies Vergader</title>
+      <title>When Jesus shall gather the nations</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="396"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wanneer Jesus die nasies vergader,<br/>en elkeen se dade kom voor;<br/>Hoe sal ons dan staan in die<br/>oordeel,<br/>gedaag om ons vonnis te hoor?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sal ons hoor uit die mond van die<br/>Regter: wees welkom, o dienskneg getrou?<br/>Of sal ons met trane en bewing,<br/>ons lewe op aarde berou?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Met 'n glimlag kyk Hy na Sy kinders<br/>wat staan in die beeld van hul Heer;<br/>Hy beklee hul met hemelse<br/>skoonheid,<br/>dan buig hul aanbiddend daar neer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O laat ons dan waak en gereed wees,<br/>met brandende lamp in die hand;<br/>En wanneer Hy ons roep na die<br/>bruilof,<br/>gaan ons na die heerlike land.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Met oë gerig op die hemel,<br/>geduldig wag ons op die Heer;<br/>Met ons reis hier op aarde<br/>beëindig,<br/>sal ons daar met Jesus verkeer.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Al die koring sal Hy dan versamel,<br/>maar die kaf word verteer in die vuur;<br/>Hoe sal ons dan staan voor die Regter,<br/>in die vreeslike oordeelsuur?</lines>
+    </verse>
+  </lyrics>
 </song>

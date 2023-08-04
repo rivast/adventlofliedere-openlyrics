@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL328 - Ek Is Vreemd Hier</title>
-   <title language="en">I'm a pilgrim, and I'm a stranger</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="328"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek is vreemd hier en ek's 'n pelgrim;<br/>Ek kan hier bly,<br/>ek kan hier bly net 'n nag.<br/>Moet my nie t'rughou,<br/>want ek moet voorwaarts<br/>na waar die strome vir ewig vloei.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Daardie luister sal ewig skitter;<br/>Ek verlang so,<br/>ek verlang om daar te wees.<br/>In hierdie landskap van donker skadu's<br/>het ek geswerwe<br/>met moeë gees.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Daar's die godstad wat Hy berei het,<br/>my Verlosser, my Verlosser is sy lig;<br/>Daar is geen droefheid<br/>en geen gesug nie,<br/>want daar gedenk ons<br/>die dood nie meer.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Vaarwel vriende!<br/>Ek het gewaarsku<br/>ek moet nou weer,<br/>ek moet nou weer verder gaan.<br/>Waarom wil julle soos ander sterwe?<br/>Want hulle einde is in die vuur.</lines>
-  </verse>
-  <verse name="v5">
-   <lines>Vader, moeder,<br/>my broer en suster,<br/>as jul nie met my wil reis,<br/>gaan ek alleen.<br/>Sal ek met julle die dwaling aanneem<br/>en in die oordeel die pyn verduur?</lines>
-  </verse>
-  <verse name="v6">
-   <lines>Vaarwel aarde vermink deur sonde!<br/>Jy keer spoedig tot jou vroe're<br/>heerlikheid;<br/>Die grote Skepper sal jou herskape,<br/>dan sal die sonde<br/>nie weer verskyn.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Ek is vreemd hier en ek's 'n pelgrim;<br/>Ek kan hier bly ek kan hier bly net 'n nag.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+  <properties>
+    <titles>
+      <title>AL328 - Ek Is Vreemd Hier</title>
+      <title>I'm a pilgrim, and I'm a stranger</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="328"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek is vreemd hier en ek's 'n pelgrim;<br/>Ek kan hier bly,<br/>ek kan hier bly net 'n nag.<br/>Moet my nie t'rughou,<br/>want ek moet voorwaarts<br/>na waar die strome vir ewig vloei.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daardie luister sal ewig skitter;<br/>Ek verlang so,<br/>ek verlang om daar te wees.<br/>In hierdie landskap van donker skadu's<br/>het ek geswerwe<br/>met moeë gees.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daar's die godstad wat Hy berei het,<br/>my Verlosser, my Verlosser is sy lig;<br/>Daar is geen droefheid<br/>en geen gesug nie,<br/>want daar gedenk ons<br/>die dood nie meer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vaarwel vriende!<br/>Ek het gewaarsku<br/>ek moet nou weer,<br/>ek moet nou weer verder gaan.<br/>Waarom wil julle soos ander sterwe?<br/>Want hulle einde is in die vuur.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vader, moeder,<br/>my broer en suster,<br/>as jul nie met my wil reis,<br/>gaan ek alleen.<br/>Sal ek met julle die dwaling aanneem<br/>en in die oordeel die pyn verduur?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vaarwel aarde vermink deur sonde!<br/>Jy keer spoedig tot jou vroe're<br/>heerlikheid;<br/>Die grote Skepper sal jou herskape,<br/>dan sal die sonde<br/>nie weer verskyn.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ek is vreemd hier en ek's 'n pelgrim;<br/>Ek kan hier bly ek kan hier bly net 'n nag.</lines>
+    </verse>
+  </lyrics>
 </song>

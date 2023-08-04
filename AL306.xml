@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL306 - Lei, Vriend'lik Lig</title>
-   <title language="en">Lead, kindly Light, amid the encircling gloom</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="306"/>
-  </songbooks>
-  <verseOrder>v1 v2 v3</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Lei, vriend'lik lig,<br/>in awendskemering,<br/>lei U my voort!<br/>Die nag is hier en ek is ver van huis,<br/>lei U my voort.<br/>Ek vra geen lig vir dae wat nog wag;<br/>Skenk U my lig genoeg vir hierdie dag.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek het nie altyd so van U begeer<br/>dat U my lei;<br/>Ek wou self kies, maar nou bid ek,<br/>o Heer, wil U my lei!<br/>My eie wil, my eie trots moes lei,<br/>ag, Heer, vergeef!<br/>Want dit is nou verby.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Tot hier het U my moed<br/>en krag verleen - het U gelei;<br/>Oor berg en dal, oor wye vlaktes heen<br/>sal U my lei;<br/>Tot Jesus kom en ek verruk sal staan<br/>waar pelgrims saam met Hom<br/>sal binnegaan. Amen.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+  <properties>
+    <titles>
+      <title>AL306 - Lei, Vriend'lik Lig</title>
+      <title>Lead, kindly Light, amid the encircling gloom</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lei, vriend'lik lig,<br/>in awendskemering,<br/>lei U my voort!<br/>Die nag is hier en ek is ver van huis,<br/>lei U my voort.<br/>Ek vra geen lig vir dae wat nog wag;<br/>Skenk U my lig genoeg vir hierdie dag.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek het nie altyd so van U begeer<br/>dat U my lei;<br/>Ek wou self kies, maar nou bid ek,<br/>o Heer, wil U my lei!<br/>My eie wil, my eie trots moes lei,<br/>ag, Heer, vergeef!<br/>Want dit is nou verby.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tot hier het U my moed<br/>en krag verleen - het U gelei;<br/>Oor berg en dal, oor wye vlaktes heen<br/>sal U my lei;<br/>Tot Jesus kom en ek verruk sal staan<br/>waar pelgrims saam met Hom<br/>sal binnegaan. Amen.</lines>
+    </verse>
+  </lyrics>
 </song>

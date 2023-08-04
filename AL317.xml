@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
- <properties>
-  <titles>
-   <title>AL317 - Ek Gaan Langs Weë Hoog En Steil</title>
-   <title language="en">I'm pressing on the upward way</title>
-  </titles>
-  <authors>
-   <author>Unknown</author>
-  </authors>
-  <songbooks>
-   <songbook name="AL" entry="317"/>
-  </songbooks>
-  <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
- </properties>
- <lyrics>
-  <verse name="v1">
-   <lines>Ek gaan langs weë hoog en steil<br/>en stadig klim ek myl na myl;<br/>My siel roep biddend waar ek gaan:<br/>laat my op hoër berge staan.</lines>
-  </verse>
-  <verse name="v2">
-   <lines>Ek het nie lus om hier te bly<br/>waar ek teen vrees en twyfel stry;<br/>Nog bid ek as ek opwaarts gaan:<br/>laat my op hoër berge staan.</lines>
-  </verse>
-  <verse name="v3">
-   <lines>Ek wil bo hierdie wêreld styg,<br/>waar selfs die bose magte swyg;<br/>O laat U hand my veilig bring<br/>waar heil'ges op die bergtop sing.</lines>
-  </verse>
-  <verse name="v4">
-   <lines>Ek wil die hoogste spits bereik<br/>vanwaar ek op die Godstad kyk;<br/>My bede: ek wil verder gaan -<br/>op Sion by die Here staan.</lines>
-  </verse>
-  <verse name="c1">
-   <lines>Heer, neem my hand en lei my voort<br/>na daardie saal'ge hemeloord;<br/>Ek wil met Jesus hoër gaan,<br/>en op die hemelvelde staan.</lines>
-  </verse>
- </lyrics>
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+  <properties>
+    <titles>
+      <title>AL317 - Ek Gaan Langs Weë Hoog En Steil</title>
+      <title>I'm pressing on the upward way</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Adventlofliedere" entry="317"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ek gaan langs weë hoog en steil<br/>en stadig klim ek myl na myl;<br/>My siel roep biddend waar ek gaan:<br/>laat my op hoër berge staan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ek het nie lus om hier te bly<br/>waar ek teen vrees en twyfel stry;<br/>Nog bid ek as ek opwaarts gaan:<br/>laat my op hoër berge staan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ek wil bo hierdie wêreld styg,<br/>waar selfs die bose magte swyg;<br/>O laat U hand my veilig bring<br/>waar heil'ges op die bergtop sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ek wil die hoogste spits bereik<br/>vanwaar ek op die Godstad kyk;<br/>My bede: ek wil verder gaan -<br/>op Sion by die Here staan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Heer, neem my hand en lei my voort<br/>na daardie saal'ge hemeloord;<br/>Ek wil met Jesus hoër gaan,<br/>en op die hemelvelde staan.</lines>
+    </verse>
+  </lyrics>
 </song>
