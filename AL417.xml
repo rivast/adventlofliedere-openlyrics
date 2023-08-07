@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:20">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T06:13:18">
   <properties>
     <titles>
       <title>AL417 - Ons Het Geen Tuiste Hier Benee</title>
@@ -15,16 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Ons het geen tuiste hier benee -<br/>hoe treurig as ons hier moes bly;<br/>Maar God sal aan ons wonings gee,<br/>‘n stad wat Hy vir ons berei.    (2x)</lines>
+      <lines>Ons het geen tuiste hier benee -<br/>hoe treurig as ons hier moes bly;<br/>Maar God sal aan ons wonings gee,<br/>‘n stad wat Hy vir ons berei;<br/>‘n stad wat Hy vir ons berei.</lines>
     </verse>
     <verse name="v2">
-      <lines>Niks blywends kan ons hier bespeur,<br/>ons soek 'n stad deur God gebou!<br/>Jerusalem, waar niemand treur,<br/>wanneer sal ons jou lig aanskou? (2x)</lines>
+      <lines>Niks blywends kan ons hier bespeur,<br/>ons soek 'n stad deur God gebou!<br/>Jerusalem, waar niemand treur,<br/>wanneer sal ons jou lig aanskou?<br/>Wanneer sal ons jou lig aanskou?</lines>
     </verse>
     <verse name="v3">
-      <lines>Hoe salig is die oord van vree,<br/>waar moeë pelgrims eind'lik rus!<br/>Had ek maar vleuels, dan<br/>betree ek spoedig daardie kus!   (2x)</lines>
+      <lines>Hoe salig is die oord van vree,<br/>waar moeë pelgrims eind'lik rus!<br/>Had ek maar vleuels, dan<br/>betree ek spoedig daardie kus;<br/>betree ek spoedig daardie kus!</lines>
     </verse>
     <verse name="v4">
-      <lines>Wees stil my siel, en wag op Hom,<br/>wat daar omhoog die godstad bou;<br/>Hy ken Sy tyd, en tot Hy kom,<br/>wees  aan Sy wil en wet getrou. (2x)</lines>
+      <lines>Wees stil my siel, en wag op Hom,<br/>wat daar omhoog die godstad bou;<br/>Hy ken Sy tyd, en tot Hy kom,<br/>wees  aan Sy wil en wet getrou;<br/>wees  aan Sy wil en wet getrou.</lines>
     </verse>
   </lyrics>
 </song>

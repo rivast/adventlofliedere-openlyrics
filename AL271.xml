@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T14:05:40">
   <properties>
     <titles>
       <title>AL271 - Welk ‘n Vriend Het Ons In Jesus</title>
@@ -15,13 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Welk 'n vriend het ons in Jesus,<br/>wat ons smart en sonde dra:<br/>welk 'n voorreg om die Vader<br/>alles in Sy Naam te vra!<br/>Ons verbeur die soetste vrede<br/>en ons laste druk ons neer,<br/>as ons nie in ons gebede<br/>alles bring tot onse Heer.</lines>
+      <lines break="optional">Welk 'n vriend het ons in Jesus,<br/>wat ons smart en sonde dra:<br/>welk 'n voorreg om die Vader<br/>alles in Sy Naam te vra!</lines>
+      <lines>Ons verbeur die soetste vrede<br/>en ons laste druk ons neer,<br/>as ons nie in ons gebede<br/>alles bring tot onse Heer.</lines>
     </verse>
     <verse name="v2">
-      <lines>In beproewings en versoekings<br/>vlug tot Hom wat altyd red;<br/>Laat geen kwelling jou ontmoedig,<br/>gaan tot Hom in die gebed.<br/>Kan 'n vriend ooit trouer handel<br/>as die Heer wat ons beskerm,<br/>Hy wat Hom in diepe deernis<br/>oor ons menslikheid ontferm?</lines>
+      <lines break="optional">In beproewings en versoekings<br/>vlug tot Hom wat altyd red;<br/>Laat geen kwelling jou ontmoedig,<br/>gaan tot Hom in die gebed.</lines>
+      <lines>Kan 'n vriend ooit trouer handel<br/>as die Heer wat ons beskerm,<br/>Hy wat Hom in diepe deernis<br/>oor ons menslikheid ontferm?</lines>
     </verse>
     <verse name="v3">
-      <lines>Wanneer laste my terneerdruk,<br/>as ek swak en eensaam is,<br/>op die Heer, my Hulp en Toevlug,<br/>werp ek my bekommernis.<br/>As my vriende my verstoot het,<br/>gaan ek biddend tot die Heer;<br/>Aan Sy boesem is vertroosting,<br/>Hy verlaat my nimmermeer.</lines>
+      <lines break="optional">Wanneer laste my terneerdruk,<br/>as ek swak en eensaam is,<br/>op die Heer, my Hulp en Toevlug,<br/>werp ek my bekommernis.</lines>
+      <lines>As my vriende my verstoot het,<br/>gaan ek biddend tot die Heer;<br/>Aan Sy boesem is vertroosting,<br/>Hy verlaat my nimmermeer.</lines>
     </verse>
   </lyrics>
 </song>

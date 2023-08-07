@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T14:05:12">
   <properties>
     <titles>
       <title>AL270 - Heer, Vir Die Dae Wat Nog Kom</title>
@@ -15,13 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Heer, vir die dae wat nog kom,<br/>vra ek nie krag;<br/>Hou my van alle sonde vry<br/>deur hierdie dag.<br/>Help my om ywerig te werk,<br/>op U te wag;<br/>Maak my opreg in woord en daad,<br/>Vader, vandag.</lines>
+      <lines break="optional">Heer, vir die dae wat nog kom,<br/>vra ek nie krag;<br/>Hou my van alle sonde vry<br/>deur hierdie dag.</lines>
+      <lines>Help my om ywerig te werk,<br/>op U te wag;<br/>Maak my opreg in woord en daad,<br/>Vader, vandag.</lines>
     </verse>
     <verse name="v2">
-      <lines>Laat ek nie gou wees met my wil,<br/>U wil is goed.<br/>Help my die eie-ek verslaan,<br/>gee my die moed.<br/>Laat my geen ydel woorde spreek -<br/>U Woord is soet.<br/>Plaas U 'n seël op my mond,<br/>dan spreek ek goed.</lines>
+      <lines break="optional">Laat ek nie gou wees met my wil,<br/>U wil is goed.<br/>Help my die eie-ek verslaan,<br/>gee my die moed.</lines>
+      <lines>Laat my geen ydel woorde spreek -<br/>U Woord is soet.<br/>Plaas U 'n seël op my mond,<br/>dan spreek ek goed.</lines>
     </verse>
     <verse name="v3">
-      <lines>Stem my tot erns wanneer dit pas,<br/>soms vriend'lik lag.<br/>Laat my U groot genade, Heer,<br/>nimmer verag.<br/>Heer, vir die dae wat nog kom,<br/>vra ek nie krag,<br/>maar hou my, lei my, min my, Heer,<br/>deur hierdie dag. Amen.</lines>
+      <lines break="optional">Stem my tot erns wanneer dit pas,<br/>soms vriend'lik lag.<br/>Laat my U groot genade, Heer,<br/>nimmer verag.</lines>
+      <lines>Heer, vir die dae wat nog kom,<br/>vra ek nie krag,<br/>maar hou my, lei my, min my, Heer,<br/>deur hierdie dag. Amen.</lines>
     </verse>
   </lyrics>
 </song>

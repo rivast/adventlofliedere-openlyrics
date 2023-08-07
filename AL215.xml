@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:10">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T13:36:15">
   <properties>
     <titles>
       <title>AL215 - Hoe Vas Is Jou Grondslag</title>
-      <title>How firm a foundation, ye saints of the Lord</title>
+      <title>How firm a foundation</title>
     </titles>
     <verseOrder>v1 v2 v3 v4 v5</verseOrder>
     <authors>
@@ -21,7 +21,7 @@
       <lines>“Vrees nie, Ek is met jou,<br/>en wees nie verskrik,<br/>want Ek is jou God<br/>en Ek sal jou verkwik.<br/>Ek sterk en Ek help die wat stil<br/>op My wag,<br/>My hand ondersteun hul<br/>met reddende krag.”</lines>
     </verse>
     <verse name="v3">
-      <lines>“As jy deur die waters van droefheid<br/>moet gaan,<br/>vrees nie, oor jou hoof<br/>sal die golwe nie slaan.<br/>Want Ek is naby -<br/>tot jou redding gereed -<br/>om aan jou te heilig<br/>jou bitterste leed.”</lines>
+      <lines>“As jy deur die waters van droefheid<br/>moet gaan, vrees nie, oor jou<br/>hoof sal die golwe nie slaan.<br/>Want Ek is naby -<br/>tot jou redding gereed -<br/>om aan jou te heilig<br/>jou bitterste leed.”</lines>
     </verse>
     <verse name="v4">
       <lines>“Wanneer Ek jou lei<br/>deur beproewende vuur,<br/>wanneer jy die vlamme<br/>van smart moet verduur,<br/>onthou My gena is genoeg<br/>en Ek waak;<br/>Ek wil jou slegs louter<br/>en heiliger maak.”</lines>

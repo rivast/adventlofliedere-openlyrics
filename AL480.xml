@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T06:32:37">
   <properties>
     <titles>
       <title>AL480 - Daar Is ‘n Land Van Rein Geluk</title>
@@ -23,7 +23,8 @@
       <lines>Kon ons maar saam met Moses staan<br/>en oor die landskap kyk,<br/>niks wat op aarde nog bestaan,<br/>kan daarmee vergelyk.</lines>
     </verse>
     <verse name="c1">
-      <lines>Ons reis nou voorwaarts hand aan hand,<br/>gelukkig na Immanuelsland<br/>waar Jesus ewig sal regeer -<br/>dan skei ons nimmer, nimmermeer.<br/>Wat, skei ons nimmermeer?<br/>Nee, daar skei ons nie weer!<br/>Wat, skei ons nimmermeer?<br/>Nee, daar skei ons nie weer!<br/>Waar Jesus ewig sal regeer,</lines>
+      <lines break="optional">Ons reis nou voorwaarts hand aan hand, gelukkig na Immanuelsland waar Jesus ewig sal regeer - dan skei ons nimmer, nimmermeer. Wat, skei ons nimmermeer? Nee, daar skei ons nie weer!</lines>
+      <lines>Wat, skei ons nimmermeer? Nee, daar skei ons nie weer! Waar Jesus ewig sal regeer, daar skei ons nimmer, nimmer meer!</lines>
     </verse>
   </lyrics>
 </song>

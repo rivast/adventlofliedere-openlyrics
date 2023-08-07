@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T05:38:34">
   <properties>
     <titles>
       <title>AL327 - Een Afgemat, Verwond En Moeg</title>
@@ -15,16 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Een afgemat, verwond en moeg<br/>het ek langs steile weg sien wag;<br/>Hy't lank die heil'ge kruis gedra,<br/>gehoop op die beloofde dag.<br/>Wyl op Sy voorhoof menig lyn<br/>getuig van stil verduurde pyn,<br/>wat het Sy siel met krag gedoop?<br/>Sy antwoord was: “Die saal'ge hoop!'</lines>
+      <lines break="optional">Een afgemat, verwond en moeg het ek langs steile weg sien wag; Hy't lank die heil'ge kruis gedra, gehoop op die beloofde dag.</lines>
+      <lines>Wyl op Sy voorhoof menig lyn getuig van stil verduurde pyn, wat het Sy siel met krag gedoop? Sy antwoord was: “Die saal'ge hoop!'</lines>
     </verse>
     <verse name="v2">
-      <lines>‘n Ander het met swaard en skild<br/>die wêreldshoon en spot bestry;<br/>Hy moes die vyandsaanslag duld<br/>om daardie goue kroon te kry.<br/>Hoe swaar die stryd, hoe nou die weg,<br/>Hy was blymoedig en opreg;<br/>Wat hy sy siel met krag gedoop?<br/>Sy antwoord was: “Die saal'ge hoop!'</lines>
+      <lines break="optional">‘n Ander het met swaard en skild die wêreldshoon en spot bestry; Hy moes die vyandsaanslag duld om daardie goue kroon te kry.</lines>
+      <lines>Hoe swaar die stryd, hoe nou die weg, Hy was blymoedig en opreg; Wat hy sy siel met krag gedoop? Sy antwoord was: “Die saal'ge hoop!'</lines>
     </verse>
     <verse name="v3">
-      <lines>En daar was een wat moes verlaat<br/>die vriende van sy vroegste jeug;<br/>En eer en rykdom gee vir haat,<br/>die pad van dorings moes betree.<br/>En tog, hoe bitter ook sy lot,<br/>was hy blymoedig in sy God;<br/>Wat het sy siel met krag gedoop?<br/>Sy antwoord was: “Die saal'ge hoop!'</lines>
+      <lines break="optional">En daar was een wat moes verlaat die vriende van sy vroegste jeug; En eer en rykdom gee vir haat, die pad van dorings moes betree.</lines>
+      <lines>En tog, hoe bitter ook sy lot, was hy blymoedig in sy God; Wat het sy siel met krag gedoop? Sy antwoord was: “Die saal'ge hoop!'</lines>
     </verse>
     <verse name="v4">
-      <lines>Ons is maar almal pelgrims<br/>hier op aarde waar die vyand heers;<br/>Ons moet die haat en spot verduur,<br/>ons loon ontvang ons later eers<br/>as Jesus op die wolke kom<br/>as Here, Koning, Bruidegom;<br/>Kan iets ons siel met krag nou doop?<br/>Ja, dit alleen: Die saal'ge hoop!</lines>
+      <lines break="optional">Ons is maar almal pelgrims hier op aarde waar die vyand heers; Ons moet die haat en spot verduur, ons loon ontvang ons later eers</lines>
+      <lines>as Jesus op die wolke kom as Here, Koning, Bruidegom; Kan iets ons siel met krag nou doop? Ja, dit alleen: Die saal'ge hoop!</lines>
     </verse>
   </lyrics>
 </song>

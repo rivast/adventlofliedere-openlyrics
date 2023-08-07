@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T09:29:41">
   <properties>
     <titles>
       <title>AL112 - Ek Het ‘n Vriend So Dierbaar</title>
@@ -15,16 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Ek het 'n Vriend so dierbaar,<br/>Hy is so lief vir my;<br/>Hy min my, o so tederlik<br/>die trouste Vriend is Hy;<br/>En sonder Hom sal ek vergaan,<br/>Sy liefde moet my dek;<br/>en so woon ons tesame my Heer en ek.</lines>
+      <lines break="optional">Ek het 'n Vriend so dierbaar,<br/>Hy is so lief vir my;<br/>Hy min my, o so tederlik<br/>die trouste Vriend is Hy;</lines>
+      <lines>En sonder Hom sal ek vergaan,<br/>Sy liefde moet my dek;<br/>en so woon ons tesame my Heer en ek.</lines>
     </verse>
     <verse name="v2">
-      <lines>Al voel ek soms verlate,<br/>Hy ken my swakke hart;<br/>Dan gee Hy my weer nuwe moed<br/>en lenig al my smart.<br/>Hy lei my op die weg van lig<br/>waaroor die hemel strek;<br/>Ons wandel so tesame my Heer en ek.</lines>
+      <lines break="optional">Al voel ek soms verlate,<br/>Hy ken my swakke hart;<br/>Dan gee Hy my weer nuwe moed<br/>en lenig al my smart.</lines>
+      <lines>Hy lei my op die weg van lig<br/>waaroor die hemel strek;<br/>Ons wandel so tesame my Heer en ek.</lines>
     </verse>
     <verse name="v3">
-      <lines>Ek sê Hom van my weemoed,<br/>vertel Hom van my vreug;<br/>Ek sê Hom wat tot droefheid stem<br/>en wat my hart verheug.<br/>Hy leer my steeds wat ek moet doen,<br/>wat tot Sy eer sal strek;<br/>Ons wandel so tesame - my Heer en ek.</lines>
+      <lines break="optional">Ek sê Hom van my weemoed,<br/>vertel Hom van my vreug;<br/>Ek sê Hom wat tot droefheid stem<br/>en wat my hart verheug.</lines>
+      <lines>Hy leer my steeds wat ek moet doen,<br/>wat tot Sy eer sal strek;<br/>Ons wandel so tesame - my Heer en ek.</lines>
     </verse>
     <verse name="v4">
-      <lines>Hy weet van my verlange<br/>om sondaars te kan red;<br/>Hy stuur my daarom met Sy woord<br/>en leer hul ook Sy wet.<br/>Ek spreek van liefde en die kruis –<br/>Sy bloed wat sonde dek;<br/>En so werk ons tesame - my Heer en ek.</lines>
+      <lines break="optional">Hy weet van my verlange<br/>om sondaars te kan red;<br/>Hy stuur my daarom met Sy woord<br/>en leer hul ook Sy wet.</lines>
+      <lines>Ek spreek van liefde en die kruis –<br/>Sy bloed wat sonde dek;<br/>En so werk ons tesame - my Heer en ek.</lines>
     </verse>
   </lyrics>
 </song>

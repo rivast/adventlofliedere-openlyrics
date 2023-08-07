@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T05:54:21">
   <properties>
     <titles>
       <title>AL349 - Gaan Met Die Reddingstou Diep In Die See</title>
@@ -27,7 +27,7 @@
       <lines>Spoedig is reddingsgeleentheid verby;<br/>Spoedig sal net hul gedagtenis bly.<br/>Gaan haastig, broeder, o waarom nog wag?<br/>Gaan nou tot hul redding en bring hul vandag.</lines>
     </verse>
     <verse name="c1">
-      <lines>Haas tot Sy redding! (x2)<br/>Iemand dryf weg en verdrink.<br/>Haas tot Sy redding! (x2)<br/>Daar is 'n broeder wat sink.</lines>
+      <lines>Haas tot Sy redding!<br/>Haas tot Sy redding!<br/>Iemand dryf weg en verdrink.<br/>Haas tot Sy redding!<br/>Haas tot Sy redding!<br/>Daar is 'n broeder wat sink.</lines>
     </verse>
   </lyrics>
 </song>

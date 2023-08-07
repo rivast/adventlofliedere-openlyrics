@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:22">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T06:21:33">
   <properties>
     <titles>
       <title>AL448 - Wanneer Ek In Bybelverhale</title>
@@ -15,10 +15,12 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Wanneer ek in Bybelverhale soms lees<br/>van Jesus se lewe as mens,<br/>hoe graag Hy in kindergeselskap wou wees,<br/>dan ontstaan in my hart hierdie wens:<br/>o ek wens ek was daar,<br/>waar dissipels Hom dien<br/>aan my dierbare Heiland se sy;<br/>Om Sy stem te kon hoor<br/>en Sy oog te kon sien,<br/>toe Hy sê: “Bring die kinders na My!'</lines>
+      <lines break="optional">Wanneer ek in Bybelverhale soms lees van Jesus se lewe as mens, hoe graag Hy in kindergeselskap wou wees, dan ontstaan in my hart hierdie wens: o ek wens ek was daar, waar dissipels Hom dien aan my dierbare Heiland se sy;</lines>
+      <lines>Om Sy stem te kon hoor en Sy oog te kon sien, toe Hy sê: “Bring die kinders na My!'</lines>
     </verse>
     <verse name="v2">
-      <lines>Maar nou gaan ek deur die gebed<br/>na my Heer,<br/>want Hy het beloof, en ek glo,<br/>dat as ek hier op aarde<br/>my Heiland vereer,<br/>ek sal gaan na 'n woning daarbo.<br/>In die heerlike huis waar verlostes sal woon,<br/>en die engele lofsange sing;<br/>Daar sal ons voor die Here se heerlike troon<br/>onse hulde en liefde kan bring.</lines>
+      <lines break="optional">Maar nou gaan ek deur die gebed na my Heer, want Hy het beloof, en ek glo, dat as ek hier op aarde my Heiland vereer, ek sal gaan na 'n woning daarbo. In die heerlike huis waar verlostes sal woon, en die engele lofsange sing;</lines>
+      <lines>Daar sal ons voor die Here se heerlike troon onse hulde en liefde kan bring.</lines>
     </verse>
   </lyrics>
 </song>

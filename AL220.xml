@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:11">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T13:37:26">
   <properties>
     <titles>
       <title>AL220 - Ek Sterf Met Jesus</title>
@@ -18,7 +18,7 @@
       <lines>Ek sterf met Jesus,<br/>Sy dood maak my vry;<br/>Ek leef in Jesus en Hy leef in my;<br/>Ek sal deur Jesus verheerliking kry,<br/>oomblik na oomblik<br/>bly ek aan Sy Sy.</lines>
     </verse>
     <verse name="v2">
-      <lines>Nooit 'n beproewing of Jesus is daar;<br/>Nooit word my laste, met Sy hulp,<br/>te swaar;<br/>Selfs in verdriet en in lewensgevaar -<br/>oomblik na oomblik<br/>sal Hy my bewaar.</lines>
+      <lines>Nooit 'n beproewing of Jesus is daar;<br/>Nooit word my laste, met Sy hulp,<br/>te swaar; Selfs in verdriet en in lewensgevaar -<br/>oomblik na oomblik sal Hy my bewaar.</lines>
     </verse>
     <verse name="v3">
       <lines>Nooit is daar droefheid, ‘n sug of 'n klag;<br/>Nooit is daar trane in donkere nag;<br/>Hy bring vertroosting<br/>as ons op Hom wag;<br/>Oomblik na oomblik skenk Hy nuwe krag.</lines>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:07">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T09:51:21">
   <properties>
     <titles>
       <title>AL155 - Heer, Doop Ons Opnuut</title>
       <title>Baptize us anew</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c2</verseOrder>
     <authors>
       <author>Unknown</author>
     </authors>
@@ -17,20 +17,20 @@
     <verse name="v1">
       <lines>Heer, doop ons opnuut<br/>met krag van U troon;<br/>Verkwik ons met liefde,<br/>o Heiland, so skoon.</lines>
     </verse>
-    <verse name="v2">
-      <lines>Refrein (v 1-3):<br/><br/>Ons smeek U so need'rig,<br/>Heer Jesus, ons smag,<br/>met Gees en met liefde,<br/>o, doop ons vandag.</lines>
+    <verse name="c1">
+      <lines>Ons smeek U so need'rig,<br/>Heer Jesus, ons smag,<br/>met Gees en met liefde,<br/>o, doop ons vandag.</lines>
     </verse>
-    <verse name="v3">
+    <verse name="v2">
       <lines>Onwaardig is ons,<br/>onheilig, onrein;<br/>O was ons dat sonde<br/>se smette verdwyn.</lines>
     </verse>
-    <verse name="v4">
+    <verse name="v3">
       <lines>O Heilige Gees<br/>daal nou op ons neer;<br/>Ons bid om U seën<br/>Genadige Heer.</lines>
     </verse>
-    <verse name="v5">
+    <verse name="v4">
       <lines>O hoor tog die stem<br/>wat kom van die troon;<br/>U is my geliefde,<br/>in U wil ek woon.</lines>
     </verse>
-    <verse name="v6">
-      <lines>Refrein (v 4):<br/><br/>Ons lowe en prys U,<br/>o Lam van die kruis,<br/>ons bring U die ere.<br/>Amen en Amen.</lines>
+    <verse name="c2">
+      <lines>Ons lowe en prys U,<br/>o Lam van die kruis,<br/>ons bring U die ere.<br/>Amen en Amen.</lines>
     </verse>
   </lyrics>
 </song>

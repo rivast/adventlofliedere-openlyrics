@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T14:00:08">
   <properties>
     <titles>
       <title>AL258 - Ek Dink Nou Aan Die Hemelhuis</title>
@@ -27,7 +27,7 @@
       <lines>Hou moed, al sou die winde ween,<br/>geen traan of sug ontgaan die Heer.<br/>Die sonskyn kom weer na die reën,<br/>o, swerwer, wag en kla nie meer.</lines>
     </verse>
     <verse name="c1">
-      <lines>O wag! Swerwer wag en kla nie meer:(x2)<br/>O wag! O wag!<br/>O wag en kla nie meer!</lines>
+      <lines>O wag! Swerwer wag en kla nie meer;<br/>O wag! Swerwer wag en kla nie meer;<br/>O wag! O wag! O wag en kla nie meer!</lines>
     </verse>
   </lyrics>
 </song>

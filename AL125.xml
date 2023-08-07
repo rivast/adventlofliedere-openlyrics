@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T09:41:00">
   <properties>
     <titles>
       <title>AL125 - Kroon Hom Met Lof En Seën</title>
@@ -15,16 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Kroon Hom met lof en seën,<br/>Die Godslam hoog vereer!<br/>Hoor hoe die hemelkoor alleen<br/>Verrys bo elke sfeer.<br/>Ontwaak my siel en loof<br/>Die Koning van die tyd;<br/>Verhef Hom as jou God en Hoof<br/>Deur alle ewigheid.</lines>
+      <lines break="optional">Kroon Hom met lof en seën,<br/>Die Godslam hoog vereer!<br/>Hoor hoe die hemelkoor alleen<br/>Verrys bo elke sfeer.</lines>
+      <lines>Ontwaak my siel en loof<br/>Die Koning van die tyd;<br/>Verhef Hom as jou God en Hoof<br/>Deur alle ewigheid.</lines>
     </verse>
     <verse name="v2">
-      <lines>Kroon Hom wat liefde is,<br/>Ontferming en gena;<br/>Onpeilbare geheimenis -<br/>Die wonde wat Hy dra!<br/>Geen hemeling omhoog<br/>Kan die toneel aanskou,<br/>Maar swyg met vleuelbedekte oog<br/>Voor wat God daar ontvou.</lines>
+      <lines break="optional">Kroon Hom wat liefde is,<br/>Ontferming en gena;<br/>Onpeilbare geheimenis -<br/>Die wonde wat Hy dra!</lines>
+      <lines>Geen hemeling omhoog<br/>Kan die toneel aanskou,<br/>Maar swyg met vleuelbedekte oog<br/>Voor wat God daar ontvou.</lines>
     </verse>
     <verse name="v3">
-      <lines>Kroon Hom as Vredevors<br/>wat oor ons sal regeer!<br/>Die mensheid wat na vrede dors<br/>ken dan geen oorlog meer.<br/>Uit Sy deurboorde sy<br/>sal enkel heling vloei<br/>en aan Sy voete, ryk en vry,<br/>die skoonste blomme bloei.</lines>
+      <lines break="optional">Kroon Hom as Vredevors<br/>wat oor ons sal regeer!<br/>Die mensheid wat na vrede dors<br/>ken dan geen oorlog meer.</lines>
+      <lines>Uit Sy deurboorde sy<br/>sal enkel heling vloei<br/>en aan Sy voete, ryk en vry,<br/>die skoonste blomme bloei.</lines>
     </verse>
     <verse name="v4">
-      <lines>Kroon Hom met majesteit<br/>wat was en kom en is;<br/>Die Koning van die ewigheid<br/>wat oor ons lot beslis!<br/>Heil Jesus, dierb're Heer,<br/>U wat moes sterf vir my!<br/>Aan U kom toe die lof en eer<br/>en eeu'ge heerskappy.</lines>
+      <lines break="optional">Kroon Hom met majesteit<br/>wat was en kom en is;<br/>Die Koning van die ewigheid<br/>wat oor ons lot beslis!</lines>
+      <lines>Heil Jesus, dierb're Heer,<br/>U wat moes sterf vir my!<br/>Aan U kom toe die lof en eer<br/>en eeu'ge heerskappy.</lines>
     </verse>
   </lyrics>
 </song>

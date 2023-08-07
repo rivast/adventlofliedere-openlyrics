@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:05">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T09:40:11">
   <properties>
     <titles>
       <title>AL120 - Liefde, Grenseloos, Onpeilbaar</title>
@@ -15,16 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Liefde, grenseloos, onpeilbaar,<br/>daal in onse harte neer!<br/>Ondeurgrondelik, onfeilbaar,<br/>is U tederheid, o Heer!<br/>Weergaloos is U genade;<br/>U het self in ons kom woon!<br/>Dis van al U liefdedade<br/>die voltooiing en die kroon!</lines>
+      <lines break="optional">Liefde, grenseloos, onpeilbaar,<br/>daal in onse harte neer!<br/>Ondeurgrondelik, onfeilbaar,<br/>is U tederheid, o Heer!</lines>
+      <lines>Weergaloos is U genade;<br/>U het self in ons kom woon!<br/>Dis van al U liefdedade<br/>die voltooiing en die kroon!</lines>
     </verse>
     <verse name="v2">
-      <lines>Stort U Gees in onse harte,<br/>maak ons van U krag bewus;<br/>Skenk ons, selfs in pyn en smarte,<br/>die beloofde soete rus.<br/>Neem die neiging tot die sonde<br/>weg, en lei ons, Heil'ge Gees,<br/>dat ons, slegs deur U gebonde,<br/>inderwaarheid vry mag wees.</lines>
+      <lines break="optional">Stort U Gees in onse harte,<br/>maak ons van U krag bewus;<br/>Skenk ons, selfs in pyn en smarte,<br/>die beloofde soete rus.</lines>
+      <lines>Neem die neiging tot die sonde<br/>weg, en lei ons, Heil'ge Gees,<br/>dat ons, slegs deur U gebonde,<br/>inderwaarheid vry mag wees.</lines>
     </verse>
     <verse name="v3">
-      <lines>Kom, Almagtige, om nimmer<br/>weer U Tempel te verlaat;<br/>Stel ons deur genade immer<br/>tot U hoogste diens in staat!<br/>Maak in ons U heil'ge woning;<br/>Leer ons hoe om U te prys,<br/>soos die eng'le wat hul Koning<br/>onophoud'lik eer bewys.</lines>
+      <lines break="optional">Kom, Almagtige, om nimmer<br/>weer U Tempel te verlaat;<br/>Stel ons deur genade immer<br/>tot U hoogste diens in staat!</lines>
+      <lines>Maak in ons U heil'ge woning;<br/>Leer ons hoe om U te prys,<br/>soos die eng'le wat hul Koning<br/>onophoud'lik eer bewys.</lines>
     </verse>
     <verse name="v4">
-      <lines>Laat U nuwe skepping heerlik<br/>en volmaak in liefde wees;<br/>Vorm ons na U beeld, begeerlik,<br/>deur die werking van U Gees;<br/>Tot ons eenmaal in U skone<br/>Hemelhowe, dier'bre Heer,<br/>in aanbidding onse krone<br/>voor U neerwerp, U ter eer.</lines>
+      <lines break="optional">Laat U nuwe skepping heerlik<br/>en volmaak in liefde wees;<br/>Vorm ons na U beeld, begeerlik,<br/>deur die werking van U Gees;</lines>
+      <lines>Tot ons eenmaal in U skone<br/>Hemelhowe, dier'bre Heer,<br/>in aanbidding onse krone<br/>voor U neerwerp, U ter eer.</lines>
     </verse>
   </lyrics>
 </song>

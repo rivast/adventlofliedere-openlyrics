@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T13:56:32">
   <properties>
     <titles>
       <title>AL249 - Liewe Jesus, Maak U Woning</title>
@@ -15,16 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Liewe Jesus, maak U woning<br/>in die hart wat na U smag;<br/>Need'rig, soos ons Heer en Koning,<br/>wil ons wandel elke dag;<br/>Sonder U is ons nie veilig,<br/>daarom wil ons in U bly;<br/>Laat U Gees ons lewe heilig<br/>en ons langs U weë lei.</lines>
+      <lines break="optional">Liewe Jesus, maak U woning<br/>in die hart wat na U smag;<br/>Need'rig, soos ons Heer en Koning,<br/>wil ons wandel elke dag;</lines>
+      <lines>Sonder U is ons nie veilig,<br/>daarom wil ons in U bly;<br/>Laat U Gees ons lewe heilig<br/>en ons langs U weë lei.</lines>
     </verse>
     <verse name="v2">
-      <lines>In U spore volg ons, seker<br/>dat U liefde ons omring,<br/>en dat elke wrange beker<br/>ons slegs nader aan U bring.<br/>Ja, die kruis dra ons geduldig,<br/>want ons weet daar wag 'n kroon;<br/>Hoeveel dank is ons verskuldig<br/>aan U heilige persoon!</lines>
+      <lines break="optional">In U spore volg ons, seker<br/>dat U liefde ons omring,<br/>en dat elke wrange beker<br/>ons slegs nader aan U bring.</lines>
+      <lines>Ja, die kruis dra ons geduldig,<br/>want ons weet daar wag 'n kroon;<br/>Hoeveel dank is ons verskuldig<br/>aan U heilige persoon!</lines>
     </verse>
     <verse name="v3">
-      <lines>Van U goedheid en genade<br/>wil ons altyddeur vertel;<br/>Tevergeefs ons goeie dade<br/>as U ons nie vergesel.<br/>Deur die nag van pyn en lyding<br/>sou ons, sonder U, beswyk;<br/>Voor die dag kom van bevryding<br/>voor die donker skadu's wyk.</lines>
+      <lines break="optional">Van U goedheid en genade<br/>wil ons altyddeur vertel;<br/>Tevergeefs ons goeie dade<br/>as U ons nie vergesel.</lines>
+      <lines>Deur die nag van pyn en lyding<br/>sou ons, sonder U, beswyk;<br/>Voor die dag kom van bevryding<br/>voor die donker skadu's wyk.</lines>
     </verse>
     <verse name="v4">
-      <lines>Dan, deur eindelose jare,<br/>sal ons U aanbid en loof<br/>waar geen doodsangs of gevare<br/>ons van vrede kan beroof;<br/>By U vind ons rus, o Here,<br/>uitgewoed is dan die stryd!<br/>U sy al die lof en ere<br/>tot in alle ewigheid!</lines>
+      <lines break="optional">Dan, deur eindelose jare,<br/>sal ons U aanbid en loof<br/>waar geen doodsangs of gevare<br/>ons van vrede kan beroof;</lines>
+      <lines>By U vind ons rus, o Here,<br/>uitgewoed is dan die stryd!<br/>U sy al die lof en ere<br/>tot in alle ewigheid!</lines>
     </verse>
   </lyrics>
 </song>

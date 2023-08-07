@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:12">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T13:54:31">
   <properties>
     <titles>
       <title>AL246 - O Jesus, Waarom Staan U</title>
@@ -15,13 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O Jesus, waarom staan U<br/>voor die geslote deur,<br/>lankmoedig en vol liefde<br/>al stel ons U teleur?<br/>o Skande, broeders, skande<br/>dat ons wat Hom bely,<br/>ons Redder en Verlosser<br/>nog buite kan laat bly!</lines>
+      <lines break="optional">O Jesus, waarom staan U<br/>voor die geslote deur,<br/>lankmoedig en vol liefde<br/>al stel ons U teleur?<br/>o Skande, broeders, skande<br/>dat ons wat Hom bely,</lines>
+      <lines>ons Redder en Verlosser<br/>nog buite kan laat bly!</lines>
     </verse>
     <verse name="v2">
-      <lines>O Jesus, waarom klop U<br/>met hemelse geduld,<br/>nadat U aan die kruishout<br/>deurboor is vir ons skuld?<br/>O liefde sonder weerga<br/>wat vir geen offer stuit!<br/>O snoodheid, onbegryplik,<br/>dat ons die deur kan sluit!</lines>
+      <lines break="optional">O Jesus, waarom klop U<br/>met hemelse geduld,<br/>nadat U aan die kruishout<br/>deurboor is vir ons skuld?<br/>O liefde sonder weerga<br/>wat vir geen offer stuit!</lines>
+      <lines>O snoodheid, onbegryplik,<br/>dat ons die deur kan sluit!</lines>
     </verse>
     <verse name="v3">
-      <lines>O Jesus waarom pleit U<br/>so tederlik en sag;<br/>“Ek het vir jou gesterwe;<br/>hoe kan jy my laat wag?'<br/>Ek maak die deur wyd oop Heer,<br/>beskaamd en diep bedroef;<br/>Kom binne, dierb're Heiland;<br/>Kom in my hart vertoef.</lines>
+      <lines break="optional">O Jesus waarom pleit U<br/>so tederlik en sag;<br/>“Ek het vir jou gesterwe;<br/>hoe kan jy my laat wag?"<br/>Ek maak die deur wyd oop Heer,<br/>beskaamd en diep bedroef;</lines>
+      <lines>Kom binne, dierb're Heiland;<br/>Kom in my hart vertoef.</lines>
     </verse>
   </lyrics>
 </song>

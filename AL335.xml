@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T05:50:26">
   <properties>
     <titles>
       <title>AL335 - Hoe Lieflik, Hoe Vol Heilgenot</title>
@@ -14,16 +14,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hoe lieflik, hoe vol heilgenot,<br/>o Heer van leërskare, God!<br/>Is my U huis en tempelsange.<br/>Hoe brand ek van verlange om<br/>die Heer se voorhof in te kom.<br/>My siel beswyk van sterk verlange;<br/>My hart roep uit tot God wat leef<br/>en nasies vir Sy woord laat beef.</lines>
+      <lines break="optional">Hoe lieflik, hoe vol heilgenot, o Heer van leërskare, God! Is my U huis en tempelsange. Hoe brand ek van verlange om die Heer se voorhof in te kom. My siel beswyk van sterk verlange;</lines>
+      <lines>My hart roep uit tot God wat leef en nasies vir Sy woord laat beef.</lines>
     </verse>
     <verse name="v2">
-      <lines>Welsalig hy wat al sy krag<br/>en hulp alleen van U verwag<br/>en reis die weg deur God geseën.<br/>Al brand die hete middagson<br/>in vlei of boord, U is hul bron<br/>en gee aan hul 'n vroeë reën<br/>wat veld en wingerd saggies dek,<br/>verkwik en hul tot seën strek.</lines>
+      <lines break="optional">Welsalig hy wat al sy krag en hulp alleen van U verwag en reis die weg deur God geseën. Al brand die hete middagson in vlei of boord, U is hul bron en gee aan hul 'n vroeë reën</lines>
+      <lines>wat veld en wingerd saggies dek, verkwik en hul tot seën strek.</lines>
     </verse>
     <verse name="v3">
-      <lines>Hul gaan van krag tot krag steeds voort;<br/>Elkeen sal in die saal'ge oord<br/>van Sion voor hul God teregstaan.<br/>Let, Heer van leërskare,<br/>let op my ootmoedig' smeekgebed.<br/>Laat nooit U liefde van my weggaan.<br/>Neig tog U vriend'lik oor tot my<br/>en gaan, o God, my nie verby.</lines>
+      <lines break="optional">Hul gaan van krag tot krag steeds voort; Elkeen sal in die saal'ge oord van Sion voor hul God teregstaan. Let, Heer van leërskare, let op my ootmoedig' smeekgebed. Laat nooit U liefde van my weggaan.</lines>
+      <lines>Neig tog U vriend'lik oor tot my en gaan, o God, my nie verby.</lines>
     </verse>
     <verse name="v4">
-      <lines>Want God die Heer, so goed en mild<br/>is altyd onse son en skild.<br/>Hy sal genade gee en ere.<br/>Hy sal die goeie nie in nood<br/>onthou nie, selfs nie in die dood.<br/>Hul wat in vroomheid voor Hom lewe,<br/>welsalig Heer! Wat op U bou,<br/>en alles aan U toevertrou.</lines>
+      <lines break="optional">Want God die Heer, so goed en mild is altyd onse son en skild. Hy sal genade gee en ere. Hy sal die goeie nie in nood onthou nie, selfs nie in die dood. Hul wat in vroomheid voor Hom lewe,</lines>
+      <lines>welsalig Heer! Wat op U bou, en alles aan U toevertrou.</lines>
     </verse>
   </lyrics>
 </song>

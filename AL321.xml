@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T05:34:22">
   <properties>
     <titles>
       <title>AL321 - Luister Hoe Klink Die Skone Eng'lesange</title>
@@ -27,7 +27,7 @@
       <lines>Sing op jul pos,<br/>o troue eng'lewagte,<br/>laat ons die hemelsmelodieë hoor;<br/>Eendag verdwyn ons<br/>donker tranenagte,<br/>dan sing ons met die blye eng'lekoor.</lines>
     </verse>
     <verse name="c1">
-      <lines>Eng'le van Jesus, eng'le van krag,<br/>sing welkomsliedere vir pelgrims<br/>uit die nag!</lines>
+      <lines>Eng'le van Jesus, eng'le van krag, sing welkomsliedere vir pelgrims uit die nag!</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:09">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T10:04:12">
   <properties>
     <titles>
       <title>AL175 - Christus Klop Aan My Trotse Hart</title>
@@ -15,13 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Christus klop aan my trotse hart;<br/>Sal ek Hom laat wag?<br/>Hy pleit so mooi met my harde hart:<br/>Sal ek Hom nog laat wag?<br/>Koud en trots is die hart van my,<br/>waar net selfsug en hoogmoed bly;<br/>Christus kan my van sonde bevry;<br/>Sal ek Hom nog laat wag?</lines>
+      <lines break="optional">Christus klop aan my trotse hart;<br/>Sal ek Hom laat wag?<br/>Hy pleit so mooi met my harde hart:<br/>Sal ek Hom nog laat wag?</lines>
+      <lines>Koud en trots is die hart van my,<br/>waar net selfsug en hoogmoed bly;<br/>Christus kan my van sonde bevry;<br/>Sal ek Hom nog laat wag?</lines>
     </verse>
     <verse name="v2">
-      <lines>Sal ek Hom nou my liefde gee,<br/>of moet Hy nog wag?<br/>Sal ek my lewe aan Hom bestee,<br/>of moet Hy langer wag?<br/>Hy bied vriendskap en liefde aan,<br/>Hy wil my van my skuld ontslaan;<br/>Kan ek Hom uit my lewe laat gaan?<br/>Hoelank moet Hy nog wag?</lines>
+      <lines break="optional">Sal ek Hom nou my liefde gee,<br/>of moet Hy nog wag?<br/>Sal ek my lewe aan Hom bestee,<br/>of moet Hy langer wag?</lines>
+      <lines>Hy bied vriendskap en liefde aan,<br/>Hy wil my van my skuld ontslaan;<br/>Kan ek Hom uit my lewe laat gaan?<br/>Hoelank moet Hy nog wag?</lines>
     </verse>
     <verse name="v3">
-      <lines>Ja, ek maak nou die deur wyd oop,<br/>woon in my, o Heer!<br/>Neem nou besit, U het my gekoop;<br/>Ja, woon in my, o Heer!<br/>Liewe Heiland, kom bly by my.<br/>U stel my van my kommer vry;<br/>Ek is veilig as U in my bly,<br/>kom in, o Heer, kom in.</lines>
+      <lines break="optional">Ja, ek maak nou die deur wyd oop,<br/>woon in my, o Heer!<br/>Neem nou besit, U het my gekoop;<br/>Ja, woon in my, o Heer!</lines>
+      <lines>Liewe Heiland, kom bly by my.<br/>U stel my van my kommer vry;<br/>Ek is veilig as U in my bly,<br/>kom in, o Heer, kom in.</lines>
     </verse>
   </lyrics>
 </song>

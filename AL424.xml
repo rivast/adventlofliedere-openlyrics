@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:20">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T06:16:52">
   <properties>
     <titles>
       <title>AL424 - Wyd Is Die Woesteny Hier Waar Ons Gaan</title>
@@ -15,13 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Wyd is die woesteny hier<br/>waar ons gaan,<br/>maar huis toe nou, huis toe nou!<br/>Lank het die storme gewoed en geslaan,<br/>maar huis toe nou, huis toe nou!<br/>Ver was ons van daardie veilige kus,<br/>maar in die Vader se wonings is rus,<br/>met Sy belofte gaan ons doelbewus -<br/>ja, huis toe nou, huis toe nou!</lines>
+      <lines break="optional">Wyd is die woesteny hier waar ons gaan, maar huis toe nou, huis toe nou! Lank het die storme gewoed en geslaan, maar huis toe nou, huis toe nou! Ver was ons van daardie veilige kus, maar in die Vader se wonings is rus,</lines>
+      <lines>met Sy belofte gaan ons doelbewus - ja, huis toe nou, huis toe nou!</lines>
     </verse>
     <verse name="v2">
-      <lines>Storme wat woed en wat dreun voer ons mee,<br/>steeds huis toe nou, huis toe nou!<br/>Daarna die hawe wat wag oor die see:<br/>o, huis toe nou, huis toe nou!<br/>Hou koers, o stuurman, staan vas by die stuur,<br/>hou koers, die storm is nou byna verby,<br/>op die ou aarde het ons veel verduur -<br/>maar huis toe nou, huis toe nou!</lines>
+      <lines break="optional">Storme wat woed en wat dreun voer ons mee, steeds huis toe nou, huis toe nou! Daarna die hawe wat wag oor die see: o, huis toe nou, huis toe nou! Hou koers, o stuurman, staan vas by die stuur, hou koers, die storm is nou byna verby,</lines>
+      <lines>op die ou aarde het ons veel verduur - maar huis toe nou, huis toe nou!</lines>
     </verse>
     <verse name="v3">
-      <lines>Binne die hawe aan hemelse strand,<br/>nou eind'lik tuis, eind'lik tuis.<br/>Veilig word ons nou gevoer<br/>deur Gods hand:<br/>in daardie huis is ons tuis;<br/>Ere aan God! Die gevaar is verby!<br/>Veilig staan ons nou, van storme bevry.<br/>Ere aan God! Sing ons dankbaar en bly -<br/>in daardie huis is ons tuis!</lines>
+      <lines break="optional">Binne die hawe aan hemelse strand, nou eind'lik tuis, eind'lik tuis. Veilig word ons nou gevoer deur Gods hand: in daardie huis is ons tuis; Ere aan God! Die gevaar is verby! Veilig staan ons nou, van storme bevry.</lines>
+      <lines>Ere aan God! Sing ons dankbaar en bly - in daardie huis is ons tuis!</lines>
     </verse>
   </lyrics>
 </song>

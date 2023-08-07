@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:09">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T10:05:06">
   <properties>
     <titles>
       <title>AL176 - Iemand Sal Eens Deur Die Poorte Gaan</title>
@@ -15,16 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Iemand sal eens deur die poorte gaan;<br/>Salig Hy! Salig Hy!<br/>Daar deur die skoonheid oorweldig staan,<br/>sal ek? Sal jy? Sal ek? Sal jy?<br/>Iemand sal loop op die goue straat,<br/>daar is geen sonde of spoor van kwaad,<br/>daar is net vreugde en feesgewaad!<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
+      <lines break="optional">Iemand sal eens deur die poorte gaan;<br/>Salig Hy! Salig Hy!<br/>Daar deur die skoonheid oorweldig staan,<br/>sal ek? Sal jy? Sal ek? Sal jy?</lines>
+      <lines>Iemand sal loop op die goue straat,<br/>daar is geen sonde of spoor van kwaad,<br/>daar is net vreugde en feesgewaad!<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
     </verse>
     <verse name="v2">
-      <lines>Iemand lê spoedig sy kruis hier neer,<br/>salig Hy! Salig Hy!<br/>Daar word hy dan met 'n kroon vereer,<br/>word ek? Word jy? Word ek? Word jy?<br/>Iemand sal Jesus verheerlik sien,<br/>vry van versoeking sal hy Hom dien;<br/>Salige voorreg so onverdien!<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
+      <lines break="optional">Iemand lê spoedig sy kruis hier neer,<br/>salig Hy! Salig Hy!<br/>Daar word hy dan met 'n kroon vereer,<br/>word ek? Word jy? Word ek? Word jy?</lines>
+      <lines>Iemand sal Jesus verheerlik sien,<br/>vry van versoeking sal hy Hom dien;<br/>Salige voorreg so onverdien!<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
     </verse>
     <verse name="v3">
-      <lines>Iemand sal klop, maar helaas te laat!<br/>Is dit ek? Is dit jy?<br/>Smeking en bede sal dan nie baat<br/>vir jou! Vir my! Vir jou! Vir my!<br/>Iemand sal roep tot sy stem verflou,<br/>roep tevergeefs, daar's geen toegang nou<br/>wenende wag in die nag van rou!<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
+      <lines break="optional">Iemand sal klop, maar helaas te laat!<br/>Is dit ek? Is dit jy?<br/>Smeking en bede sal dan nie baat<br/>vir jou! Vir my! Vir jou! Vir my!</lines>
+      <lines>Iemand sal roep tot sy stem verflou,<br/>roep tevergeefs, daar's geen toegang nou<br/>wenende wag in die nag van rou!<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
     </verse>
     <verse name="v4">
-      <lines>Iemand sal saam met die heil'ges sing,<br/>salig Hy! Salig Hy!<br/>Saam met verlostes Hom ere bring,<br/>sal ek? Sal jy? Sal ek? Sal jy?<br/>Iemand sal met sy bemindes staan,<br/>ewige vreugde wat nooit vergaan!<br/>Veilig woon hy daar met Jesus saam.<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
+      <lines break="optional">Iemand sal saam met die heil'ges sing,<br/>salig Hy! Salig Hy!<br/>Saam met verlostes Hom ere bring,<br/>sal ek? Sal jy? Sal ek? Sal jy?</lines>
+      <lines>Iemand sal met sy bemindes staan,<br/>ewige vreugde wat nooit vergaan!<br/>Veilig woon hy daar met Jesus saam.<br/>Sal ek? Sal jy? Sal ek? Sal jy?</lines>
     </verse>
   </lyrics>
 </song>

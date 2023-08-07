@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T05:33:27">
   <properties>
     <titles>
       <title>AL315 - Hoe Eensaam En Droewig</title>
@@ -15,16 +15,17 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hoe eensaam en droewig die uur<br/>as ek nie die Here kan sien!<br/>Die voëltjies, die blomme, die lug,<br/>is al hul bekoring ontneem;<br/>Die vol somerson het geen glans,<br/>die veld is in winter gehul;<br/>Maar sien ek Sy glimlag, is selfs<br/>die winter met skoonheid gevul.</lines>
+      <lines>Hoe eensaam en droewig die uur as ek nie die Here kan sien! Die voëltjies, die blomme, die lug, is al hul bekoring ontneem; Die vol somerson het geen glans, die veld is in winter gehul; Maar sien ek Sy glimlag, is selfs die winter met skoonheid gevul.</lines>
     </verse>
     <verse name="v2">
-      <lines>Sy Naam is 'n lieflike geur,<br/>Sy stem is 'n soet melodie,<br/>Sy glimlag verdrywe die nag<br/>en vul my met heilige vreug.<br/>En hou Hy my steeds by die hand,<br/>dan kan ek nie twyfel of vrees,<br/>geen sterfling gelukkig soos ek<br/>as lente my erf'nis sal wees!</lines>
+      <lines>Sy Naam is 'n lieflike geur, Sy stem is 'n soet melodie, Sy glimlag verdrywe die nag en vul my met heilige vreug. En hou Hy my steeds by die hand, dan kan ek nie twyfel of vrees, geen sterfling gelukkig soos ek as lente my erf'nis sal wees!</lines>
     </verse>
     <verse name="v3">
-      <lines>My beker van vreugde loop oor<br/>wanneer ek my Heiland aanskou,<br/>geen voorspoed of teenspoed of tyd<br/>kan dan my gemoed meer ontrus.<br/>Vir my, van Sy liefde bewus,<br/>is rykdom slegs dwase vertoon;<br/>‘n kerker is soos 'n paleis<br/>as Jesus net daar by my woon.</lines>
+      <lines break="optional">My beker van vreugde loop oor wanneer ek my Heiland aanskou, geen voorspoed of teenspoed of tyd kan dan my gemoed meer ontrus. Vir my, van Sy liefde bewus, is rykdom slegs dwase vertoon;</lines>
+      <lines>‘n kerker is soos 'n paleis as Jesus net daar by my woon.</lines>
     </verse>
     <verse name="v4">
-      <lines>As ek dan U eiendom is<br/>en U dan my lied en my son,<br/>waarom bly daar droefheid en leed?<br/>Waarom is my winter so lank?<br/>Verdryf U my vrees en my nag,<br/>o gun my 'n plek voor U troon!<br/>Laat my U teenwoordigheid ken<br/>waar lente en liefde bly woon!</lines>
+      <lines>As ek dan U eiendom is en U dan my lied en my son, waarom bly daar droefheid en leed? Waarom is my winter so lank? Verdryf U my vrees en my nag, o gun my 'n plek voor U troon! Laat my U teenwoordigheid ken waar lente en liefde bly woon!</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:10">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T13:23:28">
   <properties>
     <titles>
       <title>AL205 - Meester, Die Branders Breek Oor Ons!</title>
@@ -15,16 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Meester, die branders breek oor ons!<br/>Die skip is in doodsgevaar.<br/>Die lug is so swart soos die dieptes:<br/>Geen skuiling of hulp is daar!<br/>Gee U nie om dat ons sterwe?<br/>Hoe kan U slaap in vree,<br/>wanneer ons elke oomblik kan wegsink<br/>in dieptes van hierdie see?</lines>
+      <lines break="optional">Meester, die branders breek oor ons!<br/>Die skip is in doodsgevaar.<br/>Die lug is so swart soos die dieptes:<br/>Geen skuiling of hulp is daar!</lines>
+      <lines>Gee U nie om dat ons sterwe?<br/>Hoe kan U slaap in vree,<br/>wanneer ons elke oomblik kan wegsink<br/>in dieptes van hierdie see?</lines>
     </verse>
     <verse name="v2">
-      <lines>Meester, in sieleontstelt'nis<br/>en droefheid kniel ek hier neer;<br/>Want diep in my hart is daar weemoed,<br/>ontwaak tog en help my, Heer!<br/>Golwe van sonde en smarte<br/>het reeds my siel vermink,<br/>en ek sterwe, ek sterwe, o Meester,<br/>o help my tog eer ek sink!</lines>
+      <lines break="optional">Meester, in sieleontstelt'nis<br/>en droefheid kniel ek hier neer;<br/>Want diep in my hart is daar weemoed,<br/>ontwaak tog en help my, Heer!</lines>
+      <lines>Golwe van sonde en smarte<br/>het reeds my siel vermink,<br/>en ek sterwe, ek sterwe, o Meester,<br/>o help my tog eer ek sink!</lines>
     </verse>
     <verse name="v3">
-      <lines>Nou's die verskrikking verby, Heer,<br/>daar's stilte en vrede soet;<br/>Die son word weerkaats in die water,<br/>daar's vrede in my gemoed.<br/>Bly verder by my, my Heiland,<br/>laat my alleen nie meer,<br/>dan kom ek in die hawe van vrede,<br/>vir ewig by U, o Heer!</lines>
+      <lines break="optional">Nou's die verskrikking verby, Heer,<br/>daar's stilte en vrede soet;<br/>Die son word weerkaats in die water,<br/>daar's vrede in my gemoed.</lines>
+      <lines>Bly verder by my, my Heiland,<br/>laat my alleen nie meer,<br/>dan kom ek in die hawe van vrede,<br/>vir ewig by U, o Heer!</lines>
     </verse>
     <verse name="c1">
-      <lines>Die wind en die golwe gehoorsaam My, vrede stil!<br/>Al is daar storme wat dreig met vrees,<br/>of duiwels of mense of wat ook mag wees-<br/>geen water verswelg ooit 'n skippie waar<br/>die Skepper van aarde en see op vaar!<br/>Ja, alles luister en doen My wil,<br/>Vrede, stil! Vrede stil!<br/>Ja, alles luister en doen My wil, Vree, vrede stil!</lines>
+      <lines break="optional">Die wind en die golwe gehoorsaam My, vrede stil!<br/>Al is daar storme wat dreig met vrees,<br/>of duiwels of mense of wat ook mag wees-<br/>geen water verswelg ooit 'n skippie waar<br/>die Skepper van aarde en see op vaar!</lines>
+      <lines>Ja, alles luister en doen My wil,<br/>Vrede, stil! Vrede stil!<br/>Ja, alles luister en doen My wil, Vree, vrede stil!</lines>
     </verse>
   </lyrics>
 </song>

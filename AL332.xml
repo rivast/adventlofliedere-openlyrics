@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T05:46:54">
   <properties>
     <titles>
       <title>AL332 - Waak, Christen, Waak In Die Geloof</title>
@@ -14,16 +14,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Waak, Christen, waak in die geloof<br/>dat niemand jou die kroon ontroof;<br/>Gedra jou manlik, sterk en moedig<br/>in hierdie Godgewyde werk -<br/>standvastig, onbeweeglik, sterk,<br/>vol ywer altyddeur oorvloedig.<br/>Jou arbeid sal in onse Heer<br/>nooit ydel wees, Hom sy die eer.</lines>
+      <lines break="optional">Waak, Christen, waak in die geloof dat niemand jou die kroon ontroof; Gedra jou manlik, sterk en moedig in hierdie Godgewyde werk - standvastig, onbeweeglik, sterk, vol ywer altyddeur oorvloedig.</lines>
+      <lines>Jou arbeid sal in onse Heer nooit ydel wees, Hom sy die eer.</lines>
     </verse>
     <verse name="v2">
-      <lines>Voeg, Christen, by geloof ook deug<br/>en fiere moed in smart en vreug<br/>om steeds die kwaad te wederstrewe.<br/>Voeg by die deug 'n helder brein,<br/>vir selfsug en die kwaad te rein;<br/>By helder brein 'n matig' lewe.<br/>Wees dan geduldig ook soos Hy<br/>as God beskik dat jy moet ly.</lines>
+      <lines break="optional">Voeg, Christen, by geloof ook deug en fiere moed in smart en vreug om steeds die kwaad te wederstrewe. Voeg by die deug 'n helder brein, vir selfsug en die kwaad te rein; By helder brein 'n matig' lewe.</lines>
+      <lines>Wees dan geduldig ook soos Hy as God beskik dat jy moet ly.</lines>
     </verse>
     <verse name="v3">
-      <lines>Voeg by geduld godsaligheid;<br/>Dan skyn jou lig ook ver en wyd -<br/>want mense let steeds op jou voorbeeld.<br/>Gehoorsaam tog die groot gebod;<br/>Jou eerste liefde hoort aan God<br/>en gaan gepaard met naasteliefde;<br/>En met die liefde vir jou broer<br/>ook dié wat almal samesnoer.</lines>
+      <lines break="optional">Voeg by geduld godsaligheid; Dan skyn jou lig ook ver en wyd - want mense let steeds op jou voorbeeld. Gehoorsaam tog die groot gebod; Jou eerste liefde hoort aan God en gaan gepaard met naasteliefde;</lines>
+      <lines>En met die liefde vir jou broer ook dié wat almal samesnoer.</lines>
     </verse>
     <verse name="v4">
-      <lines>O God, staan met U Gees ons by<br/>dat ons dié deugde mag verkry.<br/>O laat hul steeds in ons vermeerder!<br/>Dan sal ons duid'liker verstaan<br/>die lydensweg wat Hy moes gaan -<br/>die groot verlossingswerk van Jesus.<br/>O mag ons in die jongste dag<br/>nie dwaas en ledig voor U wag.</lines>
+      <lines break="optional">O God, staan met U Gees ons by dat ons dié deugde mag verkry. O laat hul steeds in ons vermeerder! Dan sal ons duid'liker verstaan die lydensweg wat Hy moes gaan - die groot verlossingswerk van Jesus.</lines>
+      <lines>O mag ons in die jongste dag nie dwaas en ledig voor U wag.</lines>
     </verse>
   </lyrics>
 </song>

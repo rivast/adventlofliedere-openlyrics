@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-03T21:57:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T13:58:49">
   <properties>
     <titles>
       <title>AL256 - Daar Is Sonskyn Op Die Heuwels</title>
@@ -15,13 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Daar is sonskyn op die heuwels,<br/>daar is sonskyn op die see,<br/>en die groen vallei daar onder<br/>is in sonneskyn geklee.<br/>Maar die lig wat in my hart skyn,<br/>is meer helder en meer skoon,<br/>want U self woon daar, my Heiland,<br/>en dis sonskyn waar U woon.</lines>
+      <lines break="optional">Daar is sonskyn op die heuwels,<br/>daar is sonskyn op die see,<br/>en die groen vallei daar onder<br/>is in sonneskyn geklee.</lines>
+      <lines>Maar die lig wat in my hart skyn,<br/>is meer helder en meer skoon,<br/>want U self woon daar, my Heiland,<br/>en dis sonskyn waar U woon.</lines>
     </verse>
     <verse name="v2">
-      <lines>Ek werp al my droefheid van my<br/>soos 'n ou gewaad vol stof,<br/>want U dek my met U vreugde<br/>en U vul my met U lof.<br/>My geloofsoog sien die wonings,<br/>wat U nou vir ons berei,<br/>en met vreugde wag ek, Here,<br/>tot U ons ook daarheen lei.</lines>
+      <lines break="optional">Ek werp al my droefheid van my<br/>soos 'n ou gewaad vol stof,<br/>want U dek my met U vreugde<br/>en U vul my met U lof.</lines>
+      <lines>My geloofsoog sien die wonings,<br/>wat U nou vir ons berei,<br/>en met vreugde wag ek, Here,<br/>tot U ons ook daarheen lei.</lines>
     </verse>
     <verse name="v3">
-      <lines>Ek behoort aan U, my Heiland,<br/>want U het my duur gekoop.<br/>Laat die sonskyn van U liefde<br/>in my skyn met nuwe hoop.<br/>Toon die luister van die wonings,<br/>wat U nou vir ons berei,<br/>en met vreugde wag ek, Here,<br/>tot U ons ook daarheen lei.</lines>
+      <lines break="optional">Ek behoort aan U, my Heiland,<br/>want U het my duur gekoop.<br/>Laat die sonskyn van U liefde<br/>in my skyn met nuwe hoop.</lines>
+      <lines>Toon die luister van die wonings,<br/>wat U nou vir ons berei,<br/>en met vreugde wag ek, Here,<br/>tot U ons ook daarheen lei.</lines>
     </verse>
     <verse name="c1">
       <lines>O die sonskyn, lieflike sonskyn,<br/>o die sonskyn in my hart!<br/>Net wanneer die Meester glimlig<br/>skyn die son ook in my hart.</lines>
