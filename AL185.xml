@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T10:07:57">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:55:51">
   <properties>
     <titles>
       <title>AL185 - Uit My Verneed'ring, Lyding En Nag</title>
@@ -14,20 +14,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Uit my verneed'ring, lyding en nag;<br/>Jesus, ek kom, Jesus, ek kom;<br/>Tot U verlossing, luister en prag;<br/>Jesus ek kom na U.</lines>
-      <lines>Uit al my siekte - U kan genees;<br/>Uit my gebrek - hoe ryk sal ek wees;<br/>Uit al my sonde kom ek na U,<br/>Jesus, ek kom na U.</lines>
+      <lines>Uit my verneed'ring, lyding en nag; Jesus, ek kom, Jesus, ek kom; Tot U verlossing, luister en prag; Jesus ek kom na U. Uit al my siekte - U kan genees; Uit my gebrek - hoe ryk sal ek wees; Uit al my sonde kom ek na U, Jesus, ek kom na U.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Uit my mislukking, skande, verdriet;<br/>Jesus, ek kom, Jesus, ek kom,<br/>in die triomf wat Golgota bied;<br/>Jesus ek kom na U.</lines>
-      <lines>Uit aardse sorge - laste wat druk;<br/>Uit elke storm en in U geluk;<br/>Uit al my nood in jubelgesang;<br/>Jesus, ek kom na U.</lines>
+      <lines>Uit my mislukking, skande, verdriet; Jesus, ek kom, Jesus, ek kom, in die triomf wat Golgota bied; Jesus ek kom na U. Uit aardse sorge - laste wat druk; Uit elke storm en in U geluk; Uit al my nood in jubelgesang; Jesus, ek kom na U.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Uit al my onrus, hoogmoed en waan;<br/>Jesus, ek kom, Jesus, ek kom.<br/>Ek wil U wil steeds beter verstaan;<br/>Jesus ek kom na U.</lines>
-      <lines>Uit my ou self na liefde en lig;<br/>Uit min geloof na heerlike plig;<br/>Opwaarts na bowe, vlieg soos 'n duif;<br/>Jesus, ek kom na U.</lines>
+      <lines>Uit al my onrus, hoogmoed en waan; Jesus, ek kom, Jesus, ek kom. Ek wil U wil steeds beter verstaan; Jesus ek kom na U. Uit my ou self na liefde en lig; Uit min geloof na heerlike plig; Opwaarts na bowe, vlieg soos 'n duif; Jesus, ek kom na U.</lines>
     </verse>
     <verse name="v4">
-      <lines break="optional">Uit al die vrees vir dood en die graf;<br/>Jesus, ek kom, Jesus, ek kom;<br/>In diepe vreug en lig wat ons wag;<br/>Jesus ek kom na U.</lines>
-      <lines>Uit elke smart deur lyding en kruis;<br/>In al die vrede wat woon in U huis;<br/>Ewig U heerlik' lig te aanskou;<br/>Jesus, ek kom na U.</lines>
+      <lines>Uit al die vrees vir dood en die graf; Jesus, ek kom, Jesus, ek kom; In diepe vreug en lig wat ons wag; Jesus ek kom na U. Uit elke smart deur lyding en kruis; In al die vrede wat woon in U huis; Ewig U heerlik' lig te aanskou; Jesus, ek kom na U.</lines>
     </verse>
   </lyrics>
 </song>

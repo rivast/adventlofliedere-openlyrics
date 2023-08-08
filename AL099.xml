@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T19:28:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:47:46">
   <properties>
     <titles>
       <title>AL099 - Neën-En-Neëntig Skape</title>
@@ -15,24 +15,20 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Neën-en-neëntig skape het saam gelê<br/>in die koelte van die kraal,<br/>maar van die trop het daar een<br/>ontbreek<br/>in die wildernis verdwaal:</lines>
-      <lines>Ver weg in die berge,<br/>wild en kaal,<br/>weg van die Herder se veilige kraal,<br/>weg van die Herder se veilige kraal!</lines>
+      <lines>Neën-en-neëntig skape het saam gelê in die koelte van die kraal, maar van die trop het daar een ontbreek in die wildernis verdwaal: Ver weg in die berge, wild en kaal, weg van die Herder se veilige kraal, weg van die Herder se veilige kraal!</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">'Heer, U het neën-en-neëntig hier,<br/>waarom dan gaan soek na een?'<br/>Maar die Herder antwoord:  “Dié<br/>een dier is waar My hart oor ween.</lines>
-      <lines>En waar die woestyn My ook mag lei,<br/>Ek gaan en Ek soek want Ek moet hom kry -<br/>Ek gaan en Ek soek, want Ek moet hom kry'.</lines>
+      <lines>'Heer, U het neën-en-neëntig hier, waarom dan gaan soek na een?' Maar die Herder antwoord:  “Dié een dier is waar My hart oor ween. En waar die woestyn My ook mag lei, Ek gaan en Ek soek want Ek moet hom kry - Ek gaan en Ek soek, want Ek moet hom kry'.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Het een van die ander ooit geweet<br/>hoe diep daardie klowe was?<br/>Hoe die ruigte verskeur het<br/>die Herder se kleed<br/>en Sy voete verwond in die gras?</lines>
-      <lines>O, ver in die stilte hoor Hy hom blêr:<br/>Verlate en sterwend op berge daar ver -<br/>verlate en sterwend op berge daar ver.</lines>
+      <lines>Het een van die ander ooit geweet hoe diep daardie klowe was? Hoe die ruigte verskeur het die Herder se kleed en Sy voete verwond in die gras? O, ver in die stilte hoor Hy hom blêr: Verlate en sterwend op berge daar ver - verlate en sterwend op berge daar ver.</lines>
     </verse>
     <verse name="v4">
-      <lines break="optional">'Heer, waarom die bloedmerke op U spoor<br/>waar die weg deur die berge lei?'<br/>'daar was een in die donker nag verloor<br/>Ek moes soek tot Ek Hom weer kry'.</lines>
-      <lines>'En U hande, Heer, is vol bloed en geskeur!'<br/>'Dis die rotse en dorings waar ek moes deur,<br/>dis die rotse en dorings waar ek moes deur'.</lines>
+      <lines break="optional">'Heer, waarom die bloedmerke op U spoor waar die weg deur die berge lei?' 'daar was een in die donker nag verloor Ek moes soek tot Ek Hom weer kry'.</lines>
+      <lines> 'En U hande, Heer, is vol bloed en geskeur!' 'Dis die rotse en dorings waar ek moes deur, dis die rotse en dorings waar ek moes deur'.</lines>
     </verse>
     <verse name="v5">
-      <lines break="optional">En ver teen die berge onverstoor,<br/>en hoog teen die kranse klink<br/>‘n stem wat roep, tot die hemel hoor:<br/>'wees bly, My skaap is gevind!'</lines>
-      <lines>En die eng'le sing in die hemelhuis:<br/>'o Juig! Want die skaap is weer<br/>veilig tuis!<br/>o juig! Want die skaap is weer<br/>veilig tuis!'.</lines>
+      <lines>En ver teen die berge onverstoor, en hoog teen die kranse klink ‘n stem wat roep, tot die hemel hoor: 'wees bly, My skaap is gevind!' En die eng'le sing in die hemelhuis: 'o Juig! Want die skaap is weer veilig tuis! o juig! Want die skaap is weer veilig tuis!'.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T19:03:47">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:41:36">
   <properties>
     <titles>
       <title>AL061 - ‘n Vaste Burg Is Onse God</title>
@@ -15,20 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">‘n Vaste burg is onse God,<br/>‘n vesting, immer veilig;<br/>Teen helse liste, hoon en spot,<br/>‘n skuilplek, kalm en heilig!</lines>
-      <lines>Hy sal ons trou bewaar<br/>in droefheid en gevaar,<br/>en in ons felle stryd<br/>teen al die sluwe nyd<br/>van ons gedugte vyand.</lines>
+      <lines>‘n Vaste burg is onse God, ‘n vesting, immer veilig; Teen helse liste, hoon en spot, ‘n skuilplek, kalm en heilig! Hy sal ons trou bewaar in droefheid en gevaar, en in ons felle stryd teen al die sluwe nyd van ons gedugte vyand.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">As ons in eie krag moes stry,<br/>dan was ons saak verlore -<br/>was nie die Heil'ge aan ons sy,<br/>die man van God verkore;</lines>
-      <lines>Hy is die Seun van God,<br/>Jehova Sebaot!<br/>Ja, Christus, onse Heer<br/>wat heerlik triomfeer<br/>oor alle bose magte!</lines>
+      <lines>As ons in eie krag moes stry, dan was ons saak verlore - was nie die Heil'ge aan ons sy, die man van God verkore; Hy is die Seun van God, Jehova Sebaot! Ja, Christus, onse Heer wat heerlik triomfeer oor alle bose magte!</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Al dreig die wêreld en die hel<br/>ons siele met verskrikking,<br/>deur ons oorwin die waarheid wel,<br/>want dit is Gods beskikking!</lines>
-      <lines>Ons veg dus onbevrees<br/>met onverskrokke gees;<br/>Die Vors van duisternis<br/>se lot is reeds beslis:<br/>Gods Woord sal Hom vernietig.</lines>
+      <lines>Al dreig die wêreld en die hel ons siele met verskrikking, deur ons oorwin die waarheid wel, want dit is Gods beskikking! Ons veg dus onbevrees met onverskrokke gees; Die Vors van duisternis se lot is reeds beslis: Gods Woord sal Hom vernietig.</lines>
     </verse>
     <verse name="v4">
-      <lines break="optional">Die Woord, wat staan in ewigheid,<br/>beloof aan ons die lewe;<br/>Gods Gees is met ons in die stryd,<br/>sal ons vir duiwels bewe?</lines>
-      <lines>Al verg dit aardse goed,<br/>die liggaam, as dit moet;<br/>Ja, selfs ons lewe, Heer,<br/>lê ons gewillig neer<br/>ter wille van U waarheid.</lines>
+      <lines>Die Woord, wat staan in ewigheid, beloof aan ons die lewe; Gods Gees is met ons in die stryd, sal ons vir duiwels bewe? Al verg dit aardse goed, die liggaam, as dit moet; Ja, selfs ons lewe, Heer, lê ons gewillig neer ter wille van U waarheid.</lines>
     </verse>
   </lyrics>
 </song>

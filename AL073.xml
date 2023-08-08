@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T19:12:02">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:43:50">
   <properties>
     <titles>
       <title>AL073 - In Velde Digby Betlehem</title>
@@ -15,24 +15,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">In velde digby Betlehem<br/>is die wakende herders<br/>tot vreugde gestem</lines>
-      <lines>met die tyding deur die eng'le<br/>tot mense gebring,<br/>in die lied in die nagt'like stilte<br/>gesing.</lines>
+      <lines>In velde digby Betlehem is die wakende herders tot vreugde gestem met die tyding deur die eng'le tot mense gebring, in die lied in die nagt'like stilte gesing.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">En aan die trans het 'n blinkende<br/>ster verskyn in die ooste,<br/>al winkend van ver;</lines>
-      <lines>En Sy lig was die lig van 'n Gids<br/>wat sou lei,<br/>as dit sag oor verlate woestynpaaie<br/>sprei.</lines>
+      <lines>En aan die trans het 'n blinkende ster verskyn in die ooste, al winkend van ver; En Sy lig was die lig van 'n Gids wat sou lei, as dit sag oor verlate woestynpaaie sprei.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">En deur die lig van hierdie ster<br/>het die wyse gekom uit die ooste<br/>ver,</lines>
-      <lines>om te soek na die lang verwagte<br/>Kind<br/>wat hulle in Betlehem sou vind.</lines>
+      <lines>En deur die lig van hierdie ster het die wyse gekom uit die ooste ver, om te soek na die lang verwagte Kind wat hulle in Betlehem sou vind.</lines>
     </verse>
     <verse name="v4">
-      <lines break="optional">Na die weste het hierdie ster gegaan<br/>en stil oor die need'rige stal bly<br/>staan -</lines>
-      <lines>waar 'n krip as die Koning se bedjie<br/>moes dien -<br/>en daar het die wyse die Kindjie<br/>gesien.</lines>
+      <lines>Na die weste het hierdie ster gegaan en stil oor die need'rige stal bly staan - waar 'n krip as die Koning se bedjie moes dien - en daar het die wyse die Kindjie gesien.</lines>
     </verse>
     <verse name="v5">
-      <lines break="optional">Eerbiedig het hul die stal<br/>betree<br/>om aan die Koning geskenke<br/>te gee,</lines>
-      <lines>en in aanbidding onse Heer<br/>met wierook en mirre en goud<br/>te vereer.</lines>
+      <lines>Eerbiedig het hul die stal betree om aan die Koning geskenke te gee, en in aanbidding onse Heer met wierook en mirre en goud te vereer.</lines>
     </verse>
     <verse name="c1">
       <lines>Die hemel juig, die eng'le sing -<br/>tyding van blydskap kom hulle bring.</lines>

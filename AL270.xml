@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T14:05:12">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T10:01:25">
   <properties>
     <titles>
       <title>AL270 - Heer, Vir Die Dae Wat Nog Kom</title>
@@ -15,16 +15,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Heer, vir die dae wat nog kom,<br/>vra ek nie krag;<br/>Hou my van alle sonde vry<br/>deur hierdie dag.</lines>
-      <lines>Help my om ywerig te werk,<br/>op U te wag;<br/>Maak my opreg in woord en daad,<br/>Vader, vandag.</lines>
+      <lines>Heer, vir die dae wat nog kom, vra ek nie krag; Hou my van alle sonde vry deur hierdie dag. Help my om ywerig te werk, op U te wag; Maak my opreg in woord en daad, Vader, vandag.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Laat ek nie gou wees met my wil,<br/>U wil is goed.<br/>Help my die eie-ek verslaan,<br/>gee my die moed.</lines>
-      <lines>Laat my geen ydel woorde spreek -<br/>U Woord is soet.<br/>Plaas U 'n seël op my mond,<br/>dan spreek ek goed.</lines>
+      <lines>Laat ek nie gou wees met my wil, U wil is goed. Help my die eie-ek verslaan, gee my die moed. Laat my geen ydel woorde spreek - U Woord is soet. Plaas U 'n seël op my mond, dan spreek ek goed.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Stem my tot erns wanneer dit pas,<br/>soms vriend'lik lag.<br/>Laat my U groot genade, Heer,<br/>nimmer verag.</lines>
-      <lines>Heer, vir die dae wat nog kom,<br/>vra ek nie krag,<br/>maar hou my, lei my, min my, Heer,<br/>deur hierdie dag. Amen.</lines>
+      <lines>Stem my tot erns wanneer dit pas, soms vriend'lik lag. Laat my U groot genade, Heer, nimmer verag. Heer, vir die dae wat nog kom, vra ek nie krag, maar hou my, lei my, min my, Heer, deur hierdie dag. Amen.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T18:46:35">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:32:50">
   <properties>
     <titles>
       <title>AL002 - Laat Elk Die Heer Se Goedheid Lowe</title>
@@ -14,20 +14,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Laat elk die Heer se goedheid lowe;<br/>sing tot die Oppermajesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
-      <lines>o Israel, kom die Here lowe!<br/>sing van Sy roem en majesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
+      <lines>Laat elk die Heer se goedheid lowe; sing tot die Oppermajesteit! Sy goedheid gaan ons al te bowe; Sy goedheid duur in ewigheid. o Israel, kom die Here lowe! sing van Sy roem en majesteit! Sy goedheid gaan ons al te bowe; Sy goedheid duur in ewigheid.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Die Heer is my 'n sterke Vader,<br/>Hy is my lied, my psalmgesang.<br/>Hy bring my tot Sy howe nader,<br/>dus loof ek Hom my lewe lang!</lines>
-      <lines>Ons hoor die vrome lied se galme<br/>van hulp en heil van dag tot dag;<br/>Daar sing ons bly ons dankb're psalme.<br/>God's regterhand doen grote krag!</lines>
+      <lines>Die Heer is my 'n sterke Vader, Hy is my lied, my psalmgesang. Hy bring my tot Sy howe nader, dus loof ek Hom my lewe lang! Ons hoor die vrome lied se galme van hulp en heil van dag tot dag; Daar sing ons bly ons dankb're psalme. God's regterhand doen grote krag!</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Dit is die roem, van alle dae,<br/>wat onse God geheilig het,<br/>laat ons verheug, van sorg ontslae,<br/>Hom roem in lofsang en gebed.</lines>
-      <lines>o Heer, gee tans U seëninge!<br/>o Heer, gee heil op hierdie dag!<br/>Mag daar op al die eerstelinge<br/>‘n ryke oes van voorspoed wag!</lines>
+      <lines>Dit is die roem, van alle dae, wat onse God geheilig het, laat ons verheug, van sorg ontslae, Hom roem in lofsang en gebed. o Heer, gee tans U seëninge! o Heer, gee heil op hierdie dag! Mag daar op al die eerstelinge ‘n ryke oes van voorspoed wag!</lines>
     </verse>
     <verse name="v4">
-      <lines break="optional">U is my God, U wil ek lowe;<br/>ek sing U grote majesteit.<br/>My God, niks gaan U roem te bowe -<br/>U prys ek tot in ewigheid!</lines>
-      <lines>Laat elk die Heer se goedheid lowe;<br/>sing tot die Oppermajesteit!<br/>Sy goedheid gaan ons al te bowe;<br/>Sy goedheid duur in ewigheid.</lines>
+      <lines>U is my God, U wil ek lowe; ek sing U grote majesteit. My God, niks gaan U roem te bowe - U prys ek tot in ewigheid! Laat elk die Heer se goedheid lowe; sing tot die Oppermajesteit! Sy goedheid gaan ons al te bowe; Sy goedheid duur in ewigheid.</lines>
     </verse>
   </lyrics>
 </song>

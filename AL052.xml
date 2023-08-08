@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T18:51:22">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:39:38">
   <properties>
     <titles>
       <title>AL052 - Die God Van Abraham</title>
@@ -15,16 +15,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Die God van Abraham<br/>sal ewiglik regeer;<br/>Geseënd is Sy heil'ge Naam,<br/>Hom Sy die eer!</lines>
-      <lines>Jehova, groot “EK IS'<br/>wat aard en hemel prys!<br/>Neem aan ook my belydenis<br/>o God, alwys.</lines>
+      <lines>Die God van Abraham<br/>sal ewiglik regeer;<br/>Geseënd is Sy heil'ge Naam,<br/>Hom Sy die eer!<br/>Jehova, groot “EK IS'<br/>wat aard en hemel prys!<br/>Neem aan ook my belydenis<br/>o God, alwys.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">O God van Abraham,<br/>my Rots en eeu'ge deel<br/>wat met die wonder van U Naam<br/>U volk verseël!</lines>
-      <lines>Geen ydel singenot<br/>kan ooit my siel bekoor;<br/>Ek ken die vreugde van die God<br/>wat my verhoor.</lines>
+      <lines>O God van Abraham,<br/>my Rots en eeu'ge deel<br/>wat met die wonder van U Naam<br/>U volk verseël!<br/>Geen ydel singenot<br/>kan ooit my siel bekoor;<br/>Ek ken die vreugde van die God<br/>wat my verhoor.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Die God moet almal vrees,<br/>wat ewiglik regeer;<br/>Heil Vader, Seun en Heil'ge Gees,<br/>U sy die eer!</lines>
-      <lines>O God van Abraham<br/>beklee met majesteit,<br/>U skepsels prys U heil'ge Naam<br/>in ewigheid.</lines>
+      <lines>Die God moet almal vrees,<br/>wat ewiglik regeer;<br/>Heil Vader, Seun en Heil'ge Gees,<br/>U sy die eer!<br/>O God van Abraham<br/>beklee met majesteit,<br/>U skepsels prys U heil'ge Naam<br/>in ewigheid.</lines>
     </verse>
   </lyrics>
 </song>

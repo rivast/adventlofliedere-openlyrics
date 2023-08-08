@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T10:10:28">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:57:59">
   <properties>
     <titles>
       <title>AL197 - Heil'ge Bron Van Elke Seën</title>
@@ -15,16 +15,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Heil'ge Bron van elke seën,<br/>help my U gena besing!<br/>Liefdestrome sonder einde<br/>laat ons hulde tot U bring.</lines>
-      <lines>Leer my om U Naam in ere<br/>hoog bo elke skat te hou;<br/>Wyl die hoop van hemelsvreugde<br/>my vervul met moed en trou.</lines>
+      <lines>Heil'ge Bron van elke seën, help my U gena besing! Liefdestrome sonder einde laat ons hulde tot U bring. Leer my om U Naam in ere hoog bo elke skat te hou; Wyl die hoop van hemelsvreugde my vervul met moed en trou.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Hier plant ek my Ebeneser,<br/>want tot hier het U gelei;<br/>In die Vaderhuis eens veilig<br/>sal ek ewig by U bly.</lines>
-      <lines>Ver van God het ek geswerwe,<br/>gans verduister van gemoed,<br/>toe U liefde my gevind het<br/>en versoen het deur U bloed.</lines>
+      <lines>Hier plant ek my Ebeneser, want tot hier het U gelei; In die Vaderhuis eens veilig sal ek ewig by U bly. Ver van God het ek geswerwe, gans verduister van gemoed, toe U liefde my gevind het en versoen het deur U bloed.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Hoeveel is my siel verskuldig<br/>aan U goedheid, elke dag!<br/>Bind my met U liefdebande,<br/>onverbreekbaar en tog sag.</lines>
-      <lines>Steeds geneig om, tot my skande,<br/>weg te dwaal van U gebod,<br/>smeek ek, neem my hart, verseël dit<br/>ewig vir U Naam, my God.</lines>
+      <lines>Hoeveel is my siel verskuldig aan U goedheid, elke dag! Bind my met U liefdebande, onverbreekbaar en tog sag. Steeds geneig om, tot my skande, weg te dwaal van U gebod, smeek ek, neem my hart, verseël dit ewig vir U Naam, my God.</lines>
     </verse>
   </lyrics>
 </song>

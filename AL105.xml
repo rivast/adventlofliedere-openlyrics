@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T09:27:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:49:04">
   <properties>
     <titles>
       <title>AL105 - Laat Die Here Nou Verhoog Word</title>
@@ -15,23 +15,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Laat die Here nou verhoog word,<br/>laat die sondaars sien en leef;<br/>Kyk, Hy skenk die lewenswater,<br/>Hy kan sondaars ook vergeef.</lines>
-      <lines>Hierdie nederige Jesus,<br/>was die Hemelprins gewees;<br/>Blindes wat in duister rondtas,<br/>word deur Jesus bloed genees.</lines>
+      <lines>Laat die Here nou verhoog word, laat die sondaars sien en leef; Kyk, Hy skenk die lewenswater, Hy kan sondaars ook vergeef. Hierdie nederige Jesus, was die Hemelprins gewees; Blindes wat in duister rondtas, word deur Jesus bloed genees.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Laat die Heiland nou verhoog word,<br/>dan sal Hy Sy mag ontvou;<br/>Sondaars wat verlang na Jesus,<br/>sal Sy heerlikheid aanskou.</lines>
-      <lines>Uit die paaie en die lane,<br/>sal die skare juigend kom,<br/>singend met die kruis van Jesus,<br/>en verlossing vind in Hom.</lines>
+      <lines>Laat die Heiland nou verhoog word, dan sal Hy Sy mag ontvou; Sondaars wat verlang na Jesus, sal Sy heerlikheid aanskou. Uit die paaie en die lane, sal die skare juigend kom, singend met die kruis van Jesus, en verlossing vind in Hom.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Kom verhoog Hom in Sy luister,<br/>dis die Seun van God, die Heer;<br/>Sy genade en Sy liefde<br/>kon selfs moordenaars bekeer,</lines>
-      <lines>laat die skares hoor van Jesus,<br/>van Sy kruis en skandedood,<br/>totdat almal Hom erken het<br/>en Sy dierb're Naam vergroot.</lines>
+      <lines>Kom verhoog Hom in Sy luister, dis die Seun van God, die Heer; Sy genade en Sy liefde kon selfs moordenaars bekeer, laat die skares hoor van Jesus, van Sy kruis en skandedood, totdat almal Hom erken het en Sy dierb're Naam vergroot.</lines>
     </verse>
     <verse name="v4">
-      <lines break="optional">Kom, verhoog Sy Naam met lofsang,<br/>ja, verhoog Hom in gebed;<br/>Hy, die Koning van die hemel,<br/>het die mensdom uitgered.</lines>
-      <lines>Jonk en oud sal voor Hom neerbuig,<br/>saam 'n loflied aan Hom bring;<br/>Dowes hoor die bly hosannas<br/>wat die stommes juigend sing.</lines>
+      <lines>Kom, verhoog Sy Naam met lofsang, ja, verhoog Hom in gebed; Hy, die Koning van die hemel, het die mensdom uitgered. Jonk en oud sal voor Hom neerbuig, saam 'n loflied aan Hom bring; Dowes hoor die bly hosannas wat die stommes juigend sing.</lines>
     </verse>
     <verse name="c1">
-      <lines>Kom verhoog die Heer wat lewe,<br/>waar die mensdom sugtend wag;<br/>Hoor Sy stem, Hy roep die sondaar,<br/>kom tot Hom, o kom vandag.</lines>
+      <lines>Kom verhoog die Heer wat lewe, waar die mensdom sugtend wag; Hoor Sy stem, Hy roep die sondaar, kom tot Hom, o kom vandag.</lines>
     </verse>
   </lyrics>
 </song>

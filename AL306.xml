@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-07T05:25:14">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T10:03:02">
   <properties>
     <titles>
       <title>AL306 - Lei, Vriend'lik Lig</title>
@@ -18,12 +18,10 @@
       <lines>Lei, vriend'lik lig, in awendskemering, lei U my voort! Die nag is hier en ek is ver van huis, lei U my voort. Ek vra geen lig vir dae wat nog wag; Skenk U my lig genoeg vir hierdie dag.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Ek het nie altyd so van U begeer dat U my lei;<br/>Ek wou self kies, maar nou bid ek, o Heer, wil U my lei!</lines>
-      <lines>My eie wil, my eie trots moes lei, ag, Heer, vergeef!<br/>Want dit is nou verby.</lines>
+      <lines>Ek het nie altyd so van U begeer dat U my lei; Ek wou self kies, maar nou bid ek, o Heer, wil U my lei! My eie wil, my eie trots moes lei, ag, Heer, vergeef! Want dit is nou verby.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">Tot hier het U my moed en krag verleen - het U gelei;<br/>Oor berg en dal, oor wye vlaktes heen sal U my lei;</lines>
-      <lines>Tot Jesus kom en ek verruk sal staan waar pelgrims<br/>saam met Hom sal binnegaan. Amen.</lines>
+      <lines>Tot hier het U my moed en krag verleen - het U gelei; Oor berg en dal, oor wye vlaktes heen sal U my lei; Tot Jesus kom en ek verruk sal staan waar pelgrims saam met Hom sal binnegaan. Amen.</lines>
     </verse>
   </lyrics>
 </song>

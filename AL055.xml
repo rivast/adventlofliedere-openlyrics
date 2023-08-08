@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-04T18:54:59">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:40:12">
   <properties>
     <titles>
       <title>AL055 - Die Heer Is God, En Niemand Meer</title>
@@ -15,20 +15,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">Die Heer is God, en niemand meer;<br/>Verheerlik Hom, o vrome!<br/>Wie is gelyk aan onse Heer?<br/>So heerlik - so volkome!</lines>
-      <lines>Die Heer is groot, Sy Naam is groot,<br/>die luister van Sy deug is groot -<br/>oneindig groot Sy wese.</lines>
+      <lines>Die Heer is God, en niemand meer;<br/>Verheerlik Hom, o vrome!<br/>Wie is gelyk aan onse Heer?<br/>So heerlik - so volkome!<br/>Die Heer is groot, Sy Naam is groot,<br/>die luister van Sy deug is groot -<br/>oneindig groot Sy wese.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Hoe sou ons skepsels ooit bestaan<br/>as God Sy werk gestaak het?<br/>Van Hom het lewe uitgegaan<br/>na ons wat Hy gemaak het.</lines>
-      <lines>By Hom is wysheid en verstand;<br/>Die skeppingskrag is in Sy hand;<br/>Hy hou die heelal staande!</lines>
+      <lines>Hoe sou ons skepsels ooit bestaan<br/>as God Sy werk gestaak het?<br/>Van Hom het lewe uitgegaan<br/>na ons wat Hy gemaak het.<br/>By Hom is wysheid en verstand;<br/>Die skeppingskrag is in Sy hand;<br/>Hy hou die heelal staande!</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">God is regverdig, Heilig, goed;<br/>Hy woon slegs by die vrome.<br/>Hul wat Sy wil met vreugde doen,<br/>eer Hy met vreugdekrone.</lines>
-      <lines>Hy is onsterflik, Hy alleen,<br/>die sterfling kom en gaan weer heen -<br/>God is die bron van lewe!</lines>
+      <lines>God is regverdig, Heilig, goed;<br/>Hy woon slegs by die vrome.<br/>Hul wat Sy wil met vreugde doen,<br/>eer Hy met vreugdekrone.<br/>Hy is onsterflik, Hy alleen,<br/>die sterfling kom en gaan weer heen -<br/>God is die bron van lewe!</lines>
     </verse>
     <verse name="v4">
-      <lines break="optional">Sal daardie glans en majesteit<br/>my, sondaar, dan vernietig?<br/>Nee, daar is juis die heerlikheid<br/>van die geloof in Jesus!</lines>
-      <lines>Nou styg my lied: die Heer is groot!<br/>Sy Naam is onuitspreeklik groot!<br/>Oneindig is Sy liefde.</lines>
+      <lines>Sal daardie glans en majesteit<br/>my, sondaar, dan vernietig?<br/>Nee, daar is juis die heerlikheid<br/>van die geloof in Jesus!<br/>Nou styg my lied: die Heer is groot!<br/>Sy Naam is onuitspreeklik groot!<br/>Oneindig is Sy liefde.</lines>
     </verse>
   </lyrics>
 </song>

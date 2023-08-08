@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-06T09:56:47">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-08T09:53:25">
   <properties>
     <titles>
       <title>AL163 - O Mens, Wat Soek Jy Goud Of Eer</title>
@@ -14,16 +14,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">O mens, wat soek jy goud of eer<br/>as jy in Jesus en Sy leer<br/>die grootste skat besit op aarde!<br/>Daar is vir jou die saligheid;</lines>
-      <lines>Dit rig jou vir die ewigheid<br/>en skenk jou eenmaal eng'lewaarde.<br/>Dit stem jou hart tot ware deug<br/>berei jou siel vir hemelsvreug.</lines>
+      <lines>O mens, wat soek jy goud of eer as jy in Jesus en Sy leer die grootste skat besit op aarde! Daar is vir jou die saligheid; Dit rig jou vir die ewigheid en skenk jou eenmaal eng'lewaarde. Dit stem jou hart tot ware deug berei jou siel vir hemelsvreug.</lines>
     </verse>
     <verse name="v2">
-      <lines break="optional">Waar vind die mens in sy verdriet<br/>die troos wat Jesus leer Hom bied?<br/>Waar is, in lyding, God Hom nader?<br/>Waar sien Sy oog in skoner lig.</lines>
-      <lines>Ook waar die tugtiging nie swig,<br/>die doel van 'n vergewend' Vader?<br/>Waar is Sy eeu'ge saal'ge lot?<br/>Gegrondves op die eer van God.</lines>
+      <lines>Waar vind die mens in sy verdriet die troos wat Jesus leer Hom bied? Waar is, in lyding, God Hom nader? Waar sien Sy oog in skoner lig. Ook waar die tugtiging nie swig, die doel van 'n vergewend' Vader? Waar is Sy eeu'ge saal'ge lot? Gegrondves op die eer van God.</lines>
     </verse>
     <verse name="v3">
-      <lines break="optional">O sterfling! Wat jou ooit ontgaan,<br/>mag hierdie leer nog voor jou staan<br/>waar jy in angs van dood sal bewe.<br/>Dit is 'n lamp vir elke voet,</lines>
-      <lines>die staf wat jou van val behoed,<br/>jou troue gids tot beter lewe.<br/>Daarmee is jy vir elke kring,<br/>in elke stand Gods kwekeling.</lines>
+      <lines>O sterfling! Wat jou ooit ontgaan, mag hierdie leer nog voor jou staan waar jy in angs van dood sal bewe. Dit is 'n lamp vir elke voet, die staf wat jou van val behoed, jou troue gids tot beter lewe. Daarmee is jy vir elke kring, in elke stand Gods kwekeling.</lines>
     </verse>
   </lyrics>
 </song>
